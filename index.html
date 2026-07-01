@@ -18,7 +18,7 @@
     <meta property="og:url" content="https://learnprompt.github.io/ai-news-radar/" />
     <meta property="og:site_name" content="AI News Radar" />
     <meta name="application-name" content="AI News Radar" />
-    <meta name="theme-color" content="#f6f6f2" />
+    <meta name="theme-color" content="#07100d" />
     <meta name="mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-title" content="AI News Radar" />
     <meta name="apple-mobile-web-app-capable" content="yes" />
@@ -33,9 +33,9 @@
     <link rel="icon" href="./assets/icons/favicon-32.png" sizes="32x32" type="image/png" />
     <link rel="apple-touch-icon" href="./assets/icons/apple-touch-icon.png" sizes="180x180" />
     <link rel="manifest" href="./site.webmanifest" />
-    <link rel="stylesheet" href="./assets/styles.css?v=ui-polish-0626a" />
+    <link rel="stylesheet" href="./assets/styles.css?v=radar-shell-0701a" />
   </head>
-  <body>
+  <body class="radar-shell-body radar-channel-ai-news">
     <main class="shell">
       <header class="hero">
         <div class="hero-main">
@@ -61,6 +61,17 @@
             >接入 Agent</a>
           </div>
         </div>
+
+        <section class="radar-hero-decision" aria-label="AI News hero decision">
+          <p class="radar-hero-label">HERO DECISION</p>
+          <h2 id="radarHeroDecision">把 24 小时 AI 技术与产业信号压成可判断的 Top3、来源健康和后续深挖线索。</h2>
+          <p>
+            AI News 是外部技术/产业信号流：优先看多源验证、官方更新、模型能力迁移和开发者工具变化；任何失败源都作为情报盲区显式保留。
+            <span class="radar-decision-meta" id="radarHeroDecisionMeta">正在读取数据脉象</span>
+          </p>
+        </section>
+
+        <section class="radar-pulse-strip" id="radarPulseStrip" aria-label="AI News data pulse"></section>
 
         <section class="stats" id="stats"></section>
 
@@ -213,7 +224,9 @@
     </template>
 
     <script src="https://cdn.jsdelivr.net/npm/gsap@3.13.0/dist/gsap.min.js" integrity="sha384-HOvlOYPIs/zjoIkWUGXkVmXsjr8GuZLV+Q+rcPwmJOVZVpvTSXQChiN4t9Euv9Vc" crossorigin="anonymous" defer></script>
+    <script>window.RADAR_CHANNEL = "ai-news";</script>
+    <script src="./assets/radar-shell.js?v=radar-shell-0701a" defer></script>
     <script src="./assets/motion.js?v=ui-adjustment-0620a" defer></script>
-    <script src="./assets/app.js?v=ui-polish-0626a" defer></script>
+    <script src="./assets/app.js?v=radar-shell-0701a" defer></script>
   </body>
 </html>
