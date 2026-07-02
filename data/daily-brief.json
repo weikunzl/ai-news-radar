@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T13:14:44.755501Z",
+  "generated_at": "2026-07-02T15:37:57.527489Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8353,
-      "importance": 0.8353,
-      "importance_score": 0.8353,
+      "score": 0.8306,
+      "importance": 0.8306,
+      "importance_score": 0.8306,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7684,
+        "recency": 0.7424,
         "story_heat": 0.25
       },
       "category": "official",
@@ -121,18 +121,18 @@
           "published_at": "2026-07-02T05:14:55.925000Z"
         },
         {
-          "id": "02fc26d7d9c87f477de0f84757f2cc979bce6b4a",
+          "id": "a293e1687a992ba913921d84c24a95a849331e6e",
           "title": "Senior SWE-Bench：评估AI智能体作为高级工程师的基准测试 / Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
           "url": "https://senior-swe-bench.snorkel.ai",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-07-02T02:55:16Z"
         }
       ],
       "source_count": 4,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "Hacker News 热门（buzzing.cc 中文翻译）",
         "hackernews",
         "senior-swe-bench.snorkel.ai"
@@ -166,26 +166,26 @@
           "published_at": "2026-07-02T05:14:55.925000Z"
         },
         {
-          "id": "02fc26d7d9c87f477de0f84757f2cc979bce6b4a",
+          "id": "a293e1687a992ba913921d84c24a95a849331e6e",
           "title": "Senior SWE-Bench：评估AI智能体作为高级工程师的基准测试 / Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
           "url": "https://senior-swe-bench.snorkel.ai",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-07-02T02:55:16Z"
         }
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.834,
-      "importance": 0.834,
-      "importance_score": 0.834,
+      "score": 0.8281,
+      "importance": 0.8281,
+      "importance_score": 0.8281,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.969,
+        "recency": 0.9362,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -277,15 +277,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8065,
-      "importance": 0.8065,
-      "importance_score": 0.8065,
+      "score": 0.8006,
+      "importance": 0.8006,
+      "importance_score": 0.8006,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9718,
+        "recency": 0.9389,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -302,68 +302,6 @@
         "url": "https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025",
         "source": "Ars Technica：AI（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_155ea32414b0",
-      "title": "问题字段现已普遍可用 / Issue fields are now generally available",
-      "url": "https://github.blog/changelog/2026-07-02-issue-fields-are-now-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-07-02-issue-fields-are-now-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b954e525e8b0e58dae91fe2ac4b715b3283c2dd6",
-          "title": "问题字段现已普遍可用 / Issue fields are now generally available",
-          "url": "https://github.blog/changelog/2026-07-02-issue-fields-are-now-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-02T08:17:17Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "b954e525e8b0e58dae91fe2ac4b715b3283c2dd6",
-          "title": "问题字段现已普遍可用 / Issue fields are now generally available",
-          "url": "https://github.blog/changelog/2026-07-02-issue-fields-are-now-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-02T08:17:17Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8316,
-      "importance": 0.8316,
-      "importance_score": 0.8316,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9309,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-02T08:17:17Z",
-      "latest_at": "2026-07-02T08:17:17Z",
-      "primary_item": {
-        "id": "b954e525e8b0e58dae91fe2ac4b715b3283c2dd6",
-        "title": "问题字段现已普遍可用 / Issue fields are now generally available",
-        "url": "https://github.blog/changelog/2026-07-02-issue-fields-are-now-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -401,15 +339,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8008,
-      "importance": 0.8008,
-      "importance_score": 0.8008,
+      "score": 0.7962,
+      "importance": 0.7962,
+      "importance_score": 0.7962,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7601,
+        "recency": 0.7343,
         "story_heat": 0.0
       },
       "category": "official",
@@ -426,6 +364,149 @@
         "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026",
         "source": "Google AI Blog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_155ea32414b0",
+      "title": "问题字段现已普遍可用 / Issue fields are now generally available",
+      "url": "https://github.blog/changelog/2026-07-02-issue-fields-are-now-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-07-02-issue-fields-are-now-generally-available",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b954e525e8b0e58dae91fe2ac4b715b3283c2dd6",
+          "title": "问题字段现已普遍可用 / Issue fields are now generally available",
+          "url": "https://github.blog/changelog/2026-07-02-issue-fields-are-now-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-02T08:17:17Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "b954e525e8b0e58dae91fe2ac4b715b3283c2dd6",
+          "title": "问题字段现已普遍可用 / Issue fields are now generally available",
+          "url": "https://github.blog/changelog/2026-07-02-issue-fields-are-now-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-02T08:17:17Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8259,
+      "importance": 0.8259,
+      "importance_score": 0.8259,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8994,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-02T08:17:17Z",
+      "latest_at": "2026-07-02T08:17:17Z",
+      "primary_item": {
+        "id": "b954e525e8b0e58dae91fe2ac4b715b3283c2dd6",
+        "title": "问题字段现已普遍可用 / Issue fields are now generally available",
+        "url": "https://github.blog/changelog/2026-07-02-issue-fields-are-now-generally-available",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_88db1ffe96a6",
+      "title": "花旗、Adobe等企业限制员工使用AI旗舰模型以控制成本",
+      "url": "https://www.ithome.com/0/971/937.htm",
+      "primary_url": "https://www.ithome.com/0/971/937.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ffd2d27a77ec4354ddc9b2d496173baa3c0b45d4",
+          "title": "花旗、Adobe等企业限制员工使用AI旗舰模型以控制成本",
+          "url": "https://www.ithome.com/0/971/937.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T14:22:49Z"
+        },
+        {
+          "id": "5185be15c4729f76e78e00bab0e6a6a79e4c3a41",
+          "title": "企业 AI 成本失控，消息称花旗、Adobe 等纷纷限制员工使用大模型",
+          "url": "https://www.ithome.com/0/971/937.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-02T14:22:49Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "ffd2d27a77ec4354ddc9b2d496173baa3c0b45d4",
+          "title": "花旗、Adobe等企业限制员工使用AI旗舰模型以控制成本",
+          "url": "https://www.ithome.com/0/971/937.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T14:22:49Z"
+        },
+        {
+          "id": "5185be15c4729f76e78e00bab0e6a6a79e4c3a41",
+          "title": "企业 AI 成本失控，消息称花旗、Adobe 等纷纷限制员工使用大模型",
+          "url": "https://www.ithome.com/0/971/937.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-02T14:22:49Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7954,
+      "importance": 0.7954,
+      "importance_score": 0.7954,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9821,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-02T14:22:49Z",
+      "latest_at": "2026-07-02T14:22:49Z",
+      "primary_item": {
+        "id": "ffd2d27a77ec4354ddc9b2d496173baa3c0b45d4",
+        "title": "花旗、Adobe等企业限制员工使用AI旗舰模型以控制成本",
+        "url": "https://www.ithome.com/0/971/937.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -482,15 +563,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.788,
-      "importance": 0.788,
-      "importance_score": 0.788,
+      "score": 0.782,
+      "importance": 0.782,
+      "importance_score": 0.782,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9912,
+        "recency": 0.9576,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -544,15 +625,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7842,
-      "importance": 0.7842,
-      "importance_score": 0.7842,
+      "score": 0.7783,
+      "importance": 0.7783,
+      "importance_score": 0.7783,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9758,
+        "recency": 0.9428,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -567,6 +648,87 @@
         "title": "browser-use 发布开源 AI 视频剪辑 Skill「video-use」",
         "url": "https://x.com/shao__meng/status/2072644710523691110",
         "source": "X：邵猛 (@shao__meng)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_220c563c3540",
+      "title": "Google Health API 推出 CLI：ghealth 是一款针对 Fitbit 数据的开源工具",
+      "url": "https://www.marktechpost.com/2026/07/02/the-google-health-api-got-a-cli-ghealth-is-an-open-source-tool-for-your-fitbit-air-data",
+      "primary_url": "https://www.marktechpost.com/2026/07/02/the-google-health-api-got-a-cli-ghealth-is-an-open-source-tool-for-your-fitbit-air-data",
+      "source": "MarkTechPost（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "029ac3dcd73d91378b41ccc87088880bce3f7967",
+          "title": "Google Health API 推出 CLI：ghealth 是一款针对 Fitbit 数据的开源工具",
+          "url": "https://www.marktechpost.com/2026/07/02/the-google-health-api-got-a-cli-ghealth-is-an-open-source-tool-for-your-fitbit-air-data",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T08:46:56Z"
+        },
+        {
+          "id": "c544d5357b6932994f2055e5581648898361c7f9",
+          "title": "Google Health API 推出 CLI：ghealth 是一款针对 Fitbit 数据的开源工具 / The Google Health API Got a CLI: ghealth is an Open-Source Tool for Your Fitbit Air Data",
+          "url": "https://www.marktechpost.com/2026/07/02/the-google-health-api-got-a-cli-ghealth-is-an-open-source-tool-for-your-fitbit-air-data",
+          "source": "MarkTechPost Research",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-02T08:46:56Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "MarkTechPost Research",
+        "MarkTechPost（RSS）"
+      ],
+      "items": [
+        {
+          "id": "029ac3dcd73d91378b41ccc87088880bce3f7967",
+          "title": "Google Health API 推出 CLI：ghealth 是一款针对 Fitbit 数据的开源工具",
+          "url": "https://www.marktechpost.com/2026/07/02/the-google-health-api-got-a-cli-ghealth-is-an-open-source-tool-for-your-fitbit-air-data",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T08:46:56Z"
+        },
+        {
+          "id": "c544d5357b6932994f2055e5581648898361c7f9",
+          "title": "Google Health API 推出 CLI：ghealth 是一款针对 Fitbit 数据的开源工具 / The Google Health API Got a CLI: ghealth is an Open-Source Tool for Your Fitbit Air Data",
+          "url": "https://www.marktechpost.com/2026/07/02/the-google-health-api-got-a-cli-ghealth-is-an-open-source-tool-for-your-fitbit-air-data",
+          "source": "MarkTechPost Research",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-02T08:46:56Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7756,
+      "importance": 0.7756,
+      "importance_score": 0.7756,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9058,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-02T08:46:56Z",
+      "latest_at": "2026-07-02T08:46:56Z",
+      "primary_item": {
+        "id": "029ac3dcd73d91378b41ccc87088880bce3f7967",
+        "title": "Google Health API 推出 CLI：ghealth 是一款针对 Fitbit 数据的开源工具",
+        "url": "https://www.marktechpost.com/2026/07/02/the-google-health-api-got-a-cli-ghealth-is-an-open-source-tool-for-your-fitbit-air-data",
+        "source": "MarkTechPost（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -624,15 +786,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7811,
-      "importance": 0.7811,
-      "importance_score": 0.7811,
+      "score": 0.7754,
+      "importance": 0.7754,
+      "importance_score": 0.7754,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9361,
+        "recency": 0.9044,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -649,67 +811,6 @@
         "url": "https://www.aibase.com/news/29342",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_f709f41925c8",
-      "title": "AI 版支付宝开放公测，蚂蚁阿宝无需邀请码即可体验",
-      "url": "https://www.ithome.com/0/971/469.htm",
-      "primary_url": "https://www.ithome.com/0/971/469.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b7ef78f888ccc43b030efca765286e0fa97e2d8d",
-          "title": "AI 版支付宝开放公测，蚂蚁阿宝无需邀请码即可体验",
-          "url": "https://www.ithome.com/0/971/469.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T02:51:10Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "b7ef78f888ccc43b030efca765286e0fa97e2d8d",
-          "title": "AI 版支付宝开放公测，蚂蚁阿宝无需邀请码即可体验",
-          "url": "https://www.ithome.com/0/971/469.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T02:51:10Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7665,
-      "importance": 0.7665,
-      "importance_score": 0.7665,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.8,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8606,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-02T02:51:10Z",
-      "latest_at": "2026-07-02T02:51:10Z",
-      "primary_item": {
-        "id": "b7ef78f888ccc43b030efca765286e0fa97e2d8d",
-        "title": "AI 版支付宝开放公测，蚂蚁阿宝无需邀请码即可体验",
-        "url": "https://www.ithome.com/0/971/469.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -747,15 +848,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7964,
-      "importance": 0.7964,
-      "importance_score": 0.7964,
+      "score": 0.792,
+      "importance": 0.792,
+      "importance_score": 0.792,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7358,
+        "recency": 0.7109,
         "story_heat": 0.0
       },
       "category": "official",
@@ -809,15 +910,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7626,
-      "importance": 0.7626,
-      "importance_score": 0.7626,
+      "score": 0.757,
+      "importance": 0.757,
+      "importance_score": 0.757,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9224,
+        "recency": 0.8911,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -832,67 +933,6 @@
         "title": "OpenAI提议美国政府持股5%估值426亿美元",
         "url": "https://x.com/testingcatalog/status/2072585845542969583",
         "source": "X：Testing Catalog (@testingcatalog)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_220c563c3540",
-      "title": "Google Health API 推出 CLI：ghealth 是一款针对 Fitbit 数据的开源工具",
-      "url": "https://www.marktechpost.com/2026/07/02/the-google-health-api-got-a-cli-ghealth-is-an-open-source-tool-for-your-fitbit-air-data",
-      "primary_url": "https://www.marktechpost.com/2026/07/02/the-google-health-api-got-a-cli-ghealth-is-an-open-source-tool-for-your-fitbit-air-data",
-      "source": "MarkTechPost（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "029ac3dcd73d91378b41ccc87088880bce3f7967",
-          "title": "Google Health API 推出 CLI：ghealth 是一款针对 Fitbit 数据的开源工具",
-          "url": "https://www.marktechpost.com/2026/07/02/the-google-health-api-got-a-cli-ghealth-is-an-open-source-tool-for-your-fitbit-air-data",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T08:46:56Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "MarkTechPost（RSS）"
-      ],
-      "items": [
-        {
-          "id": "029ac3dcd73d91378b41ccc87088880bce3f7967",
-          "title": "Google Health API 推出 CLI：ghealth 是一款针对 Fitbit 数据的开源工具",
-          "url": "https://www.marktechpost.com/2026/07/02/the-google-health-api-got-a-cli-ghealth-is-an-open-source-tool-for-your-fitbit-air-data",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T08:46:56Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7564,
-      "importance": 0.7564,
-      "importance_score": 0.7564,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9376,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-02T08:46:56Z",
-      "latest_at": "2026-07-02T08:46:56Z",
-      "primary_item": {
-        "id": "029ac3dcd73d91378b41ccc87088880bce3f7967",
-        "title": "Google Health API 推出 CLI：ghealth 是一款针对 Fitbit 数据的开源工具",
-        "url": "https://www.marktechpost.com/2026/07/02/the-google-health-api-got-a-cli-ghealth-is-an-open-source-tool-for-your-fitbit-air-data",
-        "source": "MarkTechPost（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -931,15 +971,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8156,
-      "importance": 0.8156,
-      "importance_score": 0.8156,
+      "score": 0.811,
+      "importance": 0.811,
+      "importance_score": 0.811,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.7646,
+        "recency": 0.7386,
         "story_heat": 0.0
       },
       "category": "official",
@@ -959,82 +999,63 @@
       }
     },
     {
-      "story_id": "story_4ccea67daf74",
-      "title": "Meta效仿SpaceX，将过剩AI算力变现",
-      "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash",
-      "primary_url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash",
-      "source": "TechCrunch：AI（RSS）",
+      "story_id": "story_f709f41925c8",
+      "title": "AI 版支付宝开放公测，蚂蚁阿宝无需邀请码即可体验",
+      "url": "https://www.ithome.com/0/971/469.htm",
+      "primary_url": "https://www.ithome.com/0/971/469.htm",
+      "source": "IT之家（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "d070303d8c3916057db8f74e22815e26168d6a34",
-          "title": "Meta效仿SpaceX，将过剩AI算力变现",
-          "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash",
-          "source": "TechCrunch：AI（RSS）",
+          "id": "b7ef78f888ccc43b030efca765286e0fa97e2d8d",
+          "title": "AI 版支付宝开放公测，蚂蚁阿宝无需邀请码即可体验",
+          "url": "https://www.ithome.com/0/971/469.htm",
+          "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-01T13:43:07Z"
-        },
-        {
-          "id": "5b29f5d1a51f44c69e956d0df5f890521db6bab8",
-          "title": "Meta效仿SpaceX，将过剩AI算力变现 / Meta, like SpaceX, looks to turn excess AI compute into cash",
-          "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-01T13:43:07Z"
+          "published_at": "2026-07-02T02:51:10Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "TechCrunch AI",
-        "TechCrunch：AI（RSS）"
+        "IT之家（RSS）"
       ],
       "items": [
         {
-          "id": "d070303d8c3916057db8f74e22815e26168d6a34",
-          "title": "Meta效仿SpaceX，将过剩AI算力变现",
-          "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash",
-          "source": "TechCrunch：AI（RSS）",
+          "id": "b7ef78f888ccc43b030efca765286e0fa97e2d8d",
+          "title": "AI 版支付宝开放公测，蚂蚁阿宝无需邀请码即可体验",
+          "url": "https://www.ithome.com/0/971/469.htm",
+          "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-01T13:43:07Z"
-        },
-        {
-          "id": "5b29f5d1a51f44c69e956d0df5f890521db6bab8",
-          "title": "Meta效仿SpaceX，将过剩AI算力变现 / Meta, like SpaceX, looks to turn excess AI compute into cash",
-          "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-01T13:43:07Z"
+          "published_at": "2026-07-02T02:51:10Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7408,
-      "importance": 0.7408,
-      "importance_score": 0.7408,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7613,
+      "importance": 0.7613,
+      "importance_score": 0.7613,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.72,
+        "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.712,
-        "story_heat": 0.25
+        "recency": 0.8315,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-01T13:43:07Z",
-      "latest_at": "2026-07-01T13:43:07Z",
+      "earliest_at": "2026-07-02T02:51:10Z",
+      "latest_at": "2026-07-02T02:51:10Z",
       "primary_item": {
-        "id": "d070303d8c3916057db8f74e22815e26168d6a34",
-        "title": "Meta效仿SpaceX，将过剩AI算力变现",
-        "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash",
-        "source": "TechCrunch：AI（RSS）",
+        "id": "b7ef78f888ccc43b030efca765286e0fa97e2d8d",
+        "title": "AI 版支付宝开放公测，蚂蚁阿宝无需邀请码即可体验",
+        "url": "https://www.ithome.com/0/971/469.htm",
+        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -1092,15 +1113,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7645,
-      "importance": 0.7645,
-      "importance_score": 0.7645,
+      "score": 0.7594,
+      "importance": 0.7594,
+      "importance_score": 0.7594,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8439,
+        "recency": 0.8153,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1173,15 +1194,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7305,
-      "importance": 0.7305,
-      "importance_score": 0.7305,
+      "score": 0.7257,
+      "importance": 0.7257,
+      "importance_score": 0.7257,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.64,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7882,
+        "recency": 0.7614,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1234,15 +1255,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7303,
-      "importance": 0.7303,
-      "importance_score": 0.7303,
+      "score": 0.7244,
+      "importance": 0.7244,
+      "importance_score": 0.7244,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.62,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9593,
+        "recency": 0.9268,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1294,15 +1315,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7276,
-      "importance": 0.7276,
-      "importance_score": 0.7276,
+      "score": 0.7223,
+      "importance": 0.7223,
+      "importance_score": 0.7223,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8611,
+        "recency": 0.8319,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1354,15 +1375,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8134,
-      "importance": 0.8134,
-      "importance_score": 0.8134,
+      "score": 0.8086,
+      "importance": 0.8086,
+      "importance_score": 0.8086,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7857,
+        "recency": 0.7591,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1416,21 +1437,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7533,
-      "importance": 0.7533,
-      "importance_score": 0.7533,
+      "score": 0.7482,
+      "importance": 0.7482,
+      "importance_score": 0.7482,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8373,
+        "recency": 0.8089,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-02T00:56:56Z",
       "latest_at": "2026-07-02T00:56:56Z",
