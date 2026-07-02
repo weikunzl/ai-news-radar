@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T15:39:20.796420Z",
+  "generated_at": "2026-07-02T17:26:48.547194Z",
   "clusters": [
     {
       "cluster_id": "biz_cluster_2f0b4084974e",
@@ -66,11 +66,12 @@
       ]
     },
     {
-      "cluster_id": "biz_cluster_fa265a48791e",
+      "cluster_id": "biz_cluster_96cbc25c6b53",
       "thesis": "Enterprise AI value is moving toward operating-model redesign rather than isolated copilots.",
       "lane": "enterprise_workflow",
       "signal_ids": [
         "biz_a1d362df5ac0",
+        "biz_1c9a7b3211eb",
         "biz_6d29dad39b36",
         "biz_40562aaff0ff",
         "biz_d17b888b1114",
@@ -80,31 +81,35 @@
         "biz_ff34dbeef873",
         "biz_beed95b56587",
         "biz_3148dc5d80bb",
-        "biz_cc099c2ec44d",
-        "biz_e8c1e345ccf7"
+        "biz_cc099c2ec44d"
       ],
-      "source_count": 6,
+      "source_count": 7,
       "importance_score": 62,
       "confidence": "high",
       "yuanli_mapping": [
         "yuanli_os",
         "ftf_trust"
       ],
-      "why_it_matters": "12 English evidence items from 6 sources connect this pattern to Yuanli IP.",
+      "why_it_matters": "12 English evidence items from 7 sources connect this pattern to Yuanli IP.",
       "counter_evidence": "See counter_signal cluster for adoption, ROI, and trust risks.",
       "recommended_action": "Map each workflow case to the Yuanli OS organs: soul, memory, judgment, hands.",
       "evidence_refs": [
         "biz_a1d362df5ac0",
+        "biz_1c9a7b3211eb",
         "biz_6d29dad39b36",
         "biz_40562aaff0ff",
-        "biz_d17b888b1114",
-        "biz_45677185d86e"
+        "biz_d17b888b1114"
       ],
       "top_sources": [
         {
           "source": "a16z",
           "title": "AI Agents and the Fight for Customer Data",
           "url": "https://a16z.com/podcast/ai-agents-and-the-fight-for-customer-data/"
+        },
+        {
+          "source": "GitHub Blog",
+          "title": "How GitHub used secret scanning to reach inbox zero",
+          "url": "https://github.blog/security/application-security/how-github-used-secret-scanning-to-reach-inbox-zero/"
         },
         {
           "source": "Anthropic News",
@@ -120,11 +125,6 @@
           "source": "Anthropic News",
           "title": "Product Jun 23, 2026 Introducing Claude Tag Claude Tag is a new way for teams to work with Claude.",
           "url": "https://www.anthropic.com/news/introducing-claude-tag"
-        },
-        {
-          "source": "Anthropic News",
-          "title": "Policy Jun 10, 2026 Policy on the AI Exponential AI is advancing at exponential speed, and the policymaking process was built for a slower world. We’re sharing policy proposals to prepare our institutions for AI progress.",
-          "url": "https://www.anthropic.com/policy-on-the-ai-exponential"
         }
       ]
     },
@@ -249,17 +249,17 @@
       ]
     },
     {
-      "cluster_id": "biz_cluster_ce4af2eb0039",
+      "cluster_id": "biz_cluster_c422666fdf98",
       "thesis": "Business-school and consulting evidence strengthens the trust layer behind Yuanli IP claims.",
       "lane": "authority_trust",
       "signal_ids": [
         "biz_fd2b63193b5d",
         "biz_3f595b7a14d2",
         "biz_3c5823b34f5a",
-        "biz_ee0d77c88941",
-        "biz_c3710204dd3b",
         "biz_30fb5513b122",
         "biz_699da6d8b7be",
+        "biz_ee0d77c88941",
+        "biz_c3710204dd3b",
         "biz_d11e19e17274",
         "biz_6eff8c60fb3f",
         "biz_36255a88492a",
@@ -281,8 +281,8 @@
         "biz_fd2b63193b5d",
         "biz_3f595b7a14d2",
         "biz_3c5823b34f5a",
-        "biz_ee0d77c88941",
-        "biz_c3710204dd3b"
+        "biz_30fb5513b122",
+        "biz_699da6d8b7be"
       ],
       "top_sources": [
         {
@@ -301,14 +301,14 @@
           "url": "https://hbr.org/2026/05/what-customer-workarounds-can-reveal-about-your-business-model?ab=HP-topics-text-3"
         },
         {
-          "source": "Bain Insights",
-          "title": "Customer Experience",
-          "url": "https://www.bain.com/consulting-services/customer-strategy-and-marketing/customer-experience-transformation/"
+          "source": "Harvard Business Review",
+          "title": "Tailor Your Digital Strategy to Reach Every Customer",
+          "url": "https://hbr.org/2026/06/tailor-your-digital-strategy-to-reach-every-customer?ab=HP-latest-6"
         },
         {
-          "source": "Bain Insights",
-          "title": "Supporting Your Growth",
-          "url": "https://www.bain.com/careers/life-at-bain/supporting-your-growth/"
+          "source": "Harvard Business Review",
+          "title": "The Time Horizon Growth Model Is Dead. Here’s What Should Replace It.",
+          "url": "https://hbr.org/sponsored/2026/06/the-time-horizon-growth-model-is-dead-heres-what-should-replace-it?ab=HP-topics-sponsored-text-9"
         }
       ]
     }
