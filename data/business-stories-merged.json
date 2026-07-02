@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T01:32:31.287395Z",
+  "generated_at": "2026-07-02T05:33:18.524981Z",
   "clusters": [
     {
       "cluster_id": "biz_cluster_2f0b4084974e",
@@ -140,11 +140,11 @@
         "biz_b929c31bd9e0",
         "biz_6419e341a022",
         "biz_6d12fbd2407f",
-        "biz_10ec3b69f1d1",
         "biz_a2705cc07bc1",
         "biz_2f427ec8e296",
         "biz_b1077c6f73dc",
-        "biz_81957eff1692"
+        "biz_81957eff1692",
+        "biz_d86bbeea8a46"
       ],
       "source_count": 2,
       "importance_score": 54,
@@ -257,15 +257,15 @@
       ]
     },
     {
-      "cluster_id": "biz_cluster_01d5c7fa6b47",
+      "cluster_id": "biz_cluster_107a5bfd8fd1",
       "thesis": "AI adoption counter-signals reveal where Yuanli claims need sharper proof and risk language.",
       "lane": "counter_signal",
       "signal_ids": [
         "biz_3f3b42cbc409",
         "biz_5abfba17eae7",
         "biz_d3bb755fab5d",
-        "biz_b641dca43738",
-        "biz_85d016ac6404"
+        "biz_85d016ac6404",
+        "biz_b641dca43738"
       ],
       "source_count": 4,
       "importance_score": 49,
@@ -281,8 +281,8 @@
         "biz_3f3b42cbc409",
         "biz_5abfba17eae7",
         "biz_d3bb755fab5d",
-        "biz_b641dca43738",
-        "biz_85d016ac6404"
+        "biz_85d016ac6404",
+        "biz_b641dca43738"
       ],
       "top_sources": [
         {
@@ -301,14 +301,14 @@
           "url": "https://www.generalist.com/p/why-one-superintelligence-is-more"
         },
         {
-          "source": "Harvard Business Review",
-          "title": "Government Policy and Regulation",
-          "url": "https://hbr.org/topic/subject/government-policy-and-regulation?ab=HP-hero-featured-1"
-        },
-        {
           "source": "a16z",
           "title": "Hugging Face’s Clem Delangue on Open Source AI and the LLM Bubble | MTS Live",
           "url": "https://a16z.com/podcast/hugging-faces-clem-delangue-on-open-source-ai-and-the-llm-bubble-mts-live/"
+        },
+        {
+          "source": "Harvard Business Review",
+          "title": "Government Policy and Regulation",
+          "url": "https://hbr.org/topic/subject/government-policy-and-regulation?ab=HP-hero-featured-1"
         }
       ]
     }
