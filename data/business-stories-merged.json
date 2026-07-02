@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T11:27:18.211438Z",
+  "generated_at": "2026-07-02T13:16:05.452152Z",
   "clusters": [
     {
       "cluster_id": "biz_cluster_2f0b4084974e",
@@ -66,25 +66,25 @@
       ]
     },
     {
-      "cluster_id": "biz_cluster_fa265a48791e",
+      "cluster_id": "biz_cluster_6ef70bf2c85b",
       "thesis": "Enterprise AI value is moving toward operating-model redesign rather than isolated copilots.",
       "lane": "enterprise_workflow",
       "signal_ids": [
         "biz_a1d362df5ac0",
-        "biz_6d29dad39b36",
-        "biz_40562aaff0ff",
-        "biz_d17b888b1114",
-        "biz_45677185d86e",
         "biz_368ade6d238f",
         "biz_73aa72e3bde2",
         "biz_ff34dbeef873",
         "biz_beed95b56587",
         "biz_3148dc5d80bb",
         "biz_cc099c2ec44d",
-        "biz_e8c1e345ccf7"
+        "biz_a0d3ec3bc9d6",
+        "biz_aab79b680c8a",
+        "biz_8fa502a2c403",
+        "biz_1e390fbcc80c",
+        "biz_2a0ded7a2492"
       ],
       "source_count": 6,
-      "importance_score": 62,
+      "importance_score": 57,
       "confidence": "high",
       "yuanli_mapping": [
         "yuanli_os",
@@ -95,10 +95,10 @@
       "recommended_action": "Map each workflow case to the Yuanli OS organs: soul, memory, judgment, hands.",
       "evidence_refs": [
         "biz_a1d362df5ac0",
-        "biz_6d29dad39b36",
-        "biz_40562aaff0ff",
-        "biz_d17b888b1114",
-        "biz_45677185d86e"
+        "biz_368ade6d238f",
+        "biz_73aa72e3bde2",
+        "biz_ff34dbeef873",
+        "biz_beed95b56587"
       ],
       "top_sources": [
         {
@@ -107,24 +107,24 @@
           "url": "https://a16z.com/podcast/ai-agents-and-the-fight-for-customer-data/"
         },
         {
-          "source": "Anthropic News",
-          "title": "Product Jun 30, 2026 Introducing Claude Sonnet 5 Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.",
-          "url": "https://www.anthropic.com/news/claude-sonnet-5"
+          "source": "Latent Space",
+          "title": "Autoresearch: The feedback loop behind self-improving agents",
+          "url": "https://www.latent.space/p/autoresearch-introspection"
         },
         {
-          "source": "Anthropic News",
-          "title": "Announcements Jun 30, 2026 Claude Science, an AI workbench for scientists, is now available Claude Science is a customizable app that integrates the tools and packages researchers most often use, produces auditable artifacts, and provides flexible access to computing resources.",
-          "url": "https://www.anthropic.com/news/claude-science-ai-workbench"
+          "source": "First Round Review",
+          "title": "Serval's Path to Product-Market Fit — Win Enterprise Buyers by Treating Them Like Consumers Notes from an AI founder taking a swing at a hundred-billion-dollar incumbent.",
+          "url": "https://review.firstround.com/servals-path-to-product-market-fit/"
         },
         {
-          "source": "Anthropic News",
-          "title": "Product Jun 23, 2026 Introducing Claude Tag Claude Tag is a new way for teams to work with Claude.",
-          "url": "https://www.anthropic.com/news/introducing-claude-tag"
+          "source": "Lenny's Newsletter",
+          "title": "Sonnet 5 review: I ran 64 generations to find out if it's worth it",
+          "url": "https://www.lennysnewsletter.com/p/sonnet-5-review-i-ran-64-generations"
         },
         {
-          "source": "Anthropic News",
-          "title": "Policy Jun 10, 2026 Policy on the AI Exponential AI is advancing at exponential speed, and the policymaking process was built for a slower world. We’re sharing policy proposals to prepare our institutions for AI progress.",
-          "url": "https://www.anthropic.com/policy-on-the-ai-exponential"
+          "source": "Latent Space",
+          "title": "Warp CEO Zach Lloyd on why software factories are the next phase of coding",
+          "url": "https://www.latent.space/p/software-factories"
         }
       ]
     },
@@ -193,16 +193,73 @@
       ]
     },
     {
-      "cluster_id": "biz_cluster_986e86ab2970",
+      "cluster_id": "biz_cluster_1661a40f2225",
+      "thesis": "AI adoption counter-signals reveal where Yuanli claims need sharper proof and risk language.",
+      "lane": "counter_signal",
+      "signal_ids": [
+        "biz_3f3b42cbc409",
+        "biz_5abfba17eae7",
+        "biz_d39bf4d07979",
+        "biz_d3bb755fab5d",
+        "biz_b641dca43738",
+        "biz_85d016ac6404"
+      ],
+      "source_count": 4,
+      "importance_score": 50,
+      "confidence": "high",
+      "yuanli_mapping": [
+        "ftf_trust",
+        "yuanli_os"
+      ],
+      "why_it_matters": "6 English evidence items from 4 sources connect this pattern to Yuanli IP.",
+      "counter_evidence": "Counter-signals are the evidence, not a rejection of the thesis.",
+      "recommended_action": "Add these counter-signals to sales objections and content credibility checks.",
+      "evidence_refs": [
+        "biz_3f3b42cbc409",
+        "biz_5abfba17eae7",
+        "biz_d39bf4d07979",
+        "biz_d3bb755fab5d",
+        "biz_b641dca43738"
+      ],
+      "top_sources": [
+        {
+          "source": "The Generalist",
+          "title": "The Token Budget Problem Nobody Is Talking About (Matan Grinberg, Co-Founder & CEO of Factory)",
+          "url": "https://www.generalist.com/p/the-token-budget-problem"
+        },
+        {
+          "source": "BCG AI Insights",
+          "title": "Insurance Industry",
+          "url": "https://www.bcg.com/industries/insurance/overview"
+        },
+        {
+          "source": "Harvard Business Review",
+          "title": "Research: Navigating the Business Risks of Changing Pro-America Sentiment",
+          "url": "https://hbr.org/2026/07/research-navigating-the-business-risks-of-changing-pro-america-sentiment?ab=HP-hero-latest-1"
+        },
+        {
+          "source": "The Generalist",
+          "title": "Why One Superintelligence Is More Dangerous Than a Thousand (Vincent Weisser, CEO & Co-Founder of Prime Intellect)",
+          "url": "https://www.generalist.com/p/why-one-superintelligence-is-more"
+        },
+        {
+          "source": "Harvard Business Review",
+          "title": "Government Policy and Regulation",
+          "url": "https://hbr.org/topic/subject/government-policy-and-regulation?ab=HP-hero-featured-1"
+        }
+      ]
+    },
+    {
+      "cluster_id": "biz_cluster_ffd6fcb60932",
       "thesis": "Business-school and consulting evidence strengthens the trust layer behind Yuanli IP claims.",
       "lane": "authority_trust",
       "signal_ids": [
         "biz_fd2b63193b5d",
         "biz_3f595b7a14d2",
         "biz_3c5823b34f5a",
-        "biz_699da6d8b7be",
         "biz_ee0d77c88941",
         "biz_c3710204dd3b",
+        "biz_699da6d8b7be",
         "biz_d11e19e17274",
         "biz_6eff8c60fb3f",
         "biz_36255a88492a",
@@ -225,8 +282,8 @@
         "biz_fd2b63193b5d",
         "biz_3f595b7a14d2",
         "biz_3c5823b34f5a",
-        "biz_699da6d8b7be",
-        "biz_ee0d77c88941"
+        "biz_ee0d77c88941",
+        "biz_c3710204dd3b"
       ],
       "top_sources": [
         {
@@ -245,70 +302,14 @@
           "url": "https://hbr.org/2026/05/what-customer-workarounds-can-reveal-about-your-business-model?ab=HP-topics-text-3"
         },
         {
-          "source": "Harvard Business Review",
-          "title": "The Time Horizon Growth Model Is Dead. Here’s What Should Replace It.",
-          "url": "https://hbr.org/sponsored/2026/06/the-time-horizon-growth-model-is-dead-heres-what-should-replace-it?ab=HP-topics-sponsored-text-9"
-        },
-        {
           "source": "Bain Insights",
           "title": "Customer Experience",
           "url": "https://www.bain.com/consulting-services/customer-strategy-and-marketing/customer-experience-transformation/"
-        }
-      ]
-    },
-    {
-      "cluster_id": "biz_cluster_01d5c7fa6b47",
-      "thesis": "AI adoption counter-signals reveal where Yuanli claims need sharper proof and risk language.",
-      "lane": "counter_signal",
-      "signal_ids": [
-        "biz_3f3b42cbc409",
-        "biz_5abfba17eae7",
-        "biz_d3bb755fab5d",
-        "biz_b641dca43738",
-        "biz_85d016ac6404"
-      ],
-      "source_count": 4,
-      "importance_score": 49,
-      "confidence": "high",
-      "yuanli_mapping": [
-        "ftf_trust",
-        "yuanli_os"
-      ],
-      "why_it_matters": "5 English evidence items from 4 sources connect this pattern to Yuanli IP.",
-      "counter_evidence": "Counter-signals are the evidence, not a rejection of the thesis.",
-      "recommended_action": "Add these counter-signals to sales objections and content credibility checks.",
-      "evidence_refs": [
-        "biz_3f3b42cbc409",
-        "biz_5abfba17eae7",
-        "biz_d3bb755fab5d",
-        "biz_b641dca43738",
-        "biz_85d016ac6404"
-      ],
-      "top_sources": [
-        {
-          "source": "The Generalist",
-          "title": "The Token Budget Problem Nobody Is Talking About (Matan Grinberg, Co-Founder & CEO of Factory)",
-          "url": "https://www.generalist.com/p/the-token-budget-problem"
         },
         {
-          "source": "BCG AI Insights",
-          "title": "Insurance Industry",
-          "url": "https://www.bcg.com/industries/insurance/overview"
-        },
-        {
-          "source": "The Generalist",
-          "title": "Why One Superintelligence Is More Dangerous Than a Thousand (Vincent Weisser, CEO & Co-Founder of Prime Intellect)",
-          "url": "https://www.generalist.com/p/why-one-superintelligence-is-more"
-        },
-        {
-          "source": "Harvard Business Review",
-          "title": "Government Policy and Regulation",
-          "url": "https://hbr.org/topic/subject/government-policy-and-regulation?ab=HP-hero-featured-1"
-        },
-        {
-          "source": "a16z",
-          "title": "Hugging Face’s Clem Delangue on Open Source AI and the LLM Bubble | MTS Live",
-          "url": "https://a16z.com/podcast/hugging-faces-clem-delangue-on-open-source-ai-and-the-llm-bubble-mts-live/"
+          "source": "Bain Insights",
+          "title": "Supporting Your Growth",
+          "url": "https://www.bain.com/careers/life-at-bain/supporting-your-growth/"
         }
       ]
     }
