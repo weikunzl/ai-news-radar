@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T06:06:52.016289Z",
+  "generated_at": "2026-07-03T09:39:33.432610Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8666,
-      "importance": 0.8666,
-      "importance_score": 0.8666,
+      "score": 0.8577,
+      "importance": 0.8577,
+      "importance_score": 0.8577,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9831,
+        "recency": 0.9341,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -157,15 +157,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8352,
-      "importance": 0.8352,
-      "importance_score": 0.8352,
+      "score": 0.827,
+      "importance": 0.827,
+      "importance_score": 0.827,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9065,
+        "recency": 0.8613,
         "story_heat": 0.0
       },
       "category": "official",
@@ -238,15 +238,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8098,
-      "importance": 0.8098,
-      "importance_score": 0.8098,
+      "score": 0.8012,
+      "importance": 0.8012,
+      "importance_score": 0.8012,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9623,
+        "recency": 0.9143,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -300,15 +300,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8347,
-      "importance": 0.8347,
-      "importance_score": 0.8347,
+      "score": 0.8266,
+      "importance": 0.8266,
+      "importance_score": 0.8266,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9039,
+        "recency": 0.8588,
         "story_heat": 0.0
       },
       "category": "official",
@@ -381,15 +381,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7836,
+      "importance": 0.7836,
+      "importance_score": 0.7836,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9501,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -406,6 +406,67 @@
         "url": "https://www.aibase.com/news/29357",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_2f3259c510e3",
+      "title": "Wan Video 推出\"音乐伴舞\"新功能",
+      "url": "https://x.com/alibaba_cloud/status/2072967570441834771",
+      "primary_url": "https://x.com/alibaba_cloud/status/2072967570441834771",
+      "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "cea08410338b9e562902d07b4b0a9f41897c215a",
+          "title": "Wan Video 推出\"音乐伴舞\"新功能",
+          "url": "https://x.com/alibaba_cloud/status/2072967570441834771",
+          "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-03T08:55:57Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：阿里云 / Alibaba Cloud (@alibaba_cloud)"
+      ],
+      "items": [
+        {
+          "id": "cea08410338b9e562902d07b4b0a9f41897c215a",
+          "title": "Wan Video 推出\"音乐伴舞\"新功能",
+          "url": "https://x.com/alibaba_cloud/status/2072967570441834771",
+          "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-03T08:55:57Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7807,
+      "importance": 0.7807,
+      "importance_score": 0.7807,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9896,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-03T08:55:57Z",
+      "latest_at": "2026-07-03T08:55:57Z",
+      "primary_item": {
+        "id": "cea08410338b9e562902d07b4b0a9f41897c215a",
+        "title": "Wan Video 推出\"音乐伴舞\"新功能",
+        "url": "https://x.com/alibaba_cloud/status/2072967570441834771",
+        "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -462,15 +523,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7846,
-      "importance": 0.7846,
-      "importance_score": 0.7846,
+      "score": 0.7769,
+      "importance": 0.7769,
+      "importance_score": 0.7769,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8555,
+        "recency": 0.8128,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -486,6 +547,106 @@
         "title": "Microsoft 成立\"Frontier Company\"，斥资 25 亿美元派驻 6000 名 AI 工程师到企业客户现场",
         "url": "https://the-decoder.com/microsoft-launches-2-5-billion-frontier-company-to-embed-6000-ai-engineers-inside-enterprise-clients",
         "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_4d4c122ecd26",
+      "title": "《Fable》通关指南：短绳AI编程法",
+      "url": "https://blog.okturtles.org/2026/07/short-leash-ai-method",
+      "primary_url": "https://blog.okturtles.org/2026/07/short-leash-ai-method",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5c41e5456360cef6e306453f2407deaaadc0a847",
+          "title": "《Fable》通关指南：短绳AI编程法",
+          "url": "https://blog.okturtles.org/2026/07/short-leash-ai-method",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-03T06:16:11.377000Z"
+        },
+        {
+          "id": "72dc38b71d41de03e355ade25651847d14a78a7d",
+          "title": "击败《神鬼寓言》的短链人工智能编码方法 / The short leash AI coding method for beating Fable",
+          "url": "https://news.ycombinator.com/item?id=48766026",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-02T21:26:23.426000Z"
+        },
+        {
+          "id": "4e562c11eb1484e2eb043dd0cb4b26fc9fbc420f",
+          "title": "《Fable》通关指南：短绳AI编程法 / The Short Leash AI Coding Method for Beating Fable",
+          "url": "https://blog.okturtles.org/2026/07/short-leash-ai-method",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-02T19:11:57Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "5c41e5456360cef6e306453f2407deaaadc0a847",
+          "title": "《Fable》通关指南：短绳AI编程法",
+          "url": "https://blog.okturtles.org/2026/07/short-leash-ai-method",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-03T06:16:11.377000Z"
+        },
+        {
+          "id": "72dc38b71d41de03e355ade25651847d14a78a7d",
+          "title": "击败《神鬼寓言》的短链人工智能编码方法 / The short leash AI coding method for beating Fable",
+          "url": "https://news.ycombinator.com/item?id=48766026",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-02T21:26:23.426000Z"
+        },
+        {
+          "id": "4e562c11eb1484e2eb043dd0cb4b26fc9fbc420f",
+          "title": "《Fable》通关指南：短绳AI编程法 / The Short Leash AI Coding Method for Beating Fable",
+          "url": "https://blog.okturtles.org/2026/07/short-leash-ai-method",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-02T19:11:57Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.803,
+      "importance": 0.803,
+      "importance_score": 0.803,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9522,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-02T19:11:57Z",
+      "latest_at": "2026-07-03T06:16:11.377000Z",
+      "primary_item": {
+        "id": "5c41e5456360cef6e306453f2407deaaadc0a847",
+        "title": "《Fable》通关指南：短绳AI编程法",
+        "url": "https://blog.okturtles.org/2026/07/short-leash-ai-method",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -543,15 +704,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7705,
-      "importance": 0.7705,
-      "importance_score": 0.7705,
+      "score": 0.7623,
+      "importance": 0.7623,
+      "importance_score": 0.7623,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9107,
+        "recency": 0.8652,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -643,15 +804,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7687,
-      "importance": 0.7687,
-      "importance_score": 0.7687,
+      "score": 0.7619,
+      "importance": 0.7619,
+      "importance_score": 0.7619,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7617,
+        "recency": 0.7237,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -705,15 +866,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8285,
-      "importance": 0.8285,
-      "importance_score": 0.8285,
+      "score": 0.8207,
+      "importance": 0.8207,
+      "importance_score": 0.8207,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8694,
+        "recency": 0.826,
         "story_heat": 0.0
       },
       "category": "official",
@@ -786,15 +947,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7641,
-      "importance": 0.7641,
-      "importance_score": 0.7641,
+      "score": 0.7562,
+      "importance": 0.7562,
+      "importance_score": 0.7562,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8749,
+        "recency": 0.8313,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -848,15 +1009,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.759,
-      "importance": 0.759,
-      "importance_score": 0.759,
+      "score": 0.7512,
+      "importance": 0.7512,
+      "importance_score": 0.7512,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8691,
+        "recency": 0.8258,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -909,15 +1070,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7463,
-      "importance": 0.7463,
-      "importance_score": 0.7463,
+      "score": 0.7394,
+      "importance": 0.7394,
+      "importance_score": 0.7394,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7648,
+        "recency": 0.7267,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -932,6 +1093,67 @@
         "url": "https://x.com/shao__meng/status/2072644710523691110",
         "source": "X：邵猛 (@shao__meng)",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_115f21a8d255",
+      "title": "AI 智能体 Elements Claw 成功“闭环”超导材料研发",
+      "url": "https://www.aibase.com/news/29373",
+      "primary_url": "https://www.aibase.com/news/29373",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "c5cdef8fc8910413f1a7fc91b953c6d60deed6d2",
+          "title": "AI 智能体 Elements Claw 成功“闭环”超导材料研发",
+          "url": "https://www.aibase.com/news/29373",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-03T09:39:33.432610Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "c5cdef8fc8910413f1a7fc91b953c6d60deed6d2",
+          "title": "AI 智能体 Elements Claw 成功“闭环”超导材料研发",
+          "url": "https://www.aibase.com/news/29373",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-03T09:39:33.432610Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-03T09:39:33.432610Z",
+      "latest_at": "2026-07-03T09:39:33.432610Z",
+      "primary_item": {
+        "id": "c5cdef8fc8910413f1a7fc91b953c6d60deed6d2",
+        "title": "AI 智能体 Elements Claw 成功“闭环”超导材料研发",
+        "url": "https://www.aibase.com/news/29373",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -969,15 +1191,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7443,
-      "importance": 0.7443,
-      "importance_score": 0.7443,
+      "score": 0.7369,
+      "importance": 0.7369,
+      "importance_score": 0.7369,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8205,
+        "recency": 0.7796,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -992,67 +1214,6 @@
         "url": "https://x.com/kimmonismus/status/2072718147279335507",
         "source": "X：Kim (@kimmonismus)",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_d27ddcf10896",
-      "title": "AI 发展跨入新纪元，奥尔特曼呼吁全球共筑安全防线",
-      "url": "https://www.aibase.com/news/29353",
-      "primary_url": "https://www.aibase.com/news/29353",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "7ee12cafd69632ffa600d6b95259d2c0ba72501e",
-          "title": "AI 发展跨入新纪元，奥尔特曼呼吁全球共筑安全防线",
-          "url": "https://www.aibase.com/news/29353",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-03T06:06:52.016289Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "7ee12cafd69632ffa600d6b95259d2c0ba72501e",
-          "title": "AI 发展跨入新纪元，奥尔特曼呼吁全球共筑安全防线",
-          "url": "https://www.aibase.com/news/29353",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-03T06:06:52.016289Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-03T06:06:52.016289Z",
-      "latest_at": "2026-07-03T06:06:52.016289Z",
-      "primary_item": {
-        "id": "7ee12cafd69632ffa600d6b95259d2c0ba72501e",
-        "title": "AI 发展跨入新纪元，奥尔特曼呼吁全球共筑安全防线",
-        "url": "https://www.aibase.com/news/29353",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -1090,15 +1251,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8233,
-      "importance": 0.8233,
-      "importance_score": 0.8233,
+      "score": 0.8157,
+      "importance": 0.8157,
+      "importance_score": 0.8157,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8405,
+        "recency": 0.7986,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1171,15 +1332,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.762,
-      "importance": 0.762,
-      "importance_score": 0.762,
+      "score": 0.7549,
+      "importance": 0.7549,
+      "importance_score": 0.7549,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7968,
+        "recency": 0.757,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1195,186 +1356,6 @@
         "title": "花旗、Adobe等企业限制员工使用AI旗舰模型以控制成本",
         "url": "https://www.ithome.com/0/971/937.htm",
         "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_8d75d1916b30",
-      "title": "OpenAI提议美国政府持股5%估值426亿美元",
-      "url": "https://x.com/testingcatalog/status/2072585845542969583",
-      "primary_url": "https://x.com/testingcatalog/status/2072585845542969583",
-      "source": "X：Testing Catalog (@testingcatalog)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "338f15597c804ed8693a8a85a9fc1c54164fb9c2",
-          "title": "OpenAI提议美国政府持股5%估值426亿美元",
-          "url": "https://x.com/testingcatalog/status/2072585845542969583",
-          "source": "X：Testing Catalog (@testingcatalog)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T07:39:07Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Testing Catalog (@testingcatalog)"
-      ],
-      "items": [
-        {
-          "id": "338f15597c804ed8693a8a85a9fc1c54164fb9c2",
-          "title": "OpenAI提议美国政府持股5%估值426亿美元",
-          "url": "https://x.com/testingcatalog/status/2072585845542969583",
-          "source": "X：Testing Catalog (@testingcatalog)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T07:39:07Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7267,
-      "importance": 0.7267,
-      "importance_score": 0.7267,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.723,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-02T07:39:07Z",
-      "latest_at": "2026-07-02T07:39:07Z",
-      "primary_item": {
-        "id": "338f15597c804ed8693a8a85a9fc1c54164fb9c2",
-        "title": "OpenAI提议美国政府持股5%估值426亿美元",
-        "url": "https://x.com/testingcatalog/status/2072585845542969583",
-        "source": "X：Testing Catalog (@testingcatalog)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_1177ef6cec9c",
-      "title": "Fable 5 仅 4.44 美元搭建 Rube Goldberg 机器",
-      "url": "https://x.com/OpenRouter/status/2072738704922439689",
-      "primary_url": "https://x.com/OpenRouter/status/2072738704922439689",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "763591cd903e3f80557355df7554511faf5ca206",
-          "title": "Fable 5 仅 4.44 美元搭建 Rube Goldberg 机器",
-          "url": "https://x.com/OpenRouter/status/2072738704922439689",
-          "source": "X：OpenRouter (@OpenRouter)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T17:46:31Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：OpenRouter (@OpenRouter)"
-      ],
-      "items": [
-        {
-          "id": "763591cd903e3f80557355df7554511faf5ca206",
-          "title": "Fable 5 仅 4.44 美元搭建 Rube Goldberg 机器",
-          "url": "https://x.com/OpenRouter/status/2072738704922439689",
-          "source": "X：OpenRouter (@OpenRouter)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T17:46:31Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7262,
-      "importance": 0.7262,
-      "importance_score": 0.7262,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.68,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8368,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-02T17:46:31Z",
-      "latest_at": "2026-07-02T17:46:31Z",
-      "primary_item": {
-        "id": "763591cd903e3f80557355df7554511faf5ca206",
-        "title": "Fable 5 仅 4.44 美元搭建 Rube Goldberg 机器",
-        "url": "https://x.com/OpenRouter/status/2072738704922439689",
-        "source": "X：OpenRouter (@OpenRouter)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_976f7a63ecae",
-      "title": "Claude Fable 5 自主优化 AIHOT 网站 SEO/GEO 全记录",
-      "url": "https://mp.weixin.qq.com/s/L6R_SPWlOBv6dI0wWWHQrg",
-      "primary_url": "https://mp.weixin.qq.com/s/L6R_SPWlOBv6dI0wWWHQrg",
-      "source": "公众号：数字生命卡兹克",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "9781e7316d748d05214d7c8e78be0e9857de1178",
-          "title": "Claude Fable 5 自主优化 AIHOT 网站 SEO/GEO 全记录",
-          "url": "https://mp.weixin.qq.com/s/L6R_SPWlOBv6dI0wWWHQrg",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T00:16:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：数字生命卡兹克"
-      ],
-      "items": [
-        {
-          "id": "9781e7316d748d05214d7c8e78be0e9857de1178",
-          "title": "Claude Fable 5 自主优化 AIHOT 网站 SEO/GEO 全记录",
-          "url": "https://mp.weixin.qq.com/s/L6R_SPWlOBv6dI0wWWHQrg",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T00:16:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.723,
-      "importance": 0.723,
-      "importance_score": 0.723,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.62,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.919,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-03T00:16:00Z",
-      "latest_at": "2026-07-03T00:16:00Z",
-      "primary_item": {
-        "id": "9781e7316d748d05214d7c8e78be0e9857de1178",
-        "title": "Claude Fable 5 自主优化 AIHOT 网站 SEO/GEO 全记录",
-        "url": "https://mp.weixin.qq.com/s/L6R_SPWlOBv6dI0wWWHQrg",
-        "source": "公众号：数字生命卡兹克",
         "source_name": "AI HOT"
       }
     },
@@ -1432,15 +1413,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7494,
-      "importance": 0.7494,
-      "importance_score": 0.7494,
+      "score": 0.7425,
+      "importance": 0.7425,
+      "importance_score": 0.7425,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7769,
+        "recency": 0.7381,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1456,6 +1437,67 @@
         "url": "https://the-decoder.com/ai-agents-can-now-complete-16-percent-of-freelance-jobs-at-pro-quality-up-from-2-5-percent-eight-months-ago",
         "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_cfde5c3dd62f",
+      "title": "AI 研究进入“自动驾驶”时代：杨植麟谈大模型训练的第三阶段",
+      "url": "https://www.aibase.com/news/29374",
+      "primary_url": "https://www.aibase.com/news/29374",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "c19cd61938ac413faea98710cea52deb3631ce2f",
+          "title": "AI 研究进入“自动驾驶”时代：杨植麟谈大模型训练的第三阶段",
+          "url": "https://www.aibase.com/news/29374",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-03T09:39:33.432610Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "c19cd61938ac413faea98710cea52deb3631ce2f",
+          "title": "AI 研究进入“自动驾驶”时代：杨植麟谈大模型训练的第三阶段",
+          "url": "https://www.aibase.com/news/29374",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-03T09:39:33.432610Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-03T09:39:33.432610Z",
+      "latest_at": "2026-07-03T09:39:33.432610Z",
+      "primary_item": {
+        "id": "c19cd61938ac413faea98710cea52deb3631ce2f",
+        "title": "AI 研究进入“自动驾驶”时代：杨植麟谈大模型训练的第三阶段",
+        "url": "https://www.aibase.com/news/29374",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     }
   ]
