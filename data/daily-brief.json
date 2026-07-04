@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T02:03:32.731479Z",
+  "generated_at": "2026-07-04T05:57:23.961293Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8162,
-      "importance": 0.8162,
-      "importance_score": 0.8162,
+      "score": 0.8078,
+      "importance": 0.8078,
+      "importance_score": 0.8078,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8454,
+        "recency": 0.7991,
         "story_heat": 0.0
       },
       "category": "official",
@@ -119,15 +119,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8089,
-      "importance": 0.8089,
-      "importance_score": 0.8089,
+      "score": 0.8,
+      "importance": 0.8,
+      "importance_score": 0.8,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9074,
+        "recency": 0.8577,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -200,15 +200,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7748,
-      "importance": 0.7748,
-      "importance_score": 0.7748,
+      "score": 0.7671,
+      "importance": 0.7671,
+      "importance_score": 0.7671,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7845,
+        "recency": 0.7416,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -224,6 +224,106 @@
         "title": "国家网信办就《互联网信息服务管理办法》再次征求意见，首设\"智能信息服务\"专章规范AI服务",
         "url": "https://www.ithome.com/0/972/341.htm",
         "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_5fa8133bc14c",
+      "title": "Leanstral 1.5：人人可用的证明丰富性",
+      "url": "https://mistral.ai/news/leanstral-1-5",
+      "primary_url": "https://mistral.ai/news/leanstral-1-5",
+      "source": "Mistral AI：News（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f671b636d24355b474d498f38c883db269d5f550",
+          "title": "Leanstral 1.5：人人可用的证明丰富性",
+          "url": "https://mistral.ai/news/leanstral-1-5",
+          "source": "Mistral AI：News（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-03T15:19:52.792000Z"
+        },
+        {
+          "id": "253c9ee432cf664c751b1868ca838f869ff541cb",
+          "title": "Leanstral 1.5：面向所有人的丰富性证明",
+          "url": "https://mistral.ai/news/leanstral-1-5",
+          "source": "mistral.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-04T03:03:37.023000Z"
+        },
+        {
+          "id": "73d3a22435c248f533f99a0c75bbf6cfb0f30251",
+          "title": "Leanstral 1.5：人人可用的证明丰富性 / Leanstral 1.5: Proof Abundance for All",
+          "url": "https://mistral.ai/news/leanstral-1-5",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-03T22:33:10Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "Mistral AI：News（网页）",
+        "mistral.ai"
+      ],
+      "items": [
+        {
+          "id": "f671b636d24355b474d498f38c883db269d5f550",
+          "title": "Leanstral 1.5：人人可用的证明丰富性",
+          "url": "https://mistral.ai/news/leanstral-1-5",
+          "source": "Mistral AI：News（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-03T15:19:52.792000Z"
+        },
+        {
+          "id": "253c9ee432cf664c751b1868ca838f869ff541cb",
+          "title": "Leanstral 1.5：面向所有人的丰富性证明",
+          "url": "https://mistral.ai/news/leanstral-1-5",
+          "source": "mistral.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-04T03:03:37.023000Z"
+        },
+        {
+          "id": "73d3a22435c248f533f99a0c75bbf6cfb0f30251",
+          "title": "Leanstral 1.5：人人可用的证明丰富性 / Leanstral 1.5: Proof Abundance for All",
+          "url": "https://mistral.ai/news/leanstral-1-5",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-03T22:33:10Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.7653,
+      "importance": 0.7653,
+      "importance_score": 0.7653,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.66,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8096,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-03T15:19:52.792000Z",
+      "latest_at": "2026-07-04T03:03:37.023000Z",
+      "primary_item": {
+        "id": "f671b636d24355b474d498f38c883db269d5f550",
+        "title": "Leanstral 1.5：人人可用的证明丰富性",
+        "url": "https://mistral.ai/news/leanstral-1-5",
+        "source": "Mistral AI：News（网页）",
         "source_name": "AI HOT"
       }
     },
@@ -262,21 +362,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7528,
-      "importance": 0.7528,
-      "importance_score": 0.7528,
+      "score": 0.7439,
+      "importance": 0.7439,
+      "importance_score": 0.7439,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9012,
+        "recency": 0.8518,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-03T18:51:06Z",
       "latest_at": "2026-07-03T18:51:06Z",
@@ -286,166 +385,6 @@
         "url": "https://simonwillison.net/2026/Jul/3/judgement",
         "source": "Simon Willison 博客",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_5fa8133bc14c",
-      "title": "Leanstral 1.5：人人可用的证明丰富性",
-      "url": "https://mistral.ai/news/leanstral-1-5",
-      "primary_url": "https://mistral.ai/news/leanstral-1-5",
-      "source": "Mistral AI：News（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f671b636d24355b474d498f38c883db269d5f550",
-          "title": "Leanstral 1.5：人人可用的证明丰富性",
-          "url": "https://mistral.ai/news/leanstral-1-5",
-          "source": "Mistral AI：News（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T15:19:52.792000Z"
-        },
-        {
-          "id": "73d3a22435c248f533f99a0c75bbf6cfb0f30251",
-          "title": "Leanstral 1.5：人人可用的证明丰富性 / Leanstral 1.5: Proof Abundance for All",
-          "url": "https://mistral.ai/news/leanstral-1-5",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-03T22:33:10Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "Mistral AI：News（网页）"
-      ],
-      "items": [
-        {
-          "id": "f671b636d24355b474d498f38c883db269d5f550",
-          "title": "Leanstral 1.5：人人可用的证明丰富性",
-          "url": "https://mistral.ai/news/leanstral-1-5",
-          "source": "Mistral AI：News（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T15:19:52.792000Z"
-        },
-        {
-          "id": "73d3a22435c248f533f99a0c75bbf6cfb0f30251",
-          "title": "Leanstral 1.5：人人可用的证明丰富性 / Leanstral 1.5: Proof Abundance for All",
-          "url": "https://mistral.ai/news/leanstral-1-5",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-03T22:33:10Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7488,
-      "importance": 0.7488,
-      "importance_score": 0.7488,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8565,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-03T15:19:52.792000Z",
-      "latest_at": "2026-07-03T22:33:10Z",
-      "primary_item": {
-        "id": "f671b636d24355b474d498f38c883db269d5f550",
-        "title": "Leanstral 1.5：人人可用的证明丰富性",
-        "url": "https://mistral.ai/news/leanstral-1-5",
-        "source": "Mistral AI：News（网页）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_aa51060bbfb2",
-      "title": "AI 成本失控警报：大厂相继祭出“限流令”，旗舰模型成了“奢侈品”",
-      "url": "https://www.aibase.com/news/29357",
-      "primary_url": "https://www.aibase.com/news/29357",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "67d61511e88d800fc0153ddef899081752e64fa5",
-          "title": "AI 成本失控警报：大厂相继祭出“限流令”，旗舰模型成了“奢侈品”",
-          "url": "https://www.aibase.com/news/29357",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-03T06:06:52.016289Z"
-        },
-        {
-          "id": "12114f07e885db423cd6ddb08557011b8bf605ae",
-          "title": "AI 成本失控警报：大厂相继祭出「限流令」，旗舰模型成了「奢侈品」",
-          "url": "https://www.aibase.com/zh/news/29357",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "67d61511e88d800fc0153ddef899081752e64fa5",
-          "title": "AI 成本失控警报：大厂相继祭出“限流令”，旗舰模型成了“奢侈品”",
-          "url": "https://www.aibase.com/news/29357",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-03T06:06:52.016289Z"
-        },
-        {
-          "id": "12114f07e885db423cd6ddb08557011b8bf605ae",
-          "title": "AI 成本失控警报：大厂相继祭出「限流令」，旗舰模型成了「奢侈品」",
-          "url": "https://www.aibase.com/zh/news/29357",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7476,
-      "importance": 0.7476,
-      "importance_score": 0.7476,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7498,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-03T02:24:21.602247Z",
-      "latest_at": "2026-07-03T06:06:52.016289Z",
-      "primary_item": {
-        "id": "67d61511e88d800fc0153ddef899081752e64fa5",
-        "title": "AI 成本失控警报：大厂相继祭出“限流令”，旗舰模型成了“奢侈品”",
-        "url": "https://www.aibase.com/news/29357",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -483,15 +422,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7444,
-      "importance": 0.7444,
-      "importance_score": 0.7444,
+      "score": 0.7363,
+      "importance": 0.7363,
+      "importance_score": 0.7363,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8213,
+        "recency": 0.7763,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -543,15 +482,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7432,
-      "importance": 0.7432,
-      "importance_score": 0.7432,
+      "score": 0.7355,
+      "importance": 0.7355,
+      "importance_score": 0.7355,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7809,
+        "recency": 0.7382,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -565,228 +504,6 @@
         "title": "Wan Video 推出\"音乐伴舞\"新功能",
         "url": "https://x.com/alibaba_cloud/status/2072967570441834771",
         "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_9e5663cb740f",
-      "title": "claude-real-video ─ 让任何大语言模型（LLM）都能观看视频",
-      "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
-      "primary_url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "4c6976e09f7e757edf55c8a4a38336b3661288a4",
-          "title": "claude-real-video ─ 让任何大语言模型（LLM）都能观看视频",
-          "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T04:56:06.814000Z"
-        },
-        {
-          "id": "12fa813fd9b722b28005255b1997d31807cb7d15",
-          "title": "Claude-real-video － 任何大型语言模型（LLM）都能观看视频",
-          "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-03T04:56:06.814000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "github.com"
-      ],
-      "items": [
-        {
-          "id": "4c6976e09f7e757edf55c8a4a38336b3661288a4",
-          "title": "claude-real-video ─ 让任何大语言模型（LLM）都能观看视频",
-          "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T04:56:06.814000Z"
-        },
-        {
-          "id": "12fa813fd9b722b28005255b1997d31807cb7d15",
-          "title": "Claude-real-video － 任何大型语言模型（LLM）都能观看视频",
-          "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-03T04:56:06.814000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7723,
-      "importance": 0.7723,
-      "importance_score": 0.7723,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.81,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7371,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-03T04:56:06.814000Z",
-      "latest_at": "2026-07-03T04:56:06.814000Z",
-      "primary_item": {
-        "id": "4c6976e09f7e757edf55c8a4a38336b3661288a4",
-        "title": "claude-real-video ─ 让任何大语言模型（LLM）都能观看视频",
-        "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_85eefad9b7fe",
-      "title": "阿里达摩院发布超导材料发现AI智能体Elements Claw",
-      "url": "https://www.ithome.com/0/972/089.htm",
-      "primary_url": "https://www.ithome.com/0/972/089.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "75da6a61738da5908abb0807ab2b78852cf450c1",
-          "title": "阿里达摩院发布超导材料发现AI智能体Elements Claw",
-          "url": "https://www.ithome.com/0/972/089.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T03:27:15Z"
-        },
-        {
-          "id": "8de63de01b2c819c9c875e07a5c5aa1c125a535d",
-          "title": "阿里达摩院：AI 智能体发现 4 种全新超导材料，已获实验验证",
-          "url": "https://www.ithome.com/0/972/089.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-03T03:27:15Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "75da6a61738da5908abb0807ab2b78852cf450c1",
-          "title": "阿里达摩院发布超导材料发现AI智能体Elements Claw",
-          "url": "https://www.ithome.com/0/972/089.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T03:27:15Z"
-        },
-        {
-          "id": "8de63de01b2c819c9c875e07a5c5aa1c125a535d",
-          "title": "阿里达摩院：AI 智能体发现 4 种全新超导材料，已获实验验证",
-          "url": "https://www.ithome.com/0/972/089.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-03T03:27:15Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7665,
-      "importance": 0.7665,
-      "importance_score": 0.7665,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.8,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7215,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-03T03:27:15Z",
-      "latest_at": "2026-07-03T03:27:15Z",
-      "primary_item": {
-        "id": "75da6a61738da5908abb0807ab2b78852cf450c1",
-        "title": "阿里达摩院发布超导材料发现AI智能体Elements Claw",
-        "url": "https://www.ithome.com/0/972/089.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_a01c4885e987",
-      "title": "生数科技发布 Vidu S1，推动视频生成迈向\"实时交互\"新时代",
-      "url": "https://mp.weixin.qq.com/s/RuukpnoOA2tI0ERCNrLgtQ",
-      "primary_url": "https://mp.weixin.qq.com/s/RuukpnoOA2tI0ERCNrLgtQ",
-      "source": "公众号：生数科技（Vidu·视频）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "daaa243ce78be14548b0f493b73e8dedddf115d0",
-          "title": "生数科技发布 Vidu S1，推动视频生成迈向\"实时交互\"新时代",
-          "url": "https://mp.weixin.qq.com/s/RuukpnoOA2tI0ERCNrLgtQ",
-          "source": "公众号：生数科技（Vidu·视频）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T11:17:47Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：生数科技（Vidu·视频）"
-      ],
-      "items": [
-        {
-          "id": "daaa243ce78be14548b0f493b73e8dedddf115d0",
-          "title": "生数科技发布 Vidu S1，推动视频生成迈向\"实时交互\"新时代",
-          "url": "https://mp.weixin.qq.com/s/RuukpnoOA2tI0ERCNrLgtQ",
-          "source": "公众号：生数科技（Vidu·视频）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T11:17:47Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.727,
-      "importance": 0.727,
-      "importance_score": 0.727,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.808,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-03T11:17:47Z",
-      "latest_at": "2026-07-03T11:17:47Z",
-      "primary_item": {
-        "id": "daaa243ce78be14548b0f493b73e8dedddf115d0",
-        "title": "生数科技发布 Vidu S1，推动视频生成迈向\"实时交互\"新时代",
-        "url": "https://mp.weixin.qq.com/s/RuukpnoOA2tI0ERCNrLgtQ",
-        "source": "公众号：生数科技（Vidu·视频）",
         "source_name": "AI HOT"
       }
     },
@@ -825,15 +542,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7345,
-      "importance": 0.7345,
-      "importance_score": 0.7345,
+      "score": 0.7265,
+      "importance": 0.7265,
+      "importance_score": 0.7265,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8162,
+        "recency": 0.7715,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -885,15 +602,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7464,
-      "importance": 0.7464,
-      "importance_score": 0.7464,
+      "score": 0.7384,
+      "importance": 0.7384,
+      "importance_score": 0.7384,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8157,
+        "recency": 0.771,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -945,15 +662,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7345,
-      "importance": 0.7345,
-      "importance_score": 0.7345,
+      "score": 0.7265,
+      "importance": 0.7265,
+      "importance_score": 0.7265,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8162,
+        "recency": 0.7715,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1005,15 +722,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7303,
-      "importance": 0.7303,
-      "importance_score": 0.7303,
+      "score": 0.7225,
+      "importance": 0.7225,
+      "importance_score": 0.7225,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.793,
+        "recency": 0.7496,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1065,15 +782,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7296,
-      "importance": 0.7296,
-      "importance_score": 0.7296,
+      "score": 0.7219,
+      "importance": 0.7219,
+      "importance_score": 0.7219,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7891,
+        "recency": 0.7459,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1086,6 +803,66 @@
         "id": "c5cdef8fc8910413f1a7fc91b953c6d60deed6d2",
         "title": "AI 智能体 Elements Claw 成功“闭环”超导材料研发",
         "url": "https://www.aibase.com/news/29373",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_cfde5c3dd62f",
+      "title": "AI 研究进入“自动驾驶”时代：杨植麟谈大模型训练的第三阶段",
+      "url": "https://www.aibase.com/news/29374",
+      "primary_url": "https://www.aibase.com/news/29374",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "c19cd61938ac413faea98710cea52deb3631ce2f",
+          "title": "AI 研究进入“自动驾驶”时代：杨植麟谈大模型训练的第三阶段",
+          "url": "https://www.aibase.com/news/29374",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-03T09:39:33.432610Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "c19cd61938ac413faea98710cea52deb3631ce2f",
+          "title": "AI 研究进入“自动驾驶”时代：杨植麟谈大模型训练的第三阶段",
+          "url": "https://www.aibase.com/news/29374",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-03T09:39:33.432610Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7219,
+      "importance": 0.7219,
+      "importance_score": 0.7219,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7459,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-03T09:39:33.432610Z",
+      "latest_at": "2026-07-03T09:39:33.432610Z",
+      "primary_item": {
+        "id": "c19cd61938ac413faea98710cea52deb3631ce2f",
+        "title": "AI 研究进入“自动驾驶”时代：杨植麟谈大模型训练的第三阶段",
+        "url": "https://www.aibase.com/news/29374",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1179,15 +956,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6284,
-      "importance": 0.6284,
-      "importance_score": 0.6284,
+      "score": 0.6196,
+      "importance": 0.6196,
+      "importance_score": 0.6196,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4752,
         "source_tier": 0.54,
         "ai_relevance": 0.66,
-        "recency": 0.8889,
+        "recency": 0.8403,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1205,17 +982,17 @@
       }
     },
     {
-      "story_id": "story_cfde5c3dd62f",
-      "title": "AI 研究进入“自动驾驶”时代：杨植麟谈大模型训练的第三阶段",
-      "url": "https://www.aibase.com/news/29374",
-      "primary_url": "https://www.aibase.com/news/29374",
+      "story_id": "story_3c55d542c68d",
+      "title": "AI 视频赛道格局重塑：谷歌 Gemini Omni Flash 登顶盲测榜首",
+      "url": "https://www.aibase.com/news/29372",
+      "primary_url": "https://www.aibase.com/news/29372",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "c19cd61938ac413faea98710cea52deb3631ce2f",
-          "title": "AI 研究进入“自动驾驶”时代：杨植麟谈大模型训练的第三阶段",
-          "url": "https://www.aibase.com/news/29374",
+          "id": "7064e193bd2fc90b77cf668822d93600ec6aa4a8",
+          "title": "AI 视频赛道格局重塑：谷歌 Gemini Omni Flash 登顶盲测榜首",
+          "url": "https://www.aibase.com/news/29372",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1228,9 +1005,9 @@
       ],
       "items": [
         {
-          "id": "c19cd61938ac413faea98710cea52deb3631ce2f",
-          "title": "AI 研究进入“自动驾驶”时代：杨植麟谈大模型训练的第三阶段",
-          "url": "https://www.aibase.com/news/29374",
+          "id": "7064e193bd2fc90b77cf668822d93600ec6aa4a8",
+          "title": "AI 视频赛道格局重塑：谷歌 Gemini Omni Flash 登顶盲测榜首",
+          "url": "https://www.aibase.com/news/29372",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1239,15 +1016,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7296,
-      "importance": 0.7296,
-      "importance_score": 0.7296,
+      "score": 0.7219,
+      "importance": 0.7219,
+      "importance_score": 0.7219,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7891,
+        "recency": 0.7459,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1257,9 +1034,9 @@
       "earliest_at": "2026-07-03T09:39:33.432610Z",
       "latest_at": "2026-07-03T09:39:33.432610Z",
       "primary_item": {
-        "id": "c19cd61938ac413faea98710cea52deb3631ce2f",
-        "title": "AI 研究进入“自动驾驶”时代：杨植麟谈大模型训练的第三阶段",
-        "url": "https://www.aibase.com/news/29374",
+        "id": "7064e193bd2fc90b77cf668822d93600ec6aa4a8",
+        "title": "AI 视频赛道格局重塑：谷歌 Gemini Omni Flash 登顶盲测榜首",
+        "url": "https://www.aibase.com/news/29372",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1356,15 +1133,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5817,
-      "importance": 0.5817,
-      "importance_score": 0.5817,
+      "score": 0.5726,
+      "importance": 0.5726,
+      "importance_score": 0.5726,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9215,
+        "recency": 0.8711,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1382,17 +1159,17 @@
       }
     },
     {
-      "story_id": "story_3c55d542c68d",
-      "title": "AI 视频赛道格局重塑：谷歌 Gemini Omni Flash 登顶盲测榜首",
-      "url": "https://www.aibase.com/news/29372",
-      "primary_url": "https://www.aibase.com/news/29372",
+      "story_id": "story_17107d3fbe2f",
+      "title": "Claude 旗舰模型 Fable 5 开启“按需付费”模式，订阅用户权益受限",
+      "url": "https://www.aibase.com/news/29366",
+      "primary_url": "https://www.aibase.com/news/29366",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "7064e193bd2fc90b77cf668822d93600ec6aa4a8",
-          "title": "AI 视频赛道格局重塑：谷歌 Gemini Omni Flash 登顶盲测榜首",
-          "url": "https://www.aibase.com/news/29372",
+          "id": "b76a99dd0c054478257c2118c742dd91ae494ca9",
+          "title": "Claude 旗舰模型 Fable 5 开启“按需付费”模式，订阅用户权益受限",
+          "url": "https://www.aibase.com/news/29366",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1405,9 +1182,9 @@
       ],
       "items": [
         {
-          "id": "7064e193bd2fc90b77cf668822d93600ec6aa4a8",
-          "title": "AI 视频赛道格局重塑：谷歌 Gemini Omni Flash 登顶盲测榜首",
-          "url": "https://www.aibase.com/news/29372",
+          "id": "b76a99dd0c054478257c2118c742dd91ae494ca9",
+          "title": "Claude 旗舰模型 Fable 5 开启“按需付费”模式，订阅用户权益受限",
+          "url": "https://www.aibase.com/news/29366",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1416,15 +1193,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7296,
-      "importance": 0.7296,
-      "importance_score": 0.7296,
+      "score": 0.7219,
+      "importance": 0.7219,
+      "importance_score": 0.7219,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7891,
+        "recency": 0.7459,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1434,11 +1211,305 @@
       "earliest_at": "2026-07-03T09:39:33.432610Z",
       "latest_at": "2026-07-03T09:39:33.432610Z",
       "primary_item": {
-        "id": "7064e193bd2fc90b77cf668822d93600ec6aa4a8",
-        "title": "AI 视频赛道格局重塑：谷歌 Gemini Omni Flash 登顶盲测榜首",
-        "url": "https://www.aibase.com/news/29372",
+        "id": "b76a99dd0c054478257c2118c742dd91ae494ca9",
+        "title": "Claude 旗舰模型 Fable 5 开启“按需付费”模式，订阅用户权益受限",
+        "url": "https://www.aibase.com/news/29366",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_b7e86ff92336",
+      "title": "在 AMD MI355X 上运行的 GLM5.2，每节点吞吐量达 2626 tok/s，成本仅为 Blackwell 的不到一半",
+      "url": "https://www.wafer.ai/blog/glm52-amd",
+      "primary_url": "https://www.wafer.ai/blog/glm52-amd",
+      "source": "www.wafer.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "080d7749fd52aba3fb6472de65e14d78b7d7af7e",
+          "title": "在 AMD MI355X 上运行的 GLM5.2，每节点吞吐量达 2626 tok/s，成本仅为 Blackwell 的不到一半",
+          "url": "https://www.wafer.ai/blog/glm52-amd",
+          "source": "www.wafer.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-04T02:31:35.646000Z"
+        },
+        {
+          "id": "1eb632f2cfc04fea3a6b8d41e9f43430f0e974a2",
+          "title": "在 AMD MI355X 上运行的 GLM5.2，每节点吞吐量达 2626 tok/s，成本仅为 Blackwell 的不到一半 / GLM5.2 on AMD MI355X at 2626 tok/s/node at over 2x lower cost than Blackwell",
+          "url": "https://www.wafer.ai/blog/glm52-amd",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-03T21:49:06Z"
+        },
+        {
+          "id": "1bae42dd1741066c292419fab2e69b257a252ff5",
+          "title": "在 AMD MI355X 上运行的 GLM5.2，每节点吞吐量达 2626 tok/s，成本仅为 Blackwell 的不到一半 / Performance per dollar is getting faster and cheaper",
+          "url": "https://www.wafer.ai/blog/glm52-amd",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-03T21:49:06Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "Hacker News (黑客新闻)",
+        "www.wafer.ai"
+      ],
+      "items": [
+        {
+          "id": "080d7749fd52aba3fb6472de65e14d78b7d7af7e",
+          "title": "在 AMD MI355X 上运行的 GLM5.2，每节点吞吐量达 2626 tok/s，成本仅为 Blackwell 的不到一半",
+          "url": "https://www.wafer.ai/blog/glm52-amd",
+          "source": "www.wafer.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-04T02:31:35.646000Z"
+        },
+        {
+          "id": "1eb632f2cfc04fea3a6b8d41e9f43430f0e974a2",
+          "title": "在 AMD MI355X 上运行的 GLM5.2，每节点吞吐量达 2626 tok/s，成本仅为 Blackwell 的不到一半 / GLM5.2 on AMD MI355X at 2626 tok/s/node at over 2x lower cost than Blackwell",
+          "url": "https://www.wafer.ai/blog/glm52-amd",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-03T21:49:06Z"
+        },
+        {
+          "id": "1bae42dd1741066c292419fab2e69b257a252ff5",
+          "title": "在 AMD MI355X 上运行的 GLM5.2，每节点吞吐量达 2626 tok/s，成本仅为 Blackwell 的不到一半 / Performance per dollar is getting faster and cheaper",
+          "url": "https://www.wafer.ai/blog/glm52-amd",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-03T21:49:06Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5621,
+      "importance": 0.5621,
+      "importance_score": 0.5621,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9517,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-03T21:49:06Z",
+      "latest_at": "2026-07-04T02:31:35.646000Z",
+      "primary_item": {
+        "id": "080d7749fd52aba3fb6472de65e14d78b7d7af7e",
+        "title": "在 AMD MI355X 上运行的 GLM5.2，每节点吞吐量达 2626 tok/s，成本仅为 Blackwell 的不到一半",
+        "url": "https://www.wafer.ai/blog/glm52-amd",
+        "source": "www.wafer.ai",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_6dd39e80e7d5",
+      "title": "Show HN：Mcpsnoop – 适用于 MCP 的 Wireshark（透明代理和实时 TUI） / Show HN: Mcpsnoop – Wireshark for MCP (transparent proxy and live TUI)",
+      "url": "https://news.ycombinator.com/item?id=48777144",
+      "primary_url": "https://news.ycombinator.com/item?id=48777144",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "f2879e84446177edbb2b1cadb62d80d74996c37a",
+          "title": "Show HN：Mcpsnoop – 适用于 MCP 的 Wireshark（透明代理和实时 TUI） / Show HN: Mcpsnoop – Wireshark for MCP (transparent proxy and live TUI)",
+          "url": "https://news.ycombinator.com/item?id=48777144",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-03T19:00:43.439000Z"
+        },
+        {
+          "id": "0106277eaab5730a881a5309eabed31f1085d700",
+          "title": "Show HN: Mcpsnoop – 面向 MCP 的 Wireshark（透明代理和实时 TUI）",
+          "url": "https://github.com/kerlenton/mcpsnoop",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-03T16:55:50.504000Z"
+        },
+        {
+          "id": "de8087956e18e6c29ccf80f53bd8e4f2a1e3761d",
+          "title": "Show HN: Mcpsnoop – 面向 MCP 的 Wireshark（透明代理和实时 TUI） / Show HN: Mcpsnoop – Wireshark for MCP (transparent proxy and live TUI)",
+          "url": "https://github.com/kerlenton/mcpsnoop",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-03T16:53:50Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "github.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "f2879e84446177edbb2b1cadb62d80d74996c37a",
+          "title": "Show HN：Mcpsnoop – 适用于 MCP 的 Wireshark（透明代理和实时 TUI） / Show HN: Mcpsnoop – Wireshark for MCP (transparent proxy and live TUI)",
+          "url": "https://news.ycombinator.com/item?id=48777144",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-03T19:00:43.439000Z"
+        },
+        {
+          "id": "0106277eaab5730a881a5309eabed31f1085d700",
+          "title": "Show HN: Mcpsnoop – 面向 MCP 的 Wireshark（透明代理和实时 TUI）",
+          "url": "https://github.com/kerlenton/mcpsnoop",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-03T16:55:50.504000Z"
+        },
+        {
+          "id": "de8087956e18e6c29ccf80f53bd8e4f2a1e3761d",
+          "title": "Show HN: Mcpsnoop – 面向 MCP 的 Wireshark（透明代理和实时 TUI） / Show HN: Mcpsnoop – Wireshark for MCP (transparent proxy and live TUI)",
+          "url": "https://github.com/kerlenton/mcpsnoop",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-03T16:53:50Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5445,
+      "importance": 0.5445,
+      "importance_score": 0.5445,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8538,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-03T16:53:50Z",
+      "latest_at": "2026-07-03T19:00:43.439000Z",
+      "primary_item": {
+        "id": "f2879e84446177edbb2b1cadb62d80d74996c37a",
+        "title": "Show HN：Mcpsnoop – 适用于 MCP 的 Wireshark（透明代理和实时 TUI） / Show HN: Mcpsnoop – Wireshark for MCP (transparent proxy and live TUI)",
+        "url": "https://news.ycombinator.com/item?id=48777144",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_24e2bdc66332",
+      "title": "Jamesob 的本地运行 SOTA 大型语言模型指南",
+      "url": "https://github.com/jamesob/local-llm",
+      "primary_url": "https://github.com/jamesob/local-llm",
+      "source": "github.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "ddeec80a72889603ce582120ea75344d6c2c3521",
+          "title": "Jamesob 的本地运行 SOTA 大型语言模型指南",
+          "url": "https://github.com/jamesob/local-llm",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-03T18:47:44.003000Z"
+        },
+        {
+          "id": "f6a87333ddd5376ea98fcb9458119952fbac94b0",
+          "title": "Jamesob 在本地运行 SOTA LLM 的指南 / Jamesob's guide to running SOTA LLMs locally",
+          "url": "https://news.ycombinator.com/item?id=48775921",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-03T16:04:10.609000Z"
+        },
+        {
+          "id": "0acf9fda114bb3bb8e3d2a066c42b4900f646008",
+          "title": "Jamesob 的本地运行 SOTA 大型语言模型指南 / Jamesob's guide to running SOTA LLMs locally",
+          "url": "https://github.com/jamesob/local-llm",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-03T15:03:43Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "github.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "ddeec80a72889603ce582120ea75344d6c2c3521",
+          "title": "Jamesob 的本地运行 SOTA 大型语言模型指南",
+          "url": "https://github.com/jamesob/local-llm",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-03T18:47:44.003000Z"
+        },
+        {
+          "id": "f6a87333ddd5376ea98fcb9458119952fbac94b0",
+          "title": "Jamesob 在本地运行 SOTA LLM 的指南 / Jamesob's guide to running SOTA LLMs locally",
+          "url": "https://news.ycombinator.com/item?id=48775921",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-03T16:04:10.609000Z"
+        },
+        {
+          "id": "0acf9fda114bb3bb8e3d2a066c42b4900f646008",
+          "title": "Jamesob 的本地运行 SOTA 大型语言模型指南 / Jamesob's guide to running SOTA LLMs locally",
+          "url": "https://github.com/jamesob/local-llm",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-03T15:03:43Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.544,
+      "importance": 0.544,
+      "importance_score": 0.544,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8511,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-03T15:03:43Z",
+      "latest_at": "2026-07-03T18:47:44.003000Z",
+      "primary_item": {
+        "id": "ddeec80a72889603ce582120ea75344d6c2c3521",
+        "title": "Jamesob 的本地运行 SOTA 大型语言模型指南",
+        "url": "https://github.com/jamesob/local-llm",
+        "source": "github.com",
+        "source_name": "Buzzing"
       }
     }
   ]
