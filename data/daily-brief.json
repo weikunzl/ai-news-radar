@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T20:04:11.886603Z",
+  "generated_at": "2026-07-04T21:25:19.647976Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7693,
-      "importance": 0.7693,
-      "importance_score": 0.7693,
+      "score": 0.7664,
+      "importance": 0.7664,
+      "importance_score": 0.7664,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.854,
+        "recency": 0.8375,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -119,15 +119,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7384,
-      "importance": 0.7384,
-      "importance_score": 0.7384,
+      "score": 0.7356,
+      "importance": 0.7356,
+      "importance_score": 0.7356,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8046,
+        "recency": 0.7891,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -179,15 +179,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7297,
-      "importance": 0.7297,
-      "importance_score": 0.7297,
+      "score": 0.7268,
+      "importance": 0.7268,
+      "importance_score": 0.7268,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8226,
+        "recency": 0.8067,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -311,15 +311,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6887,
-      "importance": 0.6887,
-      "importance_score": 0.6887,
+      "score": 0.6853,
+      "importance": 0.6853,
+      "importance_score": 0.6853,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.54,
         "ai_relevance": 0.71,
-        "recency": 0.9694,
+        "recency": 0.9507,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -334,104 +334,6 @@
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-07-04",
         "source_name": "WaytoAGI"
-      }
-    },
-    {
-      "story_id": "story_616f8e70b9f8",
-      "title": "在Claude Mythos预览版发布前后，新发现的严重漏洞数量激增",
-      "url": "https://epoch.ai/data-insights/cve-severity-spike",
-      "primary_url": "https://epoch.ai/data-insights/cve-severity-spike",
-      "source": "epoch.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "7b0bcf1e441f6017f37dafeb3786a3bbce814539",
-          "title": "在Claude Mythos预览版发布前后，新发现的严重漏洞数量激增",
-          "url": "https://epoch.ai/data-insights/cve-severity-spike",
-          "source": "epoch.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-04T09:11:45.212000Z"
-        },
-        {
-          "id": "49b6ac7b0f225bb8a3b657f8a856d972ca57dcca",
-          "title": "Claude Mythos 预览版发布后新的严重漏洞激增 / New serious vulnerabilities spiked around release of Claude Mythos Preview",
-          "url": "https://news.ycombinator.com/item?id=48780056",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-03T22:26:53.079000Z"
-        },
-        {
-          "id": "61909141a734290bb3a0ad945426676e0626feb2",
-          "title": "在Claude Mythos预览版发布前后，新发现的严重漏洞数量激增 / New serious vulnerabilities spiked around release of Claude Mythos Preview",
-          "url": "https://epoch.ai/data-insights/cve-severity-spike",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-03T21:16:16Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "epoch.ai",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "7b0bcf1e441f6017f37dafeb3786a3bbce814539",
-          "title": "在Claude Mythos预览版发布前后，新发现的严重漏洞数量激增",
-          "url": "https://epoch.ai/data-insights/cve-severity-spike",
-          "source": "epoch.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-04T09:11:45.212000Z"
-        },
-        {
-          "id": "49b6ac7b0f225bb8a3b657f8a856d972ca57dcca",
-          "title": "Claude Mythos 预览版发布后新的严重漏洞激增 / New serious vulnerabilities spiked around release of Claude Mythos Preview",
-          "url": "https://news.ycombinator.com/item?id=48780056",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-03T22:26:53.079000Z"
-        },
-        {
-          "id": "61909141a734290bb3a0ad945426676e0626feb2",
-          "title": "在Claude Mythos预览版发布前后，新发现的严重漏洞数量激增 / New serious vulnerabilities spiked around release of Claude Mythos Preview",
-          "url": "https://epoch.ai/data-insights/cve-severity-spike",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-03T21:16:16Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5446,
-      "importance": 0.5446,
-      "importance_score": 0.5446,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8547,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-03T21:16:16Z",
-      "latest_at": "2026-07-04T09:11:45.212000Z",
-      "primary_item": {
-        "id": "7b0bcf1e441f6017f37dafeb3786a3bbce814539",
-        "title": "在Claude Mythos预览版发布前后，新发现的严重漏洞数量激增",
-        "url": "https://epoch.ai/data-insights/cve-severity-spike",
-        "source": "epoch.ai",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -488,15 +390,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5376,
-      "importance": 0.5376,
-      "importance_score": 0.5376,
+      "score": 0.5343,
+      "importance": 0.5343,
+      "importance_score": 0.5343,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9547,
+        "recency": 0.9362,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -586,15 +488,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5305,
-      "importance": 0.5305,
-      "importance_score": 0.5305,
+      "score": 0.5278,
+      "importance": 0.5278,
+      "importance_score": 0.5278,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7762,
+        "recency": 0.7612,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -665,15 +567,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5233,
-      "importance": 0.5233,
-      "importance_score": 0.5233,
+      "score": 0.5202,
+      "importance": 0.5202,
+      "importance_score": 0.5202,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.875,
+        "recency": 0.8581,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -744,15 +646,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5214,
-      "importance": 0.5214,
-      "importance_score": 0.5214,
+      "score": 0.5184,
+      "importance": 0.5184,
+      "importance_score": 0.5184,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8646,
+        "recency": 0.8478,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -823,15 +725,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5098,
-      "importance": 0.5098,
-      "importance_score": 0.5098,
+      "score": 0.507,
+      "importance": 0.507,
+      "importance_score": 0.507,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8,
+        "recency": 0.7846,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -902,15 +804,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5066,
-      "importance": 0.5066,
-      "importance_score": 0.5066,
+      "score": 0.5039,
+      "importance": 0.5039,
+      "importance_score": 0.5039,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7822,
+        "recency": 0.7671,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -980,15 +882,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5309,
-      "importance": 0.5309,
-      "importance_score": 0.5309,
+      "score": 0.5277,
+      "importance": 0.5277,
+      "importance_score": 0.5277,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9175,
+        "recency": 0.8997,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1003,85 +905,6 @@
         "url": "https://finance.sina.com.cn/roll/2026-07-04/doc-inifscxv2476365.shtml",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_551c2101be10",
-      "title": "Kagi 变更日志（7 月 2 日）：正面、反面和 AI 切换 / Kagi Changelog (July 2): Heads, tails, and an AI toggle",
-      "url": "https://news.ycombinator.com/item?id=48779352",
-      "primary_url": "https://news.ycombinator.com/item?id=48779352",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "88f14b3b5327d5cf3324b82907c58c754a730393",
-          "title": "Kagi 变更日志（7 月 2 日）：正面、反面和 AI 切换 / Kagi Changelog (July 2): Heads, tails, and an AI toggle",
-          "url": "https://news.ycombinator.com/item?id=48779352",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-03T21:26:50.558000Z"
-        },
-        {
-          "id": "cb37321763617c01ea664225410a7bb64e9029ce",
-          "title": "Kagi 变更日志（7 月 2 日）：正面、反面和 AI 切换 / Kagi Changelog (July 2): Heads, tails, and an AI toggle",
-          "url": "https://kagi.com/changelog",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-03T20:08:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "88f14b3b5327d5cf3324b82907c58c754a730393",
-          "title": "Kagi 变更日志（7 月 2 日）：正面、反面和 AI 切换 / Kagi Changelog (July 2): Heads, tails, and an AI toggle",
-          "url": "https://news.ycombinator.com/item?id=48779352",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-03T21:26:50.558000Z"
-        },
-        {
-          "id": "cb37321763617c01ea664225410a7bb64e9029ce",
-          "title": "Kagi 变更日志（7 月 2 日）：正面、反面和 AI 切换 / Kagi Changelog (July 2): Heads, tails, and an AI toggle",
-          "url": "https://kagi.com/changelog",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-03T20:08:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4956,
-      "importance": 0.4956,
-      "importance_score": 0.4956,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7213,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-03T20:08:01Z",
-      "latest_at": "2026-07-03T21:26:50.558000Z",
-      "primary_item": {
-        "id": "88f14b3b5327d5cf3324b82907c58c754a730393",
-        "title": "Kagi 变更日志（7 月 2 日）：正面、反面和 AI 切换 / Kagi Changelog (July 2): Heads, tails, and an AI toggle",
-        "url": "https://news.ycombinator.com/item?id=48779352",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -1138,15 +961,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5233,
-      "importance": 0.5233,
-      "importance_score": 0.5233,
+      "score": 0.5202,
+      "importance": 0.5202,
+      "importance_score": 0.5202,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.875,
+        "recency": 0.8581,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1217,15 +1040,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5202,
-      "importance": 0.5202,
-      "importance_score": 0.5202,
+      "score": 0.5172,
+      "importance": 0.5172,
+      "importance_score": 0.5172,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.858,
+        "recency": 0.8414,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1243,80 +1066,79 @@
       }
     },
     {
-      "story_id": "story_2e04f3e69e59",
-      "title": "Claude 的 Electron Mac 应用程序极其糟糕，是内部人员所为 / Claude's Criminally Bad Electron Mac App Is an Inside Job",
-      "url": "https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job",
-      "primary_url": "https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job",
+      "story_id": "story_30ac56cabc02",
+      "title": "17世纪阿姆斯特丹范德海登兄弟的消防系统 / Amsterdam invented the fire department",
+      "url": "https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department",
+      "primary_url": "https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department",
       "source": "Hacker News · 24h最热",
       "source_name": "Zeli",
       "sources": [
         {
-          "id": "6946947ee19f4eabd1b586cc7da5f48be7d20b02",
-          "title": "Claude 的 Electron Mac 应用程序极其糟糕，是内部人员所为 / Claude's Criminally Bad Electron Mac App Is an Inside Job",
-          "url": "https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job",
+          "id": "0f5897aec7717231ec2963b2b5a1b7ac3bf536ad",
+          "title": "17世纪阿姆斯特丹范德海登兄弟的消防系统 / Amsterdam invented the fire department",
+          "url": "https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-07-04T00:01:23Z"
+          "published_at": "2026-07-03T22:46:18Z"
         },
         {
-          "id": "2678cac44e38d601f3f5c52843d9c80fd1afe32c",
-          "title": "★ Claude 的极其糟糕的 Electron Mac 应用程序是内部人员所为 / ★ Claude’s Criminally Bad Electron Mac App Is an Inside Job",
-          "url": "https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job",
-          "source": "Daring Fireball",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-03T21:24:05Z"
+          "id": "dd3e44657bab409de0897fbaad07d9ca7ae06604",
+          "title": "17世纪阿姆斯特丹范德海登兄弟的消防系统 / The firefighting system of the Van der Heyden brothers in 17th century Amsterdam",
+          "url": "https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-03T22:46:18Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Daring Fireball",
         "Hacker News · 24h最热"
       ],
       "items": [
         {
-          "id": "6946947ee19f4eabd1b586cc7da5f48be7d20b02",
-          "title": "Claude 的 Electron Mac 应用程序极其糟糕，是内部人员所为 / Claude's Criminally Bad Electron Mac App Is an Inside Job",
-          "url": "https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job",
+          "id": "0f5897aec7717231ec2963b2b5a1b7ac3bf536ad",
+          "title": "17世纪阿姆斯特丹范德海登兄弟的消防系统 / Amsterdam invented the fire department",
+          "url": "https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-07-04T00:01:23Z"
+          "published_at": "2026-07-03T22:46:18Z"
         },
         {
-          "id": "2678cac44e38d601f3f5c52843d9c80fd1afe32c",
-          "title": "★ Claude 的极其糟糕的 Electron Mac 应用程序是内部人员所为 / ★ Claude’s Criminally Bad Electron Mac App Is an Inside Job",
-          "url": "https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job",
-          "source": "Daring Fireball",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-03T21:24:05Z"
+          "id": "dd3e44657bab409de0897fbaad07d9ca7ae06604",
+          "title": "17世纪阿姆斯特丹范德海登兄弟的消防系统 / The firefighting system of the Van der Heyden brothers in 17th century Amsterdam",
+          "url": "https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-03T22:46:18Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5006,
-      "importance": 0.5006,
-      "importance_score": 0.5006,
+      "score": 0.4956,
+      "importance": 0.4956,
+      "importance_score": 0.4956,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7486,
+        "recency": 0.721,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-03T21:24:05Z",
-      "latest_at": "2026-07-04T00:01:23Z",
+      "earliest_at": "2026-07-03T22:46:18Z",
+      "latest_at": "2026-07-03T22:46:18Z",
       "primary_item": {
-        "id": "6946947ee19f4eabd1b586cc7da5f48be7d20b02",
-        "title": "Claude 的 Electron Mac 应用程序极其糟糕，是内部人员所为 / Claude's Criminally Bad Electron Mac App Is an Inside Job",
-        "url": "https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job",
+        "id": "0f5897aec7717231ec2963b2b5a1b7ac3bf536ad",
+        "title": "17世纪阿姆斯特丹范德海登兄弟的消防系统 / Amsterdam invented the fire department",
+        "url": "https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
       }
@@ -1375,15 +1197,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5233,
-      "importance": 0.5233,
-      "importance_score": 0.5233,
+      "score": 0.5202,
+      "importance": 0.5202,
+      "importance_score": 0.5202,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.875,
+        "recency": 0.8581,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1454,15 +1276,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5233,
-      "importance": 0.5233,
-      "importance_score": 0.5233,
+      "score": 0.5202,
+      "importance": 0.5202,
+      "importance_score": 0.5202,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8748,
+        "recency": 0.8579,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1480,109 +1302,30 @@
       }
     },
     {
-      "story_id": "story_17fc9c6b8121",
-      "title": "一项对数百万条招聘信息的分析发现，企业招聘的正是人工智能无法胜任的工作",
-      "url": "https://www.businessinsider.com/ai-tech-jobs-skills-employers-want-2026-7",
-      "primary_url": "https://www.businessinsider.com/ai-tech-jobs-skills-employers-want-2026-7",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "69ce6334123f06d08a596817abda7f041e1fd040",
-          "title": "一项对数百万条招聘信息的分析发现，企业招聘的正是人工智能无法胜任的工作",
-          "url": "https://www.businessinsider.com/ai-tech-jobs-skills-employers-want-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-03T22:47:55.026000Z"
-        },
-        {
-          "id": "22f7ac03a76289d8eb4d728fcc6d2322bbfd1bd5",
-          "title": "一项对数百万条招聘信息的分析发现，企业招聘的正是人工智能无法胜任的工作 / Companies are hiring for something AI can't do, a review of millions of job listings found",
-          "url": "https://www.businessinsider.com/ai-tech-jobs-skills-employers-want-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-03T20:27:34Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "69ce6334123f06d08a596817abda7f041e1fd040",
-          "title": "一项对数百万条招聘信息的分析发现，企业招聘的正是人工智能无法胜任的工作",
-          "url": "https://www.businessinsider.com/ai-tech-jobs-skills-employers-want-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-03T22:47:55.026000Z"
-        },
-        {
-          "id": "22f7ac03a76289d8eb4d728fcc6d2322bbfd1bd5",
-          "title": "一项对数百万条招聘信息的分析发现，企业招聘的正是人工智能无法胜任的工作 / Companies are hiring for something AI can't do, a review of millions of job listings found",
-          "url": "https://www.businessinsider.com/ai-tech-jobs-skills-employers-want-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-03T20:27:34Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4982,
-      "importance": 0.4982,
-      "importance_score": 0.4982,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7355,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-03T20:27:34Z",
-      "latest_at": "2026-07-03T22:47:55.026000Z",
-      "primary_item": {
-        "id": "69ce6334123f06d08a596817abda7f041e1fd040",
-        "title": "一项对数百万条招聘信息的分析发现，企业招聘的正是人工智能无法胜任的工作",
-        "url": "https://www.businessinsider.com/ai-tech-jobs-skills-employers-want-2026-7",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_30ac56cabc02",
-      "title": "17世纪阿姆斯特丹范德海登兄弟的消防系统 / Amsterdam invented the fire department",
-      "url": "https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department",
-      "primary_url": "https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department",
+      "story_id": "story_374bcce2a56f",
+      "title": "巨树向顶端树枝输送水分毫无困难 / Giant trees have no trouble pumping water to top branches",
+      "url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches",
+      "primary_url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches",
       "source": "Hacker News · 24h最热",
       "source_name": "Zeli",
       "sources": [
         {
-          "id": "0f5897aec7717231ec2963b2b5a1b7ac3bf536ad",
-          "title": "17世纪阿姆斯特丹范德海登兄弟的消防系统 / Amsterdam invented the fire department",
-          "url": "https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department",
+          "id": "149bb261267401f1de46a124cee45d1503b04343",
+          "title": "巨树向顶端树枝输送水分毫无困难 / Giant trees have no trouble pumping water to top branches",
+          "url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-07-03T22:46:18Z"
+          "published_at": "2026-07-03T22:40:29Z"
         },
         {
-          "id": "dd3e44657bab409de0897fbaad07d9ca7ae06604",
-          "title": "17世纪阿姆斯特丹范德海登兄弟的消防系统 / The firefighting system of the Van der Heyden brothers in 17th century Amsterdam",
-          "url": "https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department",
+          "id": "021404ebcdd10f9848461b5c0b211ecc57ff9f11",
+          "title": "巨树向顶端树枝输送水分毫无困难 / Giant trees have no trouble pumping water to top branches: new research",
+          "url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-07-03T22:46:18Z"
+          "published_at": "2026-07-03T22:40:29Z"
         }
       ],
       "source_count": 2,
@@ -1591,49 +1334,286 @@
       ],
       "items": [
         {
-          "id": "0f5897aec7717231ec2963b2b5a1b7ac3bf536ad",
-          "title": "17世纪阿姆斯特丹范德海登兄弟的消防系统 / Amsterdam invented the fire department",
-          "url": "https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department",
+          "id": "149bb261267401f1de46a124cee45d1503b04343",
+          "title": "巨树向顶端树枝输送水分毫无困难 / Giant trees have no trouble pumping water to top branches",
+          "url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-07-03T22:46:18Z"
+          "published_at": "2026-07-03T22:40:29Z"
         },
         {
-          "id": "dd3e44657bab409de0897fbaad07d9ca7ae06604",
-          "title": "17世纪阿姆斯特丹范德海登兄弟的消防系统 / The firefighting system of the Van der Heyden brothers in 17th century Amsterdam",
-          "url": "https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department",
+          "id": "021404ebcdd10f9848461b5c0b211ecc57ff9f11",
+          "title": "巨树向顶端树枝输送水分毫无困难 / Giant trees have no trouble pumping water to top branches: new research",
+          "url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-07-03T22:46:18Z"
+          "published_at": "2026-07-03T22:40:29Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4981,
-      "importance": 0.4981,
-      "importance_score": 0.4981,
+      "score": 0.4954,
+      "importance": 0.4954,
+      "importance_score": 0.4954,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7352,
+        "recency": 0.72,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-03T22:46:18Z",
-      "latest_at": "2026-07-03T22:46:18Z",
+      "earliest_at": "2026-07-03T22:40:29Z",
+      "latest_at": "2026-07-03T22:40:29Z",
       "primary_item": {
-        "id": "0f5897aec7717231ec2963b2b5a1b7ac3bf536ad",
-        "title": "17世纪阿姆斯特丹范德海登兄弟的消防系统 / Amsterdam invented the fire department",
-        "url": "https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department",
+        "id": "149bb261267401f1de46a124cee45d1503b04343",
+        "title": "巨树向顶端树枝输送水分毫无困难 / Giant trees have no trouble pumping water to top branches",
+        "url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_ec5e6b0606c1",
+      "title": "业内首个 AI-eSIM 产业协同平台成立",
+      "url": "https://36kr.com/newsflashes/3880945005228038?f=rss",
+      "primary_url": "https://36kr.com/newsflashes/3880945005228038?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "c640ca021718f18f8553b7e5be837030e9ccefbb",
+          "title": "业内首个 AI-eSIM 产业协同平台成立",
+          "url": "https://36kr.com/newsflashes/3880945005228038?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "b7b47fca066db4837f697a7d9e579125c9805328",
+          "title": "业内首个AI-eSIM产业协同平台成立",
+          "url": "https://36kr.com/newsflashes/3880945005228038?f=rss",
+          "source": "36氪 (36Kr)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-04T07:20:31Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "36氪 (36Kr)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "c640ca021718f18f8553b7e5be837030e9ccefbb",
+          "title": "业内首个 AI-eSIM 产业协同平台成立",
+          "url": "https://36kr.com/newsflashes/3880945005228038?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "b7b47fca066db4837f697a7d9e579125c9805328",
+          "title": "业内首个AI-eSIM产业协同平台成立",
+          "url": "https://36kr.com/newsflashes/3880945005228038?f=rss",
+          "source": "36氪 (36Kr)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-04T07:20:31Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5152,
+      "importance": 0.5152,
+      "importance_score": 0.5152,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8299,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-04T07:20:31Z",
+      "latest_at": "2026-07-04T08:30:31.023538Z",
+      "primary_item": {
+        "id": "c640ca021718f18f8553b7e5be837030e9ccefbb",
+        "title": "业内首个 AI-eSIM 产业协同平台成立",
+        "url": "https://36kr.com/newsflashes/3880945005228038?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_e34f076112fc",
+      "title": "9 点 1 氪｜阿里内部全面禁用 Claude Code；FF 洛杉矶总部人去楼空？公司回应：不实；微软砸 25 亿美元组建 6000 人 AI 新公司",
+      "url": "https://36kr.com/p/3880629882679301?f=rss",
+      "primary_url": "https://36kr.com/p/3880629882679301?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "fb1a74914db791f61e440c6ce6ad136f100e34c9",
+          "title": "9 点 1 氪｜阿里内部全面禁用 Claude Code；FF 洛杉矶总部人去楼空？公司回应：不实；微软砸 25 亿美元组建 6000 人 AI 新公司",
+          "url": "https://36kr.com/p/3880629882679301?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "313797d77cee023d6cf1b214745bf2f5227124f0",
+          "title": "9点1氪｜阿里内部全面禁用Claude Code；FF洛杉矶总部人去楼空？公司回应：不实；微软砸25亿美元组建6000人AI新公司",
+          "url": "https://36kr.com/p/3880629882679301?f=rss",
+          "source": "36氪 (36Kr)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-04T01:03:44Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "36氪 (36Kr)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "fb1a74914db791f61e440c6ce6ad136f100e34c9",
+          "title": "9 点 1 氪｜阿里内部全面禁用 Claude Code；FF 洛杉矶总部人去楼空？公司回应：不实；微软砸 25 亿美元组建 6000 人 AI 新公司",
+          "url": "https://36kr.com/p/3880629882679301?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "313797d77cee023d6cf1b214745bf2f5227124f0",
+          "title": "9点1氪｜阿里内部全面禁用Claude Code；FF洛杉矶总部人去楼空？公司回应：不实；微软砸25亿美元组建6000人AI新公司",
+          "url": "https://36kr.com/p/3880629882679301?f=rss",
+          "source": "36氪 (36Kr)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-04T01:03:44Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5019,
+      "importance": 0.5019,
+      "importance_score": 0.5019,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7561,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-04T01:03:44Z",
+      "latest_at": "2026-07-04T02:03:32.731479Z",
+      "primary_item": {
+        "id": "fb1a74914db791f61e440c6ce6ad136f100e34c9",
+        "title": "9 点 1 氪｜阿里内部全面禁用 Claude Code；FF 洛杉矶总部人去楼空？公司回应：不实；微软砸 25 亿美元组建 6000 人 AI 新公司",
+        "url": "https://36kr.com/p/3880629882679301?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_70f93c5796f9",
+      "title": "腾讯、阿里、百度，历史性同台，快手旗下可灵 AI 首轮融资落地",
+      "url": "https://www.huxiu.com/article/4872604.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4872604.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "b64373fd9cb9c073551f2732bb489d68db2be89e",
+          "title": "腾讯、阿里、百度，历史性同台，快手旗下可灵 AI 首轮融资落地",
+          "url": "https://www.huxiu.com/article/4872604.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "1325fe1cbc6a6dffb60f757f07d6a5271378c9ec",
+          "title": "腾讯、阿里、百度，历史性同台，快手旗下可灵AI首轮融资落地",
+          "url": "https://www.huxiu.com/article/4872604.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-04T00:30:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "b64373fd9cb9c073551f2732bb489d68db2be89e",
+          "title": "腾讯、阿里、百度，历史性同台，快手旗下可灵 AI 首轮融资落地",
+          "url": "https://www.huxiu.com/article/4872604.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "1325fe1cbc6a6dffb60f757f07d6a5271378c9ec",
+          "title": "腾讯、阿里、百度，历史性同台，快手旗下可灵AI首轮融资落地",
+          "url": "https://www.huxiu.com/article/4872604.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-04T00:30:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5019,
+      "importance": 0.5019,
+      "importance_score": 0.5019,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7561,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-04T00:30:00Z",
+      "latest_at": "2026-07-04T02:03:32.731479Z",
+      "primary_item": {
+        "id": "b64373fd9cb9c073551f2732bb489d68db2be89e",
+        "title": "腾讯、阿里、百度，历史性同台，快手旗下可灵 AI 首轮融资落地",
+        "url": "https://www.huxiu.com/article/4872604.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     }
   ]
