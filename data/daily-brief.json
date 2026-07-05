@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T17:54:52.751633Z",
+  "generated_at": "2026-07-05T18:59:26.519402Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8397,
-      "importance": 0.8397,
-      "importance_score": 0.8397,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9671,
+        "recency": 0.9522,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -119,6 +119,128 @@
         "title": "Anthropic Claude Design 反向工程提示词开源更新",
         "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_7922f10f113d",
+      "title": "扎克伯格：建千兆瓦级AI集群，集中精英与资本",
+      "url": "https://x.com/rohanpaul_ai/status/2073834219659534816",
+      "primary_url": "https://x.com/rohanpaul_ai/status/2073834219659534816",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "53258a420fcd5e82ddf65c72dbfc5a4e39d64f3b",
+          "title": "扎克伯格：建千兆瓦级AI集群，集中精英与资本",
+          "url": "https://x.com/rohanpaul_ai/status/2073834219659534816",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-05T18:19:42Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Rohan Paul (@rohanpaul_ai)"
+      ],
+      "items": [
+        {
+          "id": "53258a420fcd5e82ddf65c72dbfc5a4e39d64f3b",
+          "title": "扎克伯格：建千兆瓦级AI集群，集中精英与资本",
+          "url": "https://x.com/rohanpaul_ai/status/2073834219659534816",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-05T18:19:42Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8019,
+      "importance": 0.8019,
+      "importance_score": 0.8019,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.84,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9905,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-05T18:19:42Z",
+      "latest_at": "2026-07-05T18:19:42Z",
+      "primary_item": {
+        "id": "53258a420fcd5e82ddf65c72dbfc5a4e39d64f3b",
+        "title": "扎克伯格：建千兆瓦级AI集群，集中精英与资本",
+        "url": "https://x.com/rohanpaul_ai/status/2073834219659534816",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_6819bbcdbee9",
+      "title": "美团 LongCat-2.0 完全开源（MIT 许可），1.6T MoE 模型开放权重与推理代码",
+      "url": "https://x.com/Meituan_LongCat/status/2073768940078317713",
+      "primary_url": "https://x.com/Meituan_LongCat/status/2073768940078317713",
+      "source": "X：美团 LongCat (@Meituan_LongCat)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e34acdb4b27e366222318e7f8c949ce5df701eec",
+          "title": "美团 LongCat-2.0 完全开源（MIT 许可），1.6T MoE 模型开放权重与推理代码",
+          "url": "https://x.com/Meituan_LongCat/status/2073768940078317713",
+          "source": "X：美团 LongCat (@Meituan_LongCat)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-05T14:00:18Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：美团 LongCat (@Meituan_LongCat)"
+      ],
+      "items": [
+        {
+          "id": "e34acdb4b27e366222318e7f8c949ce5df701eec",
+          "title": "美团 LongCat-2.0 完全开源（MIT 许可），1.6T MoE 模型开放权重与推理代码",
+          "url": "https://x.com/Meituan_LongCat/status/2073768940078317713",
+          "source": "X：美团 LongCat (@Meituan_LongCat)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-05T14:00:18Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7821,
+      "importance": 0.7821,
+      "importance_score": 0.7821,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.81,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9305,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-05T14:00:18Z",
+      "latest_at": "2026-07-05T14:00:18Z",
+      "primary_item": {
+        "id": "e34acdb4b27e366222318e7f8c949ce5df701eec",
+        "title": "美团 LongCat-2.0 完全开源（MIT 许可），1.6T MoE 模型开放权重与推理代码",
+        "url": "https://x.com/Meituan_LongCat/status/2073768940078317713",
+        "source": "X：美团 LongCat (@Meituan_LongCat)",
         "source_name": "AI HOT"
       }
     },
@@ -176,15 +298,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7682,
-      "importance": 0.7682,
-      "importance_score": 0.7682,
+      "score": 0.7658,
+      "importance": 0.7658,
+      "importance_score": 0.7658,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8646,
+        "recency": 0.8513,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -200,6 +322,87 @@
         "title": "LlamaIndex 发布 legal-kb：基于 Index v2 的智能体检索参考应用",
         "url": "https://www.marktechpost.com/2026/07/05/llamaindex-legal-kb-agentic-retrieval-over-index-v2-with-retrieve-find-read-and-grep-tools",
         "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_0a49822c4024",
+      "title": "三周前，我不小心创办了一家小公司",
+      "url": "https://extelligence.substack.com/p/i-accidentally-started-a-small-business",
+      "primary_url": "https://extelligence.substack.com/p/i-accidentally-started-a-small-business",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5a6aea02d46b8f0c44960de602a866e339c8d511",
+          "title": "三周前，我不小心创办了一家小公司",
+          "url": "https://extelligence.substack.com/p/i-accidentally-started-a-small-business",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-05T17:43:57.442000Z"
+        },
+        {
+          "id": "2f6a7703c48d7cf57ae5789509dabfcc37bf1581",
+          "title": "三周前，我不小心创办了一家小公司 / I Accidentally Started a Small Business Three Weeks Ago",
+          "url": "https://extelligence.substack.com/p/i-accidentally-started-a-small-business",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-05T03:36:49Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "5a6aea02d46b8f0c44960de602a866e339c8d511",
+          "title": "三周前，我不小心创办了一家小公司",
+          "url": "https://extelligence.substack.com/p/i-accidentally-started-a-small-business",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-05T17:43:57.442000Z"
+        },
+        {
+          "id": "2f6a7703c48d7cf57ae5789509dabfcc37bf1581",
+          "title": "三周前，我不小心创办了一家小公司 / I Accidentally Started a Small Business Three Weeks Ago",
+          "url": "https://extelligence.substack.com/p/i-accidentally-started-a-small-business",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-05T03:36:49Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7834,
+      "importance": 0.7834,
+      "importance_score": 0.7834,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.982,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-05T03:36:49Z",
+      "latest_at": "2026-07-05T17:43:57.442000Z",
+      "primary_item": {
+        "id": "5a6aea02d46b8f0c44960de602a866e339c8d511",
+        "title": "三周前，我不小心创办了一家小公司",
+        "url": "https://extelligence.substack.com/p/i-accidentally-started-a-small-business",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -257,15 +460,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7827,
-      "importance": 0.7827,
-      "importance_score": 0.7827,
+      "score": 0.78,
+      "importance": 0.78,
+      "importance_score": 0.78,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9783,
+        "recency": 0.9632,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -336,38 +539,10 @@
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
           "published_at": "2026-07-05T14:14:30.656066Z"
-        },
-        {
-          "id": "92f7d898593aeb16900a5965794d4c6bd90d29cd",
-          "title": "大多数人每天都在使用ChatGPT和Claude，却完全不知道它们究竟是怎么构建出来的。只有一小部分人理解那个精确的流程：它如何把原始互联网文本变成一个能够写作、推理和编程的模型。一旦理解这个流程，你也能从零构建自己的 LLM。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-04",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-04T17:55:12.359508Z"
-        },
-        {
-          "id": "2740c4ee78a51f3a39014127a4eed4895fe3f5c7",
-          "title": "曾任职于OpenAI、Google等多家头部AI企业的作者结合大厂求职与创业经历，给出了智能体时代专属职业成长路线。文章中围绕稀缺资源投入、问题发掘、选择高难度赛道、打磨落地细节、平衡机会与转化、低成本入局研究六大维度分享了实操思路。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-04",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-04T17:55:12.359508Z"
-        },
-        {
-          "id": "0e78145e55abed8abe13fd3ed9da824db1c4f046",
-          "title": "未来硅世界第18期邀请到了前微软、字节资深工程师分享了很多可直接落地的独立开发经验。这次直播不仅给出Claude Code与Codex互补互审的高效工作流，还顺带分享了低成本 VPS 服务、高效信息筛选路线。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-04",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-04T17:55:12.359508Z"
         }
       ],
-      "source_count": 8,
+      "source_count": 5,
       "source_names": [
-        "社区更新 · 2026-07-04",
         "社区更新 · 2026-07-05"
       ],
       "items": [
@@ -415,53 +590,26 @@
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
           "published_at": "2026-07-05T14:14:30.656066Z"
-        },
-        {
-          "id": "92f7d898593aeb16900a5965794d4c6bd90d29cd",
-          "title": "大多数人每天都在使用ChatGPT和Claude，却完全不知道它们究竟是怎么构建出来的。只有一小部分人理解那个精确的流程：它如何把原始互联网文本变成一个能够写作、推理和编程的模型。一旦理解这个流程，你也能从零构建自己的 LLM。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-04",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-04T17:55:12.359508Z"
-        },
-        {
-          "id": "2740c4ee78a51f3a39014127a4eed4895fe3f5c7",
-          "title": "曾任职于OpenAI、Google等多家头部AI企业的作者结合大厂求职与创业经历，给出了智能体时代专属职业成长路线。文章中围绕稀缺资源投入、问题发掘、选择高难度赛道、打磨落地细节、平衡机会与转化、低成本入局研究六大维度分享了实操思路。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-04",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-04T17:55:12.359508Z"
-        },
-        {
-          "id": "0e78145e55abed8abe13fd3ed9da824db1c4f046",
-          "title": "未来硅世界第18期邀请到了前微软、字节资深工程师分享了很多可直接落地的独立开发经验。这次直播不仅给出Claude Code与Codex互补互审的高效工作流，还顺带分享了低成本 VPS 服务、高效信息筛选路线。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-04",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-04T17:55:12.359508Z"
         }
       ],
-      "item_count": 8,
-      "duplicate_count": 8,
-      "score": 0.6666,
-      "importance": 0.6666,
-      "importance_score": 0.6666,
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.6638,
+      "importance": 0.6638,
+      "importance_score": 0.6638,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9853,
+        "recency": 0.9701,
         "story_heat": 1.0
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-04T17:55:12.359508Z",
+      "earliest_at": "2026-07-05T14:14:30.656066Z",
       "latest_at": "2026-07-05T16:53:20.469570Z",
       "primary_item": {
         "id": "3a5920148152ebbc651d634969fe3012dbb461fb",
@@ -525,15 +673,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.543,
+      "importance": 0.543,
+      "importance_score": 0.543,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9847,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -604,15 +752,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5432,
-      "importance": 0.5432,
-      "importance_score": 0.5432,
+      "score": 0.5404,
+      "importance": 0.5404,
+      "importance_score": 0.5404,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9853,
+        "recency": 0.9701,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -683,15 +831,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5314,
-      "importance": 0.5314,
-      "importance_score": 0.5314,
+      "score": 0.5289,
+      "importance": 0.5289,
+      "importance_score": 0.5289,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.92,
+        "recency": 0.9058,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -781,15 +929,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5295,
-      "importance": 0.5295,
-      "importance_score": 0.5295,
+      "score": 0.5273,
+      "importance": 0.5273,
+      "importance_score": 0.5273,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7705,
+        "recency": 0.7586,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -860,15 +1008,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5295,
-      "importance": 0.5295,
-      "importance_score": 0.5295,
+      "score": 0.5269,
+      "importance": 0.5269,
+      "importance_score": 0.5269,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9093,
+        "recency": 0.8953,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -938,15 +1086,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5141,
-      "importance": 0.5141,
-      "importance_score": 0.5141,
+      "score": 0.5118,
+      "importance": 0.5118,
+      "importance_score": 0.5118,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.824,
+        "recency": 0.8113,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1017,15 +1165,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5432,
-      "importance": 0.5432,
-      "importance_score": 0.5432,
+      "score": 0.5404,
+      "importance": 0.5404,
+      "importance_score": 0.5404,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9855,
+        "recency": 0.9703,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1096,15 +1244,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5365,
-      "importance": 0.5365,
-      "importance_score": 0.5365,
+      "score": 0.5339,
+      "importance": 0.5339,
+      "importance_score": 0.5339,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9483,
+        "recency": 0.9337,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1175,15 +1323,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5314,
-      "importance": 0.5314,
-      "importance_score": 0.5314,
+      "score": 0.5289,
+      "importance": 0.5289,
+      "importance_score": 0.5289,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.92,
+        "recency": 0.9058,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1254,15 +1402,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5245,
-      "importance": 0.5245,
-      "importance_score": 0.5245,
+      "score": 0.5221,
+      "importance": 0.5221,
+      "importance_score": 0.5221,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8817,
+        "recency": 0.8681,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1277,84 +1425,6 @@
         "url": "https://www.businessinsider.com/ai-startups-entry-level-workers-jobs-careers-harvard-2026-7",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_9c79f138d1f8",
-      "title": "关于编程代理的思考 · rakyll.org / Thoughts on coding agents",
-      "url": "https://rakyll.org/coding-agents",
-      "primary_url": "https://rakyll.org/coding-agents",
-      "source": "Lobsters (技术社区)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "8c196101e3bd2aae0cffc8298c99b28fb503daa5",
-          "title": "关于编程代理的思考 · rakyll.org / Thoughts on coding agents",
-          "url": "https://rakyll.org/coding-agents",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-04T18:30:17Z"
-        },
-        {
-          "id": "0849b3f7c13f90597fa11b68b3cb61ba05a04fc9",
-          "title": "关于编程代理的思考 · rakyll.org / Thoughts on coding agents · rakyll.org",
-          "url": "https://rakyll.org/coding-agents",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-04T18:30:17Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)"
-      ],
-      "items": [
-        {
-          "id": "8c196101e3bd2aae0cffc8298c99b28fb503daa5",
-          "title": "关于编程代理的思考 · rakyll.org / Thoughts on coding agents",
-          "url": "https://rakyll.org/coding-agents",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-04T18:30:17Z"
-        },
-        {
-          "id": "0849b3f7c13f90597fa11b68b3cb61ba05a04fc9",
-          "title": "关于编程代理的思考 · rakyll.org / Thoughts on coding agents · rakyll.org",
-          "url": "https://rakyll.org/coding-agents",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-04T18:30:17Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4942,
-      "importance": 0.4942,
-      "importance_score": 0.4942,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7132,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-04T18:30:17Z",
-      "latest_at": "2026-07-04T18:30:17Z",
-      "primary_item": {
-        "id": "8c196101e3bd2aae0cffc8298c99b28fb503daa5",
-        "title": "关于编程代理的思考 · rakyll.org / Thoughts on coding agents",
-        "url": "https://rakyll.org/coding-agents",
-        "source": "Lobsters (技术社区)",
-        "source_name": "Info Flow"
       }
     },
     {
@@ -1411,15 +1481,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.539,
-      "importance": 0.539,
-      "importance_score": 0.539,
+      "score": 0.5363,
+      "importance": 0.5363,
+      "importance_score": 0.5363,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9622,
+        "recency": 0.9474,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1489,15 +1559,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5035,
-      "importance": 0.5035,
-      "importance_score": 0.5035,
+      "score": 0.5014,
+      "importance": 0.5014,
+      "importance_score": 0.5014,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7651,
+        "recency": 0.7533,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1568,15 +1638,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5314,
-      "importance": 0.5314,
-      "importance_score": 0.5314,
+      "score": 0.5289,
+      "importance": 0.5289,
+      "importance_score": 0.5289,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.92,
+        "recency": 0.9058,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1589,164 +1659,6 @@
         "id": "c7c6699adf30cb3bcd487030ed92008e2ad89d5b",
         "title": "OpenAI，IPO 大消息",
         "url": "https://www.huxiu.com/article/4872764.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_141dc99ed661",
-      "title": "我当卡车司机已有近50年了。人工智能让这份工作变得更安全了，但自动驾驶卡车仍需进一步改进。",
-      "url": "https://www.businessinsider.com/veteran-trucker-ai-safer-autonomous-trucks-not-ready-ingrid-brown-2026-7",
-      "primary_url": "https://www.businessinsider.com/veteran-trucker-ai-safer-autonomous-trucks-not-ready-ingrid-brown-2026-7",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "19017868000fe1555529a118219dd004ce6095fe",
-          "title": "我当卡车司机已有近50年了。人工智能让这份工作变得更安全了，但自动驾驶卡车仍需进一步改进。",
-          "url": "https://www.businessinsider.com/veteran-trucker-ai-safer-autonomous-trucks-not-ready-ingrid-brown-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-05T08:55:31.703000Z"
-        },
-        {
-          "id": "e33a82fb6087d743c5e2606ffefd9cea3af41eff",
-          "title": "我当卡车司机已有近50年了。人工智能让这份工作变得更安全了，但自动驾驶卡车仍需进一步改进。 / I've been a trucker for nearly 5 decades. AI made the job safer, but autonomous trucks still need to prove themselves.",
-          "url": "https://www.businessinsider.com/veteran-trucker-ai-safer-autonomous-trucks-not-ready-ingrid-brown-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-05T08:41:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "19017868000fe1555529a118219dd004ce6095fe",
-          "title": "我当卡车司机已有近50年了。人工智能让这份工作变得更安全了，但自动驾驶卡车仍需进一步改进。",
-          "url": "https://www.businessinsider.com/veteran-trucker-ai-safer-autonomous-trucks-not-ready-ingrid-brown-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-05T08:55:31.703000Z"
-        },
-        {
-          "id": "e33a82fb6087d743c5e2606ffefd9cea3af41eff",
-          "title": "我当卡车司机已有近50年了。人工智能让这份工作变得更安全了，但自动驾驶卡车仍需进一步改进。 / I've been a trucker for nearly 5 decades. AI made the job safer, but autonomous trucks still need to prove themselves.",
-          "url": "https://www.businessinsider.com/veteran-trucker-ai-safer-autonomous-trucks-not-ready-ingrid-brown-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-05T08:41:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5239,
-      "importance": 0.5239,
-      "importance_score": 0.5239,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8783,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-05T08:41:01Z",
-      "latest_at": "2026-07-05T08:55:31.703000Z",
-      "primary_item": {
-        "id": "19017868000fe1555529a118219dd004ce6095fe",
-        "title": "我当卡车司机已有近50年了。人工智能让这份工作变得更安全了，但自动驾驶卡车仍需进一步改进。",
-        "url": "https://www.businessinsider.com/veteran-trucker-ai-safer-autonomous-trucks-not-ready-ingrid-brown-2026-7",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_6927f6ac0b83",
-      "title": "复旦大学一课程考试改为「人考 AI」，4 名大学生出题让 AI 拿 0 分",
-      "url": "https://www.ithome.com/0/972/809.htm",
-      "primary_url": "https://www.ithome.com/0/972/809.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "c47775fc98e23196c7399bedab6d2fd982a7ede7",
-          "title": "复旦大学一课程考试改为「人考 AI」，4 名大学生出题让 AI 拿 0 分",
-          "url": "https://www.ithome.com/0/972/809.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "0a3658abe726a814966a14bc8dc7d66ead6f6dfd",
-          "title": "复旦大学一课程考试改为“人考 AI”，4 名大学生出题让 AI 拿 0 分",
-          "url": "https://www.ithome.com/0/972/809.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-05T09:42:03Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "c47775fc98e23196c7399bedab6d2fd982a7ede7",
-          "title": "复旦大学一课程考试改为「人考 AI」，4 名大学生出题让 AI 拿 0 分",
-          "url": "https://www.ithome.com/0/972/809.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "0a3658abe726a814966a14bc8dc7d66ead6f6dfd",
-          "title": "复旦大学一课程考试改为“人考 AI”，4 名大学生出题让 AI 拿 0 分",
-          "url": "https://www.ithome.com/0/972/809.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-05T09:42:03Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5277,
-      "importance": 0.5277,
-      "importance_score": 0.5277,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8993,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-05T09:42:03Z",
-      "latest_at": "2026-07-05T10:34:05.157208Z",
-      "primary_item": {
-        "id": "c47775fc98e23196c7399bedab6d2fd982a7ede7",
-        "title": "复旦大学一课程考试改为「人考 AI」，4 名大学生出题让 AI 拿 0 分",
-        "url": "https://www.ithome.com/0/972/809.htm",
         "source": "Readhub · AI",
         "source_name": "TopHub"
       }
