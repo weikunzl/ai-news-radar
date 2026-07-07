@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T10:26:42.869306Z",
+  "generated_at": "2026-07-07T15:40:38.865002Z",
   "clusters": [
     {
       "cluster_id": "biz_cluster_2f0b4084974e",
@@ -62,69 +62,6 @@
           "source": "AI Engineer",
           "title": "Shawn Simister Independent · Software Engineer My favorite workshop at @aiDotEngineer World's Fair was \"LLMs for the Working Programmer\" by @ProgramWithAi with these great in-depth prompt workflows 2 34 200 32.9K",
           "url": "https://x.com/narphorium/status/1806778340323512472"
-        }
-      ]
-    },
-    {
-      "cluster_id": "biz_cluster_0cf37ab79ba4",
-      "thesis": "Enterprise AI value is moving toward operating-model redesign rather than isolated copilots.",
-      "lane": "enterprise_workflow",
-      "signal_ids": [
-        "biz_a1d362df5ac0",
-        "biz_6d29dad39b36",
-        "biz_40562aaff0ff",
-        "biz_d17b888b1114",
-        "biz_45677185d86e",
-        "biz_73aa72e3bde2",
-        "biz_de525aae38e5",
-        "biz_3148dc5d80bb",
-        "biz_ff34dbeef873",
-        "biz_e8c1e345ccf7",
-        "biz_efc3c55e96d3",
-        "biz_f2601158689e"
-      ],
-      "source_count": 4,
-      "importance_score": 58,
-      "confidence": "high",
-      "yuanli_mapping": [
-        "yuanli_os",
-        "ftf_trust"
-      ],
-      "why_it_matters": "12 English evidence items from 4 sources connect this pattern to Yuanli IP.",
-      "counter_evidence": "See counter_signal cluster for adoption, ROI, and trust risks.",
-      "recommended_action": "Map each workflow case to the Yuanli OS organs: soul, memory, judgment, hands.",
-      "evidence_refs": [
-        "biz_a1d362df5ac0",
-        "biz_6d29dad39b36",
-        "biz_40562aaff0ff",
-        "biz_d17b888b1114",
-        "biz_45677185d86e"
-      ],
-      "top_sources": [
-        {
-          "source": "a16z",
-          "title": "AI Agents and the Fight for Customer Data",
-          "url": "https://a16z.com/podcast/ai-agents-and-the-fight-for-customer-data/"
-        },
-        {
-          "source": "Anthropic News",
-          "title": "Product Jun 30, 2026 Introducing Claude Sonnet 5 Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.",
-          "url": "https://www.anthropic.com/news/claude-sonnet-5"
-        },
-        {
-          "source": "Anthropic News",
-          "title": "Announcements Jun 30, 2026 Claude Science, an AI workbench for scientists, is now available Claude Science is a customizable app that integrates the tools and packages researchers most often use, produces auditable artifacts, and provides flexible access to computing resources.",
-          "url": "https://www.anthropic.com/news/claude-science-ai-workbench"
-        },
-        {
-          "source": "Anthropic News",
-          "title": "Product Jun 23, 2026 Introducing Claude Tag Claude Tag is a new way for teams to work with Claude.",
-          "url": "https://www.anthropic.com/news/introducing-claude-tag"
-        },
-        {
-          "source": "Anthropic News",
-          "title": "Policy Jun 10, 2026 Policy on the AI Exponential AI is advancing at exponential speed, and the policymaking process was built for a slower world. We’re sharing policy proposals to prepare our institutions for AI progress.",
-          "url": "https://www.anthropic.com/policy-on-the-ai-exponential"
         }
       ]
     },
@@ -193,39 +130,102 @@
       ]
     },
     {
-      "cluster_id": "biz_cluster_bfe6cfe6d992",
+      "cluster_id": "biz_cluster_e35b21c3b9e3",
+      "thesis": "Enterprise AI value is moving toward operating-model redesign rather than isolated copilots.",
+      "lane": "enterprise_workflow",
+      "signal_ids": [
+        "biz_a1d362df5ac0",
+        "biz_ffddf2a62ef5",
+        "biz_73aa72e3bde2",
+        "biz_de525aae38e5",
+        "biz_cc36443ea683",
+        "biz_6d29dad39b36",
+        "biz_40562aaff0ff",
+        "biz_d17b888b1114",
+        "biz_3148dc5d80bb",
+        "biz_ff34dbeef873",
+        "biz_e8c1e345ccf7",
+        "biz_efc3c55e96d3"
+      ],
+      "source_count": 4,
+      "importance_score": 54,
+      "confidence": "high",
+      "yuanli_mapping": [
+        "yuanli_os",
+        "ftf_trust"
+      ],
+      "why_it_matters": "12 English evidence items from 4 sources connect this pattern to Yuanli IP.",
+      "counter_evidence": "See counter_signal cluster for adoption, ROI, and trust risks.",
+      "recommended_action": "Map each workflow case to the Yuanli OS organs: soul, memory, judgment, hands.",
+      "evidence_refs": [
+        "biz_a1d362df5ac0",
+        "biz_ffddf2a62ef5",
+        "biz_73aa72e3bde2",
+        "biz_de525aae38e5",
+        "biz_cc36443ea683"
+      ],
+      "top_sources": [
+        {
+          "source": "a16z",
+          "title": "AI Agents and the Fight for Customer Data",
+          "url": "https://a16z.com/podcast/ai-agents-and-the-fight-for-customer-data/"
+        },
+        {
+          "source": "Anthropic News",
+          "title": "The Making of Claude Code Features Jul 6, 2026 The inside story of how Claude Code went from an internal CLI to Anthropic's coding agent, told by researchers, engineers and early users who built it.",
+          "url": "https://www.anthropic.com/features/making-of-claude-code"
+        },
+        {
+          "source": "First Round Review",
+          "title": "Serval's Path to Product-Market Fit — Win Enterprise Buyers by Treating Them Like Consumers Notes from an AI founder taking a swing at a hundred-billion-dollar incumbent.",
+          "url": "https://review.firstround.com/servals-path-to-product-market-fit/"
+        },
+        {
+          "source": "Anthropic News",
+          "title": "Jul 6, 2026 Case Study Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems",
+          "url": "https://www.anthropic.com/news/alberta-government-claude-cybersecurity"
+        },
+        {
+          "source": "Anthropic News",
+          "title": "Announcements Jun 30, 2026 Redeploying Fable 5 Fable 5 returns globally July 1. We're also proposing an industry-wide framework for scoring jailbreak severity, together with Amazon, Microsoft, Google, and other Glasswing partners.",
+          "url": "https://www.anthropic.com/news/redeploying-fable-5"
+        }
+      ]
+    },
+    {
+      "cluster_id": "biz_cluster_47ad79a8f0f5",
       "thesis": "Business-school and consulting evidence strengthens the trust layer behind Yuanli IP claims.",
       "lane": "authority_trust",
       "signal_ids": [
         "biz_fd2b63193b5d",
         "biz_3f595b7a14d2",
         "biz_3c5823b34f5a",
-        "biz_9dce8b718271",
+        "biz_176a3daeb012",
         "biz_699da6d8b7be",
         "biz_ee0d77c88941",
         "biz_c3710204dd3b",
         "biz_d11e19e17274",
         "biz_6eff8c60fb3f",
+        "biz_3a083d2cdee0",
         "biz_36255a88492a",
-        "biz_e88fa46e3cee",
-        "biz_4a0e2e7cfba5"
+        "biz_e88fa46e3cee"
       ],
-      "source_count": 3,
-      "importance_score": 50,
-      "confidence": "medium",
+      "source_count": 4,
+      "importance_score": 52,
+      "confidence": "high",
       "yuanli_mapping": [
         "ftf_trust",
         "yuanli_asset",
         "yuanli_startup"
       ],
-      "why_it_matters": "12 English evidence items from 3 sources connect this pattern to Yuanli IP.",
+      "why_it_matters": "12 English evidence items from 4 sources connect this pattern to Yuanli IP.",
       "counter_evidence": "See counter_signal cluster for adoption, ROI, and trust risks.",
       "recommended_action": "Use these authority-backed signals as FTF proof points before making public claims.",
       "evidence_refs": [
         "biz_fd2b63193b5d",
         "biz_3f595b7a14d2",
         "biz_3c5823b34f5a",
-        "biz_9dce8b718271",
+        "biz_176a3daeb012",
         "biz_699da6d8b7be"
       ],
       "top_sources": [
@@ -247,7 +247,7 @@
         {
           "source": "Harvard Business Review",
           "title": "AI Is Changing How Customers Choose Your Business",
-          "url": "https://hbr.org/2026/07/ai-is-changing-how-customers-choose-your-business?ab=HP-hero-latest-1"
+          "url": "https://hbr.org/2026/07/ai-is-changing-how-customers-choose-your-business?ab=HP-latest-2"
         },
         {
           "source": "Harvard Business Review",
@@ -257,14 +257,14 @@
       ]
     },
     {
-      "cluster_id": "biz_cluster_5ff1c18b1530",
+      "cluster_id": "biz_cluster_f0614b3faabe",
       "thesis": "AI adoption counter-signals reveal where Yuanli claims need sharper proof and risk language.",
       "lane": "counter_signal",
       "signal_ids": [
         "biz_5abfba17eae7",
         "biz_3f3b42cbc409",
-        "biz_316beba6ba2f",
         "biz_d3bb755fab5d",
+        "biz_77506b2f6017",
         "biz_b5d21faaa7d6",
         "biz_85d016ac6404"
       ],
@@ -281,8 +281,8 @@
       "evidence_refs": [
         "biz_5abfba17eae7",
         "biz_3f3b42cbc409",
-        "biz_316beba6ba2f",
         "biz_d3bb755fab5d",
+        "biz_77506b2f6017",
         "biz_b5d21faaa7d6"
       ],
       "top_sources": [
@@ -297,14 +297,14 @@
           "url": "https://www.generalist.com/p/the-token-budget-problem"
         },
         {
-          "source": "Harvard Business Review",
-          "title": "Research: Navigating the Business Risks of Changing Pro-America Sentiment",
-          "url": "https://hbr.org/2026/07/research-navigating-the-business-risks-of-changing-pro-america-sentiment?ab=HP-latest-4"
-        },
-        {
           "source": "The Generalist",
           "title": "Why One Superintelligence Is More Dangerous Than a Thousand (Vincent Weisser, CEO & Co-Founder of Prime Intellect)",
           "url": "https://www.generalist.com/p/why-one-superintelligence-is-more"
+        },
+        {
+          "source": "Harvard Business Review",
+          "title": "Environmental Sustainability",
+          "url": "https://hbr.org/topic/subject/environmental-sustainability?ab=HP-hero-featured-1"
         },
         {
           "source": "Harvard Business Review",
