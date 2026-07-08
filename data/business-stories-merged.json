@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T15:41:55.962725Z",
+  "generated_at": "2026-07-08T17:19:09.704098Z",
   "clusters": [
     {
       "cluster_id": "biz_cluster_2f0b4084974e",
@@ -62,6 +62,69 @@
           "source": "AI Engineer",
           "title": "Shawn Simister Independent · Software Engineer My favorite workshop at @aiDotEngineer World's Fair was \"LLMs for the Working Programmer\" by @ProgramWithAi with these great in-depth prompt workflows 2 34 200 32.9K",
           "url": "https://x.com/narphorium/status/1806778340323512472"
+        }
+      ]
+    },
+    {
+      "cluster_id": "biz_cluster_5a959d7e1c41",
+      "thesis": "Enterprise AI value is moving toward operating-model redesign rather than isolated copilots.",
+      "lane": "enterprise_workflow",
+      "signal_ids": [
+        "biz_a1d362df5ac0",
+        "biz_ffddf2a62ef5",
+        "biz_73aa72e3bde2",
+        "biz_de525aae38e5",
+        "biz_ac169e6dbe17",
+        "biz_cde5dcbd1560",
+        "biz_cc36443ea683",
+        "biz_6d29dad39b36",
+        "biz_40562aaff0ff",
+        "biz_d17b888b1114",
+        "biz_3148dc5d80bb",
+        "biz_7fd0783df6de"
+      ],
+      "source_count": 6,
+      "importance_score": 59,
+      "confidence": "high",
+      "yuanli_mapping": [
+        "yuanli_os",
+        "ftf_trust"
+      ],
+      "why_it_matters": "12 English evidence items from 6 sources connect this pattern to Yuanli IP.",
+      "counter_evidence": "See counter_signal cluster for adoption, ROI, and trust risks.",
+      "recommended_action": "Map each workflow case to the Yuanli OS organs: soul, memory, judgment, hands.",
+      "evidence_refs": [
+        "biz_a1d362df5ac0",
+        "biz_ffddf2a62ef5",
+        "biz_73aa72e3bde2",
+        "biz_de525aae38e5",
+        "biz_ac169e6dbe17"
+      ],
+      "top_sources": [
+        {
+          "source": "a16z",
+          "title": "AI Agents and the Fight for Customer Data",
+          "url": "https://a16z.com/podcast/ai-agents-and-the-fight-for-customer-data/"
+        },
+        {
+          "source": "Anthropic News",
+          "title": "The Making of Claude Code Features Jul 6, 2026 The inside story of how Claude Code went from an internal CLI to Anthropic's coding agent, told by researchers, engineers and early users who built it.",
+          "url": "https://www.anthropic.com/features/making-of-claude-code"
+        },
+        {
+          "source": "First Round Review",
+          "title": "Serval's Path to Product-Market Fit — Win Enterprise Buyers by Treating Them Like Consumers Notes from an AI founder taking a swing at a hundred-billion-dollar incumbent.",
+          "url": "https://review.firstround.com/servals-path-to-product-market-fit/"
+        },
+        {
+          "source": "Anthropic News",
+          "title": "Jul 6, 2026 Case Study Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems",
+          "url": "https://www.anthropic.com/news/alberta-government-claude-cybersecurity"
+        },
+        {
+          "source": "Lenny's Newsletter",
+          "title": "What a harness is and how to build one with Claude Agent SDK",
+          "url": "https://www.lennysnewsletter.com/p/what-a-harness-is-and-how-to-build"
         }
       ]
     },
@@ -130,69 +193,6 @@
       ]
     },
     {
-      "cluster_id": "biz_cluster_cd154da08c74",
-      "thesis": "Enterprise AI value is moving toward operating-model redesign rather than isolated copilots.",
-      "lane": "enterprise_workflow",
-      "signal_ids": [
-        "biz_a1d362df5ac0",
-        "biz_ffddf2a62ef5",
-        "biz_73aa72e3bde2",
-        "biz_de525aae38e5",
-        "biz_ac169e6dbe17",
-        "biz_cc36443ea683",
-        "biz_6d29dad39b36",
-        "biz_40562aaff0ff",
-        "biz_d17b888b1114",
-        "biz_3148dc5d80bb",
-        "biz_ff34dbeef873",
-        "biz_e8c1e345ccf7"
-      ],
-      "source_count": 4,
-      "importance_score": 55,
-      "confidence": "high",
-      "yuanli_mapping": [
-        "yuanli_os",
-        "ftf_trust"
-      ],
-      "why_it_matters": "12 English evidence items from 4 sources connect this pattern to Yuanli IP.",
-      "counter_evidence": "See counter_signal cluster for adoption, ROI, and trust risks.",
-      "recommended_action": "Map each workflow case to the Yuanli OS organs: soul, memory, judgment, hands.",
-      "evidence_refs": [
-        "biz_a1d362df5ac0",
-        "biz_ffddf2a62ef5",
-        "biz_73aa72e3bde2",
-        "biz_de525aae38e5",
-        "biz_ac169e6dbe17"
-      ],
-      "top_sources": [
-        {
-          "source": "a16z",
-          "title": "AI Agents and the Fight for Customer Data",
-          "url": "https://a16z.com/podcast/ai-agents-and-the-fight-for-customer-data/"
-        },
-        {
-          "source": "Anthropic News",
-          "title": "The Making of Claude Code Features Jul 6, 2026 The inside story of how Claude Code went from an internal CLI to Anthropic's coding agent, told by researchers, engineers and early users who built it.",
-          "url": "https://www.anthropic.com/features/making-of-claude-code"
-        },
-        {
-          "source": "First Round Review",
-          "title": "Serval's Path to Product-Market Fit — Win Enterprise Buyers by Treating Them Like Consumers Notes from an AI founder taking a swing at a hundred-billion-dollar incumbent.",
-          "url": "https://review.firstround.com/servals-path-to-product-market-fit/"
-        },
-        {
-          "source": "Anthropic News",
-          "title": "Jul 6, 2026 Case Study Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems",
-          "url": "https://www.anthropic.com/news/alberta-government-claude-cybersecurity"
-        },
-        {
-          "source": "Lenny's Newsletter",
-          "title": "What a harness is and how to build one with Claude Agent SDK",
-          "url": "https://www.lennysnewsletter.com/p/what-a-harness-is-and-how-to-build"
-        }
-      ]
-    },
-    {
       "cluster_id": "biz_cluster_3a03200fd799",
       "thesis": "Business-school and consulting evidence strengthens the trust layer behind Yuanli IP claims.",
       "lane": "authority_trust",
@@ -257,15 +257,15 @@
       ]
     },
     {
-      "cluster_id": "biz_cluster_c91b604fa871",
+      "cluster_id": "biz_cluster_2db17cd63f28",
       "thesis": "AI adoption counter-signals reveal where Yuanli claims need sharper proof and risk language.",
       "lane": "counter_signal",
       "signal_ids": [
         "biz_5abfba17eae7",
         "biz_3f3b42cbc409",
         "biz_d3bb755fab5d",
-        "biz_b5d21faaa7d6",
-        "biz_85d016ac6404"
+        "biz_85d016ac6404",
+        "biz_b5d21faaa7d6"
       ],
       "source_count": 4,
       "importance_score": 48,
@@ -281,8 +281,8 @@
         "biz_5abfba17eae7",
         "biz_3f3b42cbc409",
         "biz_d3bb755fab5d",
-        "biz_b5d21faaa7d6",
-        "biz_85d016ac6404"
+        "biz_85d016ac6404",
+        "biz_b5d21faaa7d6"
       ],
       "top_sources": [
         {
@@ -301,14 +301,14 @@
           "url": "https://www.generalist.com/p/why-one-superintelligence-is-more"
         },
         {
-          "source": "Harvard Business Review",
-          "title": "AI Is Changing Cyber Risk. Here’s How SMBs Can Respond.",
-          "url": "https://hbr.org/2026/06/ai-is-changing-cyber-risk-heres-how-smbs-can-respond"
-        },
-        {
           "source": "a16z",
           "title": "Hugging Face’s Clem Delangue on Open Source AI and the LLM Bubble | MTS Live",
           "url": "https://a16z.com/podcast/hugging-faces-clem-delangue-on-open-source-ai-and-the-llm-bubble-mts-live/"
+        },
+        {
+          "source": "Harvard Business Review",
+          "title": "AI Is Changing Cyber Risk. Here’s How SMBs Can Respond.",
+          "url": "https://hbr.org/2026/06/ai-is-changing-cyber-risk-heres-how-smbs-can-respond"
         }
       ]
     }
