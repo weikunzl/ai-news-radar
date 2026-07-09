@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T15:52:57.264287Z",
+  "generated_at": "2026-07-09T17:47:39.624804Z",
   "clusters": [
     {
       "cluster_id": "biz_cluster_2f0b4084974e",
@@ -66,25 +66,25 @@
       ]
     },
     {
-      "cluster_id": "biz_cluster_6d5c70295eca",
+      "cluster_id": "biz_cluster_95f84e367f70",
       "thesis": "Enterprise AI value is moving toward operating-model redesign rather than isolated copilots.",
       "lane": "enterprise_workflow",
       "signal_ids": [
         "biz_a1d362df5ac0",
         "biz_ffddf2a62ef5",
+        "biz_cc36443ea683",
+        "biz_6d29dad39b36",
+        "biz_40562aaff0ff",
         "biz_73aa72e3bde2",
         "biz_de525aae38e5",
         "biz_6f37929d115f",
         "biz_acd9440352bc",
         "biz_ac169e6dbe17",
-        "biz_cc36443ea683",
-        "biz_6d29dad39b36",
-        "biz_40562aaff0ff",
-        "biz_d17b888b1114",
-        "biz_cde5dcbd1560"
+        "biz_cde5dcbd1560",
+        "biz_3148dc5d80bb"
       ],
       "source_count": 6,
-      "importance_score": 60,
+      "importance_score": 62,
       "confidence": "high",
       "yuanli_mapping": [
         "yuanli_os",
@@ -96,9 +96,9 @@
       "evidence_refs": [
         "biz_a1d362df5ac0",
         "biz_ffddf2a62ef5",
-        "biz_73aa72e3bde2",
-        "biz_de525aae38e5",
-        "biz_6f37929d115f"
+        "biz_cc36443ea683",
+        "biz_6d29dad39b36",
+        "biz_40562aaff0ff"
       ],
       "top_sources": [
         {
@@ -108,23 +108,23 @@
         },
         {
           "source": "Anthropic News",
-          "title": "The Making of Claude Code Features Jul 6, 2026 The inside story of how Claude Code went from an internal CLI to Anthropic's coding agent, told by researchers, engineers and early users who built it.",
+          "title": "Features Jul 6, 2026 The Making of Claude Code The inside story of how Claude Code went from an internal CLI to Anthropic's coding agent, told by researchers, engineers and early users who built it.",
           "url": "https://www.anthropic.com/features/making-of-claude-code"
         },
         {
-          "source": "First Round Review",
-          "title": "Serval's Path to Product-Market Fit — Win Enterprise Buyers by Treating Them Like Consumers Notes from an AI founder taking a swing at a hundred-billion-dollar incumbent.",
-          "url": "https://review.firstround.com/servals-path-to-product-market-fit/"
+          "source": "Anthropic News",
+          "title": "Announcements Jun 30, 2026 Redeploying Fable 5 Fable 5 returns globally July 1. We're also proposing an industry-wide framework for scoring jailbreak severity, together with Amazon, Microsoft, Google, and other Glasswing partners.",
+          "url": "https://www.anthropic.com/news/redeploying-fable-5"
         },
         {
           "source": "Anthropic News",
-          "title": "Jul 6, 2026 Case Study Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems",
-          "url": "https://www.anthropic.com/news/alberta-government-claude-cybersecurity"
+          "title": "Product Jun 30, 2026 Introducing Claude Sonnet 5 Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.",
+          "url": "https://www.anthropic.com/news/claude-sonnet-5"
         },
         {
-          "source": "GitHub Blog",
-          "title": "Automating cross-repo documentation with GitHub Agentic Workflows",
-          "url": "https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows/"
+          "source": "Anthropic News",
+          "title": "Announcements Jun 30, 2026 Claude Science, an AI workbench for scientists, is now available Claude Science is a customizable app that integrates the tools and packages researchers most often use, produces auditable artifacts, and provides flexible access to computing resources.",
+          "url": "https://www.anthropic.com/news/claude-science-ai-workbench"
         }
       ]
     },
