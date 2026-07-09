@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T02:57:46.132184Z",
+  "generated_at": "2026-07-09T06:37:32.265590Z",
   "clusters": [
     {
       "cluster_id": "biz_cluster_2f0b4084974e",
@@ -193,40 +193,40 @@
       ]
     },
     {
-      "cluster_id": "biz_cluster_7ab0a75fb7ea",
+      "cluster_id": "biz_cluster_3a03200fd799",
       "thesis": "Business-school and consulting evidence strengthens the trust layer behind Yuanli IP claims.",
       "lane": "authority_trust",
       "signal_ids": [
         "biz_fd2b63193b5d",
         "biz_3f595b7a14d2",
         "biz_3c5823b34f5a",
-        "biz_4999ea40e2a3",
         "biz_ee0d77c88941",
         "biz_c3710204dd3b",
+        "biz_4999ea40e2a3",
         "biz_d11e19e17274",
+        "biz_2189fea956a9",
         "biz_6eff8c60fb3f",
         "biz_36255a88492a",
         "biz_e88fa46e3cee",
-        "biz_4a0e2e7cfba5",
-        "biz_3a083d2cdee0"
+        "biz_4a0e2e7cfba5"
       ],
-      "source_count": 4,
-      "importance_score": 52,
-      "confidence": "high",
+      "source_count": 3,
+      "importance_score": 50,
+      "confidence": "medium",
       "yuanli_mapping": [
         "ftf_trust",
         "yuanli_asset",
         "yuanli_startup"
       ],
-      "why_it_matters": "12 English evidence items from 4 sources connect this pattern to Yuanli IP.",
+      "why_it_matters": "12 English evidence items from 3 sources connect this pattern to Yuanli IP.",
       "counter_evidence": "See counter_signal cluster for adoption, ROI, and trust risks.",
       "recommended_action": "Use these authority-backed signals as FTF proof points before making public claims.",
       "evidence_refs": [
         "biz_fd2b63193b5d",
         "biz_3f595b7a14d2",
         "biz_3c5823b34f5a",
-        "biz_4999ea40e2a3",
-        "biz_ee0d77c88941"
+        "biz_ee0d77c88941",
+        "biz_c3710204dd3b"
       ],
       "top_sources": [
         {
@@ -245,14 +245,14 @@
           "url": "https://hbr.org/2026/05/what-customer-workarounds-can-reveal-about-your-business-model?ab=HP-topics-text-3"
         },
         {
-          "source": "Harvard Business Review",
-          "title": "AI Is Changing How Customers Choose Your Business",
-          "url": "https://hbr.org/2026/07/ai-is-changing-how-customers-choose-your-business?ab=HP-latest-8"
-        },
-        {
           "source": "Bain Insights",
           "title": "Customer Experience",
           "url": "https://www.bain.com/consulting-services/customer-strategy-and-marketing/customer-experience-transformation/"
+        },
+        {
+          "source": "Bain Insights",
+          "title": "Supporting Your Growth",
+          "url": "https://www.bain.com/careers/life-at-bain/supporting-your-growth/"
         }
       ]
     },
