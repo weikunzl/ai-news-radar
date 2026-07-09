@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T22:56:26.816812Z",
+  "generated_at": "2026-07-09T00:00:29.870601Z",
   "clusters": [
     {
       "cluster_id": "biz_cluster_2f0b4084974e",
@@ -66,7 +66,7 @@
       ]
     },
     {
-      "cluster_id": "biz_cluster_e6d17d38da44",
+      "cluster_id": "biz_cluster_6d5c70295eca",
       "thesis": "Enterprise AI value is moving toward operating-model redesign rather than isolated copilots.",
       "lane": "enterprise_workflow",
       "signal_ids": [
@@ -75,22 +75,22 @@
         "biz_73aa72e3bde2",
         "biz_de525aae38e5",
         "biz_6f37929d115f",
+        "biz_acd9440352bc",
         "biz_ac169e6dbe17",
         "biz_cde5dcbd1560",
         "biz_cc36443ea683",
         "biz_6d29dad39b36",
         "biz_40562aaff0ff",
-        "biz_d17b888b1114",
-        "biz_3148dc5d80bb"
+        "biz_d17b888b1114"
       ],
-      "source_count": 5,
-      "importance_score": 58,
+      "source_count": 6,
+      "importance_score": 60,
       "confidence": "high",
       "yuanli_mapping": [
         "yuanli_os",
         "ftf_trust"
       ],
-      "why_it_matters": "12 English evidence items from 5 sources connect this pattern to Yuanli IP.",
+      "why_it_matters": "12 English evidence items from 6 sources connect this pattern to Yuanli IP.",
       "counter_evidence": "See counter_signal cluster for adoption, ROI, and trust risks.",
       "recommended_action": "Map each workflow case to the Yuanli OS organs: soul, memory, judgment, hands.",
       "evidence_refs": [
@@ -193,16 +193,16 @@
       ]
     },
     {
-      "cluster_id": "biz_cluster_7ab0a75fb7ea",
+      "cluster_id": "biz_cluster_3a03200fd799",
       "thesis": "Business-school and consulting evidence strengthens the trust layer behind Yuanli IP claims.",
       "lane": "authority_trust",
       "signal_ids": [
         "biz_fd2b63193b5d",
         "biz_3f595b7a14d2",
         "biz_3c5823b34f5a",
-        "biz_4999ea40e2a3",
         "biz_ee0d77c88941",
         "biz_c3710204dd3b",
+        "biz_4999ea40e2a3",
         "biz_d11e19e17274",
         "biz_6eff8c60fb3f",
         "biz_36255a88492a",
@@ -225,8 +225,8 @@
         "biz_fd2b63193b5d",
         "biz_3f595b7a14d2",
         "biz_3c5823b34f5a",
-        "biz_4999ea40e2a3",
-        "biz_ee0d77c88941"
+        "biz_ee0d77c88941",
+        "biz_c3710204dd3b"
       ],
       "top_sources": [
         {
@@ -245,14 +245,14 @@
           "url": "https://hbr.org/2026/05/what-customer-workarounds-can-reveal-about-your-business-model?ab=HP-topics-text-3"
         },
         {
-          "source": "Harvard Business Review",
-          "title": "AI Is Changing How Customers Choose Your Business",
-          "url": "https://hbr.org/2026/07/ai-is-changing-how-customers-choose-your-business?ab=HP-latest-8"
-        },
-        {
           "source": "Bain Insights",
           "title": "Customer Experience",
           "url": "https://www.bain.com/consulting-services/customer-strategy-and-marketing/customer-experience-transformation/"
+        },
+        {
+          "source": "Bain Insights",
+          "title": "Supporting Your Growth",
+          "url": "https://www.bain.com/careers/life-at-bain/supporting-your-growth/"
         }
       ]
     },
