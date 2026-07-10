@@ -10,7 +10,7 @@
     "capture_method": "rss_or_public_page",
     "cadence": "30m",
     "health_status": "failed",
-    "last_checked_at": "2026-07-10T13:56:41.159286Z",
+    "last_checked_at": "2026-07-10T16:15:14.740745Z",
     "latest_error": "feed_failed: 404 Client Error: Not Found for url: https://www.mckinsey.com/featured-insights/rss; page_failed: HTTPSConnectionPool(host='www.mckinsey.com', port=443): Read timed out. (read timeout=6)"
   },
   {
@@ -24,7 +24,7 @@
     "capture_method": "rss_or_public_page",
     "cadence": "30m",
     "health_status": "ok",
-    "last_checked_at": "2026-07-10T13:56:41.159558Z",
+    "last_checked_at": "2026-07-10T16:15:14.741165Z",
     "latest_error": "feed_failed_page_fallback: 404 Client Error: Not Found for url: https://www.bcg.com/rss"
   },
   {
@@ -38,7 +38,7 @@
     "capture_method": "rss_or_public_page",
     "cadence": "30m",
     "health_status": "ok",
-    "last_checked_at": "2026-07-10T13:56:41.159899Z",
+    "last_checked_at": "2026-07-10T16:15:14.744458Z",
     "latest_error": "feed_failed_page_fallback: 404 Client Error: Not Found for url: https://www.bain.com/insights/rss/"
   },
   {
@@ -52,7 +52,7 @@
     "capture_method": "rss_or_public_page",
     "cadence": "30m",
     "health_status": "ok",
-    "last_checked_at": "2026-07-10T13:56:41.160447Z",
+    "last_checked_at": "2026-07-10T16:15:14.745641Z",
     "latest_error": "feed_failed_page_fallback: HTTPSConnectionPool(host='feeds.hbr.org', port=443): Max retries exceeded with url: /harvardbusiness (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)')))"
   },
   {
@@ -66,7 +66,7 @@
     "capture_method": "rss_or_public_page",
     "cadence": "30m",
     "health_status": "ok",
-    "last_checked_at": "2026-07-10T13:56:41.160649Z",
+    "last_checked_at": "2026-07-10T16:15:14.746831Z",
     "latest_error": ""
   },
   {
@@ -80,7 +80,7 @@
     "capture_method": "rss_or_public_page",
     "cadence": "30m",
     "health_status": "ok",
-    "last_checked_at": "2026-07-10T13:56:41.162036Z",
+    "last_checked_at": "2026-07-10T16:15:14.748005Z",
     "latest_error": ""
   },
   {
@@ -94,7 +94,7 @@
     "capture_method": "rss_or_public_page",
     "cadence": "30m",
     "health_status": "ok",
-    "last_checked_at": "2026-07-10T13:56:41.165536Z",
+    "last_checked_at": "2026-07-10T16:15:14.749319Z",
     "latest_error": ""
   },
   {
@@ -108,7 +108,7 @@
     "capture_method": "rss_or_public_page",
     "cadence": "30m",
     "health_status": "ok",
-    "last_checked_at": "2026-07-10T13:56:41.167286Z",
+    "last_checked_at": "2026-07-10T16:15:14.750556Z",
     "latest_error": "feed_failed_page_fallback: 404 Client Error: Not Found for url: https://a16z.com/feed/"
   },
   {
@@ -122,7 +122,7 @@
     "capture_method": "rss_or_public_page",
     "cadence": "30m",
     "health_status": "ok",
-    "last_checked_at": "2026-07-10T13:56:41.308869Z",
+    "last_checked_at": "2026-07-10T16:15:14.864865Z",
     "latest_error": "feed_failed_page_fallback: 404 Client Error: Not Found for url: https://review.firstround.com/rss/"
   },
   {
@@ -136,7 +136,7 @@
     "capture_method": "rss_or_public_page",
     "cadence": "30m",
     "health_status": "ok",
-    "last_checked_at": "2026-07-10T13:56:41.533967Z",
+    "last_checked_at": "2026-07-10T16:15:14.875970Z",
     "latest_error": ""
   },
   {
@@ -150,7 +150,7 @@
     "capture_method": "rss_or_public_page",
     "cadence": "30m",
     "health_status": "ok",
-    "last_checked_at": "2026-07-10T13:56:41.655223Z",
+    "last_checked_at": "2026-07-10T16:15:14.992114Z",
     "latest_error": ""
   },
   {
@@ -164,7 +164,7 @@
     "capture_method": "rss_or_public_page",
     "cadence": "30m",
     "health_status": "ok",
-    "last_checked_at": "2026-07-10T13:56:41.675926Z",
+    "last_checked_at": "2026-07-10T16:15:15.162632Z",
     "latest_error": ""
   },
   {
@@ -178,7 +178,7 @@
     "capture_method": "rss_or_public_page",
     "cadence": "30m",
     "health_status": "ok",
-    "last_checked_at": "2026-07-10T13:56:41.747162Z",
+    "last_checked_at": "2026-07-10T16:15:15.278194Z",
     "latest_error": ""
   },
   {
@@ -192,8 +192,8 @@
     "capture_method": "rss_or_public_page",
     "cadence": "30m",
     "health_status": "ok",
-    "last_checked_at": "2026-07-10T13:56:41.865904Z",
-    "latest_error": ""
+    "last_checked_at": "2026-07-10T16:15:15.297462Z",
+    "latest_error": "feed_failed_page_fallback: HTTPSConnectionPool(host='www.indiehackers.com', port=443): Read timed out. (read timeout=6)"
   },
   {
     "source_id": "starter_story",
@@ -206,7 +206,7 @@
     "capture_method": "rss_or_public_page",
     "cadence": "30m",
     "health_status": "ok",
-    "last_checked_at": "2026-07-10T13:56:41.963518Z",
+    "last_checked_at": "2026-07-10T16:15:15.508053Z",
     "latest_error": "feed_failed_page_fallback: 404 Client Error: Not Found for url: https://www.starterstory.com/feed"
   },
   {
@@ -220,7 +220,7 @@
     "capture_method": "rss_or_public_page",
     "cadence": "30m",
     "health_status": "ok",
-    "last_checked_at": "2026-07-10T13:56:42.046271Z",
+    "last_checked_at": "2026-07-10T16:15:15.600112Z",
     "latest_error": "feed_failed_page_fallback: 404 Client Error: Not Found for url: https://microconf.com/feed"
   },
   {
@@ -234,7 +234,7 @@
     "capture_method": "rss_or_public_page",
     "cadence": "30m",
     "health_status": "ok",
-    "last_checked_at": "2026-07-10T13:56:42.094781Z",
+    "last_checked_at": "2026-07-10T16:15:15.603595Z",
     "latest_error": "feed_failed_page_fallback: 404 Client Error: Not Found for url: https://tinyseed.com/feed"
   },
   {
@@ -248,7 +248,7 @@
     "capture_method": "rss_or_public_page",
     "cadence": "30m",
     "health_status": "ok",
-    "last_checked_at": "2026-07-10T13:56:42.361443Z",
+    "last_checked_at": "2026-07-10T16:15:15.700931Z",
     "latest_error": "feed_failed_page_fallback: 404 Client Error: Not Found for url: https://thebootstrappedfounder.com/feed.xml"
   },
   {
@@ -262,7 +262,7 @@
     "capture_method": "rss_or_public_page",
     "cadence": "30m",
     "health_status": "ok",
-    "last_checked_at": "2026-07-10T13:56:42.581674Z",
+    "last_checked_at": "2026-07-10T16:15:16.046976Z",
     "latest_error": ""
   },
   {
@@ -276,7 +276,7 @@
     "capture_method": "rss_or_public_page",
     "cadence": "30m",
     "health_status": "ok",
-    "last_checked_at": "2026-07-10T13:56:42.661964Z",
+    "last_checked_at": "2026-07-10T16:15:16.250000Z",
     "latest_error": ""
   },
   {
@@ -290,7 +290,7 @@
     "capture_method": "rss_or_public_page",
     "cadence": "30m",
     "health_status": "ok",
-    "last_checked_at": "2026-07-10T13:56:42.752409Z",
+    "last_checked_at": "2026-07-10T16:15:16.284075Z",
     "latest_error": "feed_failed_page_fallback: 404 Client Error: Not Found for url: https://www.ai.engineer/feed"
   },
   {
@@ -304,7 +304,7 @@
     "capture_method": "rss_or_public_page",
     "cadence": "30m",
     "health_status": "failed",
-    "last_checked_at": "2026-07-10T13:56:42.949896Z",
+    "last_checked_at": "2026-07-10T16:15:16.510440Z",
     "latest_error": "feed_failed: 403 Client Error: Forbidden for url: https://www.deeplearning.ai/the-batch/rss/; page_failed: 403 Client Error: Forbidden for url: https://www.deeplearning.ai/the-batch/"
   },
   {
@@ -318,7 +318,7 @@
     "capture_method": "rss_or_public_page",
     "cadence": "30m",
     "health_status": "ok",
-    "last_checked_at": "2026-07-10T13:56:43.186428Z",
+    "last_checked_at": "2026-07-10T16:15:16.660020Z",
     "latest_error": ""
   },
   {
@@ -332,7 +332,7 @@
     "capture_method": "rss_or_public_page",
     "cadence": "30m",
     "health_status": "ok",
-    "last_checked_at": "2026-07-10T13:56:43.292188Z",
+    "last_checked_at": "2026-07-10T16:15:16.674310Z",
     "latest_error": "feed_failed_page_fallback: 404 Client Error: Not Found for url: https://www.anthropic.com/news/rss.xml"
   },
   {
@@ -346,7 +346,7 @@
     "capture_method": "rss_or_public_page",
     "cadence": "30m",
     "health_status": "ok",
-    "last_checked_at": "2026-07-10T13:56:43.404821Z",
+    "last_checked_at": "2026-07-10T16:15:16.895182Z",
     "latest_error": ""
   },
   {
@@ -360,7 +360,7 @@
     "capture_method": "rss_or_public_page",
     "cadence": "30m",
     "health_status": "ok",
-    "last_checked_at": "2026-07-10T13:56:43.553001Z",
+    "last_checked_at": "2026-07-10T16:15:17.014158Z",
     "latest_error": ""
   }
 ]
