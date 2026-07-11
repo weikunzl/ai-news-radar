@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T17:44:34.230083Z",
+  "generated_at": "2026-07-11T18:43:10.757725Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8484,
-      "importance": 0.8484,
-      "importance_score": 0.8484,
+      "score": 0.846,
+      "importance": 0.846,
+      "importance_score": 0.846,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9825,
+        "recency": 0.9687,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -157,15 +157,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8048,
-      "importance": 0.8048,
-      "importance_score": 0.8048,
+      "score": 0.8029,
+      "importance": 0.8029,
+      "importance_score": 0.8029,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7378,
+        "recency": 0.7274,
         "story_heat": 0.0
       },
       "category": "official",
@@ -182,125 +182,6 @@
         "url": "https://github.blog/changelog/2026-07-10-codeql-2-26-0-adds-kotlin-2-4-0-support-and-ai-prompt-injection-detection",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_a02db43ccd2c",
-      "title": "OpenAI 论文：GPT-5.6 Sol Ultra 证明图论\"循环双覆盖猜想\"",
-      "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
-      "primary_url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "feafedc0669c405607e613d397ecd9560defc7b4",
-          "title": "OpenAI 论文：GPT-5.6 Sol Ultra 证明图论\"循环双覆盖猜想\"",
-          "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-10T19:59:11.362000Z"
-        },
-        {
-          "id": "a4d4e1d0b7c8ab2558d994fbd60056dfd8580ee7",
-          "title": "GPT-5.6 Sol Ultra 给出了“循环双覆盖猜想”的证明 [pdf]",
-          "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
-          "source": "cdn.openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-10T19:59:11.362000Z"
-        },
-        {
-          "id": "46540be3e8a57ebb17b11711d6a724691bc29d93",
-          "title": "GPT-5.6 Sol Ultra 证明了循环双盖猜想 [pdf] / GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
-          "url": "https://news.ycombinator.com/item?id=48863490",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-10T19:47:08.565000Z"
-        },
-        {
-          "id": "1c869bdabef92e2c1ad32dcb465253b2d0da7ce0",
-          "title": "GPT-5.6 Sol Ultra 给出了“循环双覆盖猜想”的证明 [pdf] / GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
-          "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-10T18:29:19Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "cdn.openai.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "feafedc0669c405607e613d397ecd9560defc7b4",
-          "title": "OpenAI 论文：GPT-5.6 Sol Ultra 证明图论\"循环双覆盖猜想\"",
-          "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-10T19:59:11.362000Z"
-        },
-        {
-          "id": "a4d4e1d0b7c8ab2558d994fbd60056dfd8580ee7",
-          "title": "GPT-5.6 Sol Ultra 给出了“循环双覆盖猜想”的证明 [pdf]",
-          "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
-          "source": "cdn.openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-10T19:59:11.362000Z"
-        },
-        {
-          "id": "46540be3e8a57ebb17b11711d6a724691bc29d93",
-          "title": "GPT-5.6 Sol Ultra 证明了循环双盖猜想 [pdf] / GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
-          "url": "https://news.ycombinator.com/item?id=48863490",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-10T19:47:08.565000Z"
-        },
-        {
-          "id": "1c869bdabef92e2c1ad32dcb465253b2d0da7ce0",
-          "title": "GPT-5.6 Sol Ultra 给出了“循环双覆盖猜想”的证明 [pdf] / GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
-          "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-10T18:29:19Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8301,
-      "importance": 0.8301,
-      "importance_score": 0.8301,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.84,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7304,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-10T18:29:19Z",
-      "latest_at": "2026-07-10T19:59:11.362000Z",
-      "primary_item": {
-        "id": "feafedc0669c405607e613d397ecd9560defc7b4",
-        "title": "OpenAI 论文：GPT-5.6 Sol Ultra 证明图论\"循环双覆盖猜想\"",
-        "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -357,15 +238,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7939,
-      "importance": 0.7939,
-      "importance_score": 0.7939,
+      "score": 0.7914,
+      "importance": 0.7914,
+      "importance_score": 0.7914,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9904,
+        "recency": 0.9765,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -381,453 +262,6 @@
         "title": "研究：博科圣地已使用ChatGPT、Claude等主流AI聊天机器人用于袭击策划与武器开发",
         "url": "https://the-decoder.com/terrorist-groups-are-using-every-major-ai-chatbot-for-attack-planning-and-weapons-development",
         "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_8eeb4fee86b5",
-      "title": "蚂蚁集团 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型",
-      "url": "https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0",
-      "primary_url": "https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0",
-      "source": "MarkTechPost（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e871b5910a04307da3ef3ae7d63c20f888c4112a",
-          "title": "蚂蚁集团 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型",
-          "url": "https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-11T07:56:11Z"
-        },
-        {
-          "id": "dbf509acc7aa394d320e8dd9e3e3ca213ff65843",
-          "title": "蚂蚁集团 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型 / Ant Group’s Robbyant Unveils LingBot-VA 2.0: A Causal Video-Action Model Built Natively for Physical AI",
-          "url": "https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0",
-          "source": "MarkTechPost Research",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-11T07:56:11Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "MarkTechPost Research",
-        "MarkTechPost（RSS）"
-      ],
-      "items": [
-        {
-          "id": "e871b5910a04307da3ef3ae7d63c20f888c4112a",
-          "title": "蚂蚁集团 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型",
-          "url": "https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-11T07:56:11Z"
-        },
-        {
-          "id": "dbf509acc7aa394d320e8dd9e3e3ca213ff65843",
-          "title": "蚂蚁集团 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型 / Ant Group’s Robbyant Unveils LingBot-VA 2.0: A Causal Video-Action Model Built Natively for Physical AI",
-          "url": "https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0",
-          "source": "MarkTechPost Research",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-11T07:56:11Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7748,
-      "importance": 0.7748,
-      "importance_score": 0.7748,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.868,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-11T07:56:11Z",
-      "latest_at": "2026-07-11T07:56:11Z",
-      "primary_item": {
-        "id": "e871b5910a04307da3ef3ae7d63c20f888c4112a",
-        "title": "蚂蚁集团 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型",
-        "url": "https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0",
-        "source": "MarkTechPost（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_a4ad473125ca",
-      "title": "Apple 起诉 OpenAI 窃取商业机密",
-      "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft",
-      "primary_url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "25765d7448a51410f074e3d4261999deba0d2074",
-          "title": "Apple 起诉 OpenAI 窃取商业机密",
-          "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-10T20:32:00Z"
-        },
-        {
-          "id": "f2a45e6e6d07acc4ee424e5131b4d1ca40c8e42b",
-          "title": "Apple 起诉 OpenAI 窃取商业机密 / Apple sues OpenAI over alleged trade secret theft",
-          "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-10T21:00:29Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "TechCrunch AI",
-        "TechCrunch：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "25765d7448a51410f074e3d4261999deba0d2074",
-          "title": "Apple 起诉 OpenAI 窃取商业机密",
-          "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-10T20:32:00Z"
-        },
-        {
-          "id": "f2a45e6e6d07acc4ee424e5131b4d1ca40c8e42b",
-          "title": "Apple 起诉 OpenAI 窃取商业机密 / Apple sues OpenAI over alleged trade secret theft",
-          "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-10T21:00:29Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7691,
-      "importance": 0.7691,
-      "importance_score": 0.7691,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.8,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7362,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-10T20:32:00Z",
-      "latest_at": "2026-07-10T21:00:29Z",
-      "primary_item": {
-        "id": "25765d7448a51410f074e3d4261999deba0d2074",
-        "title": "Apple 起诉 OpenAI 窃取商业机密",
-        "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_f46516359f1f",
-      "title": "秘密扫描探测器类型的更清晰名称 / Clearer names for secret scanning detector types",
-      "url": "https://github.blog/changelog/2026-07-10-clearer-names-for-secret-scanning-detector-types",
-      "primary_url": "https://github.blog/changelog/2026-07-10-clearer-names-for-secret-scanning-detector-types",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "054a567c7fb2381c6cffea83b4146c1ae7fe4abb",
-          "title": "秘密扫描探测器类型的更清晰名称 / Clearer names for secret scanning detector types",
-          "url": "https://github.blog/changelog/2026-07-10-clearer-names-for-secret-scanning-detector-types",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-10T20:06:10Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "054a567c7fb2381c6cffea83b4146c1ae7fe4abb",
-          "title": "秘密扫描探测器类型的更清晰名称 / Clearer names for secret scanning detector types",
-          "url": "https://github.blog/changelog/2026-07-10-clearer-names-for-secret-scanning-detector-types",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-10T20:06:10Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7957,
-      "importance": 0.7957,
-      "importance_score": 0.7957,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7316,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-10T20:06:10Z",
-      "latest_at": "2026-07-10T20:06:10Z",
-      "primary_item": {
-        "id": "054a567c7fb2381c6cffea83b4146c1ae7fe4abb",
-        "title": "秘密扫描探测器类型的更清晰名称 / Clearer names for secret scanning detector types",
-        "url": "https://github.blog/changelog/2026-07-10-clearer-names-for-secret-scanning-detector-types",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_6d7dc2911118",
-      "title": "11天Claude Fable 5写超100万行代码：Rust重构JavaScript运行时Bun",
-      "url": "https://www.ithome.com/0/975/469.htm",
-      "primary_url": "https://www.ithome.com/0/975/469.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2a61ae129b00bfd8553580d905cd56ab08d34b14",
-          "title": "11天Claude Fable 5写超100万行代码：Rust重构JavaScript运行时Bun",
-          "url": "https://www.ithome.com/0/975/469.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-11T07:33:08Z"
-        },
-        {
-          "id": "48ab288af4e443d20b63901488425e4a96338a61",
-          "title": "11 天 Claude Fable 5 狂写超 100 万行代码：Rust 重构 JavaScript 运行时 Bun",
-          "url": "https://www.ithome.com/0/975/469.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-11T07:33:08Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "2a61ae129b00bfd8553580d905cd56ab08d34b14",
-          "title": "11天Claude Fable 5写超100万行代码：Rust重构JavaScript运行时Bun",
-          "url": "https://www.ithome.com/0/975/469.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-11T07:33:08Z"
-        },
-        {
-          "id": "48ab288af4e443d20b63901488425e4a96338a61",
-          "title": "11 天 Claude Fable 5 狂写超 100 万行代码：Rust 重构 JavaScript 运行时 Bun",
-          "url": "https://www.ithome.com/0/975/469.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-11T07:33:08Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8632,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-11T07:33:08Z",
-      "latest_at": "2026-07-11T07:33:08Z",
-      "primary_item": {
-        "id": "2a61ae129b00bfd8553580d905cd56ab08d34b14",
-        "title": "11天Claude Fable 5写超100万行代码：Rust重构JavaScript运行时Bun",
-        "url": "https://www.ithome.com/0/975/469.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_6c4a6e1919dc",
-      "title": "Meta 关闭 Instagram 用户可基于公开账户生成 AI 深度伪造图片的功能",
-      "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
-      "primary_url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
-      "source": "The Verge：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ec4f06aa0a65267e94138cb5c816c98887e6b602",
-          "title": "Meta 关闭 Instagram 用户可基于公开账户生成 AI 深度伪造图片的功能",
-          "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-10T23:49:50Z"
-        },
-        {
-          "id": "4da42be56fa7d8a150922bb5c5f4032d39d80bb3",
-          "title": "Meta 关闭 Instagram 用户可基于公开账户生成 AI 深度伪造图片的功能 / Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
-          "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-10T23:49:50Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Verge",
-        "The Verge：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "ec4f06aa0a65267e94138cb5c816c98887e6b602",
-          "title": "Meta 关闭 Instagram 用户可基于公开账户生成 AI 深度伪造图片的功能",
-          "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-10T23:49:50Z"
-        },
-        {
-          "id": "4da42be56fa7d8a150922bb5c5f4032d39d80bb3",
-          "title": "Meta 关闭 Instagram 用户可基于公开账户生成 AI 深度伪造图片的功能 / Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
-          "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-10T23:49:50Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7636,
-      "importance": 0.7636,
-      "importance_score": 0.7636,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7721,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-10T23:49:50Z",
-      "latest_at": "2026-07-10T23:49:50Z",
-      "primary_item": {
-        "id": "ec4f06aa0a65267e94138cb5c816c98887e6b602",
-        "title": "Meta 关闭 Instagram 用户可基于公开账户生成 AI 深度伪造图片的功能",
-        "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
-        "source": "The Verge：AI（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_1f16fd4d5a46",
-      "title": "苹果起诉OpenAI窃取商业机密开发AI硬件",
-      "url": "https://x.com/dotey/status/2075712647723397452",
-      "primary_url": "https://x.com/dotey/status/2075712647723397452",
-      "source": "X：宝玉 (@dotey)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2307252350cc21c98542f24bced584562a8206da",
-          "title": "苹果起诉OpenAI窃取商业机密开发AI硬件",
-          "url": "https://x.com/dotey/status/2075712647723397452",
-          "source": "X：宝玉 (@dotey)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-10T22:43:54Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：宝玉 (@dotey)"
-      ],
-      "items": [
-        {
-          "id": "2307252350cc21c98542f24bced584562a8206da",
-          "title": "苹果起诉OpenAI窃取商业机密开发AI硬件",
-          "url": "https://x.com/dotey/status/2075712647723397452",
-          "source": "X：宝玉 (@dotey)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-10T22:43:54Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7604,
-      "importance": 0.7604,
-      "importance_score": 0.7604,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.84,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7599,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-10T22:43:54Z",
-      "latest_at": "2026-07-10T22:43:54Z",
-      "primary_item": {
-        "id": "2307252350cc21c98542f24bced584562a8206da",
-        "title": "苹果起诉OpenAI窃取商业机密开发AI硬件",
-        "url": "https://x.com/dotey/status/2075712647723397452",
-        "source": "X：宝玉 (@dotey)",
         "source_name": "AI HOT"
       }
     },
@@ -923,15 +357,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8132,
-      "importance": 0.8132,
-      "importance_score": 0.8132,
+      "score": 0.8113,
+      "importance": 0.8113,
+      "importance_score": 0.8113,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7533,
+        "recency": 0.7427,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -947,6 +381,453 @@
         "title": "博科圣地如何利用前沿AI技术",
         "url": "https://casp.ac/reports/ai-enabled-terrorism",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_8eeb4fee86b5",
+      "title": "蚂蚁集团 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型",
+      "url": "https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0",
+      "primary_url": "https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0",
+      "source": "MarkTechPost（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e871b5910a04307da3ef3ae7d63c20f888c4112a",
+          "title": "蚂蚁集团 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型",
+          "url": "https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-11T07:56:11Z"
+        },
+        {
+          "id": "dbf509acc7aa394d320e8dd9e3e3ca213ff65843",
+          "title": "蚂蚁集团 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型 / Ant Group’s Robbyant Unveils LingBot-VA 2.0: A Causal Video-Action Model Built Natively for Physical AI",
+          "url": "https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0",
+          "source": "MarkTechPost Research",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-11T07:56:11Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "MarkTechPost Research",
+        "MarkTechPost（RSS）"
+      ],
+      "items": [
+        {
+          "id": "e871b5910a04307da3ef3ae7d63c20f888c4112a",
+          "title": "蚂蚁集团 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型",
+          "url": "https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-11T07:56:11Z"
+        },
+        {
+          "id": "dbf509acc7aa394d320e8dd9e3e3ca213ff65843",
+          "title": "蚂蚁集团 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型 / Ant Group’s Robbyant Unveils LingBot-VA 2.0: A Causal Video-Action Model Built Natively for Physical AI",
+          "url": "https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0",
+          "source": "MarkTechPost Research",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-11T07:56:11Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7726,
+      "importance": 0.7726,
+      "importance_score": 0.7726,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8558,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-11T07:56:11Z",
+      "latest_at": "2026-07-11T07:56:11Z",
+      "primary_item": {
+        "id": "e871b5910a04307da3ef3ae7d63c20f888c4112a",
+        "title": "蚂蚁集团 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型",
+        "url": "https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0",
+        "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_a4ad473125ca",
+      "title": "Apple 起诉 OpenAI 窃取商业机密",
+      "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft",
+      "primary_url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "25765d7448a51410f074e3d4261999deba0d2074",
+          "title": "Apple 起诉 OpenAI 窃取商业机密",
+          "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-10T20:32:00Z"
+        },
+        {
+          "id": "f2a45e6e6d07acc4ee424e5131b4d1ca40c8e42b",
+          "title": "Apple 起诉 OpenAI 窃取商业机密 / Apple sues OpenAI over alleged trade secret theft",
+          "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-10T21:00:29Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "TechCrunch AI",
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "25765d7448a51410f074e3d4261999deba0d2074",
+          "title": "Apple 起诉 OpenAI 窃取商业机密",
+          "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-10T20:32:00Z"
+        },
+        {
+          "id": "f2a45e6e6d07acc4ee424e5131b4d1ca40c8e42b",
+          "title": "Apple 起诉 OpenAI 窃取商业机密 / Apple sues OpenAI over alleged trade secret theft",
+          "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-10T21:00:29Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7673,
+      "importance": 0.7673,
+      "importance_score": 0.7673,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.8,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7259,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-10T20:32:00Z",
+      "latest_at": "2026-07-10T21:00:29Z",
+      "primary_item": {
+        "id": "25765d7448a51410f074e3d4261999deba0d2074",
+        "title": "Apple 起诉 OpenAI 窃取商业机密",
+        "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_f46516359f1f",
+      "title": "秘密扫描探测器类型的更清晰名称 / Clearer names for secret scanning detector types",
+      "url": "https://github.blog/changelog/2026-07-10-clearer-names-for-secret-scanning-detector-types",
+      "primary_url": "https://github.blog/changelog/2026-07-10-clearer-names-for-secret-scanning-detector-types",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "054a567c7fb2381c6cffea83b4146c1ae7fe4abb",
+          "title": "秘密扫描探测器类型的更清晰名称 / Clearer names for secret scanning detector types",
+          "url": "https://github.blog/changelog/2026-07-10-clearer-names-for-secret-scanning-detector-types",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-10T20:06:10Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "054a567c7fb2381c6cffea83b4146c1ae7fe4abb",
+          "title": "秘密扫描探测器类型的更清晰名称 / Clearer names for secret scanning detector types",
+          "url": "https://github.blog/changelog/2026-07-10-clearer-names-for-secret-scanning-detector-types",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-10T20:06:10Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7938,
+      "importance": 0.7938,
+      "importance_score": 0.7938,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7214,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-10T20:06:10Z",
+      "latest_at": "2026-07-10T20:06:10Z",
+      "primary_item": {
+        "id": "054a567c7fb2381c6cffea83b4146c1ae7fe4abb",
+        "title": "秘密扫描探测器类型的更清晰名称 / Clearer names for secret scanning detector types",
+        "url": "https://github.blog/changelog/2026-07-10-clearer-names-for-secret-scanning-detector-types",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_6d7dc2911118",
+      "title": "11天Claude Fable 5写超100万行代码：Rust重构JavaScript运行时Bun",
+      "url": "https://www.ithome.com/0/975/469.htm",
+      "primary_url": "https://www.ithome.com/0/975/469.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "2a61ae129b00bfd8553580d905cd56ab08d34b14",
+          "title": "11天Claude Fable 5写超100万行代码：Rust重构JavaScript运行时Bun",
+          "url": "https://www.ithome.com/0/975/469.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-11T07:33:08Z"
+        },
+        {
+          "id": "48ab288af4e443d20b63901488425e4a96338a61",
+          "title": "11 天 Claude Fable 5 狂写超 100 万行代码：Rust 重构 JavaScript 运行时 Bun",
+          "url": "https://www.ithome.com/0/975/469.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-11T07:33:08Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "2a61ae129b00bfd8553580d905cd56ab08d34b14",
+          "title": "11天Claude Fable 5写超100万行代码：Rust重构JavaScript运行时Bun",
+          "url": "https://www.ithome.com/0/975/469.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-11T07:33:08Z"
+        },
+        {
+          "id": "48ab288af4e443d20b63901488425e4a96338a61",
+          "title": "11 天 Claude Fable 5 狂写超 100 万行代码：Rust 重构 JavaScript 运行时 Bun",
+          "url": "https://www.ithome.com/0/975/469.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-11T07:33:08Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7628,
+      "importance": 0.7628,
+      "importance_score": 0.7628,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8511,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-11T07:33:08Z",
+      "latest_at": "2026-07-11T07:33:08Z",
+      "primary_item": {
+        "id": "2a61ae129b00bfd8553580d905cd56ab08d34b14",
+        "title": "11天Claude Fable 5写超100万行代码：Rust重构JavaScript运行时Bun",
+        "url": "https://www.ithome.com/0/975/469.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_6c4a6e1919dc",
+      "title": "Meta 关闭 Instagram 用户可基于公开账户生成 AI 深度伪造图片的功能",
+      "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
+      "primary_url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
+      "source": "The Verge：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ec4f06aa0a65267e94138cb5c816c98887e6b602",
+          "title": "Meta 关闭 Instagram 用户可基于公开账户生成 AI 深度伪造图片的功能",
+          "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-10T23:49:50Z"
+        },
+        {
+          "id": "4da42be56fa7d8a150922bb5c5f4032d39d80bb3",
+          "title": "Meta 关闭 Instagram 用户可基于公开账户生成 AI 深度伪造图片的功能 / Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
+          "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-10T23:49:50Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Verge",
+        "The Verge：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "ec4f06aa0a65267e94138cb5c816c98887e6b602",
+          "title": "Meta 关闭 Instagram 用户可基于公开账户生成 AI 深度伪造图片的功能",
+          "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-10T23:49:50Z"
+        },
+        {
+          "id": "4da42be56fa7d8a150922bb5c5f4032d39d80bb3",
+          "title": "Meta 关闭 Instagram 用户可基于公开账户生成 AI 深度伪造图片的功能 / Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
+          "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-10T23:49:50Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7616,
+      "importance": 0.7616,
+      "importance_score": 0.7616,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7613,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-10T23:49:50Z",
+      "latest_at": "2026-07-10T23:49:50Z",
+      "primary_item": {
+        "id": "ec4f06aa0a65267e94138cb5c816c98887e6b602",
+        "title": "Meta 关闭 Instagram 用户可基于公开账户生成 AI 深度伪造图片的功能",
+        "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
+        "source": "The Verge：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_1f16fd4d5a46",
+      "title": "苹果起诉OpenAI窃取商业机密开发AI硬件",
+      "url": "https://x.com/dotey/status/2075712647723397452",
+      "primary_url": "https://x.com/dotey/status/2075712647723397452",
+      "source": "X：宝玉 (@dotey)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "2307252350cc21c98542f24bced584562a8206da",
+          "title": "苹果起诉OpenAI窃取商业机密开发AI硬件",
+          "url": "https://x.com/dotey/status/2075712647723397452",
+          "source": "X：宝玉 (@dotey)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-10T22:43:54Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：宝玉 (@dotey)"
+      ],
+      "items": [
+        {
+          "id": "2307252350cc21c98542f24bced584562a8206da",
+          "title": "苹果起诉OpenAI窃取商业机密开发AI硬件",
+          "url": "https://x.com/dotey/status/2075712647723397452",
+          "source": "X：宝玉 (@dotey)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-10T22:43:54Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7585,
+      "importance": 0.7585,
+      "importance_score": 0.7585,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.84,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7493,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-10T22:43:54Z",
+      "latest_at": "2026-07-10T22:43:54Z",
+      "primary_item": {
+        "id": "2307252350cc21c98542f24bced584562a8206da",
+        "title": "苹果起诉OpenAI窃取商业机密开发AI硬件",
+        "url": "https://x.com/dotey/status/2075712647723397452",
+        "source": "X：宝玉 (@dotey)",
         "source_name": "AI HOT"
       }
     },
@@ -985,15 +866,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7531,
-      "importance": 0.7531,
-      "importance_score": 0.7531,
+      "score": 0.7506,
+      "importance": 0.7506,
+      "importance_score": 0.7506,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9861,
+        "recency": 0.9723,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1046,15 +927,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7429,
-      "importance": 0.7429,
-      "importance_score": 0.7429,
+      "score": 0.7409,
+      "importance": 0.7409,
+      "importance_score": 0.7409,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7961,
+        "recency": 0.7849,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1068,66 +949,6 @@
         "title": "OpenAI GPT-5.6-Sol 删光 AI 创业者 Matt Shumer 的 Mac 硬盘",
         "url": "https://x.com/AYi_AInotes/status/2075761215251312722",
         "source": "X：阿易 AI Notes (@AYi_AInotes)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_dc8b1f83933e",
-      "title": "宇树G1人形机器人完成首例活体微创手术",
-      "url": "https://x.com/thexpin/status/2075640168896516139",
-      "primary_url": "https://x.com/thexpin/status/2075640168896516139",
-      "source": "X：X.PIN (@thexpin)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "41ab65cf745500872707c5c4a57379a2da28b88a",
-          "title": "宇树G1人形机器人完成首例活体微创手术",
-          "url": "https://x.com/thexpin/status/2075640168896516139",
-          "source": "X：X.PIN (@thexpin)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-10T17:55:54Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：X.PIN (@thexpin)"
-      ],
-      "items": [
-        {
-          "id": "41ab65cf745500872707c5c4a57379a2da28b88a",
-          "title": "宇树G1人形机器人完成首例活体微创手术",
-          "url": "https://x.com/thexpin/status/2075640168896516139",
-          "source": "X：X.PIN (@thexpin)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-10T17:55:54Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7362,
-      "importance": 0.7362,
-      "importance_score": 0.7362,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.709,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-10T17:55:54Z",
-      "latest_at": "2026-07-10T17:55:54Z",
-      "primary_item": {
-        "id": "41ab65cf745500872707c5c4a57379a2da28b88a",
-        "title": "宇树G1人形机器人完成首例活体微创手术",
-        "url": "https://x.com/thexpin/status/2075640168896516139",
-        "source": "X：X.PIN (@thexpin)",
         "source_name": "AI HOT"
       }
     },
@@ -1166,15 +987,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7289,
-      "importance": 0.7289,
-      "importance_score": 0.7289,
+      "score": 0.727,
+      "importance": 0.727,
+      "importance_score": 0.727,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7347,
+        "recency": 0.7245,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1188,6 +1009,87 @@
         "title": "Meta Muse Spark 1.1 在 Artificial Analysis 智能指数中得分 51，兼具成本与 token 效率优势",
         "url": "https://x.com/ArtificialAnlys/status/2075677416295739660",
         "source": "X：Artificial Analysis (@ArtificialAnlys)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_a02db43ccd2c",
+      "title": "OpenAI 论文：GPT-5.6 Sol Ultra 证明图论\"循环双覆盖猜想\"",
+      "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+      "primary_url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "feafedc0669c405607e613d397ecd9560defc7b4",
+          "title": "OpenAI 论文：GPT-5.6 Sol Ultra 证明图论\"循环双覆盖猜想\"",
+          "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-10T19:59:11.362000Z"
+        },
+        {
+          "id": "a4d4e1d0b7c8ab2558d994fbd60056dfd8580ee7",
+          "title": "GPT-5.6 Sol Ultra 给出了“循环双覆盖猜想”的证明 [pdf]",
+          "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+          "source": "cdn.openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-10T19:59:11.362000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "cdn.openai.com"
+      ],
+      "items": [
+        {
+          "id": "feafedc0669c405607e613d397ecd9560defc7b4",
+          "title": "OpenAI 论文：GPT-5.6 Sol Ultra 证明图论\"循环双覆盖猜想\"",
+          "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-10T19:59:11.362000Z"
+        },
+        {
+          "id": "a4d4e1d0b7c8ab2558d994fbd60056dfd8580ee7",
+          "title": "GPT-5.6 Sol Ultra 给出了“循环双覆盖猜想”的证明 [pdf]",
+          "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+          "source": "cdn.openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-10T19:59:11.362000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7782,
+      "importance": 0.7782,
+      "importance_score": 0.7782,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.84,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7202,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-10T19:59:11.362000Z",
+      "latest_at": "2026-07-10T19:59:11.362000Z",
+      "primary_item": {
+        "id": "feafedc0669c405607e613d397ecd9560defc7b4",
+        "title": "OpenAI 论文：GPT-5.6 Sol Ultra 证明图论\"循环双覆盖猜想\"",
+        "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -1245,15 +1147,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7438,
-      "importance": 0.7438,
-      "importance_score": 0.7438,
+      "score": 0.7419,
+      "importance": 0.7419,
+      "importance_score": 0.7419,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7624,
+        "recency": 0.7517,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1314,38 +1216,10 @@
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
           "published_at": "2026-07-11T15:43:28.392216Z"
-        },
-        {
-          "id": "bd3cfe4e8ba0de9d6c8d861cc840b323e654508d",
-          "title": "关于Seedream 5.0 Pro，小歪做了8个维度的案例测试。而且，为了看看同一套提示词下，不同模型的效果，甚至同样都是Seedream 5.0 Pro，不同工具是不是会有差异。她把 即梦的Seedream 5.0 Pro 、 豆包的Seedream 5.0 Pro 、 GPT的Image 2 和 Gemini的Nano banana Pro 四个效果放在一起，给大家看看对比。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-10",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-10T18:06:55.070543Z"
-        },
-        {
-          "id": "59f17f8ca4f9baed12e51969b78f3df92e05b6ff",
-          "title": "卡尔这篇文章完整拆解了 GPT 5.6 全系列更新的亮点。而且还整理了3个高阶提示词，涵盖产品黑盒自测、项目风险审查、多模型协同编排实操方案，快来上手试试。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-10",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-10T18:06:55.070543Z"
-        },
-        {
-          "id": "fc39e2b8c7adfaf9259490f735cbaa51a91cbe4d",
-          "title": "这里是Codex史诗级更新的最全面解读，你所产生的疑问和你必须知道的最新玩法都在这里面。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-10",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-10T18:06:55.070543Z"
         }
       ],
-      "source_count": 7,
+      "source_count": 4,
       "source_names": [
-        "社区更新 · 2026-07-10",
         "社区更新 · 2026-07-11"
       ],
       "items": [
@@ -1384,53 +1258,26 @@
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
           "published_at": "2026-07-11T15:43:28.392216Z"
-        },
-        {
-          "id": "bd3cfe4e8ba0de9d6c8d861cc840b323e654508d",
-          "title": "关于Seedream 5.0 Pro，小歪做了8个维度的案例测试。而且，为了看看同一套提示词下，不同模型的效果，甚至同样都是Seedream 5.0 Pro，不同工具是不是会有差异。她把 即梦的Seedream 5.0 Pro 、 豆包的Seedream 5.0 Pro 、 GPT的Image 2 和 Gemini的Nano banana Pro 四个效果放在一起，给大家看看对比。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-10",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-10T18:06:55.070543Z"
-        },
-        {
-          "id": "59f17f8ca4f9baed12e51969b78f3df92e05b6ff",
-          "title": "卡尔这篇文章完整拆解了 GPT 5.6 全系列更新的亮点。而且还整理了3个高阶提示词，涵盖产品黑盒自测、项目风险审查、多模型协同编排实操方案，快来上手试试。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-10",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-10T18:06:55.070543Z"
-        },
-        {
-          "id": "fc39e2b8c7adfaf9259490f735cbaa51a91cbe4d",
-          "title": "这里是Codex史诗级更新的最全面解读，你所产生的疑问和你必须知道的最新玩法都在这里面。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-10",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-10T18:06:55.070543Z"
         }
       ],
-      "item_count": 7,
-      "duplicate_count": 7,
-      "score": 0.6817,
-      "importance": 0.6817,
-      "importance_score": 0.6817,
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.6542,
+      "importance": 0.6542,
+      "importance_score": 0.6542,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.54,
         "ai_relevance": 0.68,
-        "recency": 1.0,
-        "story_heat": 1.0
+        "recency": 0.986,
+        "story_heat": 0.75
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-10T18:06:55.070543Z",
+      "earliest_at": "2026-07-11T15:43:28.392216Z",
       "latest_at": "2026-07-11T17:44:34.230083Z",
       "primary_item": {
         "id": "3c2022c7454f793525a90db411cf2ed531ba3489",
@@ -1494,15 +1341,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5826,
-      "importance": 0.5826,
-      "importance_score": 0.5826,
+      "score": 0.5807,
+      "importance": 0.5807,
+      "importance_score": 0.5807,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.58,
         "ai_relevance": 0.71,
-        "recency": 0.7478,
+        "recency": 0.7373,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1611,15 +1458,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5546,
-      "importance": 0.5546,
-      "importance_score": 0.5546,
+      "score": 0.5526,
+      "importance": 0.5526,
+      "importance_score": 0.5526,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7709,
+        "recency": 0.7601,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1637,80 +1484,160 @@
       }
     },
     {
-      "story_id": "story_11aee9868a58",
-      "title": "恐怖组织如何利用人工智能在战场上获得优势",
-      "url": "https://www.nytimes.com/2026/07/10/us/politics/ai-terrorism-boko-haram-nigeria.html?smid=bs-share",
-      "primary_url": "https://www.nytimes.com/2026/07/10/us/politics/ai-terrorism-boko-haram-nigeria.html?smid=bs-share",
-      "source": "www.nytimes.com",
-      "source_name": "Buzzing",
+      "story_id": "story_b5d19d55b601",
+      "title": "AI 2040 和智能崇拜 / AI 2040 and the Cult of Intelligence",
+      "url": "https://news.ycombinator.com/item?id=48874200",
+      "primary_url": "https://news.ycombinator.com/item?id=48874200",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "c9f9e6ceac4ce68c15659da61fa410990ee17b04",
-          "title": "恐怖组织如何利用人工智能在战场上获得优势",
-          "url": "https://www.nytimes.com/2026/07/10/us/politics/ai-terrorism-boko-haram-nigeria.html?smid=bs-share",
-          "source": "www.nytimes.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-11T16:15:25.572000Z"
+          "id": "ea752aa4339116e78188023c4f921b0461860969",
+          "title": "AI 2040 和智能崇拜 / AI 2040 and the Cult of Intelligence",
+          "url": "https://news.ycombinator.com/item?id=48874200",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-11T18:43:45.989000Z"
         },
         {
-          "id": "a2040695558392388b00a287a81225749694df3f",
-          "title": "恐怖组织如何利用人工智能在战场上取得优势（赠阅文章）",
-          "url": "https://www.nytimes.com/2026/07/10/us/politics/ai-terrorism-boko-haram-nigeria.html?unlocked_article_code=1.wlA.zOjJ._h4F-7KJwp3D&smid=url-share",
-          "source": "www.nytimes.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-11T01:03:10.067000Z"
+          "id": "8a16ae6e736aa3a2ff065be8eb05e5ae635c14b2",
+          "title": "AI 2040 和智能崇拜 / AI 2040 and the Cult of Intelligence",
+          "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-11T18:04:01Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "www.nytimes.com"
+        "Hacker News (黑客新闻)",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "c9f9e6ceac4ce68c15659da61fa410990ee17b04",
-          "title": "恐怖组织如何利用人工智能在战场上获得优势",
-          "url": "https://www.nytimes.com/2026/07/10/us/politics/ai-terrorism-boko-haram-nigeria.html?smid=bs-share",
-          "source": "www.nytimes.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-11T16:15:25.572000Z"
+          "id": "ea752aa4339116e78188023c4f921b0461860969",
+          "title": "AI 2040 和智能崇拜 / AI 2040 and the Cult of Intelligence",
+          "url": "https://news.ycombinator.com/item?id=48874200",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-11T18:43:45.989000Z"
         },
         {
-          "id": "a2040695558392388b00a287a81225749694df3f",
-          "title": "恐怖组织如何利用人工智能在战场上取得优势（赠阅文章）",
-          "url": "https://www.nytimes.com/2026/07/10/us/politics/ai-terrorism-boko-haram-nigeria.html?unlocked_article_code=1.wlA.zOjJ._h4F-7KJwp3D&smid=url-share",
-          "source": "www.nytimes.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-11T01:03:10.067000Z"
+          "id": "8a16ae6e736aa3a2ff065be8eb05e5ae635c14b2",
+          "title": "AI 2040 和智能崇拜 / AI 2040 and the Cult of Intelligence",
+          "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-11T18:04:01Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.542,
-      "importance": 0.542,
-      "importance_score": 0.542,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9788,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-11T01:03:10.067000Z",
-      "latest_at": "2026-07-11T16:15:25.572000Z",
+      "earliest_at": "2026-07-11T18:04:01Z",
+      "latest_at": "2026-07-11T18:43:45.989000Z",
       "primary_item": {
-        "id": "c9f9e6ceac4ce68c15659da61fa410990ee17b04",
-        "title": "恐怖组织如何利用人工智能在战场上获得优势",
-        "url": "https://www.nytimes.com/2026/07/10/us/politics/ai-terrorism-boko-haram-nigeria.html?smid=bs-share",
-        "source": "www.nytimes.com",
+        "id": "ea752aa4339116e78188023c4f921b0461860969",
+        "title": "AI 2040 和智能崇拜 / AI 2040 and the Cult of Intelligence",
+        "url": "https://news.ycombinator.com/item?id=48874200",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_eda80e4879bc",
+      "title": "Instagram的最新AI工具没能撑过这一周",
+      "url": "https://www.businessinsider.com/instagram-ai-feature-public-profile-opt-out-privacy-deepfake-backlash-2026-7",
+      "primary_url": "https://www.businessinsider.com/instagram-ai-feature-public-profile-opt-out-privacy-deepfake-backlash-2026-7",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "38570fc3d4170219008a83d6b1e0796094ae1fee",
+          "title": "Instagram的最新AI工具没能撑过这一周",
+          "url": "https://www.businessinsider.com/instagram-ai-feature-public-profile-opt-out-privacy-deepfake-backlash-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-11T17:03:15.813000Z"
+        },
+        {
+          "id": "058f2ad6e2527fe610c3ccbd11b581c061e4c765",
+          "title": "Instagram的最新AI工具没能撑过这一周 / Instagram's newest AI tool didn't survive the week",
+          "url": "https://www.businessinsider.com/instagram-ai-feature-public-profile-opt-out-privacy-deepfake-backlash-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-11T16:40:51Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "38570fc3d4170219008a83d6b1e0796094ae1fee",
+          "title": "Instagram的最新AI工具没能撑过这一周",
+          "url": "https://www.businessinsider.com/instagram-ai-feature-public-profile-opt-out-privacy-deepfake-backlash-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-11T17:03:15.813000Z"
+        },
+        {
+          "id": "058f2ad6e2527fe610c3ccbd11b581c061e4c765",
+          "title": "Instagram的最新AI工具没能撑过这一周 / Instagram's newest AI tool didn't survive the week",
+          "url": "https://www.businessinsider.com/instagram-ai-feature-public-profile-opt-out-privacy-deepfake-backlash-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-11T16:40:51Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5415,
+      "importance": 0.5415,
+      "importance_score": 0.5415,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9762,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-11T16:40:51Z",
+      "latest_at": "2026-07-11T17:03:15.813000Z",
+      "primary_item": {
+        "id": "38570fc3d4170219008a83d6b1e0796094ae1fee",
+        "title": "Instagram的最新AI工具没能撑过这一周",
+        "url": "https://www.businessinsider.com/instagram-ai-feature-public-profile-opt-out-privacy-deepfake-backlash-2026-7",
+        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     }
