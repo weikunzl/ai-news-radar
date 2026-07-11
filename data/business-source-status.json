@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-11T16:42:42.365121Z",
+  "generated_at": "2026-07-11T17:45:49.343648Z",
   "window_hours": 72,
   "source_count": 26,
-  "successful_sources": 24,
-  "failed_sources": 2,
-  "item_count": 143,
+  "successful_sources": 23,
+  "failed_sources": 3,
+  "item_count": 141,
   "sources": [
     {
       "source_id": "knowledge_wharton",
@@ -12,9 +12,9 @@
       "lane": "authority",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 76,
+      "duration_ms": 47,
       "error": "",
-      "last_checked_at": "2026-07-11T16:42:42.368644Z"
+      "last_checked_at": "2026-07-11T17:45:49.346960Z"
     },
     {
       "source_id": "mit_smr",
@@ -22,19 +22,9 @@
       "lane": "authority",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 189,
+      "duration_ms": 166,
       "error": "",
-      "last_checked_at": "2026-07-11T16:42:42.367072Z"
-    },
-    {
-      "source_id": "bain_insights",
-      "name": "Bain Insights",
-      "lane": "authority",
-      "ok": true,
-      "item_count": 6,
-      "duration_ms": 325,
-      "error": "feed_failed_page_fallback: 404 Client Error: Not Found for url: https://www.bain.com/insights/rss/",
-      "last_checked_at": "2026-07-11T16:42:42.366246Z"
+      "last_checked_at": "2026-07-11T17:45:49.345467Z"
     },
     {
       "source_id": "yc_blog",
@@ -42,19 +32,29 @@
       "lane": "startup_vc",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 345,
+      "duration_ms": 408,
       "error": "",
-      "last_checked_at": "2026-07-11T16:42:42.371569Z"
+      "last_checked_at": "2026-07-11T17:45:49.352048Z"
     },
     {
       "source_id": "lenny",
       "name": "Lenny's Newsletter",
       "lane": "startup_vc",
       "ok": true,
-      "item_count": 8,
-      "duration_ms": 330,
+      "item_count": 7,
+      "duration_ms": 249,
       "error": "",
-      "last_checked_at": "2026-07-11T16:42:42.556567Z"
+      "last_checked_at": "2026-07-11T17:45:49.512384Z"
+    },
+    {
+      "source_id": "bain_insights",
+      "name": "Bain Insights",
+      "lane": "authority",
+      "ok": true,
+      "item_count": 6,
+      "duration_ms": 503,
+      "error": "feed_failed_page_fallback: 404 Client Error: Not Found for url: https://www.bain.com/insights/rss/",
+      "last_checked_at": "2026-07-11T17:45:49.344876Z"
     },
     {
       "source_id": "hbr",
@@ -62,9 +62,9 @@
       "lane": "authority",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 558,
+      "duration_ms": 586,
       "error": "feed_failed_page_fallback: HTTPSConnectionPool(host='feeds.hbr.org', port=443): Max retries exceeded with url: /harvardbusiness (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)')))",
-      "last_checked_at": "2026-07-11T16:42:42.366825Z"
+      "last_checked_at": "2026-07-11T17:45:49.345229Z"
     },
     {
       "source_id": "first_round",
@@ -72,29 +72,9 @@
       "lane": "startup_vc",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 708,
+      "duration_ms": 561,
       "error": "feed_failed_page_fallback: 404 Client Error: Not Found for url: https://review.firstround.com/rss/",
-      "last_checked_at": "2026-07-11T16:42:42.445339Z"
-    },
-    {
-      "source_id": "a16z",
-      "name": "a16z",
-      "lane": "startup_vc",
-      "ok": true,
-      "item_count": 10,
-      "duration_ms": 777,
-      "error": "feed_failed_page_fallback: 404 Client Error: Not Found for url: https://a16z.com/feed/",
-      "last_checked_at": "2026-07-11T16:42:42.374710Z"
-    },
-    {
-      "source_id": "generalist",
-      "name": "The Generalist",
-      "lane": "startup_vc",
-      "ok": true,
-      "item_count": 6,
-      "duration_ms": 475,
-      "error": "",
-      "last_checked_at": "2026-07-11T16:42:42.691682Z"
+      "last_checked_at": "2026-07-11T17:45:49.394458Z"
     },
     {
       "source_id": "cbinsights",
@@ -102,9 +82,29 @@
       "lane": "startup_vc",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 341,
+      "duration_ms": 179,
       "error": "",
-      "last_checked_at": "2026-07-11T16:42:42.887899Z"
+      "last_checked_at": "2026-07-11T17:45:49.848606Z"
+    },
+    {
+      "source_id": "a16z",
+      "name": "a16z",
+      "lane": "startup_vc",
+      "ok": true,
+      "item_count": 10,
+      "duration_ms": 840,
+      "error": "feed_failed_page_fallback: 404 Client Error: Not Found for url: https://a16z.com/feed/",
+      "last_checked_at": "2026-07-11T17:45:49.353641Z"
+    },
+    {
+      "source_id": "generalist",
+      "name": "The Generalist",
+      "lane": "startup_vc",
+      "ok": true,
+      "item_count": 6,
+      "duration_ms": 480,
+      "error": "",
+      "last_checked_at": "2026-07-11T17:45:49.762361Z"
     },
     {
       "source_id": "not_boring",
@@ -112,19 +112,9 @@
       "lane": "startup_vc",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 828,
+      "duration_ms": 823,
       "error": "",
-      "last_checked_at": "2026-07-11T16:42:42.717361Z"
-    },
-    {
-      "source_id": "tinyseed",
-      "name": "TinySeed",
-      "lane": "opc",
-      "ok": true,
-      "item_count": 10,
-      "duration_ms": 473,
-      "error": "feed_failed_page_fallback: 404 Client Error: Not Found for url: https://tinyseed.com/feed",
-      "last_checked_at": "2026-07-11T16:42:43.168856Z"
+      "last_checked_at": "2026-07-11T17:45:49.763457Z"
     },
     {
       "source_id": "microconf",
@@ -132,9 +122,19 @@
       "lane": "opc",
       "ok": true,
       "item_count": 7,
-      "duration_ms": 526,
+      "duration_ms": 615,
       "error": "feed_failed_page_fallback: 404 Client Error: Not Found for url: https://microconf.com/feed",
-      "last_checked_at": "2026-07-11T16:42:43.159319Z"
+      "last_checked_at": "2026-07-11T17:45:50.028903Z"
+    },
+    {
+      "source_id": "tinyseed",
+      "name": "TinySeed",
+      "lane": "opc",
+      "ok": true,
+      "item_count": 10,
+      "duration_ms": 536,
+      "error": "feed_failed_page_fallback: 404 Client Error: Not Found for url: https://tinyseed.com/feed",
+      "last_checked_at": "2026-07-11T17:45:50.199186Z"
     },
     {
       "source_id": "latent_space",
@@ -142,9 +142,9 @@
       "lane": "ai_commercialization",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 282,
+      "duration_ms": 281,
       "error": "",
-      "last_checked_at": "2026-07-11T16:42:43.642459Z"
+      "last_checked_at": "2026-07-11T17:45:50.645186Z"
     },
     {
       "source_id": "the_batch",
@@ -152,69 +152,9 @@
       "lane": "ai_commercialization",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 218,
+      "duration_ms": 230,
       "error": "feed_failed: 403 Client Error: Forbidden for url: https://www.deeplearning.ai/the-batch/rss/; page_failed: 403 Client Error: Forbidden for url: https://www.deeplearning.ai/the-batch/",
-      "last_checked_at": "2026-07-11T16:42:43.925829Z"
-    },
-    {
-      "source_id": "levelsio",
-      "name": "levels.io",
-      "lane": "opc",
-      "ok": true,
-      "item_count": 6,
-      "duration_ms": 630,
-      "error": "",
-      "last_checked_at": "2026-07-11T16:42:43.546549Z"
-    },
-    {
-      "source_id": "bootstrapped_founder",
-      "name": "The Bootstrapped Founder",
-      "lane": "opc",
-      "ok": true,
-      "item_count": 10,
-      "duration_ms": 1137,
-      "error": "feed_failed_page_fallback: 404 Client Error: Not Found for url: https://thebootstrappedfounder.com/feed.xml",
-      "last_checked_at": "2026-07-11T16:42:43.229633Z"
-    },
-    {
-      "source_id": "indie_hackers",
-      "name": "Indie Hackers",
-      "lane": "opc",
-      "ok": true,
-      "item_count": 0,
-      "duration_ms": 1615,
-      "error": "",
-      "last_checked_at": "2026-07-11T16:42:42.924982Z"
-    },
-    {
-      "source_id": "github_blog",
-      "name": "GitHub Blog",
-      "lane": "ai_commercialization",
-      "ok": true,
-      "item_count": 3,
-      "duration_ms": 232,
-      "error": "",
-      "last_checked_at": "2026-07-11T16:42:44.367249Z"
-    },
-    {
-      "source_id": "openai_news",
-      "name": "OpenAI News",
-      "lane": "ai_commercialization",
-      "ok": true,
-      "item_count": 1,
-      "duration_ms": 727,
-      "error": "",
-      "last_checked_at": "2026-07-11T16:42:44.144222Z"
-    },
-    {
-      "source_id": "huggingface_blog",
-      "name": "Hugging Face Blog",
-      "lane": "ai_commercialization",
-      "ok": true,
-      "item_count": 1,
-      "duration_ms": 433,
-      "error": "",
-      "last_checked_at": "2026-07-11T16:42:44.540946Z"
+      "last_checked_at": "2026-07-11T17:45:50.926584Z"
     },
     {
       "source_id": "ai_engineer",
@@ -222,19 +162,59 @@
       "lane": "ai_commercialization",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1464,
+      "duration_ms": 488,
       "error": "feed_failed_page_fallback: 404 Client Error: Not Found for url: https://www.ai.engineer/feed",
-      "last_checked_at": "2026-07-11T16:42:43.685886Z"
+      "last_checked_at": "2026-07-11T17:45:50.736241Z"
     },
     {
-      "source_id": "bcg_ai",
-      "name": "BCG AI Insights",
-      "lane": "authority",
+      "source_id": "levelsio",
+      "name": "levels.io",
+      "lane": "opc",
+      "ok": true,
+      "item_count": 6,
+      "duration_ms": 770,
+      "error": "",
+      "last_checked_at": "2026-07-11T17:45:50.587126Z"
+    },
+    {
+      "source_id": "indie_hackers",
+      "name": "Indie Hackers",
+      "lane": "opc",
+      "ok": true,
+      "item_count": 0,
+      "duration_ms": 1625,
+      "error": "",
+      "last_checked_at": "2026-07-11T17:45:49.931393Z"
+    },
+    {
+      "source_id": "github_blog",
+      "name": "GitHub Blog",
+      "lane": "ai_commercialization",
+      "ok": true,
+      "item_count": 3,
+      "duration_ms": 264,
+      "error": "",
+      "last_checked_at": "2026-07-11T17:45:51.358498Z"
+    },
+    {
+      "source_id": "bootstrapped_founder",
+      "name": "The Bootstrapped Founder",
+      "lane": "opc",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 2920,
-      "error": "feed_failed_page_fallback: 404 Client Error: Not Found for url: https://www.bcg.com/rss",
-      "last_checked_at": "2026-07-11T16:42:42.365975Z"
+      "duration_ms": 1705,
+      "error": "feed_failed_page_fallback: 404 Client Error: Not Found for url: https://thebootstrappedfounder.com/feed.xml",
+      "last_checked_at": "2026-07-11T17:45:50.243552Z"
+    },
+    {
+      "source_id": "openai_news",
+      "name": "OpenAI News",
+      "lane": "ai_commercialization",
+      "ok": true,
+      "item_count": 1,
+      "duration_ms": 841,
+      "error": "",
+      "last_checked_at": "2026-07-11T17:45:51.157350Z"
     },
     {
       "source_id": "starter_story",
@@ -242,19 +222,19 @@
       "lane": "opc",
       "ok": true,
       "item_count": 6,
-      "duration_ms": 3655,
+      "duration_ms": 3121,
       "error": "feed_failed_page_fallback: 404 Client Error: Not Found for url: https://www.starterstory.com/feed",
-      "last_checked_at": "2026-07-11T16:42:43.159104Z"
+      "last_checked_at": "2026-07-11T17:45:49.956135Z"
     },
     {
-      "source_id": "anthropic_news",
-      "name": "Anthropic News",
-      "lane": "ai_commercialization",
+      "source_id": "bcg_ai",
+      "name": "BCG AI Insights",
+      "lane": "authority",
       "ok": true,
-      "item_count": 8,
-      "duration_ms": 3979,
-      "error": "feed_failed_page_fallback: 404 Client Error: Not Found for url: https://www.anthropic.com/news/rss.xml",
-      "last_checked_at": "2026-07-11T16:42:44.178120Z"
+      "item_count": 10,
+      "duration_ms": 4462,
+      "error": "feed_failed_page_fallback: 404 Client Error: Not Found for url: https://www.bcg.com/rss",
+      "last_checked_at": "2026-07-11T17:45:49.344446Z"
     },
     {
       "source_id": "mckinsey_ai",
@@ -262,9 +242,29 @@
       "lane": "authority",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 6368,
+      "duration_ms": 6321,
       "error": "feed_failed: 404 Client Error: Not Found for url: https://www.mckinsey.com/featured-insights/rss; page_failed: HTTPSConnectionPool(host='www.mckinsey.com', port=443): Read timed out. (read timeout=6)",
-      "last_checked_at": "2026-07-11T16:42:42.365582Z"
+      "last_checked_at": "2026-07-11T17:45:49.344033Z"
+    },
+    {
+      "source_id": "anthropic_news",
+      "name": "Anthropic News",
+      "lane": "ai_commercialization",
+      "ok": true,
+      "item_count": 8,
+      "duration_ms": 7195,
+      "error": "feed_failed_page_fallback: 404 Client Error: Not Found for url: https://www.anthropic.com/news/rss.xml",
+      "last_checked_at": "2026-07-11T17:45:51.225365Z"
+    },
+    {
+      "source_id": "huggingface_blog",
+      "name": "Hugging Face Blog",
+      "lane": "ai_commercialization",
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 12093,
+      "error": "feed_failed: HTTPSConnectionPool(host='huggingface.co', port=443): Read timed out. (read timeout=6); page_failed: HTTPSConnectionPool(host='huggingface.co', port=443): Read timed out. (read timeout=6)",
+      "last_checked_at": "2026-07-11T17:45:51.556534Z"
     }
   ]
 }
