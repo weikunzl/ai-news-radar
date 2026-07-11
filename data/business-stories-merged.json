@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T00:58:45.961233Z",
+  "generated_at": "2026-07-11T04:10:48.590665Z",
   "clusters": [
     {
       "cluster_id": "biz_cluster_2f0b4084974e",
@@ -66,7 +66,7 @@
       ]
     },
     {
-      "cluster_id": "biz_cluster_28bf0dfe5baf",
+      "cluster_id": "biz_cluster_95f84e367f70",
       "thesis": "Enterprise AI value is moving toward operating-model redesign rather than isolated copilots.",
       "lane": "enterprise_workflow",
       "signal_ids": [
@@ -75,9 +75,9 @@
         "biz_cc36443ea683",
         "biz_6d29dad39b36",
         "biz_40562aaff0ff",
-        "biz_6dc2cf1df3e6",
         "biz_73aa72e3bde2",
         "biz_de525aae38e5",
+        "biz_6dc2cf1df3e6",
         "biz_6f37929d115f",
         "biz_3152d763f9b7",
         "biz_acd9440352bc",
@@ -193,56 +193,46 @@
       ]
     },
     {
-      "cluster_id": "biz_cluster_3dd384527cfd",
+      "cluster_id": "biz_cluster_6acc171da4f1",
       "thesis": "Business-school and consulting evidence strengthens the trust layer behind Yuanli IP claims.",
       "lane": "authority_trust",
       "signal_ids": [
         "biz_02ad9d1acad7",
-        "biz_fd2b63193b5d",
-        "biz_3f595b7a14d2",
         "biz_3c5823b34f5a",
         "biz_ee0d77c88941",
         "biz_c3710204dd3b",
-        "biz_d11e19e17274",
         "biz_6eff8c60fb3f",
         "biz_cf518055cd80",
         "biz_36255a88492a",
-        "biz_e88fa46e3cee",
-        "biz_4a0e2e7cfba5"
+        "biz_08413d697637",
+        "biz_5d24d1881372",
+        "biz_39dc5f97a715",
+        "biz_09e6564960c3",
+        "biz_fc86f6108913"
       ],
-      "source_count": 4,
-      "importance_score": 54,
-      "confidence": "high",
+      "source_count": 3,
+      "importance_score": 50,
+      "confidence": "medium",
       "yuanli_mapping": [
         "ftf_trust",
         "yuanli_asset",
         "yuanli_startup"
       ],
-      "why_it_matters": "12 English evidence items from 4 sources connect this pattern to Yuanli IP.",
+      "why_it_matters": "12 English evidence items from 3 sources connect this pattern to Yuanli IP.",
       "counter_evidence": "See counter_signal cluster for adoption, ROI, and trust risks.",
       "recommended_action": "Use these authority-backed signals as FTF proof points before making public claims.",
       "evidence_refs": [
         "biz_02ad9d1acad7",
-        "biz_fd2b63193b5d",
-        "biz_3f595b7a14d2",
         "biz_3c5823b34f5a",
-        "biz_ee0d77c88941"
+        "biz_ee0d77c88941",
+        "biz_c3710204dd3b",
+        "biz_6eff8c60fb3f"
       ],
       "top_sources": [
         {
           "source": "Harvard Business Review",
           "title": "Startup Founders Need a New Sales Playbook",
           "url": "https://hbr.org/2026/06/startup-founders-need-a-new-sales-playbook?ab=HP-hero-for-you-2"
-        },
-        {
-          "source": "BCG AI Insights",
-          "title": "Financial Institutions",
-          "url": "https://www.bcg.com/industries/financial-institutions/overview"
-        },
-        {
-          "source": "BCG AI Insights",
-          "title": "Principal Investors and Private Equity",
-          "url": "https://www.bcg.com/industries/principal-investors-private-equity/overview"
         },
         {
           "source": "Harvard Business Review",
@@ -253,44 +243,48 @@
           "source": "Bain Insights",
           "title": "Customer Experience",
           "url": "https://www.bain.com/consulting-services/customer-strategy-and-marketing/customer-experience-transformation/"
+        },
+        {
+          "source": "Bain Insights",
+          "title": "Supporting Your Growth",
+          "url": "https://www.bain.com/careers/life-at-bain/supporting-your-growth/"
+        },
+        {
+          "source": "Harvard Business Review",
+          "title": "Insights from Interviews with 11 World-Class Coaches",
+          "url": "https://hbr.org/2026/07/how-elite-sports-coaches-make-high-pressure-decisions"
         }
       ]
     },
     {
-      "cluster_id": "biz_cluster_a7d8d1bd02fd",
+      "cluster_id": "biz_cluster_4c395ada4763",
       "thesis": "AI adoption counter-signals reveal where Yuanli claims need sharper proof and risk language.",
       "lane": "counter_signal",
       "signal_ids": [
-        "biz_5abfba17eae7",
         "biz_3f3b42cbc409",
         "biz_d3bb755fab5d",
         "biz_9646516bde59",
         "biz_b5d21faaa7d6",
         "biz_85d016ac6404"
       ],
-      "source_count": 4,
-      "importance_score": 48,
-      "confidence": "high",
+      "source_count": 3,
+      "importance_score": 44,
+      "confidence": "medium",
       "yuanli_mapping": [
         "ftf_trust",
         "yuanli_os"
       ],
-      "why_it_matters": "6 English evidence items from 4 sources connect this pattern to Yuanli IP.",
+      "why_it_matters": "5 English evidence items from 3 sources connect this pattern to Yuanli IP.",
       "counter_evidence": "Counter-signals are the evidence, not a rejection of the thesis.",
       "recommended_action": "Add these counter-signals to sales objections and content credibility checks.",
       "evidence_refs": [
-        "biz_5abfba17eae7",
         "biz_3f3b42cbc409",
         "biz_d3bb755fab5d",
         "biz_9646516bde59",
-        "biz_b5d21faaa7d6"
+        "biz_b5d21faaa7d6",
+        "biz_85d016ac6404"
       ],
       "top_sources": [
-        {
-          "source": "BCG AI Insights",
-          "title": "Insurance Industry",
-          "url": "https://www.bcg.com/industries/insurance/overview"
-        },
         {
           "source": "The Generalist",
           "title": "The Token Budget Problem Nobody Is Talking About (Matan Grinberg, Co-Founder & CEO of Factory)",
@@ -310,6 +304,11 @@
           "source": "Harvard Business Review",
           "title": "AI Is Changing Cyber Risk. Here’s How SMBs Can Respond.",
           "url": "https://hbr.org/2026/06/ai-is-changing-cyber-risk-heres-how-smbs-can-respond"
+        },
+        {
+          "source": "a16z",
+          "title": "Hugging Face’s Clem Delangue on Open Source AI and the LLM Bubble | MTS Live",
+          "url": "https://a16z.com/podcast/hugging-faces-clem-delangue-on-open-source-ai-and-the-llm-bubble-mts-live/"
         }
       ]
     }
