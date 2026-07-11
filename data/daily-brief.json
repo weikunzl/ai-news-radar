@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T06:31:51.390965Z",
+  "generated_at": "2026-07-11T08:41:53.416802Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.8321,
+      "importance": 0.8321,
+      "importance_score": 0.8321,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8857,
+        "recency": 0.8584,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -157,15 +157,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8281,
-      "importance": 0.8281,
-      "importance_score": 0.8281,
+      "score": 0.8233,
+      "importance": 0.8233,
+      "importance_score": 0.8233,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8674,
+        "recency": 0.8407,
         "story_heat": 0.0
       },
       "category": "official",
@@ -219,15 +219,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8179,
-      "importance": 0.8179,
-      "importance_score": 0.8179,
+      "score": 0.8134,
+      "importance": 0.8134,
+      "importance_score": 0.8134,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8103,
+        "recency": 0.7853,
         "story_heat": 0.0
       },
       "category": "official",
@@ -247,65 +247,84 @@
       }
     },
     {
-      "story_id": "story_027b05f9d0fa",
-      "title": "德国电信如何利用人工智能重新布线电信 / How Deutsche Telekom is rewiring telecommunications with AI",
-      "url": "https://openai.com/index/deutsche-telekom",
-      "primary_url": "https://openai.com/index/deutsche-telekom",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_8eeb4fee86b5",
+      "title": "蚂蚁集团 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型",
+      "url": "https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0",
+      "primary_url": "https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0",
+      "source": "MarkTechPost（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "ef2b525c778abd1dde9acdee80e51b3b1c2720b7",
-          "title": "德国电信如何利用人工智能重新布线电信 / How Deutsche Telekom is rewiring telecommunications with AI",
-          "url": "https://openai.com/index/deutsche-telekom",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-10T07:00:00Z"
+          "id": "e871b5910a04307da3ef3ae7d63c20f888c4112a",
+          "title": "蚂蚁集团 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型",
+          "url": "https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-11T07:56:11Z"
+        },
+        {
+          "id": "dbf509acc7aa394d320e8dd9e3e3ca213ff65843",
+          "title": "蚂蚁集团 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型 / Ant Group’s Robbyant Unveils LingBot-VA 2.0: A Causal Video-Action Model Built Natively for Physical AI",
+          "url": "https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0",
+          "source": "MarkTechPost Research",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-11T07:56:11Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "OpenAI News"
+        "MarkTechPost Research",
+        "MarkTechPost（RSS）"
       ],
       "items": [
         {
-          "id": "ef2b525c778abd1dde9acdee80e51b3b1c2720b7",
-          "title": "德国电信如何利用人工智能重新布线电信 / How Deutsche Telekom is rewiring telecommunications with AI",
-          "url": "https://openai.com/index/deutsche-telekom",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-10T07:00:00Z"
+          "id": "e871b5910a04307da3ef3ae7d63c20f888c4112a",
+          "title": "蚂蚁集团 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型",
+          "url": "https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-11T07:56:11Z"
+        },
+        {
+          "id": "dbf509acc7aa394d320e8dd9e3e3ca213ff65843",
+          "title": "蚂蚁集团 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型 / Ant Group’s Robbyant Unveils LingBot-VA 2.0: A Causal Video-Action Model Built Natively for Physical AI",
+          "url": "https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0",
+          "source": "MarkTechPost Research",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-11T07:56:11Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8001,
-      "importance": 0.8001,
-      "importance_score": 0.8001,
-      "importance_label": "官方更新",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7966,
+      "importance": 0.7966,
+      "importance_score": 0.7966,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7119,
-        "story_heat": 0.0
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9891,
+        "story_heat": 0.25
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-10T07:00:00Z",
-      "latest_at": "2026-07-10T07:00:00Z",
+      "earliest_at": "2026-07-11T07:56:11Z",
+      "latest_at": "2026-07-11T07:56:11Z",
       "primary_item": {
-        "id": "ef2b525c778abd1dde9acdee80e51b3b1c2720b7",
-        "title": "德国电信如何利用人工智能重新布线电信 / How Deutsche Telekom is rewiring telecommunications with AI",
-        "url": "https://openai.com/index/deutsche-telekom",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
+        "id": "e871b5910a04307da3ef3ae7d63c20f888c4112a",
+        "title": "蚂蚁集团 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型",
+        "url": "https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0",
+        "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -362,15 +381,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7924,
-      "importance": 0.7924,
-      "importance_score": 0.7924,
+      "score": 0.7876,
+      "importance": 0.7876,
+      "importance_score": 0.7876,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8656,
+        "recency": 0.8389,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -424,15 +443,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8188,
-      "importance": 0.8188,
-      "importance_score": 0.8188,
+      "score": 0.8141,
+      "importance": 0.8141,
+      "importance_score": 0.8141,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8602,
+        "recency": 0.8337,
         "story_heat": 0.0
       },
       "category": "official",
@@ -449,67 +468,6 @@
         "url": "https://github.blog/changelog/2026-07-10-clearer-names-for-secret-scanning-detector-types",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_f01ec2871d4b",
-      "title": "OpenAI GPT-5.6-Sol 删光 AI 创业者 Matt Shumer 的 Mac 硬盘",
-      "url": "https://x.com/AYi_AInotes/status/2075761215251312722",
-      "primary_url": "https://x.com/AYi_AInotes/status/2075761215251312722",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "81ae1640e42c29bcd66a9b6fb23c58e3ac72fb77",
-          "title": "OpenAI GPT-5.6-Sol 删光 AI 创业者 Matt Shumer 的 Mac 硬盘",
-          "url": "https://x.com/AYi_AInotes/status/2075761215251312722",
-          "source": "X：阿易 AI Notes (@AYi_AInotes)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-11T01:56:54Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：阿易 AI Notes (@AYi_AInotes)"
-      ],
-      "items": [
-        {
-          "id": "81ae1640e42c29bcd66a9b6fb23c58e3ac72fb77",
-          "title": "OpenAI GPT-5.6-Sol 删光 AI 创业者 Matt Shumer 的 Mac 硬盘",
-          "url": "https://x.com/AYi_AInotes/status/2075761215251312722",
-          "source": "X：阿易 AI Notes (@AYi_AInotes)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-11T01:56:54Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7681,
-      "importance": 0.7681,
-      "importance_score": 0.7681,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.936,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-11T01:56:54Z",
-      "latest_at": "2026-07-11T01:56:54Z",
-      "primary_item": {
-        "id": "81ae1640e42c29bcd66a9b6fb23c58e3ac72fb77",
-        "title": "OpenAI GPT-5.6-Sol 删光 AI 创业者 Matt Shumer 的 Mac 硬盘",
-        "url": "https://x.com/AYi_AInotes/status/2075761215251312722",
-        "source": "X：阿易 AI Notes (@AYi_AInotes)",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -566,15 +524,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.768,
-      "importance": 0.768,
-      "importance_score": 0.768,
+      "score": 0.763,
+      "importance": 0.763,
+      "importance_score": 0.763,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8964,
+        "recency": 0.8688,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -590,6 +548,67 @@
         "title": "苹果起诉 OpenAI，指控其挖角前员工窃取未发布产品及供应链资料",
         "url": "https://www.ithome.com/0/975/370.htm",
         "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_f01ec2871d4b",
+      "title": "OpenAI GPT-5.6-Sol 删光 AI 创业者 Matt Shumer 的 Mac 硬盘",
+      "url": "https://x.com/AYi_AInotes/status/2075761215251312722",
+      "primary_url": "https://x.com/AYi_AInotes/status/2075761215251312722",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "81ae1640e42c29bcd66a9b6fb23c58e3ac72fb77",
+          "title": "OpenAI GPT-5.6-Sol 删光 AI 创业者 Matt Shumer 的 Mac 硬盘",
+          "url": "https://x.com/AYi_AInotes/status/2075761215251312722",
+          "source": "X：阿易 AI Notes (@AYi_AInotes)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-11T01:56:54Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：阿易 AI Notes (@AYi_AInotes)"
+      ],
+      "items": [
+        {
+          "id": "81ae1640e42c29bcd66a9b6fb23c58e3ac72fb77",
+          "title": "OpenAI GPT-5.6-Sol 删光 AI 创业者 Matt Shumer 的 Mac 硬盘",
+          "url": "https://x.com/AYi_AInotes/status/2075761215251312722",
+          "source": "X：阿易 AI Notes (@AYi_AInotes)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-11T01:56:54Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7629,
+      "importance": 0.7629,
+      "importance_score": 0.7629,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9071,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-11T01:56:54Z",
+      "latest_at": "2026-07-11T01:56:54Z",
+      "primary_item": {
+        "id": "81ae1640e42c29bcd66a9b6fb23c58e3ac72fb77",
+        "title": "OpenAI GPT-5.6-Sol 删光 AI 创业者 Matt Shumer 的 Mac 硬盘",
+        "url": "https://x.com/AYi_AInotes/status/2075761215251312722",
+        "source": "X：阿易 AI Notes (@AYi_AInotes)",
         "source_name": "AI HOT"
       }
     },
@@ -628,15 +647,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7587,
-      "importance": 0.7587,
-      "importance_score": 0.7587,
+      "score": 0.754,
+      "importance": 0.754,
+      "importance_score": 0.754,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8337,
+        "recency": 0.808,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -689,21 +708,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7521,
-      "importance": 0.7521,
-      "importance_score": 0.7521,
+      "score": 0.7473,
+      "importance": 0.7473,
+      "importance_score": 0.7473,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8639,
+        "recency": 0.8373,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-10T20:23:54Z",
       "latest_at": "2026-07-10T20:23:54Z",
@@ -750,15 +768,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8081,
-      "importance": 0.8081,
-      "importance_score": 0.8081,
+      "score": 0.8037,
+      "importance": 0.8037,
+      "importance_score": 0.8037,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8005,
+        "recency": 0.7759,
         "story_heat": 0.0
       },
       "category": "official",
@@ -812,15 +830,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.731,
-      "importance": 0.731,
-      "importance_score": 0.731,
+      "score": 0.7264,
+      "importance": 0.7264,
+      "importance_score": 0.7264,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8298,
+        "recency": 0.8042,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -872,15 +890,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7263,
-      "importance": 0.7263,
-      "importance_score": 0.7263,
+      "score": 0.7219,
+      "importance": 0.7219,
+      "importance_score": 0.7219,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7873,
+        "recency": 0.763,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -894,66 +912,6 @@
         "title": "百度搭子在成都AI Day发布四项更新：个人版升级、自媒体套件、企业版及搭子联盟",
         "url": "https://mp.weixin.qq.com/s/Haqbjim9YGmRu1XpxG_VvA",
         "source": "公众号：百度智能云（文心）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_499734c731df",
-      "title": "马斯克承认Anthropic是当前AI领导者",
-      "url": "https://x.com/rohanpaul_ai/status/2075480331600417141",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2075480331600417141",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "992fca95b26fd842bf8cd8a87c02f03574fbcd3b",
-          "title": "马斯克承认Anthropic是当前AI领导者",
-          "url": "https://x.com/rohanpaul_ai/status/2075480331600417141",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-10T07:20:46Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "items": [
-        {
-          "id": "992fca95b26fd842bf8cd8a87c02f03574fbcd3b",
-          "title": "马斯克承认Anthropic是当前AI领导者",
-          "url": "https://x.com/rohanpaul_ai/status/2075480331600417141",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-10T07:20:46Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7254,
-      "importance": 0.7254,
-      "importance_score": 0.7254,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7155,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-10T07:20:46Z",
-      "latest_at": "2026-07-10T07:20:46Z",
-      "primary_item": {
-        "id": "992fca95b26fd842bf8cd8a87c02f03574fbcd3b",
-        "title": "马斯克承认Anthropic是当前AI领导者",
-        "url": "https://x.com/rohanpaul_ai/status/2075480331600417141",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
         "source_name": "AI HOT"
       }
     },
@@ -992,15 +950,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7251,
-      "importance": 0.7251,
-      "importance_score": 0.7251,
+      "score": 0.7209,
+      "importance": 0.7209,
+      "importance_score": 0.7209,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7639,
+        "recency": 0.7403,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1015,87 +973,6 @@
         "url": "https://www.aibase.com/news/29530",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_c3ab093dbe41",
-      "title": "扎克伯格首度回应 Meta\"算力过剩\"：没人会嫌算力太多，但租出去更赚钱",
-      "url": "https://www.ithome.com/0/975/078.htm",
-      "primary_url": "https://www.ithome.com/0/975/078.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "bf79a15b6298ca280c41076e65f02137385eea5c",
-          "title": "扎克伯格首度回应 Meta\"算力过剩\"：没人会嫌算力太多，但租出去更赚钱",
-          "url": "https://www.ithome.com/0/975/078.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-10T07:26:10Z"
-        },
-        {
-          "id": "a27cd8c18b7359149d81583486c91663f5b1e80a",
-          "title": "扎克伯格首度回应 Meta“算力过剩”：没人会嫌算力太多，但租出去更赚钱",
-          "url": "https://www.ithome.com/0/975/078.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-10T07:26:10Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "bf79a15b6298ca280c41076e65f02137385eea5c",
-          "title": "扎克伯格首度回应 Meta\"算力过剩\"：没人会嫌算力太多，但租出去更赚钱",
-          "url": "https://www.ithome.com/0/975/078.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-10T07:26:10Z"
-        },
-        {
-          "id": "a27cd8c18b7359149d81583486c91663f5b1e80a",
-          "title": "扎克伯格首度回应 Meta“算力过剩”：没人会嫌算力太多，但租出去更赚钱",
-          "url": "https://www.ithome.com/0/975/078.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-10T07:26:10Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7506,
-      "importance": 0.7506,
-      "importance_score": 0.7506,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7164,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-10T07:26:10Z",
-      "latest_at": "2026-07-10T07:26:10Z",
-      "primary_item": {
-        "id": "bf79a15b6298ca280c41076e65f02137385eea5c",
-        "title": "扎克伯格首度回应 Meta\"算力过剩\"：没人会嫌算力太多，但租出去更赚钱",
-        "url": "https://www.ithome.com/0/975/078.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -1133,15 +1010,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8054,
-      "importance": 0.8054,
-      "importance_score": 0.8054,
+      "score": 0.8012,
+      "importance": 0.8012,
+      "importance_score": 0.8012,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7408,
+        "recency": 0.718,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1249,15 +1126,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6147,
-      "importance": 0.6147,
-      "importance_score": 0.6147,
+      "score": 0.61,
+      "importance": 0.61,
+      "importance_score": 0.61,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.8359,
+        "recency": 0.8101,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1328,15 +1205,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6062,
-      "importance": 0.6062,
-      "importance_score": 0.6062,
+      "score": 0.6013,
+      "importance": 0.6013,
+      "importance_score": 0.6013,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.58,
         "ai_relevance": 0.71,
-        "recency": 0.8792,
+        "recency": 0.8521,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1445,15 +1322,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.579,
-      "importance": 0.579,
-      "importance_score": 0.579,
+      "score": 0.5739,
+      "importance": 0.5739,
+      "importance_score": 0.5739,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9064,
+        "recency": 0.8785,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1468,6 +1345,202 @@
         "url": "https://discuss.ai.google.dev/t/please-dont-discontinue-gemini-2-5-flash/174246",
         "source": "discuss.ai.google.dev",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_be1720d248f4",
+      "title": "苹果起诉 OpenAI，指控其前员工窃取商业机密 / Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+      "url": "https://news.ycombinator.com/item?id=48865019",
+      "primary_url": "https://news.ycombinator.com/item?id=48865019",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "6f0abfaa01d6de5c38b4b10e8770e9838c11ff43",
+          "title": "苹果起诉 OpenAI，指控其前员工窃取商业机密 / Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+          "url": "https://news.ycombinator.com/item?id=48865019",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-11T00:47:38.988000Z"
+        },
+        {
+          "id": "2e4fae73d6e65a31d6b11518881ef7406520ddeb",
+          "title": "苹果起诉OpenAI窃取商业机密以开发人工智能硬件",
+          "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft",
+          "source": "9to5mac.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-10T23:11:12.310000Z"
+        },
+        {
+          "id": "e4e0c2527c40fcd87e7452e0f86beecc75b4e728",
+          "title": "苹果起诉OpenAI窃取商业机密以开发人工智能硬件 / Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+          "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-10T20:47:09Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "9to5mac.com",
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "6f0abfaa01d6de5c38b4b10e8770e9838c11ff43",
+          "title": "苹果起诉 OpenAI，指控其前员工窃取商业机密 / Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+          "url": "https://news.ycombinator.com/item?id=48865019",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-11T00:47:38.988000Z"
+        },
+        {
+          "id": "2e4fae73d6e65a31d6b11518881ef7406520ddeb",
+          "title": "苹果起诉OpenAI窃取商业机密以开发人工智能硬件",
+          "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft",
+          "source": "9to5mac.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-10T23:11:12.310000Z"
+        },
+        {
+          "id": "e4e0c2527c40fcd87e7452e0f86beecc75b4e728",
+          "title": "苹果起诉OpenAI窃取商业机密以开发人工智能硬件 / Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+          "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-10T20:47:09Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5514,
+      "importance": 0.5514,
+      "importance_score": 0.5514,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8921,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-10T20:47:09Z",
+      "latest_at": "2026-07-11T00:47:38.988000Z",
+      "primary_item": {
+        "id": "6f0abfaa01d6de5c38b4b10e8770e9838c11ff43",
+        "title": "苹果起诉 OpenAI，指控其前员工窃取商业机密 / Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+        "url": "https://news.ycombinator.com/item?id=48865019",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_73fcd4d646ac",
+      "title": "经过几天的强烈反对后，Meta 取消了新的人工智能图像功能 / Meta pulls new AI image feature after days of backlash",
+      "url": "https://www.bbc.com/news/articles/c2dy6e8klw0o",
+      "primary_url": "https://www.bbc.com/news/articles/c2dy6e8klw0o",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "405dbcbcc163f829cf77129a1e5ba48df18e0af8",
+          "title": "经过几天的强烈反对后，Meta 取消了新的人工智能图像功能 / Meta pulls new AI image feature after days of backlash",
+          "url": "https://www.bbc.com/news/articles/c2dy6e8klw0o",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-11T00:40:36Z"
+        },
+        {
+          "id": "c7316a1195f303b2080c2007d353fd2b3844d683",
+          "title": "Meta在遭遇数日舆论反弹后下架了新推出的AI图像功能",
+          "url": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss",
+          "source": "www.bbc.co.uk",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-11T00:31:06.190000Z"
+        },
+        {
+          "id": "121099e3c465d42c3f269815b4512f168f7dd3de",
+          "title": "Meta在遭遇数日舆论反弹后下架了新推出的AI图像功能 / Meta pulls new AI image feature after days of backlash",
+          "url": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-11T00:17:54Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "BBC News",
+        "Hacker News · 24h最热",
+        "www.bbc.co.uk"
+      ],
+      "items": [
+        {
+          "id": "405dbcbcc163f829cf77129a1e5ba48df18e0af8",
+          "title": "经过几天的强烈反对后，Meta 取消了新的人工智能图像功能 / Meta pulls new AI image feature after days of backlash",
+          "url": "https://www.bbc.com/news/articles/c2dy6e8klw0o",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-11T00:40:36Z"
+        },
+        {
+          "id": "c7316a1195f303b2080c2007d353fd2b3844d683",
+          "title": "Meta在遭遇数日舆论反弹后下架了新推出的AI图像功能",
+          "url": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss",
+          "source": "www.bbc.co.uk",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-11T00:31:06.190000Z"
+        },
+        {
+          "id": "121099e3c465d42c3f269815b4512f168f7dd3de",
+          "title": "Meta在遭遇数日舆论反弹后下架了新推出的AI图像功能 / Meta pulls new AI image feature after days of backlash",
+          "url": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-11T00:17:54Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5511,
+      "importance": 0.5511,
+      "importance_score": 0.5511,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8906,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-11T00:17:54Z",
+      "latest_at": "2026-07-11T00:40:36Z",
+      "primary_item": {
+        "id": "405dbcbcc163f829cf77129a1e5ba48df18e0af8",
+        "title": "经过几天的强烈反对后，Meta 取消了新的人工智能图像功能 / Meta pulls new AI image feature after days of backlash",
+        "url": "https://www.bbc.com/news/articles/c2dy6e8klw0o",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     }
   ]

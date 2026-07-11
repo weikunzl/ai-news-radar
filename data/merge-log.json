@@ -1,15 +1,8 @@
 {
-  "generated_at": "2026-07-11T06:31:51.390965Z",
+  "generated_at": "2026-07-11T08:41:53.416802Z",
   "merge_strategy": "url_or_title_similarity_v0_6",
   "total_events": 56,
   "events": [
-    {
-      "story_id": "story_c3ab093dbe41",
-      "item_id": "a27cd8c18b7359149d81583486c91663f5b1e80a",
-      "merged_into": "story_c3ab093dbe41",
-      "reason": "canonical_url",
-      "similarity": 1.0
-    },
     {
       "story_id": "story_ec25e9bd4456",
       "item_id": "054c399836a6d52343daec702eae7c24a5456ae6",
@@ -44,20 +37,6 @@
       "merged_into": "story_1aa3551e0d5a",
       "reason": "title_similarity",
       "similarity": 0.9018
-    },
-    {
-      "story_id": "story_c2a3f0d7ae30",
-      "item_id": "77250f068e5bfeeb2aa5d9d3063f88aff5a1b953",
-      "merged_into": "story_c2a3f0d7ae30",
-      "reason": "title_similarity",
-      "similarity": 1.0
-    },
-    {
-      "story_id": "story_c2a3f0d7ae30",
-      "item_id": "347408dd650d20f023f11eb5cb4a11fa872e6992",
-      "merged_into": "story_c2a3f0d7ae30",
-      "reason": "canonical_url",
-      "similarity": 1.0
     },
     {
       "story_id": "story_d51e6412f58c",
@@ -392,6 +371,27 @@
       "story_id": "story_899ff3b5c6e6",
       "item_id": "cab3e0ef0fbd674dba633d333c10e55edb2e1348",
       "merged_into": "story_899ff3b5c6e6",
+      "reason": "canonical_url",
+      "similarity": 1.0
+    },
+    {
+      "story_id": "story_8eeb4fee86b5",
+      "item_id": "dbf509acc7aa394d320e8dd9e3e3ca213ff65843",
+      "merged_into": "story_8eeb4fee86b5",
+      "reason": "canonical_url",
+      "similarity": 1.0
+    },
+    {
+      "story_id": "story_eb159ca2abdd",
+      "item_id": "9cfcffbe13372f85db65dc3fc3695bce29886dfb",
+      "merged_into": "story_eb159ca2abdd",
+      "reason": "canonical_url",
+      "similarity": 1.0
+    },
+    {
+      "story_id": "story_5938d3171900",
+      "item_id": "2ee8dece0adcecf6d47de4dc64654c386cf15996",
+      "merged_into": "story_5938d3171900",
       "reason": "canonical_url",
       "similarity": 1.0
     }
