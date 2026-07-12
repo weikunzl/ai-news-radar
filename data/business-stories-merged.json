@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T01:31:25.066819Z",
+  "generated_at": "2026-07-12T04:55:31.732587Z",
   "clusters": [
     {
       "cluster_id": "biz_cluster_2f0b4084974e",
@@ -16,8 +16,8 @@
         "biz_902ca483b674",
         "biz_4179afdb3956",
         "biz_107ef058c6f6",
-        "biz_231b8128e9d8",
-        "biz_8c7ea4c92179"
+        "biz_48bf144cc577",
+        "biz_231b8128e9d8"
       ],
       "source_count": 3,
       "importance_score": 85,
@@ -129,7 +129,7 @@
       ]
     },
     {
-      "cluster_id": "biz_cluster_a39ff0ad04ad",
+      "cluster_id": "biz_cluster_8ed9c90755b3",
       "thesis": "Founder stories provide the most reusable proof layer for Yuanli IP trust-building.",
       "lane": "founder_case",
       "signal_ids": [
@@ -138,23 +138,23 @@
         "biz_6c9a126452ca",
         "biz_b929c31bd9e0",
         "biz_3b5dea885d52",
-        "biz_6419e341a022",
         "biz_6d12fbd2407f",
+        "biz_6419e341a022",
         "biz_81957eff1692",
         "biz_d86bbeea8a46",
-        "biz_a2705cc07bc1",
-        "biz_2f427ec8e296",
-        "biz_b1077c6f73dc"
+        "biz_de26830f28c9",
+        "biz_5f07c8cdd16c",
+        "biz_ff7535ed1189"
       ],
-      "source_count": 2,
-      "importance_score": 54,
+      "source_count": 3,
+      "importance_score": 56,
       "confidence": "medium",
       "yuanli_mapping": [
         "ftf_trust",
         "yuanli_asset",
         "wealth_flywheel"
       ],
-      "why_it_matters": "12 English evidence items from 2 sources connect this pattern to Yuanli IP.",
+      "why_it_matters": "12 English evidence items from 3 sources connect this pattern to Yuanli IP.",
       "counter_evidence": "See counter_signal cluster for adoption, ROI, and trust risks.",
       "recommended_action": "Convert high-score founder cases into FTF credible story assets.",
       "evidence_refs": [
@@ -257,16 +257,16 @@
       ]
     },
     {
-      "cluster_id": "biz_cluster_17160fd02f0b",
+      "cluster_id": "biz_cluster_a7d8d1bd02fd",
       "thesis": "AI adoption counter-signals reveal where Yuanli claims need sharper proof and risk language.",
       "lane": "counter_signal",
       "signal_ids": [
         "biz_5abfba17eae7",
         "biz_3f3b42cbc409",
         "biz_d3bb755fab5d",
-        "biz_85d016ac6404",
         "biz_9646516bde59",
-        "biz_b5d21faaa7d6"
+        "biz_b5d21faaa7d6",
+        "biz_85d016ac6404"
       ],
       "source_count": 4,
       "importance_score": 48,
@@ -282,8 +282,8 @@
         "biz_5abfba17eae7",
         "biz_3f3b42cbc409",
         "biz_d3bb755fab5d",
-        "biz_85d016ac6404",
-        "biz_9646516bde59"
+        "biz_9646516bde59",
+        "biz_b5d21faaa7d6"
       ],
       "top_sources": [
         {
@@ -302,14 +302,14 @@
           "url": "https://www.generalist.com/p/why-one-superintelligence-is-more"
         },
         {
-          "source": "a16z",
-          "title": "Hugging Face’s Clem Delangue on Open Source AI and the LLM Bubble | MTS Live",
-          "url": "https://a16z.com/podcast/hugging-faces-clem-delangue-on-open-source-ai-and-the-llm-bubble-mts-live/"
-        },
-        {
           "source": "Harvard Business Review",
           "title": "You Outsourced the AI—but You Still Own the Risk",
           "url": "https://hbr.org/2026/07/you-outsourced-the-ai-but-you-still-own-the-risk?ab=HP-hero-latest-2"
+        },
+        {
+          "source": "Harvard Business Review",
+          "title": "AI Is Changing Cyber Risk. Here’s How SMBs Can Respond.",
+          "url": "https://hbr.org/2026/06/ai-is-changing-cyber-risk-heres-how-smbs-can-respond"
         }
       ]
     }
