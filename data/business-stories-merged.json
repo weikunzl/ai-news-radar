@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T04:55:31.732587Z",
+  "generated_at": "2026-07-12T07:25:24.698453Z",
   "clusters": [
     {
       "cluster_id": "biz_cluster_2f0b4084974e",
@@ -16,8 +16,8 @@
         "biz_902ca483b674",
         "biz_4179afdb3956",
         "biz_107ef058c6f6",
-        "biz_48bf144cc577",
-        "biz_231b8128e9d8"
+        "biz_231b8128e9d8",
+        "biz_8c7ea4c92179"
       ],
       "source_count": 3,
       "importance_score": 85,
@@ -193,7 +193,7 @@
       ]
     },
     {
-      "cluster_id": "biz_cluster_3dd384527cfd",
+      "cluster_id": "biz_cluster_c933a38a9338",
       "thesis": "Business-school and consulting evidence strengthens the trust layer behind Yuanli IP claims.",
       "lane": "authority_trust",
       "signal_ids": [
@@ -201,24 +201,24 @@
         "biz_fd2b63193b5d",
         "biz_3f595b7a14d2",
         "biz_3c5823b34f5a",
-        "biz_ee0d77c88941",
-        "biz_c3710204dd3b",
         "biz_d11e19e17274",
         "biz_6eff8c60fb3f",
         "biz_36255a88492a",
-        "biz_cf518055cd80",
         "biz_e88fa46e3cee",
-        "biz_4a0e2e7cfba5"
+        "biz_4a0e2e7cfba5",
+        "biz_cf518055cd80",
+        "biz_08413d697637",
+        "biz_5d24d1881372"
       ],
-      "source_count": 4,
-      "importance_score": 54,
-      "confidence": "high",
+      "source_count": 3,
+      "importance_score": 52,
+      "confidence": "medium",
       "yuanli_mapping": [
         "ftf_trust",
         "yuanli_asset",
         "yuanli_startup"
       ],
-      "why_it_matters": "12 English evidence items from 4 sources connect this pattern to Yuanli IP.",
+      "why_it_matters": "12 English evidence items from 3 sources connect this pattern to Yuanli IP.",
       "counter_evidence": "See counter_signal cluster for adoption, ROI, and trust risks.",
       "recommended_action": "Use these authority-backed signals as FTF proof points before making public claims.",
       "evidence_refs": [
@@ -226,7 +226,7 @@
         "biz_fd2b63193b5d",
         "biz_3f595b7a14d2",
         "biz_3c5823b34f5a",
-        "biz_ee0d77c88941"
+        "biz_d11e19e17274"
       ],
       "top_sources": [
         {
@@ -250,9 +250,9 @@
           "url": "https://hbr.org/2026/05/what-customer-workarounds-can-reveal-about-your-business-model?ab=HP-topics-text-3"
         },
         {
-          "source": "Bain Insights",
-          "title": "Customer Experience",
-          "url": "https://www.bain.com/consulting-services/customer-strategy-and-marketing/customer-experience-transformation/"
+          "source": "BCG AI Insights",
+          "title": "Health Care Industry",
+          "url": "https://www.bcg.com/industries/health-care/overview"
         }
       ]
     },
