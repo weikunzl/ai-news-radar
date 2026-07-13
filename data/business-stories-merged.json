@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T11:40:24.268652Z",
+  "generated_at": "2026-07-13T14:03:12.065538Z",
   "clusters": [
     {
       "cluster_id": "biz_cluster_2f0b4084974e",
@@ -193,10 +193,11 @@
       ]
     },
     {
-      "cluster_id": "biz_cluster_d307634f7dcd",
+      "cluster_id": "biz_cluster_1df1c2bab736",
       "thesis": "Business-school and consulting evidence strengthens the trust layer behind Yuanli IP claims.",
       "lane": "authority_trust",
       "signal_ids": [
+        "biz_55afee00b348",
         "biz_fd2b63193b5d",
         "biz_3f595b7a14d2",
         "biz_3c5823b34f5a",
@@ -205,13 +206,12 @@
         "biz_9a38fd553437",
         "biz_d11e19e17274",
         "biz_6eff8c60fb3f",
-        "biz_36255a88492a",
         "biz_e88fa46e3cee",
         "biz_4a0e2e7cfba5",
         "biz_cf518055cd80"
       ],
       "source_count": 5,
-      "importance_score": 54,
+      "importance_score": 56,
       "confidence": "high",
       "yuanli_mapping": [
         "ftf_trust",
@@ -222,13 +222,18 @@
       "counter_evidence": "See counter_signal cluster for adoption, ROI, and trust risks.",
       "recommended_action": "Use these authority-backed signals as FTF proof points before making public claims.",
       "evidence_refs": [
+        "biz_55afee00b348",
         "biz_fd2b63193b5d",
         "biz_3f595b7a14d2",
         "biz_3c5823b34f5a",
-        "biz_ee0d77c88941",
-        "biz_c3710204dd3b"
+        "biz_ee0d77c88941"
       ],
       "top_sources": [
+        {
+          "source": "Harvard Business Review",
+          "title": "Startup Founders Need a New Sales Playbook",
+          "url": "https://hbr.org/2026/06/startup-founders-need-a-new-sales-playbook?ab=HP-hero-for-you-1"
+        },
         {
           "source": "BCG AI Insights",
           "title": "Financial Institutions",
@@ -248,23 +253,18 @@
           "source": "Bain Insights",
           "title": "Customer Experience",
           "url": "https://www.bain.com/consulting-services/customer-strategy-and-marketing/customer-experience-transformation/"
-        },
-        {
-          "source": "Bain Insights",
-          "title": "Supporting Your Growth",
-          "url": "https://www.bain.com/careers/life-at-bain/supporting-your-growth/"
         }
       ]
     },
     {
-      "cluster_id": "biz_cluster_a7d8d1bd02fd",
+      "cluster_id": "biz_cluster_cd460d09f62a",
       "thesis": "AI adoption counter-signals reveal where Yuanli claims need sharper proof and risk language.",
       "lane": "counter_signal",
       "signal_ids": [
         "biz_5abfba17eae7",
         "biz_3f3b42cbc409",
         "biz_d3bb755fab5d",
-        "biz_9646516bde59",
+        "biz_f7e142831a00",
         "biz_b5d21faaa7d6",
         "biz_85d016ac6404"
       ],
@@ -282,7 +282,7 @@
         "biz_5abfba17eae7",
         "biz_3f3b42cbc409",
         "biz_d3bb755fab5d",
-        "biz_9646516bde59",
+        "biz_f7e142831a00",
         "biz_b5d21faaa7d6"
       ],
       "top_sources": [
@@ -304,7 +304,7 @@
         {
           "source": "Harvard Business Review",
           "title": "You Outsourced the AI—but You Still Own the Risk",
-          "url": "https://hbr.org/2026/07/you-outsourced-the-ai-but-you-still-own-the-risk?ab=HP-hero-latest-2"
+          "url": "https://hbr.org/2026/07/you-outsourced-the-ai-but-you-still-own-the-risk?ab=HP-latest-2"
         },
         {
           "source": "Harvard Business Review",
