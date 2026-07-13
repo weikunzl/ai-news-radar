@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T20:51:18.939538Z",
+  "generated_at": "2026-07-13T21:43:33.448085Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -56,15 +56,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8442,
-      "importance": 0.8442,
-      "importance_score": 0.8442,
+      "score": 0.8425,
+      "importance": 0.8425,
+      "importance_score": 0.8425,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.74,
+        "recency": 0.7307,
         "story_heat": 0.25
       },
       "category": "official",
@@ -119,15 +119,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8317,
-      "importance": 0.8317,
-      "importance_score": 0.8317,
+      "score": 0.8296,
+      "importance": 0.8296,
+      "importance_score": 0.8296,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9318,
+        "recency": 0.9202,
         "story_heat": 0.0
       },
       "category": "official",
@@ -200,15 +200,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8028,
-      "importance": 0.8028,
-      "importance_score": 0.8028,
+      "score": 0.8007,
+      "importance": 0.8007,
+      "importance_score": 0.8007,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9568,
+        "recency": 0.9448,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -224,6 +224,67 @@
         "title": "OpenAI 面向普通用户发布提示词指南：从结果出发，少写步骤",
         "url": "https://the-decoder.com/openais-new-prompting-guide-tells-users-to-stop-overthinking-and-start-with-the-result",
         "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_b2dce9b6b707",
+      "title": "xAI 官方 Grok CLI 被曝静默上传整个代码库及用户密钥",
+      "url": "https://mp.weixin.qq.com/s/6c6vGMJAVMbh6UhNVw4dcg",
+      "primary_url": "https://mp.weixin.qq.com/s/6c6vGMJAVMbh6UhNVw4dcg",
+      "source": "公众号：数字生命卡兹克",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "1ac1eb50d5db3f31f6cb5d265b540fec2992a8cf",
+          "title": "xAI 官方 Grok CLI 被曝静默上传整个代码库及用户密钥",
+          "url": "https://mp.weixin.qq.com/s/6c6vGMJAVMbh6UhNVw4dcg",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-13T00:05:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：数字生命卡兹克"
+      ],
+      "items": [
+        {
+          "id": "1ac1eb50d5db3f31f6cb5d265b540fec2992a8cf",
+          "title": "xAI 官方 Grok CLI 被曝静默上传整个代码库及用户密钥",
+          "url": "https://mp.weixin.qq.com/s/6c6vGMJAVMbh6UhNVw4dcg",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-13T00:05:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7613,
+      "importance": 0.7613,
+      "importance_score": 0.7613,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.86,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7316,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-13T00:05:00Z",
+      "latest_at": "2026-07-13T00:05:00Z",
+      "primary_item": {
+        "id": "1ac1eb50d5db3f31f6cb5d265b540fec2992a8cf",
+        "title": "xAI 官方 Grok CLI 被曝静默上传整个代码库及用户密钥",
+        "url": "https://mp.weixin.qq.com/s/6c6vGMJAVMbh6UhNVw4dcg",
+        "source": "公众号：数字生命卡兹克",
         "source_name": "AI HOT"
       }
     },
@@ -281,15 +342,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7632,
-      "importance": 0.7632,
-      "importance_score": 0.7632,
+      "score": 0.7613,
+      "importance": 0.7613,
+      "importance_score": 0.7613,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8366,
+        "recency": 0.8262,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -306,67 +367,6 @@
         "url": "https://www.aibase.com/news/29549",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_b2dce9b6b707",
-      "title": "xAI 官方 Grok CLI 被曝静默上传整个代码库及用户密钥",
-      "url": "https://mp.weixin.qq.com/s/6c6vGMJAVMbh6UhNVw4dcg",
-      "primary_url": "https://mp.weixin.qq.com/s/6c6vGMJAVMbh6UhNVw4dcg",
-      "source": "公众号：数字生命卡兹克",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "1ac1eb50d5db3f31f6cb5d265b540fec2992a8cf",
-          "title": "xAI 官方 Grok CLI 被曝静默上传整个代码库及用户密钥",
-          "url": "https://mp.weixin.qq.com/s/6c6vGMJAVMbh6UhNVw4dcg",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-13T00:05:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：数字生命卡兹克"
-      ],
-      "items": [
-        {
-          "id": "1ac1eb50d5db3f31f6cb5d265b540fec2992a8cf",
-          "title": "xAI 官方 Grok CLI 被曝静默上传整个代码库及用户密钥",
-          "url": "https://mp.weixin.qq.com/s/6c6vGMJAVMbh6UhNVw4dcg",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-13T00:05:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.763,
-      "importance": 0.763,
-      "importance_score": 0.763,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.86,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7408,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-13T00:05:00Z",
-      "latest_at": "2026-07-13T00:05:00Z",
-      "primary_item": {
-        "id": "1ac1eb50d5db3f31f6cb5d265b540fec2992a8cf",
-        "title": "xAI 官方 Grok CLI 被曝静默上传整个代码库及用户密钥",
-        "url": "https://mp.weixin.qq.com/s/6c6vGMJAVMbh6UhNVw4dcg",
-        "source": "公众号：数字生命卡兹克",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -404,15 +404,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7564,
-      "importance": 0.7564,
-      "importance_score": 0.7564,
+      "score": 0.7545,
+      "importance": 0.7545,
+      "importance_score": 0.7545,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8547,
+        "recency": 0.844,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -465,15 +465,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7562,
-      "importance": 0.7562,
-      "importance_score": 0.7562,
+      "score": 0.7543,
+      "importance": 0.7543,
+      "importance_score": 0.7543,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8701,
+        "recency": 0.8592,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -526,21 +526,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7501,
-      "importance": 0.7501,
-      "importance_score": 0.7501,
+      "score": 0.7482,
+      "importance": 0.7482,
+      "importance_score": 0.7482,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8526,
+        "recency": 0.842,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-13T09:48:59Z",
       "latest_at": "2026-07-13T09:48:59Z",
@@ -606,15 +605,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7392,
-      "importance": 0.7392,
-      "importance_score": 0.7392,
+      "score": 0.7375,
+      "importance": 0.7375,
+      "importance_score": 0.7375,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7366,
+        "recency": 0.7274,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -686,15 +685,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7643,
-      "importance": 0.7643,
-      "importance_score": 0.7643,
+      "score": 0.7623,
+      "importance": 0.7623,
+      "importance_score": 0.7623,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.876,
+        "recency": 0.865,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -767,15 +766,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7566,
-      "importance": 0.7566,
-      "importance_score": 0.7566,
+      "score": 0.7548,
+      "importance": 0.7548,
+      "importance_score": 0.7548,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8,
+        "recency": 0.7901,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -829,15 +828,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7376,
-      "importance": 0.7376,
-      "importance_score": 0.7376,
+      "score": 0.7359,
+      "importance": 0.7359,
+      "importance_score": 0.7359,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7499,
+        "recency": 0.7405,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -908,15 +907,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7492,
-      "importance": 0.7492,
-      "importance_score": 0.7492,
+      "score": 0.7475,
+      "importance": 0.7475,
+      "importance_score": 0.7475,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7587,
+        "recency": 0.7493,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1041,15 +1040,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6588,
-      "importance": 0.6588,
-      "importance_score": 0.6588,
+      "score": 0.6567,
+      "importance": 0.6567,
+      "importance_score": 0.6567,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9424,
+        "recency": 0.9306,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1101,15 +1100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7452,
-      "importance": 0.7452,
-      "importance_score": 0.7452,
+      "score": 0.7432,
+      "importance": 0.7432,
+      "importance_score": 0.7432,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8755,
+        "recency": 0.8646,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1161,15 +1160,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7452,
-      "importance": 0.7452,
-      "importance_score": 0.7452,
+      "score": 0.7432,
+      "importance": 0.7432,
+      "importance_score": 0.7432,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8755,
+        "recency": 0.8646,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1239,15 +1238,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6182,
-      "importance": 0.6182,
-      "importance_score": 0.6182,
+      "score": 0.6161,
+      "importance": 0.6161,
+      "importance_score": 0.6161,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.58,
         "ai_relevance": 0.71,
-        "recency": 0.9458,
+        "recency": 0.934,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1299,15 +1298,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7452,
-      "importance": 0.7452,
-      "importance_score": 0.7452,
+      "score": 0.7432,
+      "importance": 0.7432,
+      "importance_score": 0.7432,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8755,
+        "recency": 0.8646,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1325,99 +1324,99 @@
       }
     },
     {
-      "story_id": "story_7596375c34fb",
-      "title": "Show HN：PlanWright – AI 编码代理的控制平面 / Show HN: PlanWright – A control plane for AI coding agents",
-      "url": "https://news.ycombinator.com/item?id=48897969",
-      "primary_url": "https://news.ycombinator.com/item?id=48897969",
+      "story_id": "story_86dc4b5041ce",
+      "title": "Show HN：Jacquard，一种用于人工智能编写、人工审核代码的编程语言 / Show HN: Jacquard, a programming language for AI-written, human-reviewed code",
+      "url": "https://news.ycombinator.com/item?id=48894630",
+      "primary_url": "https://news.ycombinator.com/item?id=48894630",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "8dae23469af8cdb4109495d99f25da1014472554",
-          "title": "Show HN：PlanWright – AI 编码代理的控制平面 / Show HN: PlanWright – A control plane for AI coding agents",
-          "url": "https://news.ycombinator.com/item?id=48897969",
+          "id": "0478350231f0808be21cfbd94568460bdb2b5428",
+          "title": "Show HN：Jacquard，一种用于人工智能编写、人工审核代码的编程语言 / Show HN: Jacquard, a programming language for AI-written, human-reviewed code",
+          "url": "https://news.ycombinator.com/item?id=48894630",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-13T20:31:41.541000Z"
+          "published_at": "2026-07-13T21:31:44.872000Z"
         },
         {
-          "id": "cbfb17a357e8e68b2fcff60def488cd6cd9541aa",
-          "title": "Show HN: PlanWright——一个用于人工智能编码代理的控制平面",
-          "url": "https://planwright.tools",
-          "source": "planwright.tools",
+          "id": "84f54c8f834ad50f6cc57a7ebf1ab6e4e855778d",
+          "title": "Show HN: Jacquard，一种由人工智能编写、经人类审核的编程语言",
+          "url": "https://github.com/jbwinters/jacquard-lang",
+          "source": "github.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-13T20:01:46.597000Z"
+          "published_at": "2026-07-13T16:01:58.757000Z"
         },
         {
-          "id": "f08dc15868358e60ce2199c640ae0dc1eef2bb07",
-          "title": "Show HN: PlanWright——一个用于人工智能编码代理的控制平面 / Show HN: PlanWright – A control plane for AI coding agents",
-          "url": "https://planwright.tools",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-13T19:59:50Z"
+          "id": "56d2b274d0f899f0c0dd774d3e9740cd21acbf4f",
+          "title": "Show HN: Jacquard，一种由人工智能编写、经人类审核的编程语言 / Show HN: Jacquard, a programming language for AI-written, human-reviewed code",
+          "url": "https://github.com/jbwinters/jacquard-lang",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-13T15:56:02Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News",
-        "hackernews",
-        "planwright.tools"
+        "Hacker News (黑客新闻)",
+        "github.com",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "8dae23469af8cdb4109495d99f25da1014472554",
-          "title": "Show HN：PlanWright – AI 编码代理的控制平面 / Show HN: PlanWright – A control plane for AI coding agents",
-          "url": "https://news.ycombinator.com/item?id=48897969",
+          "id": "0478350231f0808be21cfbd94568460bdb2b5428",
+          "title": "Show HN：Jacquard，一种用于人工智能编写、人工审核代码的编程语言 / Show HN: Jacquard, a programming language for AI-written, human-reviewed code",
+          "url": "https://news.ycombinator.com/item?id=48894630",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-13T20:31:41.541000Z"
+          "published_at": "2026-07-13T21:31:44.872000Z"
         },
         {
-          "id": "cbfb17a357e8e68b2fcff60def488cd6cd9541aa",
-          "title": "Show HN: PlanWright——一个用于人工智能编码代理的控制平面",
-          "url": "https://planwright.tools",
-          "source": "planwright.tools",
+          "id": "84f54c8f834ad50f6cc57a7ebf1ab6e4e855778d",
+          "title": "Show HN: Jacquard，一种由人工智能编写、经人类审核的编程语言",
+          "url": "https://github.com/jbwinters/jacquard-lang",
+          "source": "github.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-13T20:01:46.597000Z"
+          "published_at": "2026-07-13T16:01:58.757000Z"
         },
         {
-          "id": "f08dc15868358e60ce2199c640ae0dc1eef2bb07",
-          "title": "Show HN: PlanWright——一个用于人工智能编码代理的控制平面 / Show HN: PlanWright – A control plane for AI coding agents",
-          "url": "https://planwright.tools",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-13T19:59:50Z"
+          "id": "56d2b274d0f899f0c0dd774d3e9740cd21acbf4f",
+          "title": "Show HN: Jacquard，一种由人工智能编写、经人类审核的编程语言 / Show HN: Jacquard, a programming language for AI-written, human-reviewed code",
+          "url": "https://github.com/jbwinters/jacquard-lang",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-13T15:56:02Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.57,
-      "importance": 0.57,
-      "importance_score": 0.57,
+      "score": 0.5703,
+      "importance": 0.5703,
+      "importance_score": 0.5703,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9953,
+        "recency": 0.9972,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-13T19:59:50Z",
-      "latest_at": "2026-07-13T20:31:41.541000Z",
+      "earliest_at": "2026-07-13T15:56:02Z",
+      "latest_at": "2026-07-13T21:31:44.872000Z",
       "primary_item": {
-        "id": "8dae23469af8cdb4109495d99f25da1014472554",
-        "title": "Show HN：PlanWright – AI 编码代理的控制平面 / Show HN: PlanWright – A control plane for AI coding agents",
-        "url": "https://news.ycombinator.com/item?id=48897969",
+        "id": "0478350231f0808be21cfbd94568460bdb2b5428",
+        "title": "Show HN：Jacquard，一种用于人工智能编写、人工审核代码的编程语言 / Show HN: Jacquard, a programming language for AI-written, human-reviewed code",
+        "url": "https://news.ycombinator.com/item?id=48894630",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
@@ -1457,15 +1456,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7382,
-      "importance": 0.7382,
-      "importance_score": 0.7382,
+      "score": 0.7363,
+      "importance": 0.7363,
+      "importance_score": 0.7363,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8366,
+        "recency": 0.8262,
         "story_heat": 0.0
       },
       "category": "industry",
