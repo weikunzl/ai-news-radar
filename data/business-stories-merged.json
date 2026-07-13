@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T16:46:21.101964Z",
+  "generated_at": "2026-07-13T18:27:46.955816Z",
   "clusters": [
     {
       "cluster_id": "biz_cluster_2f0b4084974e",
@@ -193,11 +193,10 @@
       ]
     },
     {
-      "cluster_id": "biz_cluster_1df1c2bab736",
+      "cluster_id": "biz_cluster_d307634f7dcd",
       "thesis": "Business-school and consulting evidence strengthens the trust layer behind Yuanli IP claims.",
       "lane": "authority_trust",
       "signal_ids": [
-        "biz_55afee00b348",
         "biz_fd2b63193b5d",
         "biz_3f595b7a14d2",
         "biz_3c5823b34f5a",
@@ -205,13 +204,14 @@
         "biz_c3710204dd3b",
         "biz_9a38fd553437",
         "biz_d11e19e17274",
-        "biz_6eff8c60fb3f",
+        "biz_36255a88492a",
         "biz_e88fa46e3cee",
         "biz_4a0e2e7cfba5",
-        "biz_cf518055cd80"
+        "biz_cf518055cd80",
+        "biz_08413d697637"
       ],
       "source_count": 5,
-      "importance_score": 56,
+      "importance_score": 54,
       "confidence": "high",
       "yuanli_mapping": [
         "ftf_trust",
@@ -222,18 +222,13 @@
       "counter_evidence": "See counter_signal cluster for adoption, ROI, and trust risks.",
       "recommended_action": "Use these authority-backed signals as FTF proof points before making public claims.",
       "evidence_refs": [
-        "biz_55afee00b348",
         "biz_fd2b63193b5d",
         "biz_3f595b7a14d2",
         "biz_3c5823b34f5a",
-        "biz_ee0d77c88941"
+        "biz_ee0d77c88941",
+        "biz_c3710204dd3b"
       ],
       "top_sources": [
-        {
-          "source": "Harvard Business Review",
-          "title": "Startup Founders Need a New Sales Playbook",
-          "url": "https://hbr.org/2026/06/startup-founders-need-a-new-sales-playbook?ab=HP-hero-for-you-1"
-        },
         {
           "source": "BCG AI Insights",
           "title": "Financial Institutions",
@@ -253,6 +248,11 @@
           "source": "Bain Insights",
           "title": "Customer Experience",
           "url": "https://www.bain.com/consulting-services/customer-strategy-and-marketing/customer-experience-transformation/"
+        },
+        {
+          "source": "Bain Insights",
+          "title": "Supporting Your Growth",
+          "url": "https://www.bain.com/careers/life-at-bain/supporting-your-growth/"
         }
       ]
     },
