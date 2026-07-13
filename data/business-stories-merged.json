@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T01:45:30.045219Z",
+  "generated_at": "2026-07-13T05:25:48.902729Z",
   "clusters": [
     {
       "cluster_id": "biz_cluster_2f0b4084974e",
@@ -193,11 +193,10 @@
       ]
     },
     {
-      "cluster_id": "biz_cluster_3dd384527cfd",
+      "cluster_id": "biz_cluster_b8ad41c79a18",
       "thesis": "Business-school and consulting evidence strengthens the trust layer behind Yuanli IP claims.",
       "lane": "authority_trust",
       "signal_ids": [
-        "biz_02ad9d1acad7",
         "biz_fd2b63193b5d",
         "biz_3f595b7a14d2",
         "biz_3c5823b34f5a",
@@ -208,10 +207,11 @@
         "biz_36255a88492a",
         "biz_e88fa46e3cee",
         "biz_4a0e2e7cfba5",
-        "biz_cf518055cd80"
+        "biz_cf518055cd80",
+        "biz_08413d697637"
       ],
       "source_count": 4,
-      "importance_score": 54,
+      "importance_score": 52,
       "confidence": "high",
       "yuanli_mapping": [
         "ftf_trust",
@@ -222,18 +222,13 @@
       "counter_evidence": "See counter_signal cluster for adoption, ROI, and trust risks.",
       "recommended_action": "Use these authority-backed signals as FTF proof points before making public claims.",
       "evidence_refs": [
-        "biz_02ad9d1acad7",
         "biz_fd2b63193b5d",
         "biz_3f595b7a14d2",
         "biz_3c5823b34f5a",
-        "biz_ee0d77c88941"
+        "biz_ee0d77c88941",
+        "biz_c3710204dd3b"
       ],
       "top_sources": [
-        {
-          "source": "Harvard Business Review",
-          "title": "Startup Founders Need a New Sales Playbook",
-          "url": "https://hbr.org/2026/06/startup-founders-need-a-new-sales-playbook?ab=HP-hero-for-you-2"
-        },
         {
           "source": "BCG AI Insights",
           "title": "Financial Institutions",
@@ -253,6 +248,11 @@
           "source": "Bain Insights",
           "title": "Customer Experience",
           "url": "https://www.bain.com/consulting-services/customer-strategy-and-marketing/customer-experience-transformation/"
+        },
+        {
+          "source": "Bain Insights",
+          "title": "Supporting Your Growth",
+          "url": "https://www.bain.com/careers/life-at-bain/supporting-your-growth/"
         }
       ]
     },
