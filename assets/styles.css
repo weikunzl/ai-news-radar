@@ -32,26 +32,24 @@ body {
 }
 
 body.radar-shell-body {
-  --bg: #07100d;
-  --bg-alt: #0b1713;
-  --surface: #111813;
-  --surface-soft: #0d1612;
-  --surface-alt: #14231a;
-  --ink: #f2ead9;
-  --ink-soft: #d8ccaf;
-  --muted: #9f987f;
-  --muted-soft: #756f5e;
-  --line: rgba(201, 169, 106, 0.26);
-  --line-soft: rgba(201, 169, 106, 0.14);
-  --accent: #c9a96a;
-  --accent-warm: #d0a15e;
-  --good: #78aa82;
-  --warn: #d0a15e;
-  --bad: #c97a72;
+  --bg: #f6f6f2;
+  --bg-alt: #eeecea;
+  --surface: #ffffff;
+  --surface-soft: #fbfaf7;
+  --surface-alt: #f4f2ef;
+  --ink: #171717;
+  --ink-soft: #3f3d39;
+  --muted: #66645f;
+  --muted-soft: #8b8780;
+  --line: #d9d6ce;
+  --line-soft: rgba(23, 23, 23, 0.08);
+  --accent: #126a73;
+  --accent-warm: #b55231;
+  --good: #1f7a4d;
+  --warn: #9a6700;
+  --bad: #b42318;
   color: var(--ink);
-  background:
-    linear-gradient(180deg, rgba(201, 169, 106, 0.035), transparent 220px),
-    #07100d;
+  background: var(--bg);
   overflow-x: clip;
 }
 
@@ -430,11 +428,9 @@ button {
   grid-template-rows: auto auto auto 1fr auto;
   width: 236px;
   padding: 22px 16px;
-  border-right: 1px solid rgba(201, 169, 106, 0.18);
-  background:
-    linear-gradient(180deg, rgba(13, 32, 24, 0.94), rgba(7, 16, 13, 0.97)),
-    #07100d;
-  box-shadow: 18px 0 48px rgba(0, 0, 0, 0.22);
+  border-right: 1px solid var(--line);
+  background: var(--surface);
+  box-shadow: 18px 0 48px rgba(0, 0, 0, 0.06);
 }
 
 .radar-mobile-switch {
@@ -447,7 +443,7 @@ button {
   gap: 10px;
   align-items: center;
   padding-bottom: 18px;
-  border-bottom: 1px solid rgba(201, 169, 106, 0.15);
+  border-bottom: 1px solid var(--line-soft);
 }
 
 .radar-side-mark {
@@ -455,10 +451,10 @@ button {
   place-items: center;
   width: 42px;
   height: 42px;
-  border: 1px solid rgba(201, 169, 106, 0.34);
+  border: 1px solid rgba(18, 106, 115, 0.2);
   border-radius: 6px;
-  color: #f2ead9;
-  background: rgba(201, 169, 106, 0.08);
+  color: var(--accent);
+  background: rgba(18, 106, 115, 0.06);
   font-family: Georgia, "Times New Roman", serif;
   font-weight: 800;
 }
@@ -470,14 +466,14 @@ button {
 
 .radar-side-brand strong {
   font-family: Georgia, "Times New Roman", "Songti SC", serif;
-  color: #f2ead9;
+  color: var(--ink);
   font-size: 17px;
   line-height: 1.1;
 }
 
 .radar-side-brand em {
   margin-top: 4px;
-  color: rgba(216, 204, 175, 0.68);
+  color: var(--muted);
   font-size: 11px;
   font-style: normal;
   line-height: 1.3;
@@ -494,18 +490,18 @@ button {
   gap: 5px;
   min-height: 58px;
   padding: 10px 11px;
-  border: 1px solid rgba(201, 169, 106, 0.13);
+  border: 1px solid var(--line-soft);
   border-radius: 6px;
-  color: rgba(242, 234, 217, 0.78);
-  background: rgba(255, 255, 255, 0.03);
+  color: var(--ink-soft);
+  background: var(--surface-soft);
   text-decoration: none;
 }
 
 .radar-channel-link:hover,
 .radar-channel-link.active {
-  border-color: rgba(201, 169, 106, 0.42);
-  color: #f2ead9;
-  background: rgba(201, 169, 106, 0.09);
+  border-color: var(--accent);
+  color: var(--accent);
+  background: rgba(18, 106, 115, 0.06);
 }
 
 .radar-channel-link span {
@@ -513,7 +509,7 @@ button {
 }
 
 .radar-channel-link em {
-  color: rgba(201, 169, 106, 0.72);
+  color: var(--muted);
   font-size: 10px;
   font-style: normal;
   line-height: 1.2;
@@ -524,18 +520,18 @@ button {
   gap: 7px;
   margin-top: 20px;
   padding: 12px 0;
-  border-top: 1px solid rgba(201, 169, 106, 0.13);
-  border-bottom: 1px solid rgba(201, 169, 106, 0.13);
+  border-top: 1px solid var(--line-soft);
+  border-bottom: 1px solid var(--line-soft);
 }
 
 .radar-side-decision span {
-  color: rgba(201, 169, 106, 0.78);
+  color: var(--muted);
   font-size: 11px;
   font-weight: 760;
 }
 
 .radar-side-decision strong {
-  color: rgba(242, 234, 217, 0.82);
+  color: var(--ink-soft);
   font-size: 12px;
   line-height: 1.45;
 }
@@ -551,14 +547,14 @@ button {
   display: flex;
   justify-content: space-between;
   gap: 10px;
-  border-bottom: 1px solid rgba(201, 169, 106, 0.11);
+  border-bottom: 1px solid var(--line-soft);
   padding: 8px 0;
-  color: rgba(216, 204, 175, 0.74);
+  color: var(--muted);
   font-size: 12px;
 }
 
 .radar-side-metric strong {
-  color: #f2ead9;
+  color: var(--ink);
   font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
 }
 
@@ -574,11 +570,11 @@ button {
   display: grid;
   gap: 8px;
   padding-top: 18px;
-  border-top: 1px solid rgba(201, 169, 106, 0.13);
+  border-top: 1px solid var(--line-soft);
 }
 
 .radar-side-links a {
-  color: rgba(201, 169, 106, 0.86);
+  color: var(--accent);
   font-size: 12px;
   text-decoration: none;
 }
@@ -604,7 +600,7 @@ button {
 .radar-shell-body .business-hero {
   min-width: 0;
   overflow-x: clip;
-  border-bottom-color: rgba(201, 169, 106, 0.16);
+  border-bottom-color: var(--line-soft);
 }
 
 .radar-shell-body .hero > *,
@@ -613,44 +609,42 @@ button {
 }
 
 .radar-shell-body .hero-logo {
-  border-color: rgba(201, 169, 106, 0.28);
-  background: rgba(242, 234, 217, 0.08);
+  border-color: rgba(18, 106, 115, 0.16);
+  background: var(--surface);
 }
 
 .radar-shell-body .hero h1,
 .radar-shell-body .business-hero h1 {
   font-family: Georgia, "Times New Roman", "Songti SC", serif;
-  color: #f2ead9;
+  color: var(--ink);
   letter-spacing: 0;
 }
 
 .radar-shell-body .hero-tag,
 .radar-shell-body .section-eyebrow {
-  color: rgba(201, 169, 106, 0.78);
+  color: var(--muted);
 }
 
 .radar-hero-decision {
   grid-column: 1 / -1;
   display: grid;
   gap: 8px;
-  border: 1px solid rgba(201, 169, 106, 0.2);
+  border: 1px solid var(--line-soft);
   border-radius: 8px;
   padding: 16px;
-  background:
-    linear-gradient(135deg, rgba(201, 169, 106, 0.11), rgba(17, 24, 19, 0.74)),
-    rgba(17, 24, 19, 0.72);
+  background: var(--surface-soft);
 }
 
 .radar-hero-label {
   margin: 0;
-  color: rgba(201, 169, 106, 0.78);
+  color: var(--muted);
   font-size: 11px;
   font-weight: 800;
 }
 
 .radar-hero-decision h2 {
   margin: 0;
-  color: #f2ead9;
+  color: var(--ink);
   font-size: clamp(22px, 3vw, 34px);
   line-height: 1.12;
   font-family: Georgia, "Times New Roman", "Songti SC", serif;
@@ -659,13 +653,13 @@ button {
 .radar-hero-decision p {
   margin: 0;
   max-width: 880px;
-  color: rgba(216, 204, 175, 0.82);
+  color: var(--ink-soft);
   font-size: 14px;
   line-height: 1.55;
 }
 
 .radar-decision-meta {
-  color: rgba(201, 169, 106, 0.72);
+  color: var(--muted);
   font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
   font-size: 12px;
 }
@@ -681,35 +675,35 @@ button {
   display: grid;
   gap: 6px;
   min-height: 86px;
-  border: 1px solid rgba(201, 169, 106, 0.16);
+  border: 1px solid var(--line-soft);
   border-radius: 8px;
   padding: 13px;
-  background: rgba(255, 255, 255, 0.035);
+  background: var(--surface);
 }
 
 .radar-pulse-card span {
-  color: rgba(216, 204, 175, 0.76);
+  color: var(--muted);
   font-size: 12px;
   font-weight: 760;
 }
 
 .radar-pulse-card strong {
-  color: #f2ead9;
+  color: var(--ink);
   font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
   font-size: 25px;
   line-height: 1;
 }
 
 .radar-pulse-card em {
-  color: rgba(216, 204, 175, 0.58);
+  color: var(--muted-soft);
   font-size: 11px;
   font-style: normal;
   line-height: 1.25;
 }
 
 .radar-pulse-card.is-gold {
-  border-color: rgba(201, 169, 106, 0.34);
-  background: rgba(201, 169, 106, 0.09);
+  border-color: var(--accent);
+  background: rgba(18, 106, 115, 0.06);
 }
 
 .radar-pulse-card.is-warn strong {
@@ -740,15 +734,15 @@ button {
 .radar-shell-body .business-cluster,
 .radar-shell-body .business-case,
 .radar-shell-body .business-source-list {
-  border-color: rgba(201, 169, 106, 0.16);
-  background: rgba(255, 255, 255, 0.045);
+  border-color: var(--line-soft);
+  background: var(--surface);
 }
 
 .radar-shell-body input,
 .radar-shell-body select {
-  border-color: rgba(201, 169, 106, 0.2);
+  border-color: var(--line);
   color: var(--ink);
-  background: rgba(0, 0, 0, 0.18);
+  background: var(--surface);
 }
 
 .radar-shell-body .hero-link,
@@ -757,9 +751,9 @@ button {
 .radar-shell-body .waytoagi-btn,
 .radar-shell-body .section-tab,
 .radar-shell-body .business-tags span {
-  border-color: rgba(201, 169, 106, 0.2);
-  color: rgba(242, 234, 217, 0.86);
-  background: rgba(201, 169, 106, 0.08);
+  border-color: rgba(18, 106, 115, 0.2);
+  color: var(--accent);
+  background: rgba(18, 106, 115, 0.06);
 }
 
 .radar-shell-body .hero-link:hover,
@@ -767,8 +761,8 @@ button {
 .radar-shell-body .list-sort-btn.active,
 .radar-shell-body .waytoagi-btn.active,
 .radar-shell-body .section-tab.active {
-  border-color: rgba(201, 169, 106, 0.46);
-  background: rgba(201, 169, 106, 0.15);
+  border-color: rgba(18, 106, 115, 0.46);
+  background: rgba(18, 106, 115, 0.12);
 }
 
 .business-primary-grid {
@@ -785,30 +779,30 @@ button {
 }
 
 .business-action-card {
-  border: 1px solid rgba(201, 169, 106, 0.18);
+  border: 1px solid var(--line-soft);
   border-radius: 8px;
   padding: 14px;
-  background: rgba(255, 255, 255, 0.045);
+  background: var(--surface);
 }
 
 .business-action-card span {
   display: inline-flex;
   margin-bottom: 8px;
-  color: rgba(201, 169, 106, 0.78);
+  color: var(--muted);
   font-size: 11px;
   font-weight: 800;
 }
 
 .business-action-card strong {
   display: block;
-  color: #f2ead9;
+  color: var(--ink);
   font-size: 14px;
   line-height: 1.35;
 }
 
 .business-action-card p {
   margin: 8px 0 0;
-  color: rgba(216, 204, 175, 0.72);
+  color: var(--ink-soft);
   font-size: 13px;
   line-height: 1.45;
 }
@@ -824,7 +818,7 @@ button {
 .business-case summary,
 .business-secondary summary {
   cursor: pointer;
-  color: rgba(201, 169, 106, 0.82);
+  color: var(--accent);
   font-size: 12px;
   font-weight: 780;
 }
@@ -836,12 +830,12 @@ button {
 
 .business-evidence-list li {
   margin: 6px 0;
-  color: rgba(216, 204, 175, 0.72);
+  color: var(--ink-soft);
 }
 
 .business-secondary {
   margin-top: 26px;
-  border-top: 1px solid rgba(201, 169, 106, 0.14);
+  border-top: 1px solid var(--line-soft);
   padding-top: 12px;
 }
 
@@ -3030,9 +3024,9 @@ summary:focus-visible {
 .radar-shell-body .source,
 .radar-shell-body .ai-tag,
 .radar-shell-body .meta-row .signal-tag {
-  border-color: rgba(201, 169, 106, 0.18);
-  color: rgba(239, 230, 210, 0.72);
-  background: rgba(201, 169, 106, 0.055);
+  border-color: var(--line-soft);
+  color: var(--muted);
+  background: var(--surface-soft);
 }
 
 .radar-shell-body .bole-ribbon,
@@ -3040,7 +3034,7 @@ summary:focus-visible {
 .radar-shell-body .source-count,
 .radar-shell-body .intel-tags > span,
 .radar-shell-body .ai-tag {
-  color: rgba(201, 169, 106, 0.9);
+  color: var(--accent);
   font-weight: 760;
 }
 
@@ -3055,9 +3049,9 @@ summary:focus-visible {
 .radar-shell-body .source-group-head,
 .radar-shell-body .group-more-btn,
 .radar-shell-body .list-loading {
-  border-color: rgba(201, 169, 106, 0.16);
-  color: #efe6d2;
-  background: rgba(15, 24, 19, 0.92);
+  border-color: var(--line-soft);
+  color: var(--ink);
+  background: var(--surface);
   box-shadow: none;
 }
 
@@ -3069,15 +3063,15 @@ summary:focus-visible {
 .radar-shell-body .news-card:hover,
 .radar-shell-body .waytoagi-item:hover,
 .radar-shell-body .group-more-btn:hover {
-  border-color: rgba(201, 169, 106, 0.34);
-  background: rgba(18, 29, 23, 0.96);
+  border-color: var(--line);
+  background: var(--surface-soft);
   box-shadow: none;
 }
 
 .radar-shell-body .bole-score-orb {
-  border-color: rgba(201, 169, 106, 0.24);
-  color: rgba(201, 169, 106, 0.84);
-  background: rgba(201, 169, 106, 0.06);
+  border-color: rgba(18, 106, 115, 0.24);
+  color: var(--accent);
+  background: rgba(18, 106, 115, 0.06);
 }
 
 .radar-shell-body .bole-lead-title,
@@ -3092,7 +3086,7 @@ summary:focus-visible {
 .radar-shell-body .waytoagi-item .t,
 .radar-shell-body .site-group-head h3,
 .radar-shell-body .source-group-head h3 {
-  color: #efe6d2;
+  color: var(--ink);
 }
 
 .radar-shell-body .bole-kicker,
@@ -3109,20 +3103,20 @@ summary:focus-visible {
 .radar-shell-body .waytoagi-item .d,
 .radar-shell-body .site-group-head span,
 .radar-shell-body .source-group-head span {
-  color: #b8ad91;
+  color: var(--ink-soft);
 }
 
 .radar-shell-body .top-story-why {
-  border-left-color: rgba(201, 169, 106, 0.26);
+  border-left-color: var(--accent);
 }
 
 .radar-shell-body .story-row::before {
-  border-color: rgba(201, 169, 106, 0.72);
-  background: #0b1511;
+  border-color: var(--accent);
+  background: var(--surface);
 }
 
 .radar-shell-body .bole-compact-list::before {
-  background: rgba(201, 169, 106, 0.18);
+  background: var(--line-soft);
 }
 
 @media (max-width: 760px) {
@@ -3554,8 +3548,8 @@ summary:focus-visible {
     grid-template-columns: repeat(2, minmax(0, 1fr));
     gap: 8px;
     padding: 10px 12px;
-    border-bottom: 1px solid rgba(201, 169, 106, 0.16);
-    background: rgba(7, 16, 13, 0.94);
+    border-bottom: 1px solid var(--line);
+    background: var(--surface);
     backdrop-filter: blur(14px);
   }
 

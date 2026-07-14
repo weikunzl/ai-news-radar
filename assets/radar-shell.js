@@ -149,7 +149,7 @@
     aside.setAttribute("aria-label", "Radar channels");
     aside.innerHTML = `
       <div class="radar-side-brand">
-        <span class="radar-side-mark">YR</span>
+        <span class="radar-side-mark">Wk</span>
         <div>
           <strong>Wekux Radar</strong>
           <em>External intelligence to action</em>
