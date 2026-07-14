@@ -1,6 +1,6 @@
 # English-only Business Evidence Layer
 
-This layer extends AI News Radar with a separate evidence feed for Yuanli IP.
+This layer extends AI News Radar with a separate evidence feed for Wekux IP.
 It is not a generic business-news page. It collects public English sources and
 compresses them into decision evidence for:
 
@@ -39,7 +39,7 @@ future advanced layer.
 Each signal is scored from seven components:
 
 - source authority
-- Yuanli relevance
+- Wekux relevance
 - business-model value
 - case concreteness
 - OPC fit

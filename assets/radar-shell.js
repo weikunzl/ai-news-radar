@@ -12,7 +12,7 @@
       label: "AI Business",
       eyebrow: "BUSINESS EVIDENCE LAYER",
       href: "./business.html",
-      decision: "Prioritize AI leverage cases that map to Yuanli assets, OPC mechanics, and repeatable monetization.",
+      decision: "Prioritize AI leverage cases that map to Wekux assets, OPC mechanics, and repeatable monetization.",
       pulseLabel: "72h Business Evidence",
     },
   };
@@ -151,7 +151,7 @@
       <div class="radar-side-brand">
         <span class="radar-side-mark">YR</span>
         <div>
-          <strong>Yuanli Radar</strong>
+          <strong>Wekux Radar</strong>
           <em>External intelligence to action</em>
         </div>
       </div>
@@ -164,8 +164,7 @@
         ${metric("Status", "Loading", "", "gold")}
       </div>
       <div class="radar-side-links">
-        <a href="https://github.com/moonstachain/ai-news-radar" target="_blank" rel="noopener noreferrer">GitHub Source</a>
-        <a href="https://os-zk.84000.art/ai-news-radar/${channel === "ai-business" ? "business.html" : "index.html"}" target="_blank" rel="noopener noreferrer">Live Portal</a>
+        <a href="http://github.com/weikunzl/ai-news-radar" target="_blank" rel="noopener noreferrer">GitHub Source</a>
       </div>
     `;
 

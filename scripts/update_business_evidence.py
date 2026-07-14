@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build the English-only business evidence layer for Yuanli IP radar.
+"""Build the English-only business evidence layer for Wekux IP radar.
 
 The layer is deliberately separate from the 24h AI news feed. It reads only
 public English sources and publishes compact evidence artifacts for AI business
@@ -33,7 +33,7 @@ except Exception:  # pragma: no cover - optional dependency branch
     feedparser = None
 
 
-UA = "AI-News-Radar-Business-Evidence/1.0 (+https://github.com/moonstachain/ai-news-radar)"
+UA = "AI-News-Radar-Business-Evidence/1.0 (+http://github.com/weikunzl/ai-news-radar)"
 TIMEOUT = 6
 warnings.filterwarnings("ignore", category=MarkupResemblesLocatorWarning)
 
@@ -451,31 +451,31 @@ def cluster_key(signal: BusinessSignal) -> str:
 CLUSTER_COPY = {
     "opc": {
         "thesis": "AI leverage is making one-person and tiny-team companies a credible strategic archetype.",
-        "action": "Turn the strongest case into a Yuanli OPC teaching module with leverage, distribution, and monetization explicitly mapped.",
+        "action": "Turn the strongest case into a Wekux OPC teaching module with leverage, distribution, and monetization explicitly mapped.",
         "mapping": ["yuanli_asset", "yuanli_startup", "profit_container"],
     },
     "business_model": {
         "thesis": "AI-native business models are shifting from tool features to workflows, services, and outcome economics.",
-        "action": "Extract pricing and workflow patterns into the Yuanli business model library.",
+        "action": "Extract pricing and workflow patterns into the Wekux business model library.",
         "mapping": ["yuanli_startup", "yuanli_os", "profit_container"],
     },
     "authority_trust": {
-        "thesis": "Business-school and consulting evidence strengthens the trust layer behind Yuanli IP claims.",
+        "thesis": "Business-school and consulting evidence strengthens the trust layer behind Wekux IP claims.",
         "action": "Use these authority-backed signals as FTF proof points before making public claims.",
         "mapping": ["ftf_trust", "yuanli_asset", "yuanli_startup"],
     },
     "enterprise_workflow": {
         "thesis": "Enterprise AI value is moving toward operating-model redesign rather than isolated copilots.",
-        "action": "Map each workflow case to the Yuanli OS organs: soul, memory, judgment, hands.",
+        "action": "Map each workflow case to the Wekux OS organs: soul, memory, judgment, hands.",
         "mapping": ["yuanli_os", "ftf_trust"],
     },
     "founder_case": {
-        "thesis": "Founder stories provide the most reusable proof layer for Yuanli IP trust-building.",
+        "thesis": "Founder stories provide the most reusable proof layer for Wekux IP trust-building.",
         "action": "Convert high-score founder cases into FTF credible story assets.",
         "mapping": ["ftf_trust", "yuanli_asset", "wealth_flywheel"],
     },
     "counter_signal": {
-        "thesis": "AI adoption counter-signals reveal where Yuanli claims need sharper proof and risk language.",
+        "thesis": "AI adoption counter-signals reveal where Wekux claims need sharper proof and risk language.",
         "action": "Add these counter-signals to sales objections and content credibility checks.",
         "mapping": ["ftf_trust", "yuanli_os"],
     },
@@ -505,7 +505,7 @@ def build_clusters(signals: list[BusinessSignal]) -> list[dict[str, Any]]:
                 "importance_score": importance,
                 "confidence": "high" if source_count >= 4 else "medium" if source_count >= 2 else "watch",
                 "yuanli_mapping": copy["mapping"],
-                "why_it_matters": f"{len(rows)} English evidence items from {source_count} sources connect this pattern to Yuanli IP.",
+                "why_it_matters": f"{len(rows)} English evidence items from {source_count} sources connect this pattern to Wekux IP.",
                 "counter_evidence": "See counter_signal cluster for adoption, ROI, and trust risks." if key != "counter_signal" else "Counter-signals are the evidence, not a rejection of the thesis.",
                 "recommended_action": copy["action"],
                 "evidence_refs": [row.signal_id for row in rows[:5]],
@@ -540,7 +540,7 @@ def build_case_bank(signals: list[BusinessSignal]) -> list[dict[str, Any]]:
                 "monetization": "To be extracted from the linked source.",
                 "team_size_signal": "one-person/tiny-team fit" if signal.opc_fit_score >= 6 else "team size not explicit",
                 "distribution_channel": signal.source_name,
-                "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
+                "reusable_lesson": "Use this as a Wekux case atom: actor, leverage, distribution, monetization, and proof.",
                 "yuanli_mapping": signal.yuanli_tags,
                 "score": signal.total_score,
             }
