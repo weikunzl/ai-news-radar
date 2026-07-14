@@ -101,6 +101,87 @@ const SOURCE_KINDS = {
   opmlrss: { label: "OPML", tone: "newsletter" },
 };
 
+const SOURCE_DOMAIN = {
+  "OpenAI News": "openai.com",
+  "OpenAI Codex Changelog": "openai.com",
+  "Google DeepMind": "deepmind.google",
+  "Google AI Blog": "blog.google",
+  "Hugging Face Blog": "huggingface.co",
+  "GitHub AI & ML": "github.blog",
+  "GitHub Changelog": "github.blog",
+  "OpenAI Skills": "github.com",
+  "The Decoder AI News": "the-decoder.com",
+  "TechCrunch AI": "techcrunch.com",
+  "The Verge": "theverge.com",
+  "MarkTechPost Research": "marktechpost.com",
+  "VentureBeat AI": "venturebeat.com",
+  "Artificial Intelligence News": "artificialintelligence-news.com",
+  "Claude Code Releases": "github.com",
+  AIbase: "aibase.com",
+  "The Decoder：AI News（RSS）": "the-decoder.com",
+  "IT之家（RSS）": "ithome.com",
+  "Hacker News 热门（buzzing.cc 中文翻译）": "buzzing.cc",
+  "HN Algolia · AI 24h": "hn.algolia.com",
+  "36氪 (36Kr)": "36kr.com",
+  "Hacker News (黑客新闻)": "news.ycombinator.com",
+  "IT之家 (ITHome)": "ithome.com",
+  "Lobsters (技术社区)": "lobste.rs",
+  "Reddit (热门)": "reddit.com",
+  "Slashdot (科技资讯)": "slashdot.org",
+  "V2EX (创意工作者社区)": "v2ex.com",
+  "少数派 (sspai)": "sspai.com",
+  "美团技术团队 (Meituan Tech)": "tech.meituan.com",
+  "虎嗅 (Huxiu)": "huxiu.com",
+  "InfoQ CN": "infoq.cn",
+  "Android Police": "androidpolice.com",
+  "Business Insider": "businessinsider.com",
+  Engadget: "engadget.com",
+  "Mac Rumors": "macrumors.com",
+  Mashable: "mashable.com",
+  Slashdot: "slashdot.org",
+  TechRadar: "techradar.com",
+  Techmeme: "techmeme.com",
+  "The Next Web": "thenextweb.com",
+  Wired: "wired.com",
+  "36氪 · 24小时热榜": "36kr.com",
+  "GitHub · Trending Today": "github.com",
+  "Readhub · AI": "readhub.cn",
+  "开源中国 · 热门资讯": "oschina.net",
+  "掘金 · 人工智能本周最热": "juejin.cn",
+  "量子位 · 每日最新": "qbitai.com",
+  "Hacker News · 24h最热": "news.ycombinator.com",
+};
+
+function sourceDomain(name) {
+  if (!name) return null;
+  const mapped = SOURCE_DOMAIN[name];
+  if (mapped) return mapped;
+  if (/^[\w-]+(\.[\w-]+)+/.test(name)) return name;
+  if (name.includes("X：") || name.includes("Follow Builders · X")) return "x.com";
+  if (name.includes("公众号")) return "weixin.qq.com";
+  if (name.includes("36氪")) return "36kr.com";
+  if (name.includes("Hacker News") || name.includes("hackernews")) return "news.ycombinator.com";
+  if (name.includes("IT之家")) return "ithome.com";
+  if (name.includes("GitHub") || name === "github") return "github.com";
+  if (name.includes("掘金") || name === "juejin") return "juejin.cn";
+  if (name.includes("Product Hunt") || name === "producthunt") return "producthunt.com";
+  return null;
+}
+
+function sourceLogoUrl(name) {
+  const domain = sourceDomain(name);
+  if (!domain) return null;
+  return `https://www.google.com/s2/favicons?domain=${domain}&sz=16`;
+}
+
+const SOURCE_LOGO_DEFAULT =
+  "data:image/svg+xml," + encodeURIComponent(
+    '<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 14 14">' +
+    '<circle cx="7" cy="7" r="6" fill="none" stroke="currentColor" stroke-width="1.2"/>' +
+    '<path d="M2.5 7h9M7 2.5a7.5 7.5 0 010 9" fill="none" stroke="currentColor" stroke-width="1.2"/>' +
+    "</svg>"
+  );
+
 const SECTION_DEFS = [
   { id: "hot", label: "热点", short: "热点", description: "跨来源聚合后的优先阅读列表" },
   { id: "models", label: "模型", short: "模型", description: "模型发布、能力升级、评测与开源权重" },
@@ -264,13 +345,24 @@ function sourceSignalTone(signal) {
 function sourceChip(label, tone = "default", className = "source-chip") {
   const chip = document.createElement("span");
   chip.className = `${className} kind-${tone}`.trim();
-  const dot = document.createElement("span");
-  dot.className = "source-dot";
-  dot.setAttribute("aria-hidden", "true");
+  const logo = document.createElement("img");
+  logo.className = "source-logo";
+  logo.alt = "";
+  logo.loading = "lazy";
+  const url = sourceLogoUrl(label);
+  if (url) {
+    logo.src = url;
+    logo.onerror = function () {
+      logo.src = SOURCE_LOGO_DEFAULT;
+      logo.onerror = null;
+    };
+  } else {
+    logo.src = SOURCE_LOGO_DEFAULT;
+  }
   const text = document.createElement("span");
   text.className = "source-chip-label";
   text.textContent = label || "来源";
-  chip.append(dot, text);
+  chip.append(logo, text);
   return chip;
 }
 
@@ -773,13 +865,24 @@ function setSourceBadge(el, label, tone = "default", title = "") {
   el.className = `source source-chip kind-${tone}`;
   el.innerHTML = "";
   if (title) el.title = title;
-  const dot = document.createElement("span");
-  dot.className = "source-dot";
-  dot.setAttribute("aria-hidden", "true");
+  const logo = document.createElement("img");
+  logo.className = "source-logo";
+  logo.alt = "";
+  logo.loading = "lazy";
+  const url = sourceLogoUrl(label);
+  if (url) {
+    logo.src = url;
+    logo.onerror = function () {
+      logo.src = SOURCE_LOGO_DEFAULT;
+      logo.onerror = null;
+    };
+  } else {
+    logo.src = SOURCE_LOGO_DEFAULT;
+  }
   const text = document.createElement("span");
   text.className = "source-chip-label";
   text.textContent = label || "来源";
-  el.append(dot, text);
+  el.append(logo, text);
 }
 
 function sourceTierPercent(item) {
@@ -2126,7 +2229,24 @@ function renderItemNode(item, context = {}) {
   const node = itemTpl.content.firstElementChild.cloneNode(true);
   const metaRow = node.querySelector(".meta-row");
   const siteEl = node.querySelector(".site");
-  siteEl.textContent = item.source || item.site_name;
+  siteEl.textContent = "";
+  const siteLogo = document.createElement("img");
+  siteLogo.className = "source-logo";
+  siteLogo.alt = "";
+  siteLogo.loading = "lazy";
+  const srcName = item.source || item.site_name;
+  const logoUrl = sourceLogoUrl(srcName);
+  if (logoUrl) {
+    siteLogo.src = logoUrl;
+    siteLogo.onerror = function () {
+      siteLogo.src = SOURCE_LOGO_DEFAULT;
+      siteLogo.onerror = null;
+    };
+  } else {
+    siteLogo.src = SOURCE_LOGO_DEFAULT;
+  }
+  siteEl.appendChild(siteLogo);
+  siteEl.appendChild(document.createTextNode(" " + srcName));
   if (context.source && context.source === item.source) {
     siteEl.hidden = true;
   }

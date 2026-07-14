@@ -2280,6 +2280,14 @@ summary:focus-visible {
   gap: 5px;
 }
 
+.source-logo {
+  width: 14px;
+  height: 14px;
+  flex: 0 0 auto;
+  border-radius: 2px;
+  object-fit: contain;
+}
+
 .source-dot {
   width: 6px;
   height: 6px;
