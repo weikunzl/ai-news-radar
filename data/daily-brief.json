@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T18:18:16.038085Z",
+  "generated_at": "2026-08-03T20:13:34.832116Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -39,18 +39,18 @@
           "published_at": "2026-08-03T13:13:45.403000Z"
         },
         {
-          "id": "3c5592abfa3053cd250cb36128a1abe805691b95",
+          "id": "5805bf72e950dcf5ce1117ff14f9fbd24a81190e",
           "title": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理 / AirLLM 70B inference with single 4GB GPU",
           "url": "https://github.com/lyogavin/airllm",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-08-03T11:15:48Z"
         }
       ],
       "source_count": 4,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "Hacker News 热门（buzzing.cc 中文翻译）",
         "github.com",
         "hackernews"
@@ -84,26 +84,26 @@
           "published_at": "2026-08-03T13:13:45.403000Z"
         },
         {
-          "id": "3c5592abfa3053cd250cb36128a1abe805691b95",
+          "id": "5805bf72e950dcf5ce1117ff14f9fbd24a81190e",
           "title": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理 / AirLLM 70B inference with single 4GB GPU",
           "url": "https://github.com/lyogavin/airllm",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-08-03T11:15:48Z"
         }
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8497,
-      "importance": 0.8497,
-      "importance_score": 0.8497,
+      "score": 0.845,
+      "importance": 0.845,
+      "importance_score": 0.845,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.973,
+        "recency": 0.9464,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -120,6 +120,68 @@
         "url": "https://github.com/lyogavin/airllm",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_545d6c402c71",
+      "title": "使用 GitHub Enterprise Importer 从 GitLab 迁移到 GitHub / Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+      "url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer",
+      "primary_url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "c62b7d6b1f6f5a27d5ebbec0b5ab3f51dde146af",
+          "title": "使用 GitHub Enterprise Importer 从 GitLab 迁移到 GitHub / Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+          "url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-03T16:33:13Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "c62b7d6b1f6f5a27d5ebbec0b5ab3f51dde146af",
+          "title": "使用 GitHub Enterprise Importer 从 GitLab 迁移到 GitHub / Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+          "url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-03T16:33:13Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8347,
+      "importance": 0.8347,
+      "importance_score": 0.8347,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9483,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-03T16:33:13Z",
+      "latest_at": "2026-08-03T16:33:13Z",
+      "primary_item": {
+        "id": "c62b7d6b1f6f5a27d5ebbec0b5ab3f51dde146af",
+        "title": "使用 GitHub Enterprise Importer 从 GitLab 迁移到 GitHub / Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+        "url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -195,15 +257,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8308,
-      "importance": 0.8308,
-      "importance_score": 0.8308,
+      "score": 0.8269,
+      "importance": 0.8269,
+      "importance_score": 0.8269,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.89,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7902,
+        "recency": 0.7686,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -219,6 +281,228 @@
         "title": "Qwen3.8-Max 发布：开源最强编码与协作模型，2.4T 参数",
         "url": "https://qwen.ai/blog?id=qwen3.8",
         "source": "Qwen：Blog Retrieval（API）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_153c499b0419",
+      "title": "欧盟《人工智能法案》透明度规则生效，违规最高罚 1500 万欧元",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+      "source": "The Verge：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ffea5e6b19a12dfc69a103fea472a7cbe212e384",
+          "title": "欧盟《人工智能法案》透明度规则生效，违规最高罚 1500 万欧元",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-03T17:38:45Z"
+        },
+        {
+          "id": "0e9bd10c89bbfb4536bde9133d93b8cfe727ee97",
+          "title": "欧盟《人工智能法案》透明度规则生效，违规最高罚 1500 万欧元 / Europe’s AI labeling and transparency rules are now in effect",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-03T17:38:45Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Verge",
+        "The Verge：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "ffea5e6b19a12dfc69a103fea472a7cbe212e384",
+          "title": "欧盟《人工智能法案》透明度规则生效，违规最高罚 1500 万欧元",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-03T17:38:45Z"
+        },
+        {
+          "id": "0e9bd10c89bbfb4536bde9133d93b8cfe727ee97",
+          "title": "欧盟《人工智能法案》透明度规则生效，违规最高罚 1500 万欧元 / Europe’s AI labeling and transparency rules are now in effect",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-03T17:38:45Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.789,
+      "importance": 0.789,
+      "importance_score": 0.789,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9634,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-03T17:38:45Z",
+      "latest_at": "2026-08-03T17:38:45Z",
+      "primary_item": {
+        "id": "ffea5e6b19a12dfc69a103fea472a7cbe212e384",
+        "title": "欧盟《人工智能法案》透明度规则生效，违规最高罚 1500 万欧元",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+        "source": "The Verge：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_fb1e9b75e4ab",
+      "title": "Cloudflare 推出 Billable Usage API：为自助账户提供按产品与计费周期的程序化成本可见性",
+      "url": "https://blog.cloudflare.com/billable-usage-api",
+      "primary_url": "https://blog.cloudflare.com/billable-usage-api",
+      "source": "Cloudflare Blog",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "7d132557b16f97c759ccf326479eb425d7cec46e",
+          "title": "Cloudflare 推出 Billable Usage API：为自助账户提供按产品与计费周期的程序化成本可见性",
+          "url": "https://blog.cloudflare.com/billable-usage-api",
+          "source": "Cloudflare Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-03T13:00:00Z"
+        },
+        {
+          "id": "cf12fd202e9158693041e50cde292f7ec56d8dfc",
+          "title": "Cloudflare 推出 Billable Usage API：为自助账户提供按产品与计费周期的程序化成本可见性 / The Billable Usage API: programmatic cost visibility for Cloudflare",
+          "url": "https://blog.cloudflare.com/billable-usage-api",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-03T17:18:06Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Cloudflare Blog",
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "7d132557b16f97c759ccf326479eb425d7cec46e",
+          "title": "Cloudflare 推出 Billable Usage API：为自助账户提供按产品与计费周期的程序化成本可见性",
+          "url": "https://blog.cloudflare.com/billable-usage-api",
+          "source": "Cloudflare Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-03T13:00:00Z"
+        },
+        {
+          "id": "cf12fd202e9158693041e50cde292f7ec56d8dfc",
+          "title": "Cloudflare 推出 Billable Usage API：为自助账户提供按产品与计费周期的程序化成本可见性 / The Billable Usage API: programmatic cost visibility for Cloudflare",
+          "url": "https://blog.cloudflare.com/billable-usage-api",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-03T17:18:06Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7688,
+      "importance": 0.7688,
+      "importance_score": 0.7688,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9009,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-03T13:00:00Z",
+      "latest_at": "2026-08-03T17:18:06Z",
+      "primary_item": {
+        "id": "7d132557b16f97c759ccf326479eb425d7cec46e",
+        "title": "Cloudflare 推出 Billable Usage API：为自助账户提供按产品与计费周期的程序化成本可见性",
+        "url": "https://blog.cloudflare.com/billable-usage-api",
+        "source": "Cloudflare Blog",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_8bd7492eeab5",
+      "title": "微软开源 Orchard 智能体训练框架",
+      "url": "https://x.com/MSFTResearch/status/2084364547142418722",
+      "primary_url": "https://x.com/MSFTResearch/status/2084364547142418722",
+      "source": "X：Microsoft Research (@MSFTResearch)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "556ce1f1e1539881d630412aec4ff6f25aa4f6fe",
+          "title": "微软开源 Orchard 智能体训练框架",
+          "url": "https://x.com/MSFTResearch/status/2084364547142418722",
+          "source": "X：Microsoft Research (@MSFTResearch)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-03T19:43:28Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Microsoft Research (@MSFTResearch)"
+      ],
+      "items": [
+        {
+          "id": "556ce1f1e1539881d630412aec4ff6f25aa4f6fe",
+          "title": "微软开源 Orchard 智能体训练框架",
+          "url": "https://x.com/MSFTResearch/status/2084364547142418722",
+          "source": "X：Microsoft Research (@MSFTResearch)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-03T19:43:28Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7453,
+      "importance": 0.7453,
+      "importance_score": 0.7453,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.65,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9928,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-03T19:43:28Z",
+      "latest_at": "2026-08-03T19:43:28Z",
+      "primary_item": {
+        "id": "556ce1f1e1539881d630412aec4ff6f25aa4f6fe",
+        "title": "微软开源 Orchard 智能体训练框架",
+        "url": "https://x.com/MSFTResearch/status/2084364547142418722",
+        "source": "X：Microsoft Research (@MSFTResearch)",
         "source_name": "AI HOT"
       }
     },
@@ -257,15 +541,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7485,
-      "importance": 0.7485,
-      "importance_score": 0.7485,
+      "score": 0.7438,
+      "importance": 0.7438,
+      "importance_score": 0.7438,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9606,
+        "recency": 0.9343,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -279,66 +563,6 @@
         "title": "OpenRouter 推出 Ori Eval 简化评估流程",
         "url": "https://x.com/OpenRouter/status/2084301100078027143",
         "source": "X：OpenRouter (@OpenRouter)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_fb1e9b75e4ab",
-      "title": "Cloudflare 推出 Billable Usage API：为自助账户提供按产品与计费周期的程序化成本可见性",
-      "url": "https://blog.cloudflare.com/billable-usage-api",
-      "primary_url": "https://blog.cloudflare.com/billable-usage-api",
-      "source": "Cloudflare Blog",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "7d132557b16f97c759ccf326479eb425d7cec46e",
-          "title": "Cloudflare 推出 Billable Usage API：为自助账户提供按产品与计费周期的程序化成本可见性",
-          "url": "https://blog.cloudflare.com/billable-usage-api",
-          "source": "Cloudflare Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-03T13:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Cloudflare Blog"
-      ],
-      "items": [
-        {
-          "id": "7d132557b16f97c759ccf326479eb425d7cec46e",
-          "title": "Cloudflare 推出 Billable Usage API：为自助账户提供按产品与计费周期的程序化成本可见性",
-          "url": "https://blog.cloudflare.com/billable-usage-api",
-          "source": "Cloudflare Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-03T13:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7483,
-      "importance": 0.7483,
-      "importance_score": 0.7483,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9263,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-03T13:00:00Z",
-      "latest_at": "2026-08-03T13:00:00Z",
-      "primary_item": {
-        "id": "7d132557b16f97c759ccf326479eb425d7cec46e",
-        "title": "Cloudflare 推出 Billable Usage API：为自助账户提供按产品与计费周期的程序化成本可见性",
-        "url": "https://blog.cloudflare.com/billable-usage-api",
-        "source": "Cloudflare Blog",
         "source_name": "AI HOT"
       }
     },
@@ -377,15 +601,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7464,
-      "importance": 0.7464,
-      "importance_score": 0.7464,
+      "score": 0.7418,
+      "importance": 0.7418,
+      "importance_score": 0.7418,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.949,
+        "recency": 0.9231,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -437,15 +661,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7456,
-      "importance": 0.7456,
-      "importance_score": 0.7456,
+      "score": 0.7411,
+      "importance": 0.7411,
+      "importance_score": 0.7411,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9112,
+        "recency": 0.8863,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -497,15 +721,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7311,
-      "importance": 0.7311,
-      "importance_score": 0.7311,
+      "score": 0.7264,
+      "importance": 0.7264,
+      "importance_score": 0.7264,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.63,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9473,
+        "recency": 0.9214,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -576,15 +800,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7277,
-      "importance": 0.7277,
-      "importance_score": 0.7277,
+      "score": 0.7241,
+      "importance": 0.7241,
+      "importance_score": 0.7241,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7397,
+        "recency": 0.7194,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -637,15 +861,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7429,
-      "importance": 0.7429,
-      "importance_score": 0.7429,
+      "score": 0.7384,
+      "importance": 0.7384,
+      "importance_score": 0.7384,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9297,
+        "recency": 0.9043,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -715,15 +939,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5975,
-      "importance": 0.5975,
-      "importance_score": 0.5975,
+      "score": 0.5931,
+      "importance": 0.5931,
+      "importance_score": 0.5931,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.9001,
+        "recency": 0.8755,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -738,6 +962,104 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
         "source": "The Verge",
         "source_name": "Curated Media"
+      }
+    },
+    {
+      "story_id": "story_e9e0012f4781",
+      "title": "显示 HN：MCP 上代理会话的产品分析（和评估） / Show HN: Product analytics (and evals) for agent sessions on your MCP",
+      "url": "https://news.ycombinator.com/item?id=49157807",
+      "primary_url": "https://news.ycombinator.com/item?id=49157807",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "f90bc5ce10445b9ac229a26a7bd02ea87f42c3e5",
+          "title": "显示 HN：MCP 上代理会话的产品分析（和评估） / Show HN: Product analytics (and evals) for agent sessions on your MCP",
+          "url": "https://news.ycombinator.com/item?id=49157807",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-03T18:18:50.245000Z"
+        },
+        {
+          "id": "64ac14b9e7cc14bc0daa571b98b4f684aff8b5c5",
+          "title": "Show HN: MCP 上代理会话的产品分析（和评估）",
+          "url": "https://armature.tech",
+          "source": "armature.tech",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-03T16:24:45.523000Z"
+        },
+        {
+          "id": "fc49843e6dc653d3eb3bf86cf24d91670476792b",
+          "title": "Show HN: MCP 上代理会话的产品分析（和评估） / Show HN: Product analytics (and evals) for agent sessions on your MCP",
+          "url": "https://armature.tech",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-03T16:17:59Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "armature.tech",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "f90bc5ce10445b9ac229a26a7bd02ea87f42c3e5",
+          "title": "显示 HN：MCP 上代理会话的产品分析（和评估） / Show HN: Product analytics (and evals) for agent sessions on your MCP",
+          "url": "https://news.ycombinator.com/item?id=49157807",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-03T18:18:50.245000Z"
+        },
+        {
+          "id": "64ac14b9e7cc14bc0daa571b98b4f684aff8b5c5",
+          "title": "Show HN: MCP 上代理会话的产品分析（和评估）",
+          "url": "https://armature.tech",
+          "source": "armature.tech",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-03T16:24:45.523000Z"
+        },
+        {
+          "id": "fc49843e6dc653d3eb3bf86cf24d91670476792b",
+          "title": "Show HN: MCP 上代理会话的产品分析（和评估） / Show HN: Product analytics (and evals) for agent sessions on your MCP",
+          "url": "https://armature.tech",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-03T16:17:59Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5659,
+      "importance": 0.5659,
+      "importance_score": 0.5659,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9728,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-03T16:17:59Z",
+      "latest_at": "2026-08-03T18:18:50.245000Z",
+      "primary_item": {
+        "id": "f90bc5ce10445b9ac229a26a7bd02ea87f42c3e5",
+        "title": "显示 HN：MCP 上代理会话的产品分析（和评估） / Show HN: Product analytics (and evals) for agent sessions on your MCP",
+        "url": "https://news.ycombinator.com/item?id=49157807",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -813,15 +1135,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.568,
-      "importance": 0.568,
-      "importance_score": 0.568,
+      "score": 0.5632,
+      "importance": 0.5632,
+      "importance_score": 0.5632,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9845,
+        "recency": 0.9575,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -839,444 +1161,109 @@
       }
     },
     {
-      "story_id": "story_5cc7a8dbf672",
-      "title": "Show HN：Nightcrawler – 在智能手机上运行的本地 AI 渗透测试代理 / Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
-      "url": "https://news.ycombinator.com/item?id=49154127",
-      "primary_url": "https://news.ycombinator.com/item?id=49154127",
-      "source": "hackernews",
-      "source_name": "NewsNow",
+      "story_id": "story_daa4e8074d5c",
+      "title": "谁在法律上对 Anthropic 和 OpenAI 的自主人工智能黑客攻击负有责任？ / Who's legally to blame for Anthropic and OpenAI's autonomous AI hacks?",
+      "url": "https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated",
+      "primary_url": "https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated",
+      "source": "HN Algolia · AI 24h",
+      "source_name": "Hacker News",
       "sources": [
         {
-          "id": "1a396da68a21f3ff29ba5179dcbde2f74c62905e",
-          "title": "Show HN：Nightcrawler – 在智能手机上运行的本地 AI 渗透测试代理 / Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
-          "url": "https://news.ycombinator.com/item?id=49154127",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-03T13:13:45.403000Z"
+          "id": "008b6c5ca93cef3caddd7adaa261f8d1209274cc",
+          "title": "谁在法律上对 Anthropic 和 OpenAI 的自主人工智能黑客攻击负有责任？ / Who's legally to blame for Anthropic and OpenAI's autonomous AI hacks?",
+          "url": "https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-03T19:54:43Z"
         },
         {
-          "id": "76ca4377457bf4b34e082a76ed826c60c67ceff9",
-          "title": "Show HN: Nightcrawler——一款在智能手机上运行的本地AI渗透测试工具",
-          "url": "https://github.com/garagehq/nightcrawler",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-03T11:20:57.958000Z"
-        },
-        {
-          "id": "7b93daa675052006d871322bec78b86c16e024e2",
-          "title": "Show HN: Nightcrawler——一款在智能手机上运行的本地AI渗透测试工具 / Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
-          "url": "https://github.com/garagehq/nightcrawler",
-          "source": "Hacker News",
+          "id": "892ee12473638a4717d31e3fd64a84bb05759644",
+          "title": "谁在法律上对 Anthropic 和 OpenAI 的自主人工智能黑客攻击负有责任？情况很复杂 / Who’s legally to blame for Anthropic and OpenAI’s autonomous AI hacks? It’s complicated",
+          "url": "https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated",
+          "source": "TechCrunch",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-03T11:06:15Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "github.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "1a396da68a21f3ff29ba5179dcbde2f74c62905e",
-          "title": "Show HN：Nightcrawler – 在智能手机上运行的本地 AI 渗透测试代理 / Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
-          "url": "https://news.ycombinator.com/item?id=49154127",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-03T13:13:45.403000Z"
-        },
-        {
-          "id": "76ca4377457bf4b34e082a76ed826c60c67ceff9",
-          "title": "Show HN: Nightcrawler——一款在智能手机上运行的本地AI渗透测试工具",
-          "url": "https://github.com/garagehq/nightcrawler",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-03T11:20:57.958000Z"
-        },
-        {
-          "id": "7b93daa675052006d871322bec78b86c16e024e2",
-          "title": "Show HN: Nightcrawler——一款在智能手机上运行的本地AI渗透测试工具 / Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
-          "url": "https://github.com/garagehq/nightcrawler",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-03T11:06:15Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5581,
-      "importance": 0.5581,
-      "importance_score": 0.5581,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9293,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-03T11:06:15Z",
-      "latest_at": "2026-08-03T13:13:45.403000Z",
-      "primary_item": {
-        "id": "1a396da68a21f3ff29ba5179dcbde2f74c62905e",
-        "title": "Show HN：Nightcrawler – 在智能手机上运行的本地 AI 渗透测试代理 / Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
-        "url": "https://news.ycombinator.com/item?id=49154127",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_e008c38efa0b",
-      "title": "Octane——React 的编程模型，已编译",
-      "url": "https://octanejs.dev",
-      "primary_url": "https://octanejs.dev",
-      "source": "octanejs.dev",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "692f981249a44eb5a893a17f06256acc42965b2c",
-          "title": "Octane——React 的编程模型，已编译",
-          "url": "https://octanejs.dev",
-          "source": "octanejs.dev",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-03T16:41:08.057000Z"
-        },
-        {
-          "id": "78e81419e0159013b8402e6d40f7391def6fa169",
-          "title": "Octane——React 的编程模型，已编译 / Octane – React's programming model, compiled",
-          "url": "https://octanejs.dev",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-03T08:04:04Z"
+          "published_at": "2026-08-03T19:45:35Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
-        "octanejs.dev"
+        "HN Algolia · AI 24h",
+        "TechCrunch"
       ],
       "items": [
         {
-          "id": "692f981249a44eb5a893a17f06256acc42965b2c",
-          "title": "Octane——React 的编程模型，已编译",
-          "url": "https://octanejs.dev",
-          "source": "octanejs.dev",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-03T16:41:08.057000Z"
+          "id": "008b6c5ca93cef3caddd7adaa261f8d1209274cc",
+          "title": "谁在法律上对 Anthropic 和 OpenAI 的自主人工智能黑客攻击负有责任？ / Who's legally to blame for Anthropic and OpenAI's autonomous AI hacks?",
+          "url": "https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-03T19:54:43Z"
         },
         {
-          "id": "78e81419e0159013b8402e6d40f7391def6fa169",
-          "title": "Octane——React 的编程模型，已编译 / Octane – React's programming model, compiled",
-          "url": "https://octanejs.dev",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-03T08:04:04Z"
+          "id": "892ee12473638a4717d31e3fd64a84bb05759644",
+          "title": "谁在法律上对 Anthropic 和 OpenAI 的自主人工智能黑客攻击负有责任？情况很复杂 / Who’s legally to blame for Anthropic and OpenAI’s autonomous AI hacks? It’s complicated",
+          "url": "https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-03T19:45:35Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5416,
-      "importance": 0.5416,
-      "importance_score": 0.5416,
+      "score": 0.545,
+      "importance": 0.545,
+      "importance_score": 0.545,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9769,
+        "recency": 0.9955,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-03T08:04:04Z",
-      "latest_at": "2026-08-03T16:41:08.057000Z",
+      "earliest_at": "2026-08-03T19:45:35Z",
+      "latest_at": "2026-08-03T19:54:43Z",
       "primary_item": {
-        "id": "692f981249a44eb5a893a17f06256acc42965b2c",
-        "title": "Octane——React 的编程模型，已编译",
-        "url": "https://octanejs.dev",
-        "source": "octanejs.dev",
-        "source_name": "Buzzing"
+        "id": "008b6c5ca93cef3caddd7adaa261f8d1209274cc",
+        "title": "谁在法律上对 Anthropic 和 OpenAI 的自主人工智能黑客攻击负有责任？ / Who's legally to blame for Anthropic and OpenAI's autonomous AI hacks?",
+        "url": "https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated",
+        "source": "HN Algolia · AI 24h",
+        "source_name": "Hacker News"
       }
     },
     {
-      "story_id": "story_e9e0012f4781",
-      "title": "Show HN: MCP 上代理会话的产品分析（和评估）",
-      "url": "https://armature.tech",
-      "primary_url": "https://armature.tech",
-      "source": "armature.tech",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "64ac14b9e7cc14bc0daa571b98b4f684aff8b5c5",
-          "title": "Show HN: MCP 上代理会话的产品分析（和评估）",
-          "url": "https://armature.tech",
-          "source": "armature.tech",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-03T16:24:45.523000Z"
-        },
-        {
-          "id": "fc49843e6dc653d3eb3bf86cf24d91670476792b",
-          "title": "Show HN: MCP 上代理会话的产品分析（和评估） / Show HN: Product analytics (and evals) for agent sessions on your MCP",
-          "url": "https://armature.tech",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-03T16:17:59Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "armature.tech"
-      ],
-      "items": [
-        {
-          "id": "64ac14b9e7cc14bc0daa571b98b4f684aff8b5c5",
-          "title": "Show HN: MCP 上代理会话的产品分析（和评估）",
-          "url": "https://armature.tech",
-          "source": "armature.tech",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-03T16:24:45.523000Z"
-        },
-        {
-          "id": "fc49843e6dc653d3eb3bf86cf24d91670476792b",
-          "title": "Show HN: MCP 上代理会话的产品分析（和评估） / Show HN: Product analytics (and evals) for agent sessions on your MCP",
-          "url": "https://armature.tech",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-03T16:17:59Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5409,
-      "importance": 0.5409,
-      "importance_score": 0.5409,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9731,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-03T16:17:59Z",
-      "latest_at": "2026-08-03T16:24:45.523000Z",
-      "primary_item": {
-        "id": "64ac14b9e7cc14bc0daa571b98b4f684aff8b5c5",
-        "title": "Show HN: MCP 上代理会话的产品分析（和评估）",
-        "url": "https://armature.tech",
-        "source": "armature.tech",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_b82e59d62ef1",
-      "title": "阿里巴巴发布了迄今为止规模最大的AI模型，DeepSeek的最新模型成本极低 - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObUlCNHp6dVFoTEtqbkF3aFZqaVNUUVRJd0dicUhkb2tidzdkUWg0OVp1SU94aFJ1dmdkbDZIZGxMQVNWMm5vYXNKR0JicHNwZWRVX25ZY0hHaTNVUVdIWGdBNERsS3hDT29CdzlydEFGbFJzblgyempKcjljLVFELTVPRjdHVnRrOVRmQUs5QWVFQlg3aWVET1lNcDE4R2wwSC1vazRDaTNTZFhURm9qUGFfWGE5Sk1pMHNBUWx3TG85S1lZSWV4TUJxRU11UVhMR2Iw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "primary_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObUlCNHp6dVFoTEtqbkF3aFZqaVNUUVRJd0dicUhkb2tidzdkUWg0OVp1SU94aFJ1dmdkbDZIZGxMQVNWMm5vYXNKR0JicHNwZWRVX25ZY0hHaTNVUVdIWGdBNERsS3hDT29CdzlydEFGbFJzblgyempKcjljLVFELTVPRjdHVnRrOVRmQUs5QWVFQlg3aWVET1lNcDE4R2wwSC1vazRDaTNTZFhURm9qUGFfWGE5Sk1pMHNBUWx3TG85S1lZSWV4TUJxRU11UVhMR2Iw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "source": "news.google.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "fc9aa96660a735bb076b57b805c5b3515c272066",
-          "title": "阿里巴巴发布了迄今为止规模最大的AI模型，DeepSeek的最新模型成本极低 - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObUlCNHp6dVFoTEtqbkF3aFZqaVNUUVRJd0dicUhkb2tidzdkUWg0OVp1SU94aFJ1dmdkbDZIZGxMQVNWMm5vYXNKR0JicHNwZWRVX25ZY0hHaTNVUVdIWGdBNERsS3hDT29CdzlydEFGbFJzblgyempKcjljLVFELTVPRjdHVnRrOVRmQUs5QWVFQlg3aWVET1lNcDE4R2wwSC1vazRDaTNTZFhURm9qUGFfWGE5Sk1pMHNBUWx3TG85S1lZSWV4TUJxRU11UVhMR2Iw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-03T11:20:59.576000Z"
-        },
-        {
-          "id": "a13b93a61558181d1294923e50cfda0978de6c86",
-          "title": "阿里巴巴发布了迄今为止规模最大的AI模型，DeepSeek的最新模型成本极低",
-          "url": "https://www.reuters.com/business/retail-consumer/alibaba-unveils-its-most-capable-ai-model-date-not-far-behind-moonshots-size-2026-08-03",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-03T09:45:13.093000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "news.google.com",
-        "www.reuters.com"
-      ],
-      "items": [
-        {
-          "id": "fc9aa96660a735bb076b57b805c5b3515c272066",
-          "title": "阿里巴巴发布了迄今为止规模最大的AI模型，DeepSeek的最新模型成本极低 - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObUlCNHp6dVFoTEtqbkF3aFZqaVNUUVRJd0dicUhkb2tidzdkUWg0OVp1SU94aFJ1dmdkbDZIZGxMQVNWMm5vYXNKR0JicHNwZWRVX25ZY0hHaTNVUVdIWGdBNERsS3hDT29CdzlydEFGbFJzblgyempKcjljLVFELTVPRjdHVnRrOVRmQUs5QWVFQlg3aWVET1lNcDE4R2wwSC1vazRDaTNTZFhURm9qUGFfWGE5Sk1pMHNBUWx3TG85S1lZSWV4TUJxRU11UVhMR2Iw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-03T11:20:59.576000Z"
-        },
-        {
-          "id": "a13b93a61558181d1294923e50cfda0978de6c86",
-          "title": "阿里巴巴发布了迄今为止规模最大的AI模型，DeepSeek的最新模型成本极低",
-          "url": "https://www.reuters.com/business/retail-consumer/alibaba-unveils-its-most-capable-ai-model-date-not-far-behind-moonshots-size-2026-08-03",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-03T09:45:13.093000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5286,
-      "importance": 0.5286,
-      "importance_score": 0.5286,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9045,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-03T09:45:13.093000Z",
-      "latest_at": "2026-08-03T11:20:59.576000Z",
-      "primary_item": {
-        "id": "fc9aa96660a735bb076b57b805c5b3515c272066",
-        "title": "阿里巴巴发布了迄今为止规模最大的AI模型，DeepSeek的最新模型成本极低 - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObUlCNHp6dVFoTEtqbkF3aFZqaVNUUVRJd0dicUhkb2tidzdkUWg0OVp1SU94aFJ1dmdkbDZIZGxMQVNWMm5vYXNKR0JicHNwZWRVX25ZY0hHaTNVUVdIWGdBNERsS3hDT29CdzlydEFGbFJzblgyempKcjljLVFELTVPRjdHVnRrOVRmQUs5QWVFQlg3aWVET1lNcDE4R2wwSC1vazRDaTNTZFhURm9qUGFfWGE5Sk1pMHNBUWx3TG85S1lZSWV4TUJxRU11UVhMR2Iw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "source": "news.google.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_883225bae80f",
-      "title": "人工智能正开始重写那套曾让英伟达所向无敌的软件",
-      "url": "https://www.businessinsider.com/nvidia-cuda-new-threats-ai-coding-agents-2026-8",
-      "primary_url": "https://www.businessinsider.com/nvidia-cuda-new-threats-ai-coding-agents-2026-8",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "cb6792fd6440c1c788ef70a950c2194fc21fcc21",
-          "title": "人工智能正开始重写那套曾让英伟达所向无敌的软件",
-          "url": "https://www.businessinsider.com/nvidia-cuda-new-threats-ai-coding-agents-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-03T09:12:43.310000Z"
-        },
-        {
-          "id": "c62edacfec8a1292c6b0bfd9149d64f19a8d88af",
-          "title": "人工智能正开始重写那套曾让英伟达所向无敌的软件 / AI is starting to rewrite the software that made Nvidia untouchable",
-          "url": "https://www.businessinsider.com/nvidia-cuda-new-threats-ai-coding-agents-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-03T09:00:02Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "cb6792fd6440c1c788ef70a950c2194fc21fcc21",
-          "title": "人工智能正开始重写那套曾让英伟达所向无敌的软件",
-          "url": "https://www.businessinsider.com/nvidia-cuda-new-threats-ai-coding-agents-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-03T09:12:43.310000Z"
-        },
-        {
-          "id": "c62edacfec8a1292c6b0bfd9149d64f19a8d88af",
-          "title": "人工智能正开始重写那套曾让英伟达所向无敌的软件 / AI is starting to rewrite the software that made Nvidia untouchable",
-          "url": "https://www.businessinsider.com/nvidia-cuda-new-threats-ai-coding-agents-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-03T09:00:02Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5237,
-      "importance": 0.5237,
-      "importance_score": 0.5237,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.877,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-03T09:00:02Z",
-      "latest_at": "2026-08-03T09:12:43.310000Z",
-      "primary_item": {
-        "id": "cb6792fd6440c1c788ef70a950c2194fc21fcc21",
-        "title": "人工智能正开始重写那套曾让英伟达所向无敌的软件",
-        "url": "https://www.businessinsider.com/nvidia-cuda-new-threats-ai-coding-agents-2026-8",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_81b42fbebc86",
-      "title": "Show HN: 中国人正在推出Claude/Codex的90%折扣优惠",
-      "url": "https://news.ycombinator.com/item?id=49151751",
-      "primary_url": "https://news.ycombinator.com/item?id=49151751",
+      "story_id": "story_ba60314fc80a",
+      "title": "Ask HN: 我让 Codex 和 GPT 5.6 Sol 连续运行了 12 天，代码行数超过 87 万。接下来该怎么办？",
+      "url": "https://news.ycombinator.com/item?id=49160339",
+      "primary_url": "https://news.ycombinator.com/item?id=49160339",
       "source": "news.ycombinator.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "9f44ef1180a4061704606b022b753374eaffc0c0",
-          "title": "Show HN: 中国人正在推出Claude/Codex的90%折扣优惠",
-          "url": "https://news.ycombinator.com/item?id=49151751",
+          "id": "90285e7548f7b6f282a5b6910bf36ff46fbf8b1d",
+          "title": "Ask HN: 我让 Codex 和 GPT 5.6 Sol 连续运行了 12 天，代码行数超过 87 万。接下来该怎么办？",
+          "url": "https://news.ycombinator.com/item?id=49160339",
           "source": "news.ycombinator.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-03T06:48:57.926000Z"
+          "published_at": "2026-08-03T19:36:42.826000Z"
         },
         {
-          "id": "96b4fa9a21fbc5c88946389343c89e310c1687cc",
-          "title": "Show HN: 中国人正在推出Claude/Codex的90%折扣优惠 / Show HN: Chinese are offering Claude/Codex offers 90% off",
-          "url": "https://news.ycombinator.com/item?id=49151751",
+          "id": "e703d6bab744e7301916548e3ddf6ec43a8ee42c",
+          "title": "Ask HN: 我让 Codex 和 GPT 5.6 Sol 连续运行了 12 天，代码行数超过 87 万。接下来该怎么办？ / Ask HN: I had Codex and GPT 5.6 Sol running for 12 days, 870k+ LOC. Now what?",
+          "url": "https://news.ycombinator.com/item?id=49160339",
           "source": "HN Algolia · AI 24h",
           "source_name": "Hacker News",
           "site_id": "hackernews",
-          "published_at": "2026-08-03T06:03:33Z"
+          "published_at": "2026-08-03T19:30:47Z"
         }
       ],
       "source_count": 2,
@@ -1286,304 +1273,284 @@
       ],
       "items": [
         {
-          "id": "9f44ef1180a4061704606b022b753374eaffc0c0",
-          "title": "Show HN: 中国人正在推出Claude/Codex的90%折扣优惠",
-          "url": "https://news.ycombinator.com/item?id=49151751",
+          "id": "90285e7548f7b6f282a5b6910bf36ff46fbf8b1d",
+          "title": "Ask HN: 我让 Codex 和 GPT 5.6 Sol 连续运行了 12 天，代码行数超过 87 万。接下来该怎么办？",
+          "url": "https://news.ycombinator.com/item?id=49160339",
           "source": "news.ycombinator.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-03T06:48:57.926000Z"
+          "published_at": "2026-08-03T19:36:42.826000Z"
         },
         {
-          "id": "96b4fa9a21fbc5c88946389343c89e310c1687cc",
-          "title": "Show HN: 中国人正在推出Claude/Codex的90%折扣优惠 / Show HN: Chinese are offering Claude/Codex offers 90% off",
-          "url": "https://news.ycombinator.com/item?id=49151751",
+          "id": "e703d6bab744e7301916548e3ddf6ec43a8ee42c",
+          "title": "Ask HN: 我让 Codex 和 GPT 5.6 Sol 连续运行了 12 天，代码行数超过 87 万。接下来该怎么办？ / Ask HN: I had Codex and GPT 5.6 Sol running for 12 days, 870k+ LOC. Now what?",
+          "url": "https://news.ycombinator.com/item?id=49160339",
           "source": "HN Algolia · AI 24h",
           "source_name": "Hacker News",
           "site_id": "hackernews",
-          "published_at": "2026-08-03T06:03:33Z"
+          "published_at": "2026-08-03T19:30:47Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5183,
-      "importance": 0.5183,
-      "importance_score": 0.5183,
+      "score": 0.5442,
+      "importance": 0.5442,
+      "importance_score": 0.5442,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8471,
+        "recency": 0.9912,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-03T06:03:33Z",
-      "latest_at": "2026-08-03T06:48:57.926000Z",
+      "earliest_at": "2026-08-03T19:30:47Z",
+      "latest_at": "2026-08-03T19:36:42.826000Z",
       "primary_item": {
-        "id": "9f44ef1180a4061704606b022b753374eaffc0c0",
-        "title": "Show HN: 中国人正在推出Claude/Codex的90%折扣优惠",
-        "url": "https://news.ycombinator.com/item?id=49151751",
+        "id": "90285e7548f7b6f282a5b6910bf36ff46fbf8b1d",
+        "title": "Ask HN: 我让 Codex 和 GPT 5.6 Sol 连续运行了 12 天，代码行数超过 87 万。接下来该怎么办？",
+        "url": "https://news.ycombinator.com/item?id=49160339",
         "source": "news.ycombinator.com",
         "source_name": "Buzzing"
       }
     },
     {
-      "story_id": "story_245bd9037021",
-      "title": "OpenAI 的超级 PAC 正在资助人工智能生成的新闻网站攻击行业批评者 / OpenAI's super PAC is funding AI-generated news site attacking industry critics",
-      "url": "https://news.ycombinator.com/item?id=49150561",
-      "primary_url": "https://news.ycombinator.com/item?id=49150561",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "967b7c526151efdf34a4aa3eb14d4f2ba0d669a5",
-          "title": "OpenAI 的超级 PAC 正在资助人工智能生成的新闻网站攻击行业批评者 / OpenAI's super PAC is funding AI-generated news site attacking industry critics",
-          "url": "https://news.ycombinator.com/item?id=49150561",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-03T06:12:50.860000Z"
-        },
-        {
-          "id": "1df375caf2242069944c372fb478134ce40d4667",
-          "title": "OpenAI的超级政治行动委员会正在资助一个由人工智能生成的新闻网站，该网站针对行业批评者",
-          "url": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
-          "source": "www.modelrepublic.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-03T05:44:58.273000Z"
-        },
-        {
-          "id": "92658c15f576130012e41e8bcd733b5f2982a26a",
-          "title": "OpenAI的超级政治行动委员会正在资助一个由人工智能生成的新闻网站，该网站针对行业批评者 / OpenAI's super PAC is funding AI-generated news site attacking industry critics",
-          "url": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-03T02:30:30Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "www.modelrepublic.org"
-      ],
-      "items": [
-        {
-          "id": "967b7c526151efdf34a4aa3eb14d4f2ba0d669a5",
-          "title": "OpenAI 的超级 PAC 正在资助人工智能生成的新闻网站攻击行业批评者 / OpenAI's super PAC is funding AI-generated news site attacking industry critics",
-          "url": "https://news.ycombinator.com/item?id=49150561",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-03T06:12:50.860000Z"
-        },
-        {
-          "id": "1df375caf2242069944c372fb478134ce40d4667",
-          "title": "OpenAI的超级政治行动委员会正在资助一个由人工智能生成的新闻网站，该网站针对行业批评者",
-          "url": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
-          "source": "www.modelrepublic.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-03T05:44:58.273000Z"
-        },
-        {
-          "id": "92658c15f576130012e41e8bcd733b5f2982a26a",
-          "title": "OpenAI的超级政治行动委员会正在资助一个由人工智能生成的新闻网站，该网站针对行业批评者 / OpenAI's super PAC is funding AI-generated news site attacking industry critics",
-          "url": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-03T02:30:30Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.542,
-      "importance": 0.542,
-      "importance_score": 0.542,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8398,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-03T02:30:30Z",
-      "latest_at": "2026-08-03T06:12:50.860000Z",
-      "primary_item": {
-        "id": "967b7c526151efdf34a4aa3eb14d4f2ba0d669a5",
-        "title": "OpenAI 的超级 PAC 正在资助人工智能生成的新闻网站攻击行业批评者 / OpenAI's super PAC is funding AI-generated news site attacking industry critics",
-        "url": "https://news.ycombinator.com/item?id=49150561",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_87444f9634f8",
-      "title": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。”",
-      "url": "https://frogs.vaguespac.es",
-      "primary_url": "https://frogs.vaguespac.es",
-      "source": "frogs.vaguespac.es",
+      "story_id": "story_edfc44325d26",
+      "title": "Meta和Anthropic受邀与特朗普政府官员会面，商讨人工智能安全测试事宜",
+      "url": "https://www.reuters.com/world/us-finalizes-voluntary-ai-safety-tests-white-house-official-says-2026-08-03",
+      "primary_url": "https://www.reuters.com/world/us-finalizes-voluntary-ai-safety-tests-white-house-official-says-2026-08-03",
+      "source": "www.reuters.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "4edaaec810850620669c5112868bb919b9b9706c",
-          "title": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。”",
-          "url": "https://frogs.vaguespac.es",
-          "source": "frogs.vaguespac.es",
+          "id": "f935e7a04b7acc83e525d8a1cee7feeb58147a06",
+          "title": "Meta和Anthropic受邀与特朗普政府官员会面，商讨人工智能安全测试事宜",
+          "url": "https://www.reuters.com/world/us-finalizes-voluntary-ai-safety-tests-white-house-official-says-2026-08-03",
+          "source": "www.reuters.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-03T01:44:49.130000Z"
+          "published_at": "2026-08-03T19:04:47.703000Z"
         },
         {
-          "id": "85c464d06f44c53ea531320315e322572052549d",
-          "title": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。” / My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
-          "url": "https://frogs.vaguespac.es",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-02T19:42:08Z"
+          "id": "ed1b9686bd4ab8ff6374ec575de85d9f6bb77d3f",
+          "title": "白宫官员称，美国已敲定人工智能安全自愿测试方案",
+          "url": "https://www.reuters.com/world/us-finalizes-voluntary-ai-safety-tests-white-house-official-says-2026-08-03",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-03T15:37:05.968000Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
-        "frogs.vaguespac.es"
+        "www.reuters.com"
       ],
       "items": [
         {
-          "id": "4edaaec810850620669c5112868bb919b9b9706c",
-          "title": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。”",
-          "url": "https://frogs.vaguespac.es",
-          "source": "frogs.vaguespac.es",
+          "id": "f935e7a04b7acc83e525d8a1cee7feeb58147a06",
+          "title": "Meta和Anthropic受邀与特朗普政府官员会面，商讨人工智能安全测试事宜",
+          "url": "https://www.reuters.com/world/us-finalizes-voluntary-ai-safety-tests-white-house-official-says-2026-08-03",
+          "source": "www.reuters.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-03T01:44:49.130000Z"
+          "published_at": "2026-08-03T19:04:47.703000Z"
         },
         {
-          "id": "85c464d06f44c53ea531320315e322572052549d",
-          "title": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。” / My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
-          "url": "https://frogs.vaguespac.es",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-02T19:42:08Z"
+          "id": "ed1b9686bd4ab8ff6374ec575de85d9f6bb77d3f",
+          "title": "白宫官员称，美国已敲定人工智能安全自愿测试方案",
+          "url": "https://www.reuters.com/world/us-finalizes-voluntary-ai-safety-tests-white-house-official-says-2026-08-03",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-03T15:37:05.968000Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5075,
-      "importance": 0.5075,
-      "importance_score": 0.5075,
+      "score": 0.5428,
+      "importance": 0.5428,
+      "importance_score": 0.5428,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7873,
+        "recency": 0.9836,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-02T19:42:08Z",
-      "latest_at": "2026-08-03T01:44:49.130000Z",
+      "earliest_at": "2026-08-03T15:37:05.968000Z",
+      "latest_at": "2026-08-03T19:04:47.703000Z",
       "primary_item": {
-        "id": "4edaaec810850620669c5112868bb919b9b9706c",
-        "title": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。”",
-        "url": "https://frogs.vaguespac.es",
-        "source": "frogs.vaguespac.es",
+        "id": "f935e7a04b7acc83e525d8a1cee7feeb58147a06",
+        "title": "Meta和Anthropic受邀与特朗普政府官员会面，商讨人工智能安全测试事宜",
+        "url": "https://www.reuters.com/world/us-finalizes-voluntary-ai-safety-tests-white-house-official-says-2026-08-03",
+        "source": "www.reuters.com",
         "source_name": "Buzzing"
       }
     },
     {
-      "story_id": "story_f569f1ee57c5",
-      "title": "AI海报在俄亥俄州博览会上获奖",
-      "url": "https://www.ohiostatefair.com/p/get-involved/arts/poster-contest",
-      "primary_url": "https://www.ohiostatefair.com/p/get-involved/arts/poster-contest",
-      "source": "www.ohiostatefair.com",
+      "story_id": "story_10e6a19e64e3",
+      "title": "Show HN: Hacker News，不含人工智能相关报道",
+      "url": "https://hcker.news/?view=frontpage&ai=exclude",
+      "primary_url": "https://hcker.news/?view=frontpage&ai=exclude",
+      "source": "hcker.news",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "228ad5508c6f118f1b0277b76977ba9c4c7e3a3d",
-          "title": "AI海报在俄亥俄州博览会上获奖",
-          "url": "https://www.ohiostatefair.com/p/get-involved/arts/poster-contest",
-          "source": "www.ohiostatefair.com",
+          "id": "013e215e41d3bc61637867c5bcb9a8ea0e533a54",
+          "title": "Show HN: Hacker News，不含人工智能相关报道",
+          "url": "https://hcker.news/?view=frontpage&ai=exclude",
+          "source": "hcker.news",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-03T00:56:46.069000Z"
+          "published_at": "2026-08-03T17:44:48.993000Z"
         },
         {
-          "id": "570e262588563c580f7876bb7283f82d53ec8d70",
-          "title": "AI海报在俄亥俄州博览会上获奖 / AI poster wins Ohio State Fair contest",
-          "url": "https://www.ohiostatefair.com/p/get-involved/arts/poster-contest",
+          "id": "531116e6f484a8c8394f0277c4e5c78c695c9d8d",
+          "title": "Show HN: Hacker News，不含人工智能相关报道 / Show HN: Hacker News with AI stories filtered out",
+          "url": "https://hcker.news/?view=frontpage&ai=exclude",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-08-02T22:43:47Z"
+          "published_at": "2026-08-03T17:39:56Z"
         }
       ],
       "source_count": 2,
       "source_names": [
         "Hacker News · 24h最热",
-        "www.ohiostatefair.com"
+        "hcker.news"
       ],
       "items": [
         {
-          "id": "228ad5508c6f118f1b0277b76977ba9c4c7e3a3d",
-          "title": "AI海报在俄亥俄州博览会上获奖",
-          "url": "https://www.ohiostatefair.com/p/get-involved/arts/poster-contest",
-          "source": "www.ohiostatefair.com",
+          "id": "013e215e41d3bc61637867c5bcb9a8ea0e533a54",
+          "title": "Show HN: Hacker News，不含人工智能相关报道",
+          "url": "https://hcker.news/?view=frontpage&ai=exclude",
+          "source": "hcker.news",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-03T00:56:46.069000Z"
+          "published_at": "2026-08-03T17:44:48.993000Z"
         },
         {
-          "id": "570e262588563c580f7876bb7283f82d53ec8d70",
-          "title": "AI海报在俄亥俄州博览会上获奖 / AI poster wins Ohio State Fair contest",
-          "url": "https://www.ohiostatefair.com/p/get-involved/arts/poster-contest",
+          "id": "531116e6f484a8c8394f0277c4e5c78c695c9d8d",
+          "title": "Show HN: Hacker News，不含人工智能相关报道 / Show HN: Hacker News with AI stories filtered out",
+          "url": "https://hcker.news/?view=frontpage&ai=exclude",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-08-02T22:43:47Z"
+          "published_at": "2026-08-03T17:39:56Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5059,
-      "importance": 0.5059,
-      "importance_score": 0.5059,
+      "score": 0.5395,
+      "importance": 0.5395,
+      "importance_score": 0.5395,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7783,
+        "recency": 0.9648,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-02T22:43:47Z",
-      "latest_at": "2026-08-03T00:56:46.069000Z",
+      "earliest_at": "2026-08-03T17:39:56Z",
+      "latest_at": "2026-08-03T17:44:48.993000Z",
       "primary_item": {
-        "id": "228ad5508c6f118f1b0277b76977ba9c4c7e3a3d",
-        "title": "AI海报在俄亥俄州博览会上获奖",
-        "url": "https://www.ohiostatefair.com/p/get-involved/arts/poster-contest",
-        "source": "www.ohiostatefair.com",
+        "id": "013e215e41d3bc61637867c5bcb9a8ea0e533a54",
+        "title": "Show HN: Hacker News，不含人工智能相关报道",
+        "url": "https://hcker.news/?view=frontpage&ai=exclude",
+        "source": "hcker.news",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_a984a2ffe060",
+      "title": "乔恩·格雷斯表示，对人工智能回报的急切期待“有些不切实际”",
+      "url": "https://www.businessinsider.com/jon-gray-blackstone-president-ai-investment-returns-data-center-2026-8",
+      "primary_url": "https://www.businessinsider.com/jon-gray-blackstone-president-ai-investment-returns-data-center-2026-8",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "b83ea2445ba0bd1cfd6f790304b4f5a2d7abcf06",
+          "title": "乔恩·格雷斯表示，对人工智能回报的急切期待“有些不切实际”",
+          "url": "https://www.businessinsider.com/jon-gray-blackstone-president-ai-investment-returns-data-center-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-03T17:29:01.565000Z"
+        },
+        {
+          "id": "54cc3a1221679310628b872c1b8341a9b1538821",
+          "title": "乔恩·格雷斯表示，对人工智能回报的急切期待“有些不切实际” / Jon Gray says impatience about AI returns is 'a little misplaced'",
+          "url": "https://www.businessinsider.com/jon-gray-blackstone-president-ai-investment-returns-data-center-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-03T17:12:38Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "b83ea2445ba0bd1cfd6f790304b4f5a2d7abcf06",
+          "title": "乔恩·格雷斯表示，对人工智能回报的急切期待“有些不切实际”",
+          "url": "https://www.businessinsider.com/jon-gray-blackstone-president-ai-investment-returns-data-center-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-03T17:29:01.565000Z"
+        },
+        {
+          "id": "54cc3a1221679310628b872c1b8341a9b1538821",
+          "title": "乔恩·格雷斯表示，对人工智能回报的急切期待“有些不切实际” / Jon Gray says impatience about AI returns is 'a little misplaced'",
+          "url": "https://www.businessinsider.com/jon-gray-blackstone-president-ai-investment-returns-data-center-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-03T17:12:38Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5388,
+      "importance": 0.5388,
+      "importance_score": 0.5388,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9612,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-03T17:12:38Z",
+      "latest_at": "2026-08-03T17:29:01.565000Z",
+      "primary_item": {
+        "id": "b83ea2445ba0bd1cfd6f790304b4f5a2d7abcf06",
+        "title": "乔恩·格雷斯表示，对人工智能回报的急切期待“有些不切实际”",
+        "url": "https://www.businessinsider.com/jon-gray-blackstone-president-ai-investment-returns-data-center-2026-8",
+        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     }
