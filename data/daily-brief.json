@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-03T10:14:27.791673Z",
+  "generated_at": "2026-08-03T13:26:27.287811Z",
   "window_hours": 24,
-  "total_items": 17,
+  "total_items": 20,
   "items": [
     {
       "story_id": "story_f1afe25775a0",
@@ -30,18 +30,18 @@
           "published_at": "2026-08-03T03:52:51.022000Z"
         },
         {
-          "id": "0f2e65a830beca422e5048c3a6a340c9bba9a126",
+          "id": "2186b47261176b9147992f26e36d3ca491a93567",
           "title": "Qwen3.8-Max 发布：开源最强编码与协作模型，2.4T 参数 / Qwen3.8-Max: A New Bar for Coding and Cowork",
           "url": "https://qwen.ai/blog?id=qwen3.8",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-08-03T02:16:09Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "Qwen：Blog Retrieval（API）",
         "qwen.ai"
       ],
@@ -65,26 +65,26 @@
           "published_at": "2026-08-03T03:52:51.022000Z"
         },
         {
-          "id": "0f2e65a830beca422e5048c3a6a340c9bba9a126",
+          "id": "2186b47261176b9147992f26e36d3ca491a93567",
           "title": "Qwen3.8-Max 发布：开源最强编码与协作模型，2.4T 参数 / Qwen3.8-Max: A New Bar for Coding and Cowork",
           "url": "https://qwen.ai/blog?id=qwen3.8",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-08-03T02:16:09Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8484,
-      "importance": 0.8484,
-      "importance_score": 0.8484,
+      "score": 0.8412,
+      "importance": 0.8412,
+      "importance_score": 0.8412,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.89,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8878,
+        "recency": 0.8477,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -100,6 +100,67 @@
         "title": "Qwen3.8-Max 发布：开源最强编码与协作模型，2.4T 参数",
         "url": "https://qwen.ai/blog?id=qwen3.8",
         "source": "Qwen：Blog Retrieval（API）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_1afd7fe290fc",
+      "title": "Kimi Work 幻灯片制作教程发布",
+      "url": "https://x.com/Kimi_Moonshot/status/2084245860339298423",
+      "primary_url": "https://x.com/Kimi_Moonshot/status/2084245860339298423",
+      "source": "X：Kimi.ai (@Kimi_Moonshot)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "105fa79b50a073218fcefadaa53b7c82b1993b5e",
+          "title": "Kimi Work 幻灯片制作教程发布",
+          "url": "https://x.com/Kimi_Moonshot/status/2084245860339298423",
+          "source": "X：Kimi.ai (@Kimi_Moonshot)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-03T11:51:51Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Kimi.ai (@Kimi_Moonshot)"
+      ],
+      "items": [
+        {
+          "id": "105fa79b50a073218fcefadaa53b7c82b1993b5e",
+          "title": "Kimi Work 幻灯片制作教程发布",
+          "url": "https://x.com/Kimi_Moonshot/status/2084245860339298423",
+          "source": "X：Kimi.ai (@Kimi_Moonshot)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-03T11:51:51Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7575,
+      "importance": 0.7575,
+      "importance_score": 0.7575,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9775,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-03T11:51:51Z",
+      "latest_at": "2026-08-03T11:51:51Z",
+      "primary_item": {
+        "id": "105fa79b50a073218fcefadaa53b7c82b1993b5e",
+        "title": "Kimi Work 幻灯片制作教程发布",
+        "url": "https://x.com/Kimi_Moonshot/status/2084245860339298423",
+        "source": "X：Kimi.ai (@Kimi_Moonshot)",
         "source_name": "AI HOT"
       }
     },
@@ -157,15 +218,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7442,
-      "importance": 0.7442,
-      "importance_score": 0.7442,
+      "score": 0.7374,
+      "importance": 0.7374,
+      "importance_score": 0.7374,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.831,
+        "recency": 0.7935,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -184,267 +245,285 @@
       }
     },
     {
-      "story_id": "story_ea173ba37f58",
-      "title": "Codex 用 Sol 指挥 Luna Max 省额度翻倍产出",
-      "url": "https://x.com/AYi_AInotes/status/2083867265179537565",
-      "primary_url": "https://x.com/AYi_AInotes/status/2083867265179537565",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
-      "source_name": "AI HOT",
+      "story_id": "story_92f8a546317f",
+      "title": "中国阿里巴巴再次冲击美国人工智能霸主地位 / China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+      "source": "The Verge",
+      "source_name": "Curated Media",
       "sources": [
         {
-          "id": "fd132bb8303e23d13ed295718428aba04a0d3b98",
-          "title": "Codex 用 Sol 指挥 Luna Max 省额度翻倍产出",
-          "url": "https://x.com/AYi_AInotes/status/2083867265179537565",
-          "source": "X：阿易 AI Notes (@AYi_AInotes)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-02T10:47:27Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：阿易 AI Notes (@AYi_AInotes)"
-      ],
-      "items": [
-        {
-          "id": "fd132bb8303e23d13ed295718428aba04a0d3b98",
-          "title": "Codex 用 Sol 指挥 Luna Max 省额度翻倍产出",
-          "url": "https://x.com/AYi_AInotes/status/2083867265179537565",
-          "source": "X：阿易 AI Notes (@AYi_AInotes)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-02T10:47:27Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7249,
-      "importance": 0.7249,
-      "importance_score": 0.7249,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7127,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-02T10:47:27Z",
-      "latest_at": "2026-08-02T10:47:27Z",
-      "primary_item": {
-        "id": "fd132bb8303e23d13ed295718428aba04a0d3b98",
-        "title": "Codex 用 Sol 指挥 Luna Max 省额度翻倍产出",
-        "url": "https://x.com/AYi_AInotes/status/2083867265179537565",
-        "source": "X：阿易 AI Notes (@AYi_AInotes)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_245bd9037021",
-      "title": "OpenAI 的超级 PAC 正在资助人工智能生成的新闻网站攻击行业批评者 / OpenAI's super PAC is funding AI-generated news site attacking industry critics",
-      "url": "https://news.ycombinator.com/item?id=49150561",
-      "primary_url": "https://news.ycombinator.com/item?id=49150561",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "967b7c526151efdf34a4aa3eb14d4f2ba0d669a5",
-          "title": "OpenAI 的超级 PAC 正在资助人工智能生成的新闻网站攻击行业批评者 / OpenAI's super PAC is funding AI-generated news site attacking industry critics",
-          "url": "https://news.ycombinator.com/item?id=49150561",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-03T06:12:50.860000Z"
+          "id": "0f7cefc4fcaad28b1ef389339b0ce58a5bcdd4cc",
+          "title": "中国阿里巴巴再次冲击美国人工智能霸主地位 / China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-03T11:01:11Z"
         },
         {
-          "id": "1df375caf2242069944c372fb478134ce40d4667",
-          "title": "OpenAI的超级政治行动委员会正在资助一个由人工智能生成的新闻网站，该网站针对行业批评者",
-          "url": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
-          "source": "www.modelrepublic.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-03T05:44:58.273000Z"
-        },
-        {
-          "id": "ca9c216c1b9cea8611bc54072e9460a58a492acb",
-          "title": "OpenAI的超级政治行动委员会正在资助一个由人工智能生成的新闻网站，该网站针对行业批评者 / OpenAI's super PAC is funding AI-generated news site attacking industry critics",
-          "url": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
-          "source": "Hacker News",
+          "id": "f4d8a698df9099499471bc6183bfc49d8a8c745d",
+          "title": "中国阿里巴巴再次冲击美国人工智能霸主地位 / China’s Alibaba takes another swipe at America’s AI supremacy",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+          "source": "The Verge",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-03T02:30:30Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "hackernews",
-        "www.modelrepublic.org"
-      ],
-      "items": [
-        {
-          "id": "967b7c526151efdf34a4aa3eb14d4f2ba0d669a5",
-          "title": "OpenAI 的超级 PAC 正在资助人工智能生成的新闻网站攻击行业批评者 / OpenAI's super PAC is funding AI-generated news site attacking industry critics",
-          "url": "https://news.ycombinator.com/item?id=49150561",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-03T06:12:50.860000Z"
-        },
-        {
-          "id": "1df375caf2242069944c372fb478134ce40d4667",
-          "title": "OpenAI的超级政治行动委员会正在资助一个由人工智能生成的新闻网站，该网站针对行业批评者",
-          "url": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
-          "source": "www.modelrepublic.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-03T05:44:58.273000Z"
-        },
-        {
-          "id": "ca9c216c1b9cea8611bc54072e9460a58a492acb",
-          "title": "OpenAI的超级政治行动委员会正在资助一个由人工智能生成的新闻网站，该网站针对行业批评者 / OpenAI's super PAC is funding AI-generated news site attacking industry critics",
-          "url": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-03T02:30:30Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5606,
-      "importance": 0.5606,
-      "importance_score": 0.5606,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9435,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-03T02:30:30Z",
-      "latest_at": "2026-08-03T06:12:50.860000Z",
-      "primary_item": {
-        "id": "967b7c526151efdf34a4aa3eb14d4f2ba0d669a5",
-        "title": "OpenAI 的超级 PAC 正在资助人工智能生成的新闻网站攻击行业批评者 / OpenAI's super PAC is funding AI-generated news site attacking industry critics",
-        "url": "https://news.ycombinator.com/item?id=49150561",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_8f51a03d3151",
-      "title": "通过手动重新输入大语言模型（LLM）生成的代码来预防认知债务 / Prevent cognitive debt by manually retyping LLM-generated code",
-      "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code",
-      "primary_url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code",
-      "source": "Hacker News",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "3d9a419d4f24d56af6f25ea69f8d4e6df9fec513",
-          "title": "通过手动重新输入大语言模型（LLM）生成的代码来预防认知债务 / Prevent cognitive debt by manually retyping LLM-generated code",
-          "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-03T09:32:07Z"
-        },
-        {
-          "id": "ac5b43aa0f6847f061cdb73d97163b3bf96ac7b0",
-          "title": "通过手动重新输入大语言模型（LLM）生成的代码来预防认知债务",
-          "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code",
-          "source": "ankursethi.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-02T10:48:42.540000Z"
+          "published_at": "2026-08-03T11:01:11Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
-        "ankursethi.com"
+        "The Verge"
       ],
       "items": [
         {
-          "id": "3d9a419d4f24d56af6f25ea69f8d4e6df9fec513",
-          "title": "通过手动重新输入大语言模型（LLM）生成的代码来预防认知债务 / Prevent cognitive debt by manually retyping LLM-generated code",
-          "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-03T09:32:07Z"
+          "id": "0f7cefc4fcaad28b1ef389339b0ce58a5bcdd4cc",
+          "title": "中国阿里巴巴再次冲击美国人工智能霸主地位 / China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-03T11:01:11Z"
         },
         {
-          "id": "ac5b43aa0f6847f061cdb73d97163b3bf96ac7b0",
-          "title": "通过手动重新输入大语言模型（LLM）生成的代码来预防认知债务",
-          "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code",
-          "source": "ankursethi.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-02T10:48:42.540000Z"
+          "id": "f4d8a698df9099499471bc6183bfc49d8a8c745d",
+          "title": "中国阿里巴巴再次冲击美国人工智能霸主地位 / China’s Alibaba takes another swipe at America’s AI supremacy",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-03T11:01:11Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.544,
-      "importance": 0.544,
-      "importance_score": 0.544,
+      "score": 0.6093,
+      "importance": 0.6093,
+      "importance_score": 0.6093,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9899,
+        "editorial": 0.4896,
+        "source_tier": 0.58,
+        "ai_relevance": 0.68,
+        "recency": 0.9656,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-02T10:48:42.540000Z",
-      "latest_at": "2026-08-03T09:32:07Z",
+      "earliest_at": "2026-08-03T11:01:11Z",
+      "latest_at": "2026-08-03T11:01:11Z",
       "primary_item": {
-        "id": "3d9a419d4f24d56af6f25ea69f8d4e6df9fec513",
-        "title": "通过手动重新输入大语言模型（LLM）生成的代码来预防认知债务 / Prevent cognitive debt by manually retyping LLM-generated code",
-        "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code",
-        "source": "Hacker News",
-        "source_name": "TechURLs"
+        "id": "0f7cefc4fcaad28b1ef389339b0ce58a5bcdd4cc",
+        "title": "中国阿里巴巴再次冲击美国人工智能霸主地位 / China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+        "source": "The Verge",
+        "source_name": "Curated Media"
       }
     },
     {
-      "story_id": "story_9ebc895c2d08",
-      "title": "Hugging Face 首席执行官表示，像 OpenAI 事件这样的黑客攻击需要透明度",
-      "url": "https://www.businessinsider.com/hugging-face-ceo-hack-openai-mandatory-transparency-law-ai-2026-8",
-      "primary_url": "https://www.businessinsider.com/hugging-face-ceo-hack-openai-mandatory-transparency-law-ai-2026-8",
+      "story_id": "story_5cc7a8dbf672",
+      "title": "Show HN：Nightcrawler – 在智能手机上运行的本地 AI 渗透测试代理 / Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
+      "url": "https://news.ycombinator.com/item?id=49154127",
+      "primary_url": "https://news.ycombinator.com/item?id=49154127",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "1a396da68a21f3ff29ba5179dcbde2f74c62905e",
+          "title": "Show HN：Nightcrawler – 在智能手机上运行的本地 AI 渗透测试代理 / Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
+          "url": "https://news.ycombinator.com/item?id=49154127",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-03T13:13:45.403000Z"
+        },
+        {
+          "id": "76ca4377457bf4b34e082a76ed826c60c67ceff9",
+          "title": "Show HN: Nightcrawler——一款在智能手机上运行的本地AI渗透测试工具",
+          "url": "https://github.com/garagehq/nightcrawler",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-03T11:20:57.958000Z"
+        },
+        {
+          "id": "7b93daa675052006d871322bec78b86c16e024e2",
+          "title": "Show HN: Nightcrawler——一款在智能手机上运行的本地AI渗透测试工具 / Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
+          "url": "https://github.com/garagehq/nightcrawler",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-03T11:06:15Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "github.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "1a396da68a21f3ff29ba5179dcbde2f74c62905e",
+          "title": "Show HN：Nightcrawler – 在智能手机上运行的本地 AI 渗透测试代理 / Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
+          "url": "https://news.ycombinator.com/item?id=49154127",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-03T13:13:45.403000Z"
+        },
+        {
+          "id": "76ca4377457bf4b34e082a76ed826c60c67ceff9",
+          "title": "Show HN: Nightcrawler——一款在智能手机上运行的本地AI渗透测试工具",
+          "url": "https://github.com/garagehq/nightcrawler",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-03T11:20:57.958000Z"
+        },
+        {
+          "id": "7b93daa675052006d871322bec78b86c16e024e2",
+          "title": "Show HN: Nightcrawler——一款在智能手机上运行的本地AI渗透测试工具 / Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
+          "url": "https://github.com/garagehq/nightcrawler",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-03T11:06:15Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5703,
+      "importance": 0.5703,
+      "importance_score": 0.5703,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9969,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-03T11:06:15Z",
+      "latest_at": "2026-08-03T13:13:45.403000Z",
+      "primary_item": {
+        "id": "1a396da68a21f3ff29ba5179dcbde2f74c62905e",
+        "title": "Show HN：Nightcrawler – 在智能手机上运行的本地 AI 渗透测试代理 / Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
+        "url": "https://news.ycombinator.com/item?id=49154127",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_b82e59d62ef1",
+      "title": "阿里巴巴发布了迄今为止规模最大的AI模型，DeepSeek的最新模型成本极低 - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObUlCNHp6dVFoTEtqbkF3aFZqaVNUUVRJd0dicUhkb2tidzdkUWg0OVp1SU94aFJ1dmdkbDZIZGxMQVNWMm5vYXNKR0JicHNwZWRVX25ZY0hHaTNVUVdIWGdBNERsS3hDT29CdzlydEFGbFJzblgyempKcjljLVFELTVPRjdHVnRrOVRmQUs5QWVFQlg3aWVET1lNcDE4R2wwSC1vazRDaTNTZFhURm9qUGFfWGE5Sk1pMHNBUWx3TG85S1lZSWV4TUJxRU11UVhMR2Iw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "primary_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObUlCNHp6dVFoTEtqbkF3aFZqaVNUUVRJd0dicUhkb2tidzdkUWg0OVp1SU94aFJ1dmdkbDZIZGxMQVNWMm5vYXNKR0JicHNwZWRVX25ZY0hHaTNVUVdIWGdBNERsS3hDT29CdzlydEFGbFJzblgyempKcjljLVFELTVPRjdHVnRrOVRmQUs5QWVFQlg3aWVET1lNcDE4R2wwSC1vazRDaTNTZFhURm9qUGFfWGE5Sk1pMHNBUWx3TG85S1lZSWV4TUJxRU11UVhMR2Iw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "news.google.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "fc9aa96660a735bb076b57b805c5b3515c272066",
+          "title": "阿里巴巴发布了迄今为止规模最大的AI模型，DeepSeek的最新模型成本极低 - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObUlCNHp6dVFoTEtqbkF3aFZqaVNUUVRJd0dicUhkb2tidzdkUWg0OVp1SU94aFJ1dmdkbDZIZGxMQVNWMm5vYXNKR0JicHNwZWRVX25ZY0hHaTNVUVdIWGdBNERsS3hDT29CdzlydEFGbFJzblgyempKcjljLVFELTVPRjdHVnRrOVRmQUs5QWVFQlg3aWVET1lNcDE4R2wwSC1vazRDaTNTZFhURm9qUGFfWGE5Sk1pMHNBUWx3TG85S1lZSWV4TUJxRU11UVhMR2Iw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-03T11:20:59.576000Z"
+        },
+        {
+          "id": "a13b93a61558181d1294923e50cfda0978de6c86",
+          "title": "阿里巴巴发布了迄今为止规模最大的AI模型，DeepSeek的最新模型成本极低",
+          "url": "https://www.reuters.com/business/retail-consumer/alibaba-unveils-its-most-capable-ai-model-date-not-far-behind-moonshots-size-2026-08-03",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-03T09:45:13.093000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "news.google.com",
+        "www.reuters.com"
+      ],
+      "items": [
+        {
+          "id": "fc9aa96660a735bb076b57b805c5b3515c272066",
+          "title": "阿里巴巴发布了迄今为止规模最大的AI模型，DeepSeek的最新模型成本极低 - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObUlCNHp6dVFoTEtqbkF3aFZqaVNUUVRJd0dicUhkb2tidzdkUWg0OVp1SU94aFJ1dmdkbDZIZGxMQVNWMm5vYXNKR0JicHNwZWRVX25ZY0hHaTNVUVdIWGdBNERsS3hDT29CdzlydEFGbFJzblgyempKcjljLVFELTVPRjdHVnRrOVRmQUs5QWVFQlg3aWVET1lNcDE4R2wwSC1vazRDaTNTZFhURm9qUGFfWGE5Sk1pMHNBUWx3TG85S1lZSWV4TUJxRU11UVhMR2Iw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-03T11:20:59.576000Z"
+        },
+        {
+          "id": "a13b93a61558181d1294923e50cfda0978de6c86",
+          "title": "阿里巴巴发布了迄今为止规模最大的AI模型，DeepSeek的最新模型成本极低",
+          "url": "https://www.reuters.com/business/retail-consumer/alibaba-unveils-its-most-capable-ai-model-date-not-far-behind-moonshots-size-2026-08-03",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-03T09:45:13.093000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5404,
+      "importance": 0.5404,
+      "importance_score": 0.5404,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9703,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-03T09:45:13.093000Z",
+      "latest_at": "2026-08-03T11:20:59.576000Z",
+      "primary_item": {
+        "id": "fc9aa96660a735bb076b57b805c5b3515c272066",
+        "title": "阿里巴巴发布了迄今为止规模最大的AI模型，DeepSeek的最新模型成本极低 - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObUlCNHp6dVFoTEtqbkF3aFZqaVNUUVRJd0dicUhkb2tidzdkUWg0OVp1SU94aFJ1dmdkbDZIZGxMQVNWMm5vYXNKR0JicHNwZWRVX25ZY0hHaTNVUVdIWGdBNERsS3hDT29CdzlydEFGbFJzblgyempKcjljLVFELTVPRjdHVnRrOVRmQUs5QWVFQlg3aWVET1lNcDE4R2wwSC1vazRDaTNTZFhURm9qUGFfWGE5Sk1pMHNBUWx3TG85S1lZSWV4TUJxRU11UVhMR2Iw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "source": "news.google.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_883225bae80f",
+      "title": "人工智能正开始重写那套曾让英伟达所向无敌的软件",
+      "url": "https://www.businessinsider.com/nvidia-cuda-new-threats-ai-coding-agents-2026-8",
+      "primary_url": "https://www.businessinsider.com/nvidia-cuda-new-threats-ai-coding-agents-2026-8",
       "source": "www.businessinsider.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "2b77c8a244bbe12f437b142b77337dc6e16ee434",
-          "title": "Hugging Face 首席执行官表示，像 OpenAI 事件这样的黑客攻击需要透明度",
-          "url": "https://www.businessinsider.com/hugging-face-ceo-hack-openai-mandatory-transparency-law-ai-2026-8",
+          "id": "cb6792fd6440c1c788ef70a950c2194fc21fcc21",
+          "title": "人工智能正开始重写那套曾让英伟达所向无敌的软件",
+          "url": "https://www.businessinsider.com/nvidia-cuda-new-threats-ai-coding-agents-2026-8",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-03T07:20:51.777000Z"
+          "published_at": "2026-08-03T09:12:43.310000Z"
         },
         {
-          "id": "340019a9161967c58e7c13ae9acdb78bf2e4fb57",
-          "title": "Hugging Face 首席执行官表示，像 OpenAI 事件这样的黑客攻击需要透明度 / Hugging Face CEO says AI companies should be required to disclose hacks after OpenAI breach",
-          "url": "https://www.businessinsider.com/hugging-face-ceo-hack-openai-mandatory-transparency-law-ai-2026-8",
+          "id": "c62edacfec8a1292c6b0bfd9149d64f19a8d88af",
+          "title": "人工智能正开始重写那套曾让英伟达所向无敌的软件 / AI is starting to rewrite the software that made Nvidia untouchable",
+          "url": "https://www.businessinsider.com/nvidia-cuda-new-threats-ai-coding-agents-2026-8",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-03T06:52:48Z"
+          "published_at": "2026-08-03T09:00:02Z"
         }
       ],
       "source_count": 2,
@@ -454,47 +533,47 @@
       ],
       "items": [
         {
-          "id": "2b77c8a244bbe12f437b142b77337dc6e16ee434",
-          "title": "Hugging Face 首席执行官表示，像 OpenAI 事件这样的黑客攻击需要透明度",
-          "url": "https://www.businessinsider.com/hugging-face-ceo-hack-openai-mandatory-transparency-law-ai-2026-8",
+          "id": "cb6792fd6440c1c788ef70a950c2194fc21fcc21",
+          "title": "人工智能正开始重写那套曾让英伟达所向无敌的软件",
+          "url": "https://www.businessinsider.com/nvidia-cuda-new-threats-ai-coding-agents-2026-8",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-03T07:20:51.777000Z"
+          "published_at": "2026-08-03T09:12:43.310000Z"
         },
         {
-          "id": "340019a9161967c58e7c13ae9acdb78bf2e4fb57",
-          "title": "Hugging Face 首席执行官表示，像 OpenAI 事件这样的黑客攻击需要透明度 / Hugging Face CEO says AI companies should be required to disclose hacks after OpenAI breach",
-          "url": "https://www.businessinsider.com/hugging-face-ceo-hack-openai-mandatory-transparency-law-ai-2026-8",
+          "id": "c62edacfec8a1292c6b0bfd9149d64f19a8d88af",
+          "title": "人工智能正开始重写那套曾让英伟达所向无敌的软件 / AI is starting to rewrite the software that made Nvidia untouchable",
+          "url": "https://www.businessinsider.com/nvidia-cuda-new-threats-ai-coding-agents-2026-8",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-03T06:52:48Z"
+          "published_at": "2026-08-03T09:00:02Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5384,
-      "importance": 0.5384,
-      "importance_score": 0.5384,
+      "score": 0.5351,
+      "importance": 0.5351,
+      "importance_score": 0.5351,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9591,
+        "recency": 0.9408,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-03T06:52:48Z",
-      "latest_at": "2026-08-03T07:20:51.777000Z",
+      "earliest_at": "2026-08-03T09:00:02Z",
+      "latest_at": "2026-08-03T09:12:43.310000Z",
       "primary_item": {
-        "id": "2b77c8a244bbe12f437b142b77337dc6e16ee434",
-        "title": "Hugging Face 首席执行官表示，像 OpenAI 事件这样的黑客攻击需要透明度",
-        "url": "https://www.businessinsider.com/hugging-face-ceo-hack-openai-mandatory-transparency-law-ai-2026-8",
+        "id": "cb6792fd6440c1c788ef70a950c2194fc21fcc21",
+        "title": "人工智能正开始重写那套曾让英伟达所向无敌的软件",
+        "url": "https://www.businessinsider.com/nvidia-cuda-new-threats-ai-coding-agents-2026-8",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
@@ -553,15 +632,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5371,
-      "importance": 0.5371,
-      "importance_score": 0.5371,
+      "score": 0.5294,
+      "importance": 0.5294,
+      "importance_score": 0.5294,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9517,
+        "recency": 0.9088,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -576,6 +655,104 @@
         "url": "https://news.ycombinator.com/item?id=49151751",
         "source": "news.ycombinator.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_245bd9037021",
+      "title": "OpenAI 的超级 PAC 正在资助人工智能生成的新闻网站攻击行业批评者 / OpenAI's super PAC is funding AI-generated news site attacking industry critics",
+      "url": "https://news.ycombinator.com/item?id=49150561",
+      "primary_url": "https://news.ycombinator.com/item?id=49150561",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "967b7c526151efdf34a4aa3eb14d4f2ba0d669a5",
+          "title": "OpenAI 的超级 PAC 正在资助人工智能生成的新闻网站攻击行业批评者 / OpenAI's super PAC is funding AI-generated news site attacking industry critics",
+          "url": "https://news.ycombinator.com/item?id=49150561",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-03T06:12:50.860000Z"
+        },
+        {
+          "id": "1df375caf2242069944c372fb478134ce40d4667",
+          "title": "OpenAI的超级政治行动委员会正在资助一个由人工智能生成的新闻网站，该网站针对行业批评者",
+          "url": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
+          "source": "www.modelrepublic.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-03T05:44:58.273000Z"
+        },
+        {
+          "id": "92658c15f576130012e41e8bcd733b5f2982a26a",
+          "title": "OpenAI的超级政治行动委员会正在资助一个由人工智能生成的新闻网站，该网站针对行业批评者 / OpenAI's super PAC is funding AI-generated news site attacking industry critics",
+          "url": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-03T02:30:30Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews",
+        "www.modelrepublic.org"
+      ],
+      "items": [
+        {
+          "id": "967b7c526151efdf34a4aa3eb14d4f2ba0d669a5",
+          "title": "OpenAI 的超级 PAC 正在资助人工智能生成的新闻网站攻击行业批评者 / OpenAI's super PAC is funding AI-generated news site attacking industry critics",
+          "url": "https://news.ycombinator.com/item?id=49150561",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-03T06:12:50.860000Z"
+        },
+        {
+          "id": "1df375caf2242069944c372fb478134ce40d4667",
+          "title": "OpenAI的超级政治行动委员会正在资助一个由人工智能生成的新闻网站，该网站针对行业批评者",
+          "url": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
+          "source": "www.modelrepublic.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-03T05:44:58.273000Z"
+        },
+        {
+          "id": "92658c15f576130012e41e8bcd733b5f2982a26a",
+          "title": "OpenAI的超级政治行动委员会正在资助一个由人工智能生成的新闻网站，该网站针对行业批评者 / OpenAI's super PAC is funding AI-generated news site attacking industry critics",
+          "url": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-03T02:30:30Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.553,
+      "importance": 0.553,
+      "importance_score": 0.553,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9009,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-03T02:30:30Z",
+      "latest_at": "2026-08-03T06:12:50.860000Z",
+      "primary_item": {
+        "id": "967b7c526151efdf34a4aa3eb14d4f2ba0d669a5",
+        "title": "OpenAI 的超级 PAC 正在资助人工智能生成的新闻网站攻击行业批评者 / OpenAI's super PAC is funding AI-generated news site attacking industry critics",
+        "url": "https://news.ycombinator.com/item?id=49150561",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -596,18 +773,18 @@
           "published_at": "2026-08-03T01:44:49.130000Z"
         },
         {
-          "id": "84039601be79c0b1c6a0c6401151a44f6eb5fcbc",
+          "id": "85c464d06f44c53ea531320315e322572052549d",
           "title": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。” / My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
           "url": "https://frogs.vaguespac.es",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-02T19:42:08Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "frogs.vaguespac.es"
       ],
       "items": [
@@ -621,26 +798,26 @@
           "published_at": "2026-08-03T01:44:49.130000Z"
         },
         {
-          "id": "84039601be79c0b1c6a0c6401151a44f6eb5fcbc",
+          "id": "85c464d06f44c53ea531320315e322572052549d",
           "title": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。” / My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
           "url": "https://frogs.vaguespac.es",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-02T19:42:08Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.525,
-      "importance": 0.525,
-      "importance_score": 0.525,
+      "score": 0.5178,
+      "importance": 0.5178,
+      "importance_score": 0.5178,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8846,
+        "recency": 0.8446,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -675,18 +852,18 @@
           "published_at": "2026-08-03T00:56:46.069000Z"
         },
         {
-          "id": "613f77e2cb5ae9e7cda7b80110eb47c9680a47d9",
+          "id": "570e262588563c580f7876bb7283f82d53ec8d70",
           "title": "AI海报在俄亥俄州博览会上获奖 / AI poster wins Ohio State Fair contest",
           "url": "https://www.ohiostatefair.com/p/get-involved/arts/poster-contest",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-02T22:43:47Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "www.ohiostatefair.com"
       ],
       "items": [
@@ -700,26 +877,26 @@
           "published_at": "2026-08-03T00:56:46.069000Z"
         },
         {
-          "id": "613f77e2cb5ae9e7cda7b80110eb47c9680a47d9",
+          "id": "570e262588563c580f7876bb7283f82d53ec8d70",
           "title": "AI海报在俄亥俄州博览会上获奖 / AI poster wins Ohio State Fair contest",
           "url": "https://www.ohiostatefair.com/p/get-involved/arts/poster-contest",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-02T22:43:47Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5232,
-      "importance": 0.5232,
-      "importance_score": 0.5232,
+      "score": 0.5161,
+      "importance": 0.5161,
+      "importance_score": 0.5161,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8744,
+        "recency": 0.8349,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -790,15 +967,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5184,
-      "importance": 0.5184,
-      "importance_score": 0.5184,
+      "score": 0.5115,
+      "importance": 0.5115,
+      "importance_score": 0.5115,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8479,
+        "recency": 0.8096,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -812,164 +989,6 @@
         "title": "欧盟关于人工智能模型的法规正式生效。这将带来哪些变化？",
         "url": "https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change",
         "source": "www.euronews.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_ae8e22b18ee4",
-      "title": "PISIGuard：与 AI 聊天时保护您的个人和敏感信息 / PISIGuard: Protect your personal and sensitive info when you chat with AI",
-      "url": "https://news.ycombinator.com/item?id=49153029",
-      "primary_url": "https://news.ycombinator.com/item?id=49153029",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "0840bc3de3b6d4946adc19151cea4b884d64194f",
-          "title": "PISIGuard：与 AI 聊天时保护您的个人和敏感信息 / PISIGuard: Protect your personal and sensitive info when you chat with AI",
-          "url": "https://news.ycombinator.com/item?id=49153029",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-03T09:59:23.655000Z"
-        },
-        {
-          "id": "0f53f632ca9617441366b3bfa4b3cbc50d7d4d46",
-          "title": "PISIGuard：与 AI 聊天时保护您的个人和敏感信息 / PISIGuard: Protect your personal and sensitive info when you chat with AI",
-          "url": "https://github.com/mohamed--abdel-maksoud/pisiguard",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-03T08:54:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "0840bc3de3b6d4946adc19151cea4b884d64194f",
-          "title": "PISIGuard：与 AI 聊天时保护您的个人和敏感信息 / PISIGuard: Protect your personal and sensitive info when you chat with AI",
-          "url": "https://news.ycombinator.com/item?id=49153029",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-03T09:59:23.655000Z"
-        },
-        {
-          "id": "0f53f632ca9617441366b3bfa4b3cbc50d7d4d46",
-          "title": "PISIGuard：与 AI 聊天时保护您的个人和敏感信息 / PISIGuard: Protect your personal and sensitive info when you chat with AI",
-          "url": "https://github.com/mohamed--abdel-maksoud/pisiguard",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-03T08:54:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5451,
-      "importance": 0.5451,
-      "importance_score": 0.5451,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9964,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-03T08:54:00Z",
-      "latest_at": "2026-08-03T09:59:23.655000Z",
-      "primary_item": {
-        "id": "0840bc3de3b6d4946adc19151cea4b884d64194f",
-        "title": "PISIGuard：与 AI 聊天时保护您的个人和敏感信息 / PISIGuard: Protect your personal and sensitive info when you chat with AI",
-        "url": "https://news.ycombinator.com/item?id=49153029",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_8bfd4174f55c",
-      "title": "人工智能：《Ars Notoria》与即时知识的承诺",
-      "url": "https://publicdomainreview.org/essay/ars-notoria",
-      "primary_url": "https://publicdomainreview.org/essay/ars-notoria",
-      "source": "publicdomainreview.org",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "9bd646e11821729d4ce7d7df6b6ee9bfc374e134",
-          "title": "人工智能：《Ars Notoria》与即时知识的承诺",
-          "url": "https://publicdomainreview.org/essay/ars-notoria",
-          "source": "publicdomainreview.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-02T19:20:48.057000Z"
-        },
-        {
-          "id": "6c31c1d24f0ddc50687d80e84670ca05b837d0b2",
-          "title": "人工智能：《Ars Notoria》与即时知识的承诺 / Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
-          "url": "https://publicdomainreview.org/essay/ars-notoria",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-02T10:18:24Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "publicdomainreview.org"
-      ],
-      "items": [
-        {
-          "id": "9bd646e11821729d4ce7d7df6b6ee9bfc374e134",
-          "title": "人工智能：《Ars Notoria》与即时知识的承诺",
-          "url": "https://publicdomainreview.org/essay/ars-notoria",
-          "source": "publicdomainreview.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-02T19:20:48.057000Z"
-        },
-        {
-          "id": "6c31c1d24f0ddc50687d80e84670ca05b837d0b2",
-          "title": "人工智能：《Ars Notoria》与即时知识的承诺 / Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
-          "url": "https://publicdomainreview.org/essay/ars-notoria",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-02T10:18:24Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.511,
-      "importance": 0.511,
-      "importance_score": 0.511,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8065,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-02T10:18:24Z",
-      "latest_at": "2026-08-02T19:20:48.057000Z",
-      "primary_item": {
-        "id": "9bd646e11821729d4ce7d7df6b6ee9bfc374e134",
-        "title": "人工智能：《Ars Notoria》与即时知识的承诺",
-        "url": "https://publicdomainreview.org/essay/ars-notoria",
-        "source": "publicdomainreview.org",
         "source_name": "Buzzing"
       }
     },
@@ -1027,15 +1046,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5104,
-      "importance": 0.5104,
-      "importance_score": 0.5104,
+      "score": 0.5039,
+      "importance": 0.5039,
+      "importance_score": 0.5039,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8034,
+        "recency": 0.7671,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1050,6 +1069,164 @@
         "url": "https://sprocket-demo.spikonado.com",
         "source": "sprocket-demo.spikonado.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_9ebc895c2d08",
+      "title": "Hugging Face 首席执行官表示，像 OpenAI 事件这样的黑客攻击需要透明度",
+      "url": "https://www.businessinsider.com/hugging-face-ceo-hack-openai-mandatory-transparency-law-ai-2026-8",
+      "primary_url": "https://www.businessinsider.com/hugging-face-ceo-hack-openai-mandatory-transparency-law-ai-2026-8",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "2b77c8a244bbe12f437b142b77337dc6e16ee434",
+          "title": "Hugging Face 首席执行官表示，像 OpenAI 事件这样的黑客攻击需要透明度",
+          "url": "https://www.businessinsider.com/hugging-face-ceo-hack-openai-mandatory-transparency-law-ai-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-03T07:20:51.777000Z"
+        },
+        {
+          "id": "340019a9161967c58e7c13ae9acdb78bf2e4fb57",
+          "title": "Hugging Face 首席执行官表示，像 OpenAI 事件这样的黑客攻击需要透明度 / Hugging Face CEO says AI companies should be required to disclose hacks after OpenAI breach",
+          "url": "https://www.businessinsider.com/hugging-face-ceo-hack-openai-mandatory-transparency-law-ai-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-03T06:52:48Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "2b77c8a244bbe12f437b142b77337dc6e16ee434",
+          "title": "Hugging Face 首席执行官表示，像 OpenAI 事件这样的黑客攻击需要透明度",
+          "url": "https://www.businessinsider.com/hugging-face-ceo-hack-openai-mandatory-transparency-law-ai-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-03T07:20:51.777000Z"
+        },
+        {
+          "id": "340019a9161967c58e7c13ae9acdb78bf2e4fb57",
+          "title": "Hugging Face 首席执行官表示，像 OpenAI 事件这样的黑客攻击需要透明度 / Hugging Face CEO says AI companies should be required to disclose hacks after OpenAI breach",
+          "url": "https://www.businessinsider.com/hugging-face-ceo-hack-openai-mandatory-transparency-law-ai-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-03T06:52:48Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5306,
+      "importance": 0.5306,
+      "importance_score": 0.5306,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9158,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-03T06:52:48Z",
+      "latest_at": "2026-08-03T07:20:51.777000Z",
+      "primary_item": {
+        "id": "2b77c8a244bbe12f437b142b77337dc6e16ee434",
+        "title": "Hugging Face 首席执行官表示，像 OpenAI 事件这样的黑客攻击需要透明度",
+        "url": "https://www.businessinsider.com/hugging-face-ceo-hack-openai-mandatory-transparency-law-ai-2026-8",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_26149269af1e",
+      "title": "使用单个 4GB GPU 进行 AirLLM 70B 推理 / AirLLM 70B inference with single 4GB GPU",
+      "url": "https://news.ycombinator.com/item?id=49154228",
+      "primary_url": "https://news.ycombinator.com/item?id=49154228",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "4091e192e6e64bdf51ad9bafe9fca0787e19caad",
+          "title": "使用单个 4GB GPU 进行 AirLLM 70B 推理 / AirLLM 70B inference with single 4GB GPU",
+          "url": "https://news.ycombinator.com/item?id=49154228",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-03T13:13:45.403000Z"
+        },
+        {
+          "id": "3c5592abfa3053cd250cb36128a1abe805691b95",
+          "title": "使用单个 4GB GPU 进行 AirLLM 70B 推理 / AirLLM 70B inference with single 4GB GPU",
+          "url": "https://github.com/lyogavin/airllm",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-03T11:15:48Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "4091e192e6e64bdf51ad9bafe9fca0787e19caad",
+          "title": "使用单个 4GB GPU 进行 AirLLM 70B 推理 / AirLLM 70B inference with single 4GB GPU",
+          "url": "https://news.ycombinator.com/item?id=49154228",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-03T13:13:45.403000Z"
+        },
+        {
+          "id": "3c5592abfa3053cd250cb36128a1abe805691b95",
+          "title": "使用单个 4GB GPU 进行 AirLLM 70B 推理 / AirLLM 70B inference with single 4GB GPU",
+          "url": "https://github.com/lyogavin/airllm",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-03T11:15:48Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5453,
+      "importance": 0.5453,
+      "importance_score": 0.5453,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9969,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-03T11:15:48Z",
+      "latest_at": "2026-08-03T13:13:45.403000Z",
+      "primary_item": {
+        "id": "4091e192e6e64bdf51ad9bafe9fca0787e19caad",
+        "title": "使用单个 4GB GPU 进行 AirLLM 70B 推理 / AirLLM 70B inference with single 4GB GPU",
+        "url": "https://news.ycombinator.com/item?id=49154228",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -1106,15 +1283,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.525,
-      "importance": 0.525,
-      "importance_score": 0.525,
+      "score": 0.5178,
+      "importance": 0.5178,
+      "importance_score": 0.5178,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8846,
+        "recency": 0.8446,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1132,30 +1309,30 @@
       }
     },
     {
-      "story_id": "story_a702bd373608",
-      "title": "AI 将遗留 COBOL 程序迁移到 Java，其中包括错误 / AI migrated legacy COBOL programs to Java, bugs included",
-      "url": "https://news.ycombinator.com/item?id=49150773",
-      "primary_url": "https://news.ycombinator.com/item?id=49150773",
+      "story_id": "story_ae8e22b18ee4",
+      "title": "PISIGuard：与 AI 聊天时保护您的个人和敏感信息 / PISIGuard: Protect your personal and sensitive info when you chat with AI",
+      "url": "https://news.ycombinator.com/item?id=49153029",
+      "primary_url": "https://news.ycombinator.com/item?id=49153029",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "aab82e673ccb853614b9615a0f4973cabbb40712",
-          "title": "AI 将遗留 COBOL 程序迁移到 Java，其中包括错误 / AI migrated legacy COBOL programs to Java, bugs included",
-          "url": "https://news.ycombinator.com/item?id=49150773",
+          "id": "0840bc3de3b6d4946adc19151cea4b884d64194f",
+          "title": "PISIGuard：与 AI 聊天时保护您的个人和敏感信息 / PISIGuard: Protect your personal and sensitive info when you chat with AI",
+          "url": "https://news.ycombinator.com/item?id=49153029",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-03T06:12:50.860000Z"
+          "published_at": "2026-08-03T09:59:23.655000Z"
         },
         {
-          "id": "7780440077a835de97ea849119756aeef42b2536",
-          "title": "AI 将遗留 COBOL 程序迁移到 Java，其中包括错误 / AI migrated legacy COBOL programs to Java, bugs included",
-          "url": "https://arxiv.org/abs/2607.28271",
+          "id": "0f53f632ca9617441366b3bfa4b3cbc50d7d4d46",
+          "title": "PISIGuard：与 AI 聊天时保护您的个人和敏感信息 / PISIGuard: Protect your personal and sensitive info when you chat with AI",
+          "url": "https://github.com/mohamed--abdel-maksoud/pisiguard",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-03T03:06:12Z"
+          "published_at": "2026-08-03T08:54:00Z"
         }
       ],
       "source_count": 2,
@@ -1165,47 +1342,126 @@
       ],
       "items": [
         {
-          "id": "aab82e673ccb853614b9615a0f4973cabbb40712",
-          "title": "AI 将遗留 COBOL 程序迁移到 Java，其中包括错误 / AI migrated legacy COBOL programs to Java, bugs included",
-          "url": "https://news.ycombinator.com/item?id=49150773",
+          "id": "0840bc3de3b6d4946adc19151cea4b884d64194f",
+          "title": "PISIGuard：与 AI 聊天时保护您的个人和敏感信息 / PISIGuard: Protect your personal and sensitive info when you chat with AI",
+          "url": "https://news.ycombinator.com/item?id=49153029",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-03T06:12:50.860000Z"
+          "published_at": "2026-08-03T09:59:23.655000Z"
         },
         {
-          "id": "7780440077a835de97ea849119756aeef42b2536",
-          "title": "AI 将遗留 COBOL 程序迁移到 Java，其中包括错误 / AI migrated legacy COBOL programs to Java, bugs included",
-          "url": "https://arxiv.org/abs/2607.28271",
+          "id": "0f53f632ca9617441366b3bfa4b3cbc50d7d4d46",
+          "title": "PISIGuard：与 AI 聊天时保护您的个人和敏感信息 / PISIGuard: Protect your personal and sensitive info when you chat with AI",
+          "url": "https://github.com/mohamed--abdel-maksoud/pisiguard",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-03T03:06:12Z"
+          "published_at": "2026-08-03T08:54:00Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5356,
-      "importance": 0.5356,
-      "importance_score": 0.5356,
+      "score": 0.537,
+      "importance": 0.537,
+      "importance_score": 0.537,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9435,
+        "recency": 0.9514,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-03T03:06:12Z",
-      "latest_at": "2026-08-03T06:12:50.860000Z",
+      "earliest_at": "2026-08-03T08:54:00Z",
+      "latest_at": "2026-08-03T09:59:23.655000Z",
       "primary_item": {
-        "id": "aab82e673ccb853614b9615a0f4973cabbb40712",
-        "title": "AI 将遗留 COBOL 程序迁移到 Java，其中包括错误 / AI migrated legacy COBOL programs to Java, bugs included",
-        "url": "https://news.ycombinator.com/item?id=49150773",
+        "id": "0840bc3de3b6d4946adc19151cea4b884d64194f",
+        "title": "PISIGuard：与 AI 聊天时保护您的个人和敏感信息 / PISIGuard: Protect your personal and sensitive info when you chat with AI",
+        "url": "https://news.ycombinator.com/item?id=49153029",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_8f51a03d3151",
+      "title": "通过手动重新输入 LLM 生成的代码来防止认知债务 / Prevent cognitive debt by manually retyping LLM-generated code",
+      "url": "https://news.ycombinator.com/item?id=49153374",
+      "primary_url": "https://news.ycombinator.com/item?id=49153374",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "6a1dbee4388777d0c3cd2b22628082934ac5bd10",
+          "title": "通过手动重新输入 LLM 生成的代码来防止认知债务 / Prevent cognitive debt by manually retyping LLM-generated code",
+          "url": "https://news.ycombinator.com/item?id=49153374",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-03T09:59:23.655000Z"
+        },
+        {
+          "id": "3d9a419d4f24d56af6f25ea69f8d4e6df9fec513",
+          "title": "通过手动重新输入 LLM 生成的代码来防止认知债务 / Prevent cognitive debt by manually retyping LLM-generated code",
+          "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-03T09:32:07Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "6a1dbee4388777d0c3cd2b22628082934ac5bd10",
+          "title": "通过手动重新输入 LLM 生成的代码来防止认知债务 / Prevent cognitive debt by manually retyping LLM-generated code",
+          "url": "https://news.ycombinator.com/item?id=49153374",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-03T09:59:23.655000Z"
+        },
+        {
+          "id": "3d9a419d4f24d56af6f25ea69f8d4e6df9fec513",
+          "title": "通过手动重新输入 LLM 生成的代码来防止认知债务 / Prevent cognitive debt by manually retyping LLM-generated code",
+          "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-03T09:32:07Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.537,
+      "importance": 0.537,
+      "importance_score": 0.537,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9514,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-03T09:32:07Z",
+      "latest_at": "2026-08-03T09:59:23.655000Z",
+      "primary_item": {
+        "id": "6a1dbee4388777d0c3cd2b22628082934ac5bd10",
+        "title": "通过手动重新输入 LLM 生成的代码来防止认知债务 / Prevent cognitive debt by manually retyping LLM-generated code",
+        "url": "https://news.ycombinator.com/item?id=49153374",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
@@ -1264,15 +1520,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5012,
-      "importance": 0.5012,
-      "importance_score": 0.5012,
+      "score": 0.4951,
+      "importance": 0.4951,
+      "importance_score": 0.4951,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7525,
+        "recency": 0.7185,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1290,80 +1546,80 @@
       }
     },
     {
-      "story_id": "story_f693e1b0e35b",
-      "title": "Show HN：Mu – 代理工具 / Show HN: Mu – Tools for Agents",
-      "url": "https://news.ycombinator.com/item?id=49148899",
-      "primary_url": "https://news.ycombinator.com/item?id=49148899",
+      "story_id": "story_a702bd373608",
+      "title": "AI 将遗留 COBOL 程序迁移到 Java，其中包括错误 / AI migrated legacy COBOL programs to Java, bugs included",
+      "url": "https://news.ycombinator.com/item?id=49150773",
+      "primary_url": "https://news.ycombinator.com/item?id=49150773",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "c39dd7eb7beab411fbaae390f595a7aac9539342",
-          "title": "Show HN：Mu – 代理工具 / Show HN: Mu – Tools for Agents",
-          "url": "https://news.ycombinator.com/item?id=49148899",
+          "id": "aab82e673ccb853614b9615a0f4973cabbb40712",
+          "title": "AI 将遗留 COBOL 程序迁移到 Java，其中包括错误 / AI migrated legacy COBOL programs to Java, bugs included",
+          "url": "https://news.ycombinator.com/item?id=49150773",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-03T03:14:24.726000Z"
+          "published_at": "2026-08-03T06:12:50.860000Z"
         },
         {
-          "id": "076d18bde4a6e998a1116699c4efdddd355f0115",
-          "title": "Show HN: Mu – 代理工具 / Show HN: Mu – Tools for Agents",
-          "url": "https://github.com/micro/mu",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-02T22:06:34Z"
+          "id": "5c2d2b253649e65952dec0d5eb250725f1b2972d",
+          "title": "AI 将遗留 COBOL 程序迁移到 Java，其中包括错误 / AI migrated legacy COBOL programs to Java, bugs included",
+          "url": "https://arxiv.org/abs/2607.28271",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-03T03:06:12Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
         {
-          "id": "c39dd7eb7beab411fbaae390f595a7aac9539342",
-          "title": "Show HN：Mu – 代理工具 / Show HN: Mu – Tools for Agents",
-          "url": "https://news.ycombinator.com/item?id=49148899",
+          "id": "aab82e673ccb853614b9615a0f4973cabbb40712",
+          "title": "AI 将遗留 COBOL 程序迁移到 Java，其中包括错误 / AI migrated legacy COBOL programs to Java, bugs included",
+          "url": "https://news.ycombinator.com/item?id=49150773",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-03T03:14:24.726000Z"
+          "published_at": "2026-08-03T06:12:50.860000Z"
         },
         {
-          "id": "076d18bde4a6e998a1116699c4efdddd355f0115",
-          "title": "Show HN: Mu – 代理工具 / Show HN: Mu – Tools for Agents",
-          "url": "https://github.com/micro/mu",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-02T22:06:34Z"
+          "id": "5c2d2b253649e65952dec0d5eb250725f1b2972d",
+          "title": "AI 将遗留 COBOL 程序迁移到 Java，其中包括错误 / AI migrated legacy COBOL programs to Java, bugs included",
+          "url": "https://arxiv.org/abs/2607.28271",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-03T03:06:12Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5285,
-      "importance": 0.5285,
-      "importance_score": 0.5285,
+      "score": 0.528,
+      "importance": 0.528,
+      "importance_score": 0.528,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9038,
+        "recency": 0.9009,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-02T22:06:34Z",
-      "latest_at": "2026-08-03T03:14:24.726000Z",
+      "earliest_at": "2026-08-03T03:06:12Z",
+      "latest_at": "2026-08-03T06:12:50.860000Z",
       "primary_item": {
-        "id": "c39dd7eb7beab411fbaae390f595a7aac9539342",
-        "title": "Show HN：Mu – 代理工具 / Show HN: Mu – Tools for Agents",
-        "url": "https://news.ycombinator.com/item?id=49148899",
+        "id": "aab82e673ccb853614b9615a0f4973cabbb40712",
+        "title": "AI 将遗留 COBOL 程序迁移到 Java，其中包括错误 / AI migrated legacy COBOL programs to Java, bugs included",
+        "url": "https://news.ycombinator.com/item?id=49150773",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
