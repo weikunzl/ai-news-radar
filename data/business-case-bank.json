@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T20:53:34.560989Z",
+  "generated_at": "2026-08-04T22:15:48.813903Z",
   "cases": [
     {
       "case_id": "opc_case_777dc92a6100",
@@ -65,24 +65,24 @@
       "score": 50
     },
     {
-      "case_id": "opc_case_2311ccb13c76",
-      "company": "Here",
+      "case_id": "opc_case_a0b1339fc5c0",
+      "company": "Your",
       "founder": "",
       "source_refs": [
-        "biz_765092b7e536"
+        "biz_f83439029b79"
       ],
-      "url": "https://www.indiehackers.com/post/i-spent-a-year-building-an-ai-operating-system-for-creators-heres-what-i-learned-1e8a331273",
-      "title": "I spent a year building an AI operating system for creators. Here's what I learned.",
-      "business_model": "OPC",
+      "url": "https://www.indiehackers.com/post/your-open-tabs-are-unfinished-decisions-not-bookmarks-i-built-an-app-for-that-5cbc1f7a2f",
+      "title": "Your open tabs are unfinished decisions, not bookmarks. I built an app for that.",
+      "business_model": "Founder Case, OPC",
       "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
       "monetization": "To be extracted from the linked source.",
-      "team_size_signal": "one-person/tiny-team fit",
+      "team_size_signal": "team size not explicit",
       "distribution_channel": "Indie Hackers",
       "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
       "yuanli_mapping": [
-        "yuanli_os"
+        "yuanli_startup"
       ],
-      "score": 38
+      "score": 40
     },
     {
       "case_id": "opc_case_de7ba9242b5d",
@@ -123,26 +123,6 @@
         "yuanli_startup"
       ],
       "score": 38
-    },
-    {
-      "case_id": "opc_case_bf45f0bd9627",
-      "company": "Investor Interview",
-      "founder": "",
-      "source_refs": [
-        "biz_619e4d0b3433"
-      ],
-      "url": "https://www.cbinsights.com/research/investor-interview-manchesterstory-group-on-penguin-ai/",
-      "title": "Investor Interview: ManchesterStory Group on Penguin AI",
-      "business_model": "Founder Case",
-      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
-      "monetization": "To be extracted from the linked source.",
-      "team_size_signal": "team size not explicit",
-      "distribution_channel": "CB Insights",
-      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
-      "yuanli_mapping": [
-        "ftf_trust"
-      ],
-      "score": 37
     }
   ]
 }
