@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T04:22:54.976018Z",
+  "generated_at": "2026-08-04T07:16:32.350972Z",
   "window_hours": 24,
   "items": [
     {
@@ -9,7 +9,7 @@
       "source_id": "cbinsights",
       "source_name": "CB Insights",
       "published_at": "2026-08-03T19:59:15Z",
-      "captured_at": "2026-08-04T04:22:54.976018Z",
+      "captured_at": "2026-08-04T07:16:32.350972Z",
       "lane": "startup_vc",
       "entities": [
         "CB Insights",
@@ -26,14 +26,14 @@
       ],
       "opc_fit_score": 0,
       "case_concreteness_score": 15,
-      "total_score": 50,
+      "total_score": 49,
       "score_breakdown": {
         "source_authority": 16,
         "yuanli_relevance": 6,
         "business_model_value": 5,
         "case_concreteness": 15,
         "opc_fit": 0,
-        "freshness": 8,
+        "freshness": 7,
         "counter_signal_value": 0
       },
       "summary": "Nathan Wu, Partner at S32, tells CB Insights how they view Black Forest Labs’s place in the market, what differentiates it, and where the AI space is headed. How did your portfolio company get on your radar? The founders... Tags: Founder Case.",
@@ -47,7 +47,7 @@
       "source_id": "mit_smr",
       "source_name": "MIT Sloan Management Review",
       "published_at": "2026-08-03T11:00:54Z",
-      "captured_at": "2026-08-04T04:22:54.976018Z",
+      "captured_at": "2026-08-04T07:16:32.350972Z",
       "lane": "authority",
       "entities": [
         "MIT Sloan Management Review",
@@ -83,83 +83,13 @@
       "transport_mode": "feed"
     },
     {
-      "signal_id": "biz_b0d7469357ec",
-      "title": "How we built a realtime system for responsive voice AI in six months",
-      "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
-      "source_id": "openai_news",
-      "source_name": "OpenAI News",
-      "published_at": "2026-08-03T07:00:00Z",
-      "captured_at": "2026-08-04T04:22:54.976018Z",
-      "lane": "ai_commercialization",
-      "entities": [
-        "OpenAI News"
-      ],
-      "business_model_tags": [
-        "Founder Case",
-        "Enterprise AI Workflow"
-      ],
-      "yuanli_tags": [
-        "yuanli_os"
-      ],
-      "opc_fit_score": 0,
-      "case_concreteness_score": 8,
-      "total_score": 41,
-      "score_breakdown": {
-        "source_authority": 20,
-        "yuanli_relevance": 3,
-        "business_model_value": 3,
-        "case_concreteness": 8,
-        "opc_fit": 0,
-        "freshness": 7,
-        "counter_signal_value": 0
-      },
-      "summary": "How we built a realtime system for responsive voice AI in six months Tags: Founder Case, Enterprise AI Workflow.",
-      "timestamp_basis": "feed_published",
-      "transport_mode": "feed"
-    },
-    {
-      "signal_id": "biz_ac2d7876bf83",
-      "title": "I built an AI regex tool for overseas users – here’s the stack and what’s working so far",
-      "url": "https://www.indiehackers.com/post/i-built-an-ai-regex-tool-for-overseas-users-here-s-the-stack-and-what-s-working-so-far-17be6669e0",
-      "source_id": "indie_hackers",
-      "source_name": "Indie Hackers",
-      "published_at": "2026-08-03T10:29:02.324000Z",
-      "captured_at": "2026-08-04T04:22:54.976018Z",
-      "lane": "opc",
-      "entities": [
-        "Indie Hackers"
-      ],
-      "business_model_tags": [
-        "Founder Case",
-        "OPC"
-      ],
-      "yuanli_tags": [
-        "yuanli_startup"
-      ],
-      "opc_fit_score": 5,
-      "case_concreteness_score": 8,
-      "total_score": 39,
-      "score_breakdown": {
-        "source_authority": 16,
-        "yuanli_relevance": 0,
-        "business_model_value": 3,
-        "case_concreteness": 8,
-        "opc_fit": 5,
-        "freshness": 7,
-        "counter_signal_value": 0
-      },
-      "summary": "I built an AI regex tool for overseas users – here’s the stack and what’s working so far Tags: Founder Case, OPC.",
-      "timestamp_basis": "page_structured_time",
-      "transport_mode": "page_detail"
-    },
-    {
       "signal_id": "biz_619e4d0b3433",
       "title": "Investor Interview: ManchesterStory Group on Penguin AI",
       "url": "https://www.cbinsights.com/research/investor-interview-manchesterstory-group-on-penguin-ai/",
       "source_id": "cbinsights",
       "source_name": "CB Insights",
       "published_at": "2026-08-03T21:08:37Z",
-      "captured_at": "2026-08-04T04:22:54.976018Z",
+      "captured_at": "2026-08-04T07:16:32.350972Z",
       "lane": "startup_vc",
       "entities": [
         "CB Insights",
@@ -196,7 +126,7 @@
       "source_id": "cbinsights",
       "source_name": "CB Insights",
       "published_at": "2026-08-03T20:07:51Z",
-      "captured_at": "2026-08-04T04:22:54.976018Z",
+      "captured_at": "2026-08-04T07:16:32.350972Z",
       "lane": "startup_vc",
       "entities": [
         "CB Insights",
@@ -212,14 +142,14 @@
       ],
       "opc_fit_score": 0,
       "case_concreteness_score": 8,
-      "total_score": 38,
+      "total_score": 37,
       "score_breakdown": {
         "source_authority": 16,
         "yuanli_relevance": 3,
         "business_model_value": 3,
         "case_concreteness": 8,
         "opc_fit": 0,
-        "freshness": 8,
+        "freshness": 7,
         "counter_signal_value": 0
       },
       "summary": "Emily Man, Partner at Primary, tells CB Insights how they view Casap’s place in the market, what differentiates it, and where the AI space is headed. How did your portfolio company get on your radar? We first met Shanti... Tags: Founder Case.",
@@ -233,7 +163,7 @@
       "source_id": "lenny",
       "source_name": "Lenny's Newsletter",
       "published_at": "2026-08-03T15:02:21Z",
-      "captured_at": "2026-08-04T04:22:54.976018Z",
+      "captured_at": "2026-08-04T07:16:32.350972Z",
       "lane": "startup_vc",
       "entities": [
         "Lenny's Newsletter",
@@ -276,7 +206,7 @@
       "source_id": "lenny",
       "source_name": "Lenny's Newsletter",
       "published_at": "2026-08-03T12:04:26Z",
-      "captured_at": "2026-08-04T04:22:54.976018Z",
+      "captured_at": "2026-08-04T07:16:32.350972Z",
       "lane": "startup_vc",
       "entities": [
         "Lenny's Newsletter",
