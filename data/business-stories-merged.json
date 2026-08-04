@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T01:03:10.852220Z",
+  "generated_at": "2026-08-04T04:22:54.976018Z",
   "clusters": [
     {
       "cluster_id": "biz_cluster_1fd45f2575fa",
@@ -74,42 +74,6 @@
       ]
     },
     {
-      "cluster_id": "biz_cluster_03a512966509",
-      "thesis": "AI leverage is making one-person and tiny-team companies a credible strategic archetype.",
-      "lane": "opc",
-      "signal_ids": [
-        "biz_308c0d69de4d",
-        "biz_7603e0fa1584"
-      ],
-      "source_count": 1,
-      "importance_score": 43,
-      "confidence": "watch",
-      "yuanli_mapping": [
-        "yuanli_asset",
-        "yuanli_startup",
-        "profit_container"
-      ],
-      "why_it_matters": "2 English evidence items from 1 sources connect this pattern to Yuanli IP.",
-      "counter_evidence": "See counter_signal cluster for adoption, ROI, and trust risks.",
-      "recommended_action": "Turn the strongest case into a Yuanli OPC teaching module with leverage, distribution, and monetization explicitly mapped.",
-      "evidence_refs": [
-        "biz_308c0d69de4d",
-        "biz_7603e0fa1584"
-      ],
-      "top_sources": [
-        {
-          "source": "Indie Hackers",
-          "title": "🚀 Built an Open-Source AI Outreach Engine to Find Customers, Jobs & Investors ⭐",
-          "url": "https://www.indiehackers.com/post/built-an-open-source-ai-outreach-engine-to-find-customers-jobs-investors-3aab68b36b"
-        },
-        {
-          "source": "Indie Hackers",
-          "title": "Why every productivity tool eventually becomes the work instead of doing the work?",
-          "url": "https://www.indiehackers.com/post/why-every-productivity-tool-eventually-becomes-the-work-instead-of-doing-the-work-7dba6d00d9"
-        }
-      ]
-    },
-    {
       "cluster_id": "biz_cluster_6c3b6a0d894f",
       "thesis": "Enterprise AI value is moving toward operating-model redesign rather than isolated copilots.",
       "lane": "enterprise_workflow",
@@ -119,7 +83,7 @@
         "biz_d714096ef03e"
       ],
       "source_count": 2,
-      "importance_score": 42,
+      "importance_score": 41,
       "confidence": "medium",
       "yuanli_mapping": [
         "yuanli_os",
@@ -148,6 +112,35 @@
           "source": "Lenny's Newsletter",
           "title": "ChatGPT Codex Voice + browser + Sites: an expert’s AI workflow | Nick Baumann (OpenAI)",
           "url": "https://www.lennysnewsletter.com/p/chatgpt-codex-voice-browser-sites"
+        }
+      ]
+    },
+    {
+      "cluster_id": "biz_cluster_43413fc037f9",
+      "thesis": "AI leverage is making one-person and tiny-team companies a credible strategic archetype.",
+      "lane": "opc",
+      "signal_ids": [
+        "biz_ac2d7876bf83"
+      ],
+      "source_count": 1,
+      "importance_score": 41,
+      "confidence": "watch",
+      "yuanli_mapping": [
+        "yuanli_asset",
+        "yuanli_startup",
+        "profit_container"
+      ],
+      "why_it_matters": "1 English evidence items from 1 sources connect this pattern to Yuanli IP.",
+      "counter_evidence": "See counter_signal cluster for adoption, ROI, and trust risks.",
+      "recommended_action": "Turn the strongest case into a Yuanli OPC teaching module with leverage, distribution, and monetization explicitly mapped.",
+      "evidence_refs": [
+        "biz_ac2d7876bf83"
+      ],
+      "top_sources": [
+        {
+          "source": "Indie Hackers",
+          "title": "I built an AI regex tool for overseas users – here’s the stack and what’s working so far",
+          "url": "https://www.indiehackers.com/post/i-built-an-ai-regex-tool-for-overseas-users-here-s-the-stack-and-what-s-working-so-far-17be6669e0"
         }
       ]
     }
