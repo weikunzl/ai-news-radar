@@ -1,34 +1,47 @@
 {
-  "generated_at": "2026-08-04T15:05:44.310416Z",
+  "generated_at": "2026-08-04T17:15:23.355953Z",
   "clusters": [
     {
-      "cluster_id": "biz_cluster_6a4741eb2001",
+      "cluster_id": "biz_cluster_229e96b41705",
       "thesis": "Founder stories provide the most reusable proof layer for Yuanli IP trust-building.",
       "lane": "founder_case",
       "signal_ids": [
+        "biz_81c846e4ee2f",
+        "biz_a44f26b4d2ee",
         "biz_0fbb0812a0ce",
         "biz_5044319f695b",
         "biz_619e4d0b3433",
         "biz_151a6b428813"
       ],
       "source_count": 2,
-      "importance_score": 44,
+      "importance_score": 49,
       "confidence": "medium",
       "yuanli_mapping": [
         "ftf_trust",
         "yuanli_asset",
         "wealth_flywheel"
       ],
-      "why_it_matters": "4 English evidence items from 2 sources connect this pattern to Yuanli IP.",
+      "why_it_matters": "6 English evidence items from 2 sources connect this pattern to Yuanli IP.",
       "counter_evidence": "See counter_signal cluster for adoption, ROI, and trust risks.",
       "recommended_action": "Convert high-score founder cases into FTF credible story assets.",
       "evidence_refs": [
+        "biz_81c846e4ee2f",
+        "biz_a44f26b4d2ee",
         "biz_0fbb0812a0ce",
         "biz_5044319f695b",
-        "biz_619e4d0b3433",
-        "biz_151a6b428813"
+        "biz_619e4d0b3433"
       ],
       "top_sources": [
+        {
+          "source": "CB Insights",
+          "title": "Executive Interview: Light",
+          "url": "https://www.cbinsights.com/research/executive-interview-light-2/"
+        },
+        {
+          "source": "CB Insights",
+          "title": "Executive Interview: Penguin AI",
+          "url": "https://www.cbinsights.com/research/executive-interview-penguin-ai/"
+        },
         {
           "source": "CB Insights",
           "title": "Investor Interview: S32 on Black Forest Labs",
@@ -43,40 +56,6 @@
           "source": "CB Insights",
           "title": "Investor Interview: ManchesterStory Group on Penguin AI",
           "url": "https://www.cbinsights.com/research/investor-interview-manchesterstory-group-on-penguin-ai/"
-        },
-        {
-          "source": "CB Insights",
-          "title": "Investor Interview: Primary on Casap",
-          "url": "https://www.cbinsights.com/research/investor-interview-casap/"
-        }
-      ]
-    },
-    {
-      "cluster_id": "biz_cluster_ca7f25629faf",
-      "thesis": "AI leverage is making one-person and tiny-team companies a credible strategic archetype.",
-      "lane": "opc",
-      "signal_ids": [
-        "biz_2a051b19739f"
-      ],
-      "source_count": 1,
-      "importance_score": 44,
-      "confidence": "watch",
-      "yuanli_mapping": [
-        "yuanli_asset",
-        "yuanli_startup",
-        "profit_container"
-      ],
-      "why_it_matters": "1 English evidence items from 1 sources connect this pattern to Yuanli IP.",
-      "counter_evidence": "See counter_signal cluster for adoption, ROI, and trust risks.",
-      "recommended_action": "Turn the strongest case into a Yuanli OPC teaching module with leverage, distribution, and monetization explicitly mapped.",
-      "evidence_refs": [
-        "biz_2a051b19739f"
-      ],
-      "top_sources": [
-        {
-          "source": "Indie Hackers",
-          "title": "How I built a source-backed UK and Netherlands financial calculator platform",
-          "url": "https://www.indiehackers.com/post/how-i-built-a-source-backed-uk-and-netherlands-financial-calculator-platform-b1f29e16af"
         }
       ]
     },
@@ -113,6 +92,63 @@
           "source": "MIT Sloan Management Review",
           "title": "The Elusiveness of Merit-Based Hiring",
           "url": "https://sloanreview.mit.edu/article/the-elusiveness-of-merit-based-hiring/"
+        }
+      ]
+    },
+    {
+      "cluster_id": "biz_cluster_0f41352055fc",
+      "thesis": "AI leverage is making one-person and tiny-team companies a credible strategic archetype.",
+      "lane": "opc",
+      "signal_ids": [
+        "biz_6666e000cbf2"
+      ],
+      "source_count": 1,
+      "importance_score": 40,
+      "confidence": "watch",
+      "yuanli_mapping": [
+        "yuanli_asset",
+        "yuanli_startup",
+        "profit_container"
+      ],
+      "why_it_matters": "1 English evidence items from 1 sources connect this pattern to Yuanli IP.",
+      "counter_evidence": "See counter_signal cluster for adoption, ROI, and trust risks.",
+      "recommended_action": "Turn the strongest case into a Yuanli OPC teaching module with leverage, distribution, and monetization explicitly mapped.",
+      "evidence_refs": [
+        "biz_6666e000cbf2"
+      ],
+      "top_sources": [
+        {
+          "source": "Indie Hackers",
+          "title": "Growing a talent marketplace to $2.5M+/yr after two years of losses",
+          "url": "https://www.indiehackers.com/post/tech/growing-a-talent-marketplace-to-2-5m-yr-after-two-years-of-losses-9CktlRa1UunyRWHrftxv"
+        }
+      ]
+    },
+    {
+      "cluster_id": "biz_cluster_d9fe29da5955",
+      "thesis": "Enterprise AI value is moving toward operating-model redesign rather than isolated copilots.",
+      "lane": "enterprise_workflow",
+      "signal_ids": [
+        "biz_3e137a3ad77e"
+      ],
+      "source_count": 1,
+      "importance_score": 36,
+      "confidence": "watch",
+      "yuanli_mapping": [
+        "yuanli_os",
+        "ftf_trust"
+      ],
+      "why_it_matters": "1 English evidence items from 1 sources connect this pattern to Yuanli IP.",
+      "counter_evidence": "See counter_signal cluster for adoption, ROI, and trust risks.",
+      "recommended_action": "Map each workflow case to the Yuanli OS organs: soul, memory, judgment, hands.",
+      "evidence_refs": [
+        "biz_3e137a3ad77e"
+      ],
+      "top_sources": [
+        {
+          "source": "GitHub Blog",
+          "title": "Turn one giant AI-generated pull request to a reviewable stack",
+          "url": "https://github.blog/engineering/turn-one-giant-ai-generated-pull-request-to-a-reviewable-stack/"
         }
       ]
     }
