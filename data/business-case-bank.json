@@ -1,6 +1,48 @@
 {
-  "generated_at": "2026-08-04T15:05:44.310416Z",
+  "generated_at": "2026-08-04T17:15:23.355953Z",
   "cases": [
+    {
+      "case_id": "opc_case_94c5c391a72f",
+      "company": "Executive Interview",
+      "founder": "",
+      "source_refs": [
+        "biz_81c846e4ee2f"
+      ],
+      "url": "https://www.cbinsights.com/research/executive-interview-light-2/",
+      "title": "Executive Interview: Light",
+      "business_model": "Founder Case",
+      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
+      "monetization": "To be extracted from the linked source.",
+      "team_size_signal": "team size not explicit",
+      "distribution_channel": "CB Insights",
+      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
+      "yuanli_mapping": [
+        "yuanli_startup",
+        "ftf_trust"
+      ],
+      "score": 50
+    },
+    {
+      "case_id": "opc_case_a843276e9d3f",
+      "company": "Executive Interview",
+      "founder": "",
+      "source_refs": [
+        "biz_a44f26b4d2ee"
+      ],
+      "url": "https://www.cbinsights.com/research/executive-interview-penguin-ai/",
+      "title": "Executive Interview: Penguin AI",
+      "business_model": "Founder Case",
+      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
+      "monetization": "To be extracted from the linked source.",
+      "team_size_signal": "team size not explicit",
+      "distribution_channel": "CB Insights",
+      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
+      "yuanli_mapping": [
+        "yuanli_startup",
+        "ftf_trust"
+      ],
+      "score": 50
+    },
     {
       "case_id": "opc_case_fb086efa2db0",
       "company": "Investor Interview",
@@ -23,24 +65,24 @@
       "score": 49
     },
     {
-      "case_id": "opc_case_6dcf241fca48",
-      "company": "How I",
+      "case_id": "opc_case_28a2236b06c9",
+      "company": "Growing",
       "founder": "",
       "source_refs": [
-        "biz_2a051b19739f"
+        "biz_6666e000cbf2"
       ],
-      "url": "https://www.indiehackers.com/post/how-i-built-a-source-backed-uk-and-netherlands-financial-calculator-platform-b1f29e16af",
-      "title": "How I built a source-backed UK and Netherlands financial calculator platform",
-      "business_model": "AI Business Model Innovation, Founder Case, OPC",
+      "url": "https://www.indiehackers.com/post/tech/growing-a-talent-marketplace-to-2-5m-yr-after-two-years-of-losses-9CktlRa1UunyRWHrftxv",
+      "title": "Growing a talent marketplace to $2.5M+/yr after two years of losses",
+      "business_model": "AI Business Model Innovation, OPC",
       "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
       "monetization": "To be extracted from the linked source.",
       "team_size_signal": "team size not explicit",
       "distribution_channel": "Indie Hackers",
       "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
       "yuanli_mapping": [
-        "yuanli_startup"
+        "profit_container"
       ],
-      "score": 42
+      "score": 38
     },
     {
       "case_id": "opc_case_de7ba9242b5d",
