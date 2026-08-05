@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T02:40:09.196396Z",
+  "generated_at": "2026-08-05T05:49:44.768357Z",
   "window_hours": 24,
   "source_count": 26,
   "successful_sources": 16,
@@ -19,7 +19,7 @@
     "future_timestamp": 0,
     "outside_window": 376,
     "conflicted_timestamp": 1,
-    "unverified_page": 12
+    "unverified_page": 13
   },
   "sources": [
     {
@@ -53,8 +53,44 @@
       "freshness_sla_hours": 336,
       "duration_ms": 0,
       "error": "no_stable_public_timestamped_surface",
-      "last_checked_at": "2026-08-05T02:40:09.196396Z",
+      "last_checked_at": "2026-08-05T05:49:44.768357Z",
       "next_review_at": "2026-07-26T00:00:00Z"
+    },
+    {
+      "source_id": "mit_smr",
+      "name": "MIT Sloan Management Review",
+      "lane": "authority",
+      "capture_mode": "feed",
+      "ok": true,
+      "reachable": true,
+      "verified": true,
+      "fresh": true,
+      "current": true,
+      "transport_ok": true,
+      "transport_mode": "feed",
+      "quality_status": "verified_timestamp",
+      "item_count": 1,
+      "entry_count": 20,
+      "verified_timestamp_count": 20,
+      "eligible_timestamp_count": 1,
+      "timestamp_skips": {
+        "missing_timestamp": 0,
+        "invalid_timestamp": 0,
+        "future_timestamp": 0,
+        "outside_window": 19,
+        "conflicted_timestamp": 0,
+        "unverified_page": 0
+      },
+      "attempted_urls": [
+        "https://sloanreview.mit.edu/feed/"
+      ],
+      "selected_url": "https://sloanreview.mit.edu/feed/",
+      "latest_verified_published_at": "2026-08-04T11:00:00Z",
+      "freshness_sla_hours": 336,
+      "duration_ms": 373,
+      "error": "",
+      "last_checked_at": "2026-08-05T05:49:44.768357Z",
+      "next_review_at": ""
     },
     {
       "source_id": "knowledge_wharton",
@@ -87,9 +123,9 @@
       "selected_url": "",
       "latest_verified_published_at": "",
       "freshness_sla_hours": 336,
-      "duration_ms": 152,
+      "duration_ms": 455,
       "error": "feed_returned_no_entries; https://knowledge.wharton.upenn.edu/feed/: HTTP 403 for https://knowledge.wharton.upenn.edu/feed/ | https://knowledge.wharton.upenn.edu/: HTTP 403 for https://knowledge.wharton.upenn.edu/",
-      "last_checked_at": "2026-08-05T02:40:09.196396Z",
+      "last_checked_at": "2026-08-05T05:49:44.768357Z",
       "next_review_at": ""
     },
     {
@@ -123,9 +159,9 @@
       "selected_url": "https://www.ycombinator.com/blog/rss",
       "latest_verified_published_at": "2026-06-16T16:14:22Z",
       "freshness_sla_hours": 336,
-      "duration_ms": 201,
+      "duration_ms": 489,
       "error": "latest_verified_item_exceeds_source_sla",
-      "last_checked_at": "2026-08-05T02:40:09.196396Z",
+      "last_checked_at": "2026-08-05T05:49:44.768357Z",
       "next_review_at": ""
     },
     {
@@ -159,45 +195,9 @@
       "selected_url": "https://www.lennysnewsletter.com/feed",
       "latest_verified_published_at": "2026-08-04T13:02:53Z",
       "freshness_sla_hours": 240,
-      "duration_ms": 221,
+      "duration_ms": 338,
       "error": "",
-      "last_checked_at": "2026-08-05T02:40:09.196396Z",
-      "next_review_at": ""
-    },
-    {
-      "source_id": "mit_smr",
-      "name": "MIT Sloan Management Review",
-      "lane": "authority",
-      "capture_mode": "feed",
-      "ok": true,
-      "reachable": true,
-      "verified": true,
-      "fresh": true,
-      "current": true,
-      "transport_ok": true,
-      "transport_mode": "feed",
-      "quality_status": "verified_timestamp",
-      "item_count": 1,
-      "entry_count": 20,
-      "verified_timestamp_count": 20,
-      "eligible_timestamp_count": 1,
-      "timestamp_skips": {
-        "missing_timestamp": 0,
-        "invalid_timestamp": 0,
-        "future_timestamp": 0,
-        "outside_window": 19,
-        "conflicted_timestamp": 0,
-        "unverified_page": 0
-      },
-      "attempted_urls": [
-        "https://sloanreview.mit.edu/feed/"
-      ],
-      "selected_url": "https://sloanreview.mit.edu/feed/",
-      "latest_verified_published_at": "2026-08-04T11:00:00Z",
-      "freshness_sla_hours": 336,
-      "duration_ms": 494,
-      "error": "",
-      "last_checked_at": "2026-08-05T02:40:09.196396Z",
+      "last_checked_at": "2026-08-05T05:49:44.768357Z",
       "next_review_at": ""
     },
     {
@@ -231,9 +231,9 @@
       "selected_url": "https://www.generalist.com/feed",
       "latest_verified_published_at": "2026-08-04T12:03:37Z",
       "freshness_sla_hours": 240,
-      "duration_ms": 462,
+      "duration_ms": 441,
       "error": "",
-      "last_checked_at": "2026-08-05T02:40:09.196396Z",
+      "last_checked_at": "2026-08-05T05:49:44.768357Z",
       "next_review_at": ""
     },
     {
@@ -267,9 +267,9 @@
       "selected_url": "https://www.cbinsights.com/research/feed/",
       "latest_verified_published_at": "2026-08-04T16:41:56Z",
       "freshness_sla_hours": 336,
-      "duration_ms": 356,
+      "duration_ms": 246,
       "error": "",
-      "last_checked_at": "2026-08-05T02:40:09.196396Z",
+      "last_checked_at": "2026-08-05T05:49:44.768357Z",
       "next_review_at": ""
     },
     {
@@ -303,9 +303,9 @@
       "selected_url": "https://www.notboring.co/feed",
       "latest_verified_published_at": "2026-07-31T12:47:27Z",
       "freshness_sla_hours": 240,
-      "duration_ms": 1074,
+      "duration_ms": 1241,
       "error": "",
-      "last_checked_at": "2026-08-05T02:40:09.196396Z",
+      "last_checked_at": "2026-08-05T05:49:44.768357Z",
       "next_review_at": ""
     },
     {
@@ -340,9 +340,9 @@
       "selected_url": "https://microconf.com/latest?format=rss",
       "latest_verified_published_at": "2026-04-08T18:33:36Z",
       "freshness_sla_hours": 336,
-      "duration_ms": 1893,
+      "duration_ms": 2166,
       "error": "latest_verified_item_exceeds_source_sla; https://microconf.com/feed: HTTP 404 for https://microconf.com/feed",
-      "last_checked_at": "2026-08-05T02:40:09.196396Z",
+      "last_checked_at": "2026-08-05T05:49:44.768357Z",
       "next_review_at": ""
     },
     {
@@ -377,9 +377,9 @@
       "selected_url": "http://feeds.hbr.org/harvardbusiness",
       "latest_verified_published_at": "2026-08-04T12:25:24Z",
       "freshness_sla_hours": 72,
-      "duration_ms": 4772,
+      "duration_ms": 4147,
       "error": "",
-      "last_checked_at": "2026-08-05T02:40:09.196396Z",
+      "last_checked_at": "2026-08-05T05:49:44.768357Z",
       "next_review_at": ""
     },
     {
@@ -414,9 +414,9 @@
       "selected_url": "https://thebootstrappedfounder.com/feed/",
       "latest_verified_published_at": "2026-04-03T13:00:00Z",
       "freshness_sla_hours": 336,
-      "duration_ms": 2957,
+      "duration_ms": 3666,
       "error": "latest_verified_item_exceeds_source_sla; https://thebootstrappedfounder.com/feed.xml: HTTP 404 for https://thebootstrappedfounder.com/feed.xml",
-      "last_checked_at": "2026-08-05T02:40:09.196396Z",
+      "last_checked_at": "2026-08-05T05:49:44.768357Z",
       "next_review_at": ""
     },
     {
@@ -451,9 +451,9 @@
       "selected_url": "https://a16z.com/announcement/investing-in-volta/",
       "latest_verified_published_at": "2026-08-04T11:55:10Z",
       "freshness_sla_hours": 336,
-      "duration_ms": 8237,
+      "duration_ms": 9136,
       "error": "",
-      "last_checked_at": "2026-08-05T02:40:09.196396Z",
+      "last_checked_at": "2026-08-05T05:49:44.768357Z",
       "next_review_at": ""
     },
     {
@@ -470,7 +470,7 @@
       "transport_mode": "feed",
       "quality_status": "no_current_items",
       "item_count": 0,
-      "entry_count": 804,
+      "entry_count": 805,
       "verified_timestamp_count": 30,
       "eligible_timestamp_count": 0,
       "timestamp_skips": {
@@ -485,11 +485,11 @@
         "https://levels.io/rss/"
       ],
       "selected_url": "https://levels.io/rss/",
-      "latest_verified_published_at": "2026-08-03T00:00:00Z",
+      "latest_verified_published_at": "2026-08-04T00:00:00Z",
       "freshness_sla_hours": 720,
-      "duration_ms": 1206,
+      "duration_ms": 1491,
       "error": "",
-      "last_checked_at": "2026-08-05T02:40:09.196396Z",
+      "last_checked_at": "2026-08-05T05:49:44.768357Z",
       "next_review_at": ""
     },
     {
@@ -523,7 +523,7 @@
       "freshness_sla_hours": 336,
       "duration_ms": 0,
       "error": "no_stable_public_timestamped_surface",
-      "last_checked_at": "2026-08-05T02:40:09.196396Z",
+      "last_checked_at": "2026-08-05T05:49:44.768357Z",
       "next_review_at": "2026-07-26T00:00:00Z"
     },
     {
@@ -557,9 +557,9 @@
       "selected_url": "https://tinyseed.com/spring-2026/handelbay",
       "latest_verified_published_at": "2026-05-28T17:45:41Z",
       "freshness_sla_hours": 720,
-      "duration_ms": 5740,
+      "duration_ms": 5587,
       "error": "latest_verified_item_exceeds_source_sla",
-      "last_checked_at": "2026-08-05T02:40:09.196396Z",
+      "last_checked_at": "2026-08-05T05:49:44.768357Z",
       "next_review_at": ""
     },
     {
@@ -594,9 +594,45 @@
       "selected_url": "",
       "latest_verified_published_at": "",
       "freshness_sla_hours": 336,
-      "duration_ms": 489,
+      "duration_ms": 588,
       "error": "feed_returned_no_entries; https://charonhub.deeplearning.ai/rss/: HTTP 403 for https://charonhub.deeplearning.ai/rss/ | https://www.deeplearning.ai/the-batch/rss/: HTTP 403 for https://www.deeplearning.ai/the-batch/rss/ | https://www.deeplearning.ai/the-batch/: HTTP 403 for https://www.deeplearning.ai/the-batch/",
-      "last_checked_at": "2026-08-05T02:40:09.196396Z",
+      "last_checked_at": "2026-08-05T05:49:44.768357Z",
+      "next_review_at": ""
+    },
+    {
+      "source_id": "first_round",
+      "name": "First Round Review",
+      "lane": "startup_vc",
+      "capture_mode": "sitemap",
+      "ok": true,
+      "reachable": true,
+      "verified": true,
+      "fresh": true,
+      "current": false,
+      "transport_ok": true,
+      "transport_mode": "sitemap_page",
+      "quality_status": "no_current_items",
+      "item_count": 0,
+      "entry_count": 974,
+      "verified_timestamp_count": 12,
+      "eligible_timestamp_count": 0,
+      "timestamp_skips": {
+        "missing_timestamp": 0,
+        "invalid_timestamp": 0,
+        "future_timestamp": 0,
+        "outside_window": 12,
+        "conflicted_timestamp": 0,
+        "unverified_page": 0
+      },
+      "attempted_urls": [
+        "https://review.firstround.com/sitemap-posts.xml"
+      ],
+      "selected_url": "https://review.firstround.com/what-startups-get-wrong-about-enterprise-lindsey-scrase-coo-checkr/",
+      "latest_verified_published_at": "2026-07-30T11:00:00Z",
+      "freshness_sla_hours": 720,
+      "duration_ms": 9914,
+      "error": "",
+      "last_checked_at": "2026-08-05T05:49:44.768357Z",
       "next_review_at": ""
     },
     {
@@ -631,45 +667,9 @@
       "selected_url": "https://www.bain.com/rss-feed/",
       "latest_verified_published_at": "2026-08-03T17:00:00Z",
       "freshness_sla_hours": 720,
-      "duration_ms": 10060,
+      "duration_ms": 10115,
       "error": "",
-      "last_checked_at": "2026-08-05T02:40:09.196396Z",
-      "next_review_at": ""
-    },
-    {
-      "source_id": "latent_space",
-      "name": "Latent Space",
-      "lane": "ai_commercialization",
-      "capture_mode": "feed",
-      "ok": true,
-      "reachable": true,
-      "verified": true,
-      "fresh": true,
-      "current": true,
-      "transport_ok": true,
-      "transport_mode": "feed",
-      "quality_status": "verified_timestamp",
-      "item_count": 0,
-      "entry_count": 20,
-      "verified_timestamp_count": 20,
-      "eligible_timestamp_count": 3,
-      "timestamp_skips": {
-        "missing_timestamp": 0,
-        "invalid_timestamp": 0,
-        "future_timestamp": 0,
-        "outside_window": 17,
-        "conflicted_timestamp": 0,
-        "unverified_page": 0
-      },
-      "attempted_urls": [
-        "https://www.latent.space/feed"
-      ],
-      "selected_url": "https://www.latent.space/feed",
-      "latest_verified_published_at": "2026-08-05T01:21:47Z",
-      "freshness_sla_hours": 336,
-      "duration_ms": 1868,
-      "error": "",
-      "last_checked_at": "2026-08-05T02:40:09.196396Z",
+      "last_checked_at": "2026-08-05T05:49:44.768357Z",
       "next_review_at": ""
     },
     {
@@ -703,50 +703,14 @@
       "selected_url": "https://openai.com/news/rss.xml",
       "latest_verified_published_at": "2026-08-04T19:00:00Z",
       "freshness_sla_hours": 336,
-      "duration_ms": 1361,
+      "duration_ms": 1025,
       "error": "",
-      "last_checked_at": "2026-08-05T02:40:09.196396Z",
+      "last_checked_at": "2026-08-05T05:49:44.768357Z",
       "next_review_at": ""
     },
     {
-      "source_id": "first_round",
-      "name": "First Round Review",
-      "lane": "startup_vc",
-      "capture_mode": "sitemap",
-      "ok": true,
-      "reachable": true,
-      "verified": true,
-      "fresh": true,
-      "current": false,
-      "transport_ok": true,
-      "transport_mode": "sitemap_page",
-      "quality_status": "no_current_items",
-      "item_count": 0,
-      "entry_count": 974,
-      "verified_timestamp_count": 12,
-      "eligible_timestamp_count": 0,
-      "timestamp_skips": {
-        "missing_timestamp": 0,
-        "invalid_timestamp": 0,
-        "future_timestamp": 0,
-        "outside_window": 12,
-        "conflicted_timestamp": 0,
-        "unverified_page": 0
-      },
-      "attempted_urls": [
-        "https://review.firstround.com/sitemap-posts.xml"
-      ],
-      "selected_url": "https://review.firstround.com/what-startups-get-wrong-about-enterprise-lindsey-scrase-coo-checkr/",
-      "latest_verified_published_at": "2026-07-30T11:00:00Z",
-      "freshness_sla_hours": 720,
-      "duration_ms": 10586,
-      "error": "",
-      "last_checked_at": "2026-08-05T02:40:09.196396Z",
-      "next_review_at": ""
-    },
-    {
-      "source_id": "huggingface_blog",
-      "name": "Hugging Face Blog",
+      "source_id": "latent_space",
+      "name": "Latent Space",
       "lane": "ai_commercialization",
       "capture_mode": "feed",
       "ok": true,
@@ -758,26 +722,26 @@
       "transport_mode": "feed",
       "quality_status": "verified_timestamp",
       "item_count": 0,
-      "entry_count": 834,
-      "verified_timestamp_count": 30,
-      "eligible_timestamp_count": 1,
+      "entry_count": 20,
+      "verified_timestamp_count": 20,
+      "eligible_timestamp_count": 2,
       "timestamp_skips": {
         "missing_timestamp": 0,
         "invalid_timestamp": 0,
         "future_timestamp": 0,
-        "outside_window": 29,
+        "outside_window": 18,
         "conflicted_timestamp": 0,
         "unverified_page": 0
       },
       "attempted_urls": [
-        "https://huggingface.co/blog/feed.xml"
+        "https://www.latent.space/feed"
       ],
-      "selected_url": "https://huggingface.co/blog/feed.xml",
-      "latest_verified_published_at": "2026-08-04T13:58:29Z",
-      "freshness_sla_hours": 168,
-      "duration_ms": 621,
+      "selected_url": "https://www.latent.space/feed",
+      "latest_verified_published_at": "2026-08-05T01:21:47Z",
+      "freshness_sla_hours": 336,
+      "duration_ms": 1608,
       "error": "",
-      "last_checked_at": "2026-08-05T02:40:09.196396Z",
+      "last_checked_at": "2026-08-05T05:49:44.768357Z",
       "next_review_at": ""
     },
     {
@@ -811,9 +775,45 @@
       "selected_url": "https://github.blog/feed/",
       "latest_verified_published_at": "2026-08-04T19:02:34Z",
       "freshness_sla_hours": 168,
-      "duration_ms": 732,
+      "duration_ms": 1059,
       "error": "",
-      "last_checked_at": "2026-08-05T02:40:09.196396Z",
+      "last_checked_at": "2026-08-05T05:49:44.768357Z",
+      "next_review_at": ""
+    },
+    {
+      "source_id": "huggingface_blog",
+      "name": "Hugging Face Blog",
+      "lane": "ai_commercialization",
+      "capture_mode": "feed",
+      "ok": true,
+      "reachable": true,
+      "verified": true,
+      "fresh": true,
+      "current": true,
+      "transport_ok": true,
+      "transport_mode": "feed",
+      "quality_status": "verified_timestamp",
+      "item_count": 0,
+      "entry_count": 834,
+      "verified_timestamp_count": 30,
+      "eligible_timestamp_count": 1,
+      "timestamp_skips": {
+        "missing_timestamp": 0,
+        "invalid_timestamp": 0,
+        "future_timestamp": 0,
+        "outside_window": 29,
+        "conflicted_timestamp": 0,
+        "unverified_page": 0
+      },
+      "attempted_urls": [
+        "https://huggingface.co/blog/feed.xml"
+      ],
+      "selected_url": "https://huggingface.co/blog/feed.xml",
+      "latest_verified_published_at": "2026-08-04T13:58:29Z",
+      "freshness_sla_hours": 168,
+      "duration_ms": 858,
+      "error": "",
+      "last_checked_at": "2026-08-05T05:49:44.768357Z",
       "next_review_at": ""
     },
     {
@@ -847,9 +847,9 @@
       "selected_url": "https://www.anthropic.com/news/tino-cuellar",
       "latest_verified_published_at": "2026-08-04T17:02:00Z",
       "freshness_sla_hours": 336,
-      "duration_ms": 3702,
+      "duration_ms": 3808,
       "error": "",
-      "last_checked_at": "2026-08-05T02:40:09.196396Z",
+      "last_checked_at": "2026-08-05T05:49:44.768357Z",
       "next_review_at": ""
     },
     {
@@ -867,25 +867,25 @@
       "quality_status": "stale_source",
       "item_count": 0,
       "entry_count": 3263,
-      "verified_timestamp_count": 12,
+      "verified_timestamp_count": 11,
       "eligible_timestamp_count": 0,
       "timestamp_skips": {
         "missing_timestamp": 0,
         "invalid_timestamp": 0,
         "future_timestamp": 0,
-        "outside_window": 12,
+        "outside_window": 11,
         "conflicted_timestamp": 0,
-        "unverified_page": 0
+        "unverified_page": 1
       },
       "attempted_urls": [
         "https://www.starterstory.com/sitemap"
       ],
-      "selected_url": "https://www.starterstory.com/stories/stayfi",
-      "latest_verified_published_at": "2022-09-04T00:00:00Z",
+      "selected_url": "https://www.starterstory.com/stories/excelformulabot",
+      "latest_verified_published_at": "2023-11-13T00:00:00Z",
       "freshness_sla_hours": 336,
-      "duration_ms": 12412,
-      "error": "latest_verified_item_exceeds_source_sla",
-      "last_checked_at": "2026-08-05T02:40:09.196396Z",
+      "duration_ms": 14307,
+      "error": "latest_verified_item_exceeds_source_sla; https://www.starterstory.com/stories/starter-story-solopreneurs-report: publication_page_canonical_url_mismatch",
+      "last_checked_at": "2026-08-05T05:49:44.768357Z",
       "next_review_at": ""
     },
     {
@@ -916,12 +916,12 @@
       "attempted_urls": [
         "https://www.indiehackers.com/"
       ],
-      "selected_url": "https://www.indiehackers.com/post/your-product-doesnt-need-more-features-it-needs-more-questions-ffc7b7a8c6",
-      "latest_verified_published_at": "2026-08-04T13:45:05.081000Z",
+      "selected_url": "https://www.indiehackers.com/post/how-i-built-a-source-backed-uk-and-netherlands-financial-calculator-platform-b1f29e16af",
+      "latest_verified_published_at": "2026-08-04T10:06:21.660000Z",
       "freshness_sla_hours": 72,
-      "duration_ms": 17519,
+      "duration_ms": 17561,
       "error": "",
-      "last_checked_at": "2026-08-05T02:40:09.196396Z",
+      "last_checked_at": "2026-08-05T05:49:44.768357Z",
       "next_review_at": ""
     },
     {
@@ -955,9 +955,9 @@
       "selected_url": "",
       "latest_verified_published_at": "",
       "freshness_sla_hours": 720,
-      "duration_ms": 33250,
+      "duration_ms": 24137,
       "error": "entries_without_trustworthy_timestamp; https://www.bcg.com/publications/2026/the-artificial-intelligence-first-finance-function: publication_page_timestamp_conflict | https://www.bcg.com/publications/2024/the-ev-opportunity-for-fuel-retailers: publication_page_timestamp_conflict | https://www.bcg.com/publications/2026/the-ai-first-refiner-faster-decisions-better-margins: publication_page_timestamp_conflict | https://www.bcg.com/publications/2026/ceos-guide-to-closing-the-ai-knowledge-gap-with-your-board: publication_page_timestamp_conflict",
-      "last_checked_at": "2026-08-05T02:40:09.196396Z",
+      "last_checked_at": "2026-08-05T05:49:44.768357Z",
       "next_review_at": ""
     }
   ]
