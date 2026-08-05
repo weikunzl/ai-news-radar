@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T23:35:24.502615Z",
+  "generated_at": "2026-08-05T02:40:09.196396Z",
   "window_hours": 24,
   "items": [
     {
@@ -9,7 +9,7 @@
       "source_id": "cbinsights",
       "source_name": "CB Insights",
       "published_at": "2026-08-04T16:41:56Z",
-      "captured_at": "2026-08-04T23:35:24.502615Z",
+      "captured_at": "2026-08-05T02:40:09.196396Z",
       "lane": "startup_vc",
       "entities": [
         "CB Insights",
@@ -47,7 +47,7 @@
       "source_id": "cbinsights",
       "source_name": "CB Insights",
       "published_at": "2026-08-04T16:27:49Z",
-      "captured_at": "2026-08-04T23:35:24.502615Z",
+      "captured_at": "2026-08-05T02:40:09.196396Z",
       "lane": "startup_vc",
       "entities": [
         "CB Insights",
@@ -84,7 +84,7 @@
       "source_id": "cbinsights",
       "source_name": "CB Insights",
       "published_at": "2026-08-04T16:14:05Z",
-      "captured_at": "2026-08-04T23:35:24.502615Z",
+      "captured_at": "2026-08-05T02:40:09.196396Z",
       "lane": "startup_vc",
       "entities": [
         "CB Insights",
@@ -121,7 +121,7 @@
       "source_id": "github_blog",
       "source_name": "GitHub Blog",
       "published_at": "2026-08-04T19:02:34Z",
-      "captured_at": "2026-08-04T23:35:24.502615Z",
+      "captured_at": "2026-08-05T02:40:09.196396Z",
       "lane": "ai_commercialization",
       "entities": [
         "GitHub Blog",
@@ -159,7 +159,7 @@
       "source_id": "hbr",
       "source_name": "Harvard Business Review",
       "published_at": "2026-08-04T12:25:24Z",
-      "captured_at": "2026-08-04T23:35:24.502615Z",
+      "captured_at": "2026-08-05T02:40:09.196396Z",
       "lane": "authority",
       "entities": [
         "Harvard Business Review",
@@ -190,47 +190,13 @@
       "transport_mode": "feed"
     },
     {
-      "signal_id": "biz_5a25189f389e",
-      "title": "I shipped 16 tiny browser tools for freelancers and creators ($7–$9, zero hosting cost)",
-      "url": "https://www.indiehackers.com/post/i-shipped-16-tiny-browser-tools-for-freelancers-and-creators-7-9-zero-hosting-cost-49be195a37",
-      "source_id": "indie_hackers",
-      "source_name": "Indie Hackers",
-      "published_at": "2026-08-04T19:12:51.060000Z",
-      "captured_at": "2026-08-04T23:35:24.502615Z",
-      "lane": "opc",
-      "entities": [
-        "Indie Hackers"
-      ],
-      "business_model_tags": [
-        "OPC"
-      ],
-      "yuanli_tags": [
-        "yuanli_startup"
-      ],
-      "opc_fit_score": 11,
-      "case_concreteness_score": 4,
-      "total_score": 39,
-      "score_breakdown": {
-        "source_authority": 16,
-        "yuanli_relevance": 0,
-        "business_model_value": 0,
-        "case_concreteness": 4,
-        "opc_fit": 11,
-        "freshness": 8,
-        "counter_signal_value": 0
-      },
-      "summary": "I shipped 16 tiny browser tools for freelancers and creators ($7–$9, zero hosting cost) Tags: OPC.",
-      "timestamp_basis": "page_structured_time",
-      "transport_mode": "page_detail"
-    },
-    {
       "signal_id": "biz_5044319f695b",
       "title": "AI Got Good at Language. Now It’s Learning the Language of Life. (Eric Nguyen, Co-Founder and CEO of Radical Numerics)",
       "url": "https://www.generalist.com/p/ai-got-good-at-language-now-its-learning",
       "source_id": "generalist",
       "source_name": "The Generalist",
       "published_at": "2026-08-04T12:03:37Z",
-      "captured_at": "2026-08-04T23:35:24.502615Z",
+      "captured_at": "2026-08-05T02:40:09.196396Z",
       "lane": "startup_vc",
       "entities": [
         "The Generalist",
@@ -269,7 +235,7 @@
       "source_id": "github_blog",
       "source_name": "GitHub Blog",
       "published_at": "2026-08-04T16:47:18Z",
-      "captured_at": "2026-08-04T23:35:24.502615Z",
+      "captured_at": "2026-08-05T02:40:09.196396Z",
       "lane": "ai_commercialization",
       "entities": [
         "GitHub Blog",
@@ -299,13 +265,49 @@
       "transport_mode": "feed"
     },
     {
+      "signal_id": "biz_94ba1b78d7d8",
+      "title": "4 SEC Form D filings this week ($753M combined) — a free B2B buying-intent signal most people ignore",
+      "url": "https://www.indiehackers.com/post/4-sec-form-d-filings-this-week-753m-combined-a-free-b2b-buying-intent-signal-most-people-ignore-e6d19e116c",
+      "source_id": "indie_hackers",
+      "source_name": "Indie Hackers",
+      "published_at": "2026-08-04T13:45:05.081000Z",
+      "captured_at": "2026-08-05T02:40:09.196396Z",
+      "lane": "opc",
+      "entities": [
+        "Indie Hackers",
+        "SEC Form D",
+        "B2B"
+      ],
+      "business_model_tags": [
+        "OPC"
+      ],
+      "yuanli_tags": [
+        "yuanli_startup"
+      ],
+      "opc_fit_score": 5,
+      "case_concreteness_score": 4,
+      "total_score": 32,
+      "score_breakdown": {
+        "source_authority": 16,
+        "yuanli_relevance": 0,
+        "business_model_value": 0,
+        "case_concreteness": 4,
+        "opc_fit": 5,
+        "freshness": 7,
+        "counter_signal_value": 0
+      },
+      "summary": "4 SEC Form D filings this week ($753M combined) — a free B2B buying-intent signal most people ignore Tags: OPC.",
+      "timestamp_basis": "page_structured_time",
+      "transport_mode": "page_detail"
+    },
+    {
       "signal_id": "biz_da2267135769",
       "title": "The Elusiveness of Merit-Based Hiring",
       "url": "https://sloanreview.mit.edu/article/the-elusiveness-of-merit-based-hiring/",
       "source_id": "mit_smr",
       "source_name": "MIT Sloan Management Review",
       "published_at": "2026-08-04T11:00:00Z",
-      "captured_at": "2026-08-04T23:35:24.502615Z",
+      "captured_at": "2026-08-05T02:40:09.196396Z",
       "lane": "authority",
       "entities": [
         "MIT Sloan Management Review",
