@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T17:00:43.268166Z",
+  "generated_at": "2026-08-07T17:56:18.495202Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -114,15 +114,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.8682,
-      "importance": 0.8682,
-      "importance_score": 0.8682,
+      "score": 0.8662,
+      "importance": 0.8662,
+      "importance_score": 0.8662,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8533,
+        "recency": 0.842,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -139,6 +139,68 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzU1NzI5NQ%3D%3D&mid=2247543416&idx=1&sn=badeafc780a939033a1e4cb0bba4221c",
         "source": "公众号：火山引擎",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_fd5b733b3580",
+      "title": "TutorMoments：人工智能导师知道什么时候该帮忙，什么时候该阻止吗？ / TutorMoments: Do AI tutors know when to help and when to hold back?",
+      "url": "https://huggingface.co/blog/allenai/tutormoments",
+      "primary_url": "https://huggingface.co/blog/allenai/tutormoments",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "99d393e8e93ddbc7c75db81d11dde4db00583792",
+          "title": "TutorMoments：人工智能导师知道什么时候该帮忙，什么时候该阻止吗？ / TutorMoments: Do AI tutors know when to help and when to hold back?",
+          "url": "https://huggingface.co/blog/allenai/tutormoments",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-07T17:53:32Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "99d393e8e93ddbc7c75db81d11dde4db00583792",
+          "title": "TutorMoments：人工智能导师知道什么时候该帮忙，什么时候该阻止吗？ / TutorMoments: Do AI tutors know when to help and when to hold back?",
+          "url": "https://huggingface.co/blog/allenai/tutormoments",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-07T17:53:32Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8599,
+      "importance": 0.8599,
+      "importance_score": 0.8599,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9993,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-07T17:53:32Z",
+      "latest_at": "2026-08-07T17:53:32Z",
+      "primary_item": {
+        "id": "99d393e8e93ddbc7c75db81d11dde4db00583792",
+        "title": "TutorMoments：人工智能导师知道什么时候该帮忙，什么时候该阻止吗？ / TutorMoments: Do AI tutors know when to help and when to hold back?",
+        "url": "https://huggingface.co/blog/allenai/tutormoments",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -176,15 +238,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8477,
-      "importance": 0.8477,
-      "importance_score": 0.8477,
+      "score": 0.8454,
+      "importance": 0.8454,
+      "importance_score": 0.8454,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9761,
+        "recency": 0.9631,
         "story_heat": 0.0
       },
       "category": "official",
@@ -238,15 +300,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8472,
-      "importance": 0.8472,
-      "importance_score": 0.8472,
+      "score": 0.8448,
+      "importance": 0.8448,
+      "importance_score": 0.8448,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9731,
+        "recency": 0.9602,
         "story_heat": 0.0
       },
       "category": "official",
@@ -319,15 +381,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8296,
-      "importance": 0.8296,
-      "importance_score": 0.8296,
+      "score": 0.8278,
+      "importance": 0.8278,
+      "importance_score": 0.8278,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7364,
+        "recency": 0.7266,
         "story_heat": 0.25
       },
       "category": "official",
@@ -382,15 +444,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8268,
-      "importance": 0.8268,
-      "importance_score": 0.8268,
+      "score": 0.8249,
+      "importance": 0.8249,
+      "importance_score": 0.8249,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7822,
+        "recency": 0.7718,
         "story_heat": 0.0
       },
       "category": "official",
@@ -406,6 +468,68 @@
         "title": "法典 CLI 0.147.0 / Codex CLI 0.147.0",
         "url": "https://developers.openai.com/codex/changelog",
         "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_523078d0c9f7",
+      "title": "秘密扫描覆盖范围更新 / Secret scanning coverage updates",
+      "url": "https://github.blog/changelog/2026-08-07-secret-scanning-coverage-updates",
+      "primary_url": "https://github.blog/changelog/2026-08-07-secret-scanning-coverage-updates",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b5d8a8e5237471c703d93ae059c1c7c73a2a2266",
+          "title": "秘密扫描覆盖范围更新 / Secret scanning coverage updates",
+          "url": "https://github.blog/changelog/2026-08-07-secret-scanning-coverage-updates",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-07T16:54:47Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "b5d8a8e5237471c703d93ae059c1c7c73a2a2266",
+          "title": "秘密扫描覆盖范围更新 / Secret scanning coverage updates",
+          "url": "https://github.blog/changelog/2026-08-07-secret-scanning-coverage-updates",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-07T16:54:47Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8414,
+      "importance": 0.8414,
+      "importance_score": 0.8414,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9853,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-07T16:54:47Z",
+      "latest_at": "2026-08-07T16:54:47Z",
+      "primary_item": {
+        "id": "b5d8a8e5237471c703d93ae059c1c7c73a2a2266",
+        "title": "秘密扫描覆盖范围更新 / Secret scanning coverage updates",
+        "url": "https://github.blog/changelog/2026-08-07-secret-scanning-coverage-updates",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -444,15 +568,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8323,
-      "importance": 0.8323,
-      "importance_score": 0.8323,
+      "score": 0.8302,
+      "importance": 0.8302,
+      "importance_score": 0.8302,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8907,
+        "recency": 0.8789,
         "story_heat": 0.0
       },
       "category": "official",
@@ -469,106 +593,6 @@
         "url": "https://openai.com/index/hsp-gruppe",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_0f0c1961f93e",
-      "title": "OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限",
-      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-      "primary_url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f71ed3ff4eb803dbb4d165a443499c1ef51cabb7",
-          "title": "OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限",
-          "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-06T23:01:28.628000Z"
-        },
-        {
-          "id": "55069910b2b7c6cbbd5a1bfea11d6b412a3b7095",
-          "title": "优化 ChatGPT 中的 GPT‑5.6 Sol，并扩大免费用户对 GPT‑5.6 Luna 的访问权限",
-          "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-06T23:01:28.628000Z"
-        },
-        {
-          "id": "006698dd9d730d1e3a747fe3a98049a45f8b2803",
-          "title": "OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限 / Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
-          "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-06T17:02:04Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "openai.com"
-      ],
-      "items": [
-        {
-          "id": "f71ed3ff4eb803dbb4d165a443499c1ef51cabb7",
-          "title": "OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限",
-          "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-06T23:01:28.628000Z"
-        },
-        {
-          "id": "55069910b2b7c6cbbd5a1bfea11d6b412a3b7095",
-          "title": "优化 ChatGPT 中的 GPT‑5.6 Sol，并扩大免费用户对 GPT‑5.6 Luna 的访问权限",
-          "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-06T23:01:28.628000Z"
-        },
-        {
-          "id": "006698dd9d730d1e3a747fe3a98049a45f8b2803",
-          "title": "OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限 / Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
-          "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-06T17:02:04Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.7824,
-      "importance": 0.7824,
-      "importance_score": 0.7824,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7712,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-06T17:02:04Z",
-      "latest_at": "2026-08-06T23:01:28.628000Z",
-      "primary_item": {
-        "id": "f71ed3ff4eb803dbb4d165a443499c1ef51cabb7",
-        "title": "OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限",
-        "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -625,15 +649,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7821,
-      "importance": 0.7821,
-      "importance_score": 0.7821,
+      "score": 0.7798,
+      "importance": 0.7798,
+      "importance_score": 0.7798,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9417,
+        "recency": 0.9291,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -649,6 +673,209 @@
         "title": "斯坦福与 Arc Institute 用 AI 设计全新病毒基因组，16 种在实验室成功杀死细菌",
         "url": "https://the-decoder.com/stanford-and-arc-institute-scientists-used-ai-to-design-new-viruses-that-killed-bacteria-in-the-lab",
         "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_5f60034b7e7a",
+      "title": "HPC-Ops × SGLang：腾讯混元开源高性能 Attention、Router GEMM 与 MoE 算子",
+      "url": "https://www.lmsys.org/blog/2026-08-07-hpc-ops-sglang",
+      "primary_url": "https://www.lmsys.org/blog/2026-08-07-hpc-ops-sglang",
+      "source": "LMSYS：Blog（Chatbot Arena 团队）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "0052276302c8e454bcddbd473a258cc0a8cd7e50",
+          "title": "HPC-Ops × SGLang：腾讯混元开源高性能 Attention、Router GEMM 与 MoE 算子",
+          "url": "https://www.lmsys.org/blog/2026-08-07-hpc-ops-sglang",
+          "source": "LMSYS：Blog（Chatbot Arena 团队）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-07T17:51:24.888000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "LMSYS：Blog（Chatbot Arena 团队）"
+      ],
+      "items": [
+        {
+          "id": "0052276302c8e454bcddbd473a258cc0a8cd7e50",
+          "title": "HPC-Ops × SGLang：腾讯混元开源高性能 Attention、Router GEMM 与 MoE 算子",
+          "url": "https://www.lmsys.org/blog/2026-08-07-hpc-ops-sglang",
+          "source": "LMSYS：Blog（Chatbot Arena 团队）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-07T17:51:24.888000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7794,
+      "importance": 0.7794,
+      "importance_score": 0.7794,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9988,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-07T17:51:24.888000Z",
+      "latest_at": "2026-08-07T17:51:24.888000Z",
+      "primary_item": {
+        "id": "0052276302c8e454bcddbd473a258cc0a8cd7e50",
+        "title": "HPC-Ops × SGLang：腾讯混元开源高性能 Attention、Router GEMM 与 MoE 算子",
+        "url": "https://www.lmsys.org/blog/2026-08-07-hpc-ops-sglang",
+        "source": "LMSYS：Blog（Chatbot Arena 团队）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_38e74641f6c3",
+      "title": "Runway 上线 Seedance 2.5，支持 50 个角色参考",
+      "url": "https://x.com/runwayml/status/2085684483366523193",
+      "primary_url": "https://x.com/runwayml/status/2085684483366523193",
+      "source": "X：Runway (@runwayml)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "28c93cc8846354121274c053b5fea471b8ee8c99",
+          "title": "Runway 上线 Seedance 2.5，支持 50 个角色参考",
+          "url": "https://x.com/runwayml/status/2085684483366523193",
+          "source": "X：Runway (@runwayml)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-07T11:08:25Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Runway (@runwayml)"
+      ],
+      "items": [
+        {
+          "id": "28c93cc8846354121274c053b5fea471b8ee8c99",
+          "title": "Runway 上线 Seedance 2.5，支持 50 个角色参考",
+          "url": "https://x.com/runwayml/status/2085684483366523193",
+          "source": "X：Runway (@runwayml)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-07T11:08:25Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7598,
+      "importance": 0.7598,
+      "importance_score": 0.7598,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9065,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-07T11:08:25Z",
+      "latest_at": "2026-08-07T11:08:25Z",
+      "primary_item": {
+        "id": "28c93cc8846354121274c053b5fea471b8ee8c99",
+        "title": "Runway 上线 Seedance 2.5，支持 50 个角色参考",
+        "url": "https://x.com/runwayml/status/2085684483366523193",
+        "source": "X：Runway (@runwayml)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_0f0c1961f93e",
+      "title": "OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限",
+      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+      "primary_url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f71ed3ff4eb803dbb4d165a443499c1ef51cabb7",
+          "title": "OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限",
+          "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-06T23:01:28.628000Z"
+        },
+        {
+          "id": "55069910b2b7c6cbbd5a1bfea11d6b412a3b7095",
+          "title": "优化 ChatGPT 中的 GPT‑5.6 Sol，并扩大免费用户对 GPT‑5.6 Luna 的访问权限",
+          "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-06T23:01:28.628000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "openai.com"
+      ],
+      "items": [
+        {
+          "id": "f71ed3ff4eb803dbb4d165a443499c1ef51cabb7",
+          "title": "OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限",
+          "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-06T23:01:28.628000Z"
+        },
+        {
+          "id": "55069910b2b7c6cbbd5a1bfea11d6b412a3b7095",
+          "title": "优化 ChatGPT 中的 GPT‑5.6 Sol，并扩大免费用户对 GPT‑5.6 Luna 的访问权限",
+          "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-06T23:01:28.628000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7556,
+      "importance": 0.7556,
+      "importance_score": 0.7556,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.761,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-06T23:01:28.628000Z",
+      "latest_at": "2026-08-06T23:01:28.628000Z",
+      "primary_item": {
+        "id": "f71ed3ff4eb803dbb4d165a443499c1ef51cabb7",
+        "title": "OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限",
+        "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -687,15 +914,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8043,
-      "importance": 0.8043,
-      "importance_score": 0.8043,
+      "score": 0.8025,
+      "importance": 0.8025,
+      "importance_score": 0.8025,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7796,
+        "recency": 0.7692,
         "story_heat": 0.0
       },
       "category": "official",
@@ -712,67 +939,6 @@
         "url": "https://github.blog/changelog/2026-08-06-set-pull-request-limits-at-the-organization-level",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_38e74641f6c3",
-      "title": "Runway 上线 Seedance 2.5，支持 50 个角色参考",
-      "url": "https://x.com/runwayml/status/2085684483366523193",
-      "primary_url": "https://x.com/runwayml/status/2085684483366523193",
-      "source": "X：Runway (@runwayml)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "28c93cc8846354121274c053b5fea471b8ee8c99",
-          "title": "Runway 上线 Seedance 2.5，支持 50 个角色参考",
-          "url": "https://x.com/runwayml/status/2085684483366523193",
-          "source": "X：Runway (@runwayml)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T11:08:25Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Runway (@runwayml)"
-      ],
-      "items": [
-        {
-          "id": "28c93cc8846354121274c053b5fea471b8ee8c99",
-          "title": "Runway 上线 Seedance 2.5，支持 50 个角色参考",
-          "url": "https://x.com/runwayml/status/2085684483366523193",
-          "source": "X：Runway (@runwayml)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T11:08:25Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.762,
-      "importance": 0.762,
-      "importance_score": 0.762,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9187,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-07T11:08:25Z",
-      "latest_at": "2026-08-07T11:08:25Z",
-      "primary_item": {
-        "id": "28c93cc8846354121274c053b5fea471b8ee8c99",
-        "title": "Runway 上线 Seedance 2.5，支持 50 个角色参考",
-        "url": "https://x.com/runwayml/status/2085684483366523193",
-        "source": "X：Runway (@runwayml)",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -810,15 +976,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7445,
-      "importance": 0.7445,
-      "importance_score": 0.7445,
+      "score": 0.7424,
+      "importance": 0.7424,
+      "importance_score": 0.7424,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8717,
+        "recency": 0.8601,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -833,68 +999,6 @@
         "url": "https://x.com/krea_ai/status/2085629541385736662",
         "source": "X：Krea AI (@krea_ai)",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_2b2f00c5abe1",
-      "title": "Kimi K3 现已在 GitHub Copilot 中提供 / Kimi K3 is now available in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-08-06-kimi-k3-is-now-available-in-github-copilot",
-      "primary_url": "https://github.blog/changelog/2026-08-06-kimi-k3-is-now-available-in-github-copilot",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "c855fc44324bb924734d7afac3b08a717102aa19",
-          "title": "Kimi K3 现已在 GitHub Copilot 中提供 / Kimi K3 is now available in GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-08-06-kimi-k3-is-now-available-in-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-06T17:27:25Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "c855fc44324bb924734d7afac3b08a717102aa19",
-          "title": "Kimi K3 现已在 GitHub Copilot 中提供 / Kimi K3 is now available in GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-08-06-kimi-k3-is-now-available-in-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-06T17:27:25Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8001,
-      "importance": 0.8001,
-      "importance_score": 0.8001,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7117,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-06T17:27:25Z",
-      "latest_at": "2026-08-06T17:27:25Z",
-      "primary_item": {
-        "id": "c855fc44324bb924734d7afac3b08a717102aa19",
-        "title": "Kimi K3 现已在 GitHub Copilot 中提供 / Kimi K3 is now available in GitHub Copilot",
-        "url": "https://github.blog/changelog/2026-08-06-kimi-k3-is-now-available-in-github-copilot",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -932,15 +1036,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7395,
-      "importance": 0.7395,
-      "importance_score": 0.7395,
+      "score": 0.7372,
+      "importance": 0.7372,
+      "importance_score": 0.7372,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9607,
+        "recency": 0.9479,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -992,15 +1096,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7385,
-      "importance": 0.7385,
-      "importance_score": 0.7385,
+      "score": 0.7365,
+      "importance": 0.7365,
+      "importance_score": 0.7365,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8552,
+        "recency": 0.8439,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1014,6 +1118,66 @@
         "title": "谷歌推出 WeatherNext 气旋模型，AI 高精度预报飓风平均提前 24 小时",
         "url": "https://www.ithome.com/0/986/951.htm",
         "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_d7eea6b4346d",
+      "title": "LangChain 推出 Managed Deep Agents 公开测试版",
+      "url": "https://www.langchain.com/blog/managed-deep-agents-is-now-in-public-beta",
+      "primary_url": "https://www.langchain.com/blog/managed-deep-agents-is-now-in-public-beta",
+      "source": "LangChain：Blog（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b2989e5bf2559b4e29811f6332ccb450081ec694",
+          "title": "LangChain 推出 Managed Deep Agents 公开测试版",
+          "url": "https://www.langchain.com/blog/managed-deep-agents-is-now-in-public-beta",
+          "source": "LangChain：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-07T17:24:06Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "LangChain：Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "b2989e5bf2559b4e29811f6332ccb450081ec694",
+          "title": "LangChain 推出 Managed Deep Agents 公开测试版",
+          "url": "https://www.langchain.com/blog/managed-deep-agents-is-now-in-public-beta",
+          "source": "LangChain：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-07T17:24:06Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7362,
+      "importance": 0.7362,
+      "importance_score": 0.7362,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.62,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9923,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-07T17:24:06Z",
+      "latest_at": "2026-08-07T17:24:06Z",
+      "primary_item": {
+        "id": "b2989e5bf2559b4e29811f6332ccb450081ec694",
+        "title": "LangChain 推出 Managed Deep Agents 公开测试版",
+        "url": "https://www.langchain.com/blog/managed-deep-agents-is-now-in-public-beta",
+        "source": "LangChain：Blog（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -1052,15 +1216,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7315,
-      "importance": 0.7315,
-      "importance_score": 0.7315,
+      "score": 0.7297,
+      "importance": 0.7297,
+      "importance_score": 0.7297,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7326,
+        "recency": 0.7228,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1112,15 +1276,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7362,
-      "importance": 0.7362,
-      "importance_score": 0.7362,
+      "score": 0.7342,
+      "importance": 0.7342,
+      "importance_score": 0.7342,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8589,
+        "recency": 0.8475,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1191,15 +1355,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6195,
-      "importance": 0.6195,
-      "importance_score": 0.6195,
+      "score": 0.6176,
+      "importance": 0.6176,
+      "importance_score": 0.6176,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5688,
         "source_tier": 0.58,
         "ai_relevance": 0.79,
-        "recency": 0.768,
+        "recency": 0.7578,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1214,299 +1378,6 @@
         "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400",
         "source": "TechCrunch AI",
         "source_name": "Curated Media"
-      }
-    },
-    {
-      "story_id": "story_6b2f781c6313",
-      "title": "从App容器到Agent调度中心：荣耀YOYO智能体平台的架构演进与技术实践｜AICon深圳",
-      "url": "https://www.infoq.cn/article/2vgS2FNle83YQZrLvxSF",
-      "primary_url": "https://www.infoq.cn/article/2vgS2FNle83YQZrLvxSF",
-      "source": "InfoQ CN",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "7beafae7f6f16d7a54fe4948082f12006d3509a3",
-          "title": "从App容器到Agent调度中心：荣耀YOYO智能体平台的架构演进与技术实践｜AICon深圳",
-          "url": "https://www.infoq.cn/article/2vgS2FNle83YQZrLvxSF",
-          "source": "InfoQ CN",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-07T10:00:00Z"
-        },
-        {
-          "id": "c49d9f595854dd16a60173817d99b99e3240c788",
-          "title": "荣耀 YOYO 智能体的产品化实践｜AICon深圳",
-          "url": "https://www.infoq.cn/article/2vgS2FNle83YQZrLvxSF",
-          "source": "InfoQ CN",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-07T10:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "InfoQ CN"
-      ],
-      "items": [
-        {
-          "id": "7beafae7f6f16d7a54fe4948082f12006d3509a3",
-          "title": "从App容器到Agent调度中心：荣耀YOYO智能体平台的架构演进与技术实践｜AICon深圳",
-          "url": "https://www.infoq.cn/article/2vgS2FNle83YQZrLvxSF",
-          "source": "InfoQ CN",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-07T10:00:00Z"
-        },
-        {
-          "id": "c49d9f595854dd16a60173817d99b99e3240c788",
-          "title": "荣耀 YOYO 智能体的产品化实践｜AICon深圳",
-          "url": "https://www.infoq.cn/article/2vgS2FNle83YQZrLvxSF",
-          "source": "InfoQ CN",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-07T10:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6055,
-      "importance": 0.6055,
-      "importance_score": 0.6055,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5328,
-        "source_tier": 0.5,
-        "ai_relevance": 0.74,
-        "recency": 0.9037,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-07T10:00:00Z",
-      "latest_at": "2026-08-07T10:00:00Z",
-      "primary_item": {
-        "id": "7beafae7f6f16d7a54fe4948082f12006d3509a3",
-        "title": "从App容器到Agent调度中心：荣耀YOYO智能体平台的架构演进与技术实践｜AICon深圳",
-        "url": "https://www.infoq.cn/article/2vgS2FNle83YQZrLvxSF",
-        "source": "InfoQ CN",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_d8863932dcdd",
-      "title": "vLLM 内部解析：高吞吐量大型语言模型推理系统的架构（2025）",
-      "url": "https://www.aleksagordic.com/blog/vllm",
-      "primary_url": "https://www.aleksagordic.com/blog/vllm",
-      "source": "www.aleksagordic.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "c3c08f2a701a95bdba5dea5cf9ca8cff6d21ccc4",
-          "title": "vLLM 内部解析：高吞吐量大型语言模型推理系统的架构（2025）",
-          "url": "https://www.aleksagordic.com/blog/vllm",
-          "source": "www.aleksagordic.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-07T08:47:19.454000Z"
-        },
-        {
-          "id": "d253261d73a4658ccf3fba5698e02dcb4b7a060b",
-          "title": "vLLM 内部：高通量 LLM 推理系统剖析 (2025) / Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
-          "url": "https://news.ycombinator.com/item?id=49202852",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-07T00:28:19.983000Z"
-        },
-        {
-          "id": "0ce169501879e66071894be126738f1f19b68e13",
-          "title": "vLLM 内部解析：高吞吐量大型语言模型推理系统的架构（2025） / Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
-          "url": "https://www.aleksagordic.com/blog/vllm",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-06T21:30:21Z"
-        },
-        {
-          "id": "6dea45ebf090828099dbf31060c5d061a0178462",
-          "title": "vLLM 内部解析：高吞吐量大型语言模型推理系统的架构（2025） / vLLM: Anatomy of a High-Throughput LLM Inference System",
-          "url": "https://www.aleksagordic.com/blog/vllm",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-06T21:30:21Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News",
-        "Hacker News · 24h最热",
-        "hackernews",
-        "www.aleksagordic.com"
-      ],
-      "items": [
-        {
-          "id": "c3c08f2a701a95bdba5dea5cf9ca8cff6d21ccc4",
-          "title": "vLLM 内部解析：高吞吐量大型语言模型推理系统的架构（2025）",
-          "url": "https://www.aleksagordic.com/blog/vllm",
-          "source": "www.aleksagordic.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-07T08:47:19.454000Z"
-        },
-        {
-          "id": "d253261d73a4658ccf3fba5698e02dcb4b7a060b",
-          "title": "vLLM 内部：高通量 LLM 推理系统剖析 (2025) / Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
-          "url": "https://news.ycombinator.com/item?id=49202852",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-07T00:28:19.983000Z"
-        },
-        {
-          "id": "0ce169501879e66071894be126738f1f19b68e13",
-          "title": "vLLM 内部解析：高吞吐量大型语言模型推理系统的架构（2025） / Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
-          "url": "https://www.aleksagordic.com/blog/vllm",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-06T21:30:21Z"
-        },
-        {
-          "id": "6dea45ebf090828099dbf31060c5d061a0178462",
-          "title": "vLLM 内部解析：高吞吐量大型语言模型推理系统的架构（2025） / vLLM: Anatomy of a High-Throughput LLM Inference System",
-          "url": "https://www.aleksagordic.com/blog/vllm",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-06T21:30:21Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.5756,
-      "importance": 0.5756,
-      "importance_score": 0.5756,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.888,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-06T21:30:21Z",
-      "latest_at": "2026-08-07T08:47:19.454000Z",
-      "primary_item": {
-        "id": "c3c08f2a701a95bdba5dea5cf9ca8cff6d21ccc4",
-        "title": "vLLM 内部解析：高吞吐量大型语言模型推理系统的架构（2025）",
-        "url": "https://www.aleksagordic.com/blog/vllm",
-        "source": "www.aleksagordic.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_ff8286a62969",
-      "title": "AI精神错乱是领导层面临的新盲点",
-      "url": "https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots",
-      "primary_url": "https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots",
-      "source": "www.fastcompany.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "8cd653625f03c95ec14be5461857a070e16774d6",
-          "title": "AI精神错乱是领导层面临的新盲点",
-          "url": "https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots",
-          "source": "www.fastcompany.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-07T14:54:52.874000Z"
-        },
-        {
-          "id": "9d7eca5e34f3da2a4daf1777b04b03672ebbeb90",
-          "title": "人工智能精神病是新的领导盲点 / AI psychosis is the new leadership blind spot",
-          "url": "https://news.ycombinator.com/item?id=49210077",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-07T14:34:26.598000Z"
-        },
-        {
-          "id": "afaeb7ec0aad12fb08472bf90e26108cc3ab934e",
-          "title": "AI精神错乱是领导层面临的新盲点 / AI psychosis is the new leadership blind spot",
-          "url": "https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-07T13:27:30Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "hackernews",
-        "www.fastcompany.com"
-      ],
-      "items": [
-        {
-          "id": "8cd653625f03c95ec14be5461857a070e16774d6",
-          "title": "AI精神错乱是领导层面临的新盲点",
-          "url": "https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots",
-          "source": "www.fastcompany.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-07T14:54:52.874000Z"
-        },
-        {
-          "id": "9d7eca5e34f3da2a4daf1777b04b03672ebbeb90",
-          "title": "人工智能精神病是新的领导盲点 / AI psychosis is the new leadership blind spot",
-          "url": "https://news.ycombinator.com/item?id=49210077",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-07T14:34:26.598000Z"
-        },
-        {
-          "id": "afaeb7ec0aad12fb08472bf90e26108cc3ab934e",
-          "title": "AI精神错乱是领导层面临的新盲点 / AI psychosis is the new leadership blind spot",
-          "url": "https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-07T13:27:30Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5654,
-      "importance": 0.5654,
-      "importance_score": 0.5654,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9702,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-07T13:27:30Z",
-      "latest_at": "2026-08-07T14:54:52.874000Z",
-      "primary_item": {
-        "id": "8cd653625f03c95ec14be5461857a070e16774d6",
-        "title": "AI精神错乱是领导层面临的新盲点",
-        "url": "https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots",
-        "source": "www.fastcompany.com",
-        "source_name": "Buzzing"
       }
     }
   ]
