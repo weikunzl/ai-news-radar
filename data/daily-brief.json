@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T05:44:45.985530Z",
+  "generated_at": "2026-08-08T06:56:45.795098Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8432,
-      "importance": 0.8432,
-      "importance_score": 0.8432,
+      "score": 0.8407,
+      "importance": 0.8407,
+      "importance_score": 0.8407,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8121,
+        "recency": 0.7982,
         "story_heat": 0.25
       },
       "category": "official",
@@ -120,15 +120,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8359,
-      "importance": 0.8359,
-      "importance_score": 0.8359,
+      "score": 0.8331,
+      "importance": 0.8331,
+      "importance_score": 0.8331,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9107,
+        "recency": 0.895,
         "story_heat": 0.0
       },
       "category": "official",
@@ -182,15 +182,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8317,
-      "importance": 0.8317,
-      "importance_score": 0.8317,
+      "score": 0.8291,
+      "importance": 0.8291,
+      "importance_score": 0.8291,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8427,
+        "recency": 0.8282,
         "story_heat": 0.0
       },
       "category": "official",
@@ -207,125 +207,6 @@
         "url": "https://huggingface.co/blog/allenai/tutormoments",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_6cbde97d8260",
-      "title": "Seedance 2.5 API上线，视频生成开启「电影级长叙事」",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzU1NzI5NQ%3D%3D&mid=2247543416&idx=1&sn=badeafc780a939033a1e4cb0bba4221c",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzI0NzU1NzI5NQ%3D%3D&mid=2247543416&idx=1&sn=badeafc780a939033a1e4cb0bba4221c",
-      "source": "公众号：火山引擎",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "328b7ffe55b75e17b1c3672f7372d5a7cf947fb8",
-          "title": "蚂蚁百灵开源 Ling-3.0-flash：124B 总参数 MoE 模型，支持 API、单机与高性能三种部署",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247487457&idx=1&sn=24ad4a355d81291e53fbe680ca987112",
-          "source": "公众号：蚂蚁百灵（Ling）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T12:02:16Z"
-        },
-        {
-          "id": "c2e0ad32857b9ad4cff6e70f1c62a42bd11ea88a",
-          "title": "小红书联合浙大、复旦提出 CULTURE-MT：首个面向社媒翻译的「文化有效性」评测基准，入选 ICML 2026",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496008&idx=1&sn=08f2ce717483f63bc00a2181e59e3f40",
-          "source": "公众号：小红书技术（dots.llm）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T09:59:00Z"
-        },
-        {
-          "id": "4308e87bf2f6e7113425e138acd3b37426bbd145",
-          "title": "独立开发者用 VoxCPM 克隆网红声音，让 AI 终于\"会聊天\"了",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247498927&idx=1&sn=c5fbfaac5ede8b1008d17337a1bdc70b",
-          "source": "公众号：面壁智能（MiniCPM）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T06:41:21Z"
-        },
-        {
-          "id": "87b09f41ca563f02768c82cc2557933ed9f775dd",
-          "title": "Seedance 2.5 API上线，视频生成开启「电影级长叙事」",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzU1NzI5NQ%3D%3D&mid=2247543416&idx=1&sn=badeafc780a939033a1e4cb0bba4221c",
-          "source": "公众号：火山引擎",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T06:01:45Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "公众号：小红书技术（dots.llm）",
-        "公众号：火山引擎",
-        "公众号：蚂蚁百灵（Ling）",
-        "公众号：面壁智能（MiniCPM）"
-      ],
-      "items": [
-        {
-          "id": "328b7ffe55b75e17b1c3672f7372d5a7cf947fb8",
-          "title": "蚂蚁百灵开源 Ling-3.0-flash：124B 总参数 MoE 模型，支持 API、单机与高性能三种部署",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247487457&idx=1&sn=24ad4a355d81291e53fbe680ca987112",
-          "source": "公众号：蚂蚁百灵（Ling）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T12:02:16Z"
-        },
-        {
-          "id": "c2e0ad32857b9ad4cff6e70f1c62a42bd11ea88a",
-          "title": "小红书联合浙大、复旦提出 CULTURE-MT：首个面向社媒翻译的「文化有效性」评测基准，入选 ICML 2026",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496008&idx=1&sn=08f2ce717483f63bc00a2181e59e3f40",
-          "source": "公众号：小红书技术（dots.llm）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T09:59:00Z"
-        },
-        {
-          "id": "4308e87bf2f6e7113425e138acd3b37426bbd145",
-          "title": "独立开发者用 VoxCPM 克隆网红声音，让 AI 终于\"会聊天\"了",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247498927&idx=1&sn=c5fbfaac5ede8b1008d17337a1bdc70b",
-          "source": "公众号：面壁智能（MiniCPM）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T06:41:21Z"
-        },
-        {
-          "id": "87b09f41ca563f02768c82cc2557933ed9f775dd",
-          "title": "Seedance 2.5 API上线，视频生成开启「电影级长叙事」",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzU1NzI5NQ%3D%3D&mid=2247543416&idx=1&sn=badeafc780a939033a1e4cb0bba4221c",
-          "source": "公众号：火山引擎",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T06:01:45Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8174,
-      "importance": 0.8174,
-      "importance_score": 0.8174,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.81,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.71,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-07T06:01:45Z",
-      "latest_at": "2026-08-07T12:02:16Z",
-      "primary_item": {
-        "id": "87b09f41ca563f02768c82cc2557933ed9f775dd",
-        "title": "Seedance 2.5 API上线，视频生成开启「电影级长叙事」",
-        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzU1NzI5NQ%3D%3D&mid=2247543416&idx=1&sn=badeafc780a939033a1e4cb0bba4221c",
-        "source": "公众号：火山引擎",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -401,15 +282,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8065,
-      "importance": 0.8065,
-      "importance_score": 0.8065,
+      "score": 0.8039,
+      "importance": 0.8039,
+      "importance_score": 0.8039,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8551,
+        "recency": 0.8405,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -463,15 +344,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8309,
-      "importance": 0.8309,
-      "importance_score": 0.8309,
+      "score": 0.8281,
+      "importance": 0.8281,
+      "importance_score": 0.8281,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8825,
+        "recency": 0.8674,
         "story_heat": 0.0
       },
       "category": "official",
@@ -525,15 +406,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8054,
-      "importance": 0.8054,
-      "importance_score": 0.8054,
+      "score": 0.8031,
+      "importance": 0.8031,
+      "importance_score": 0.8031,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7411,
+        "recency": 0.7284,
         "story_heat": 0.0
       },
       "category": "official",
@@ -587,15 +468,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8302,
-      "importance": 0.8302,
-      "importance_score": 0.8302,
+      "score": 0.8275,
+      "importance": 0.8275,
+      "importance_score": 0.8275,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8791,
+        "recency": 0.864,
         "story_heat": 0.0
       },
       "category": "official",
@@ -649,15 +530,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7692,
-      "importance": 0.7692,
-      "importance_score": 0.7692,
+      "score": 0.7664,
+      "importance": 0.7664,
+      "importance_score": 0.7664,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9091,
+        "recency": 0.8935,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -676,63 +557,83 @@
       }
     },
     {
-      "story_id": "story_7be4078916e6",
-      "title": "ChatGPT 发布 GPT 5.6 Sol 与 Luna 新模型",
-      "url": "https://x.com/gdb/status/2085901941838844369",
-      "primary_url": "https://x.com/gdb/status/2085901941838844369",
-      "source": "X：Greg Brockman (@gdb)",
+      "story_id": "story_6cbde97d8260",
+      "title": "蚂蚁百灵开源 Ling-3.0-flash：124B 总参数 MoE 模型，支持 API、单机与高性能三种部署",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247487457&idx=1&sn=24ad4a355d81291e53fbe680ca987112",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247487457&idx=1&sn=24ad4a355d81291e53fbe680ca987112",
+      "source": "公众号：蚂蚁百灵（Ling）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "5161241ca7e58474af023acf9db8c005cca73a3a",
-          "title": "ChatGPT 发布 GPT 5.6 Sol 与 Luna 新模型",
-          "url": "https://x.com/gdb/status/2085901941838844369",
-          "source": "X：Greg Brockman (@gdb)",
+          "id": "328b7ffe55b75e17b1c3672f7372d5a7cf947fb8",
+          "title": "蚂蚁百灵开源 Ling-3.0-flash：124B 总参数 MoE 模型，支持 API、单机与高性能三种部署",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247487457&idx=1&sn=24ad4a355d81291e53fbe680ca987112",
+          "source": "公众号：蚂蚁百灵（Ling）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-08T01:32:31Z"
+          "published_at": "2026-08-07T12:02:16Z"
+        },
+        {
+          "id": "c2e0ad32857b9ad4cff6e70f1c62a42bd11ea88a",
+          "title": "小红书联合浙大、复旦提出 CULTURE-MT：首个面向社媒翻译的「文化有效性」评测基准，入选 ICML 2026",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496008&idx=1&sn=08f2ce717483f63bc00a2181e59e3f40",
+          "source": "公众号：小红书技术（dots.llm）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-07T09:59:00Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "X：Greg Brockman (@gdb)"
+        "公众号：小红书技术（dots.llm）",
+        "公众号：蚂蚁百灵（Ling）"
       ],
       "items": [
         {
-          "id": "5161241ca7e58474af023acf9db8c005cca73a3a",
-          "title": "ChatGPT 发布 GPT 5.6 Sol 与 Luna 新模型",
-          "url": "https://x.com/gdb/status/2085901941838844369",
-          "source": "X：Greg Brockman (@gdb)",
+          "id": "328b7ffe55b75e17b1c3672f7372d5a7cf947fb8",
+          "title": "蚂蚁百灵开源 Ling-3.0-flash：124B 总参数 MoE 模型，支持 API、单机与高性能三种部署",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247487457&idx=1&sn=24ad4a355d81291e53fbe680ca987112",
+          "source": "公众号：蚂蚁百灵（Ling）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-08T01:32:31Z"
+          "published_at": "2026-08-07T12:02:16Z"
+        },
+        {
+          "id": "c2e0ad32857b9ad4cff6e70f1c62a42bd11ea88a",
+          "title": "小红书联合浙大、复旦提出 CULTURE-MT：首个面向社媒翻译的「文化有效性」评测基准，入选 ICML 2026",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496008&idx=1&sn=08f2ce717483f63bc00a2181e59e3f40",
+          "source": "公众号：小红书技术（dots.llm）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-07T09:59:00Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.754,
-      "importance": 0.754,
-      "importance_score": 0.754,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7586,
+      "importance": 0.7586,
+      "importance_score": 0.7586,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.71,
+        "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9411,
-        "story_heat": 0.0
+        "recency": 0.7611,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-08T01:32:31Z",
-      "latest_at": "2026-08-08T01:32:31Z",
+      "earliest_at": "2026-08-07T09:59:00Z",
+      "latest_at": "2026-08-07T12:02:16Z",
       "primary_item": {
-        "id": "5161241ca7e58474af023acf9db8c005cca73a3a",
-        "title": "ChatGPT 发布 GPT 5.6 Sol 与 Luna 新模型",
-        "url": "https://x.com/gdb/status/2085901941838844369",
-        "source": "X：Greg Brockman (@gdb)",
+        "id": "328b7ffe55b75e17b1c3672f7372d5a7cf947fb8",
+        "title": "蚂蚁百灵开源 Ling-3.0-flash：124B 总参数 MoE 模型，支持 API、单机与高性能三种部署",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247487457&idx=1&sn=24ad4a355d81291e53fbe680ca987112",
+        "source": "公众号：蚂蚁百灵（Ling）",
         "source_name": "AI HOT"
       }
     },
@@ -790,15 +691,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7536,
-      "importance": 0.7536,
-      "importance_score": 0.7536,
+      "score": 0.7512,
+      "importance": 0.7512,
+      "importance_score": 0.7512,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7835,
+        "recency": 0.77,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -814,6 +715,67 @@
         "title": "斯坦福与 Arc Institute 用 AI 设计全新病毒基因组，16 种在实验室成功杀死细菌",
         "url": "https://the-decoder.com/stanford-and-arc-institute-scientists-used-ai-to-design-new-viruses-that-killed-bacteria-in-the-lab",
         "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_7be4078916e6",
+      "title": "ChatGPT 发布 GPT 5.6 Sol 与 Luna 新模型",
+      "url": "https://x.com/gdb/status/2085901941838844369",
+      "primary_url": "https://x.com/gdb/status/2085901941838844369",
+      "source": "X：Greg Brockman (@gdb)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5161241ca7e58474af023acf9db8c005cca73a3a",
+          "title": "ChatGPT 发布 GPT 5.6 Sol 与 Luna 新模型",
+          "url": "https://x.com/gdb/status/2085901941838844369",
+          "source": "X：Greg Brockman (@gdb)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-08T01:32:31Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Greg Brockman (@gdb)"
+      ],
+      "items": [
+        {
+          "id": "5161241ca7e58474af023acf9db8c005cca73a3a",
+          "title": "ChatGPT 发布 GPT 5.6 Sol 与 Luna 新模型",
+          "url": "https://x.com/gdb/status/2085901941838844369",
+          "source": "X：Greg Brockman (@gdb)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-08T01:32:31Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7511,
+      "importance": 0.7511,
+      "importance_score": 0.7511,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9249,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-08T01:32:31Z",
+      "latest_at": "2026-08-08T01:32:31Z",
+      "primary_item": {
+        "id": "5161241ca7e58474af023acf9db8c005cca73a3a",
+        "title": "ChatGPT 发布 GPT 5.6 Sol 与 Luna 新模型",
+        "url": "https://x.com/gdb/status/2085901941838844369",
+        "source": "X：Greg Brockman (@gdb)",
         "source_name": "AI HOT"
       }
     },
@@ -852,21 +814,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7512,
-      "importance": 0.7512,
-      "importance_score": 0.7512,
+      "score": 0.7486,
+      "importance": 0.7486,
+      "importance_score": 0.7486,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8422,
+        "recency": 0.8278,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-07T17:51:24.888000Z",
       "latest_at": "2026-08-07T17:51:24.888000Z",
@@ -913,15 +874,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7468,
-      "importance": 0.7468,
-      "importance_score": 0.7468,
+      "score": 0.7441,
+      "importance": 0.7441,
+      "importance_score": 0.7441,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8677,
+        "recency": 0.8528,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -973,15 +934,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7415,
-      "importance": 0.7415,
-      "importance_score": 0.7415,
+      "score": 0.7388,
+      "importance": 0.7388,
+      "importance_score": 0.7388,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8548,
+        "recency": 0.8401,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1033,15 +994,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8247,
-      "importance": 0.8247,
-      "importance_score": 0.8247,
+      "score": 0.8221,
+      "importance": 0.8221,
+      "importance_score": 0.8221,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8482,
+        "recency": 0.8336,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1095,15 +1056,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7342,
-      "importance": 0.7342,
-      "importance_score": 0.7342,
+      "score": 0.7318,
+      "importance": 0.7318,
+      "importance_score": 0.7318,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7644,
+        "recency": 0.7513,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1155,15 +1116,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8242,
-      "importance": 0.8242,
-      "importance_score": 0.8242,
+      "score": 0.8214,
+      "importance": 0.8214,
+      "importance_score": 0.8214,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8899,
+        "recency": 0.8746,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1217,15 +1178,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8177,
-      "importance": 0.8177,
-      "importance_score": 0.8177,
+      "score": 0.8152,
+      "importance": 0.8152,
+      "importance_score": 0.8152,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8096,
+        "recency": 0.7957,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1279,15 +1240,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8149,
-      "importance": 0.8149,
-      "importance_score": 0.8149,
+      "score": 0.8123,
+      "importance": 0.8123,
+      "importance_score": 0.8123,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8386,
+        "recency": 0.8242,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1416,15 +1377,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6101,
-      "importance": 0.6101,
-      "importance_score": 0.6101,
+      "score": 0.6072,
+      "importance": 0.6072,
+      "importance_score": 0.6072,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9404,
+        "recency": 0.9242,
         "story_heat": 1.0
       },
       "category": "multi_source",
