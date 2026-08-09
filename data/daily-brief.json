@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T01:51:08.125998Z",
+  "generated_at": "2026-08-09T03:45:28.181852Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -151,15 +151,15 @@
       ],
       "item_count": 7,
       "duplicate_count": 7,
-      "score": 0.8737,
-      "importance": 0.8737,
-      "importance_score": 0.8737,
+      "score": 0.8695,
+      "importance": 0.8695,
+      "importance_score": 0.8695,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8506,
+        "recency": 0.8275,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -232,15 +232,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7725,
-      "importance": 0.7725,
-      "importance_score": 0.7725,
+      "score": 0.7684,
+      "importance": 0.7684,
+      "importance_score": 0.7684,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8384,
+        "recency": 0.8156,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -257,6 +257,67 @@
         "url": "https://www.ithome.com/0/987/438.htm",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_f0a7578f7eba",
+      "title": "何夕2077 AI 深度信号周报 (2026 W32)：安全红线拉锯、谷歌权力真空与算力军备竞赛",
+      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w32",
+      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w32",
+      "source": "Daily Digest",
+      "source_name": "AI HubToday",
+      "sources": [
+        {
+          "id": "c71f2f15b9be7737feae2051433a7619cac06f89",
+          "title": "何夕2077 AI 深度信号周报 (2026 W32)：安全红线拉锯、谷歌权力真空与算力军备竞赛",
+          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w32",
+          "source": "Daily Digest",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": "2026-08-09T03:30:30Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Daily Digest"
+      ],
+      "items": [
+        {
+          "id": "c71f2f15b9be7737feae2051433a7619cac06f89",
+          "title": "何夕2077 AI 深度信号周报 (2026 W32)：安全红线拉锯、谷歌权力真空与算力军备竞赛",
+          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w32",
+          "source": "Daily Digest",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": "2026-08-09T03:30:30Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.767,
+      "importance": 0.767,
+      "importance_score": 0.767,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9964,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-09T03:30:30Z",
+      "latest_at": "2026-08-09T03:30:30Z",
+      "primary_item": {
+        "id": "c71f2f15b9be7737feae2051433a7619cac06f89",
+        "title": "何夕2077 AI 深度信号周报 (2026 W32)：安全红线拉锯、谷歌权力真空与算力军备竞赛",
+        "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w32",
+        "source": "Daily Digest",
+        "source_name": "AI HubToday"
       }
     },
     {
@@ -294,15 +355,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7481,
-      "importance": 0.7481,
-      "importance_score": 0.7481,
+      "score": 0.7441,
+      "importance": 0.7441,
+      "importance_score": 0.7441,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8081,
+        "recency": 0.7862,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -317,6 +378,67 @@
         "url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day",
         "source": "Ars Technica：AI（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_2b04770e322d",
+      "title": "何夕2077 AI 深度信号周报 (2026年 W31)：安全失控、千亿基建与模型价格战",
+      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w31",
+      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w31",
+      "source": "Daily Digest",
+      "source_name": "AI HubToday",
+      "sources": [
+        {
+          "id": "bf5522d0af6d1090ffb62554ea4574bed6064554",
+          "title": "何夕2077 AI 深度信号周报 (2026年 W31)：安全失控、千亿基建与模型价格战",
+          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w31",
+          "source": "Daily Digest",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": "2026-08-09T03:24:44Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Daily Digest"
+      ],
+      "items": [
+        {
+          "id": "bf5522d0af6d1090ffb62554ea4574bed6064554",
+          "title": "何夕2077 AI 深度信号周报 (2026年 W31)：安全失控、千亿基建与模型价格战",
+          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w31",
+          "source": "Daily Digest",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": "2026-08-09T03:24:44Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7667,
+      "importance": 0.7667,
+      "importance_score": 0.7667,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.995,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-09T03:24:44Z",
+      "latest_at": "2026-08-09T03:24:44Z",
+      "primary_item": {
+        "id": "bf5522d0af6d1090ffb62554ea4574bed6064554",
+        "title": "何夕2077 AI 深度信号周报 (2026年 W31)：安全失控、千亿基建与模型价格战",
+        "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w31",
+        "source": "Daily Digest",
+        "source_name": "AI HubToday"
       }
     },
     {
@@ -354,15 +476,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7598,
-      "importance": 0.7598,
-      "importance_score": 0.7598,
+      "score": 0.7551,
+      "importance": 0.7551,
+      "importance_score": 0.7551,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9565,
+        "recency": 0.9305,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -415,15 +537,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7268,
-      "importance": 0.7268,
-      "importance_score": 0.7268,
+      "score": 0.7225,
+      "importance": 0.7225,
+      "importance_score": 0.7225,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8732,
+        "recency": 0.8495,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -475,15 +597,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7395,
-      "importance": 0.7395,
-      "importance_score": 0.7395,
+      "score": 0.7357,
+      "importance": 0.7357,
+      "importance_score": 0.7357,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7775,
+        "recency": 0.7563,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -572,15 +694,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5646,
-      "importance": 0.5646,
-      "importance_score": 0.5646,
+      "score": 0.5599,
+      "importance": 0.5599,
+      "importance_score": 0.5599,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9658,
+        "recency": 0.9396,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -624,18 +746,18 @@
           "published_at": "2026-08-08T18:09:31Z"
         },
         {
-          "id": "20fcecdef2911569da9805225694720c760b2329",
+          "id": "386039a07181e711dea9170a3855a19db52f6cb9",
           "title": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊 / Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
           "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
           "published_at": "2026-08-08T18:09:31Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News",
         "Hacker News · 24h最热",
         "mezha.net"
       ],
@@ -659,26 +781,26 @@
           "published_at": "2026-08-08T18:09:31Z"
         },
         {
-          "id": "20fcecdef2911569da9805225694720c760b2329",
+          "id": "386039a07181e711dea9170a3855a19db52f6cb9",
           "title": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊 / Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
           "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
           "published_at": "2026-08-08T18:09:31Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5549,
-      "importance": 0.5549,
-      "importance_score": 0.5549,
+      "score": 0.5504,
+      "importance": 0.5504,
+      "importance_score": 0.5504,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9117,
+        "recency": 0.8869,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -768,15 +890,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5518,
-      "importance": 0.5518,
-      "importance_score": 0.5518,
+      "score": 0.5474,
+      "importance": 0.5474,
+      "importance_score": 0.5474,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8943,
+        "recency": 0.87,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -791,6 +913,85 @@
         "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
         "source": "social.treehouse.systems",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_8a13e134e6ed",
+      "title": "ChatGPT 开始阻止复制作者风格的直接请求 / ChatGPT starts blocking direct requests to copy an author's style",
+      "url": "https://news.ycombinator.com/item?id=49227718",
+      "primary_url": "https://news.ycombinator.com/item?id=49227718",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "b0bff110a2c809f8b8c8488830fd5669ddf83a59",
+          "title": "ChatGPT 开始阻止复制作者风格的直接请求 / ChatGPT starts blocking direct requests to copy an author's style",
+          "url": "https://news.ycombinator.com/item?id=49227718",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-09T03:35:45.680000Z"
+        },
+        {
+          "id": "118dc95503e6d55369d001a63abda14f490dc16d",
+          "title": "ChatGPT 开始阻止复制作者风格的直接请求 / ChatGPT starts blocking direct requests to copy an author's style",
+          "url": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-09T02:01:38Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "b0bff110a2c809f8b8c8488830fd5669ddf83a59",
+          "title": "ChatGPT 开始阻止复制作者风格的直接请求 / ChatGPT starts blocking direct requests to copy an author's style",
+          "url": "https://news.ycombinator.com/item?id=49227718",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-09T03:35:45.680000Z"
+        },
+        {
+          "id": "118dc95503e6d55369d001a63abda14f490dc16d",
+          "title": "ChatGPT 开始阻止复制作者风格的直接请求 / ChatGPT starts blocking direct requests to copy an author's style",
+          "url": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-09T02:01:38Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5454,
+      "importance": 0.5454,
+      "importance_score": 0.5454,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9977,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-09T02:01:38Z",
+      "latest_at": "2026-08-09T03:35:45.680000Z",
+      "primary_item": {
+        "id": "b0bff110a2c809f8b8c8488830fd5669ddf83a59",
+        "title": "ChatGPT 开始阻止复制作者风格的直接请求 / ChatGPT starts blocking direct requests to copy an author's style",
+        "url": "https://news.ycombinator.com/item?id=49227718",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -847,15 +1048,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5408,
-      "importance": 0.5408,
-      "importance_score": 0.5408,
+      "score": 0.5362,
+      "importance": 0.5362,
+      "importance_score": 0.5362,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.32,
         "ai_relevance": 0.67,
-        "recency": 0.9257,
+        "recency": 0.9006,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -870,85 +1071,6 @@
         "url": "https://revisionprompting.info",
         "source": "revisionprompting.info",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_561b016160b5",
-      "title": "向您的其他 Claude Code 会议发送消息 / Message your other Claude Code sessions",
-      "url": "https://news.ycombinator.com/item?id=49222824",
-      "primary_url": "https://news.ycombinator.com/item?id=49222824",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "8fb803b09e0a647245cdd06d46008e918a3052df",
-          "title": "向您的其他 Claude Code 会议发送消息 / Message your other Claude Code sessions",
-          "url": "https://news.ycombinator.com/item?id=49222824",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-08T20:17:29.087000Z"
-        },
-        {
-          "id": "791785f6eb5df43737e935bb32ce700080603158",
-          "title": "向您的其他 Claude Code 会议发送消息 / Message your other Claude Code sessions",
-          "url": "https://code.claude.com/docs/en/cross-session-messaging",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-08T15:34:49Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "8fb803b09e0a647245cdd06d46008e918a3052df",
-          "title": "向您的其他 Claude Code 会议发送消息 / Message your other Claude Code sessions",
-          "url": "https://news.ycombinator.com/item?id=49222824",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-08T20:17:29.087000Z"
-        },
-        {
-          "id": "791785f6eb5df43737e935bb32ce700080603158",
-          "title": "向您的其他 Claude Code 会议发送消息 / Message your other Claude Code sessions",
-          "url": "https://code.claude.com/docs/en/cross-session-messaging",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-08T15:34:49Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5319,
-      "importance": 0.5319,
-      "importance_score": 0.5319,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9228,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-08T15:34:49Z",
-      "latest_at": "2026-08-08T20:17:29.087000Z",
-      "primary_item": {
-        "id": "8fb803b09e0a647245cdd06d46008e918a3052df",
-        "title": "向您的其他 Claude Code 会议发送消息 / Message your other Claude Code sessions",
-        "url": "https://news.ycombinator.com/item?id=49222824",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -1005,15 +1127,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5303,
-      "importance": 0.5303,
-      "importance_score": 0.5303,
+      "score": 0.5258,
+      "importance": 0.5258,
+      "importance_score": 0.5258,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9137,
+        "recency": 0.8889,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1083,15 +1205,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5281,
-      "importance": 0.5281,
-      "importance_score": 0.5281,
+      "score": 0.5237,
+      "importance": 0.5237,
+      "importance_score": 0.5237,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9016,
+        "recency": 0.8771,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1162,15 +1284,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5274,
-      "importance": 0.5274,
-      "importance_score": 0.5274,
+      "score": 0.523,
+      "importance": 0.523,
+      "importance_score": 0.523,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8977,
+        "recency": 0.8733,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1240,15 +1362,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5163,
-      "importance": 0.5163,
-      "importance_score": 0.5163,
+      "score": 0.5122,
+      "importance": 0.5122,
+      "importance_score": 0.5122,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.836,
+        "recency": 0.8133,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1319,15 +1441,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5137,
-      "importance": 0.5137,
-      "importance_score": 0.5137,
+      "score": 0.5097,
+      "importance": 0.5097,
+      "importance_score": 0.5097,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8216,
+        "recency": 0.7993,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1345,30 +1467,30 @@
       }
     },
     {
-      "story_id": "story_559ec1c8538d",
-      "title": "CPU 回来了：重新思考 LLM 推理的 CPU-GPU 分割 / The CPU is back: Rethinking the CPU-GPU split for LLM inference",
-      "url": "https://news.ycombinator.com/item?id=49221089",
-      "primary_url": "https://news.ycombinator.com/item?id=49221089",
+      "story_id": "story_561b016160b5",
+      "title": "向您的其他 Claude Code 会议发送消息 / Message your other Claude Code sessions",
+      "url": "https://news.ycombinator.com/item?id=49222824",
+      "primary_url": "https://news.ycombinator.com/item?id=49222824",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "25c6bd52edc337725dc395b866a1f220516a44ff",
-          "title": "CPU 回来了：重新思考 LLM 推理的 CPU-GPU 分割 / The CPU is back: Rethinking the CPU-GPU split for LLM inference",
-          "url": "https://news.ycombinator.com/item?id=49221089",
+          "id": "8fb803b09e0a647245cdd06d46008e918a3052df",
+          "title": "向您的其他 Claude Code 会议发送消息 / Message your other Claude Code sessions",
+          "url": "https://news.ycombinator.com/item?id=49222824",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-08T12:50:28.307000Z"
+          "published_at": "2026-08-08T20:17:29.087000Z"
         },
         {
-          "id": "7d2bb6564e99b819c81d436b27c9624c6de731da",
-          "title": "CPU 回来了：重新思考 LLM 推理的 CPU-GPU 分割 / The CPU is back: Rethinking the CPU-GPU split for LLM inference",
-          "url": "https://www.redhat.com/en/blog/cpu-back-rethinking-cpu-gpu-split-llm-inference",
+          "id": "791785f6eb5df43737e935bb32ce700080603158",
+          "title": "向您的其他 Claude Code 会议发送消息 / Message your other Claude Code sessions",
+          "url": "https://code.claude.com/docs/en/cross-session-messaging",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-08T12:16:03Z"
+          "published_at": "2026-08-08T15:34:49Z"
         }
       ],
       "source_count": 2,
@@ -1378,47 +1500,47 @@
       ],
       "items": [
         {
-          "id": "25c6bd52edc337725dc395b866a1f220516a44ff",
-          "title": "CPU 回来了：重新思考 LLM 推理的 CPU-GPU 分割 / The CPU is back: Rethinking the CPU-GPU split for LLM inference",
-          "url": "https://news.ycombinator.com/item?id=49221089",
+          "id": "8fb803b09e0a647245cdd06d46008e918a3052df",
+          "title": "向您的其他 Claude Code 会议发送消息 / Message your other Claude Code sessions",
+          "url": "https://news.ycombinator.com/item?id=49222824",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-08T12:50:28.307000Z"
+          "published_at": "2026-08-08T20:17:29.087000Z"
         },
         {
-          "id": "7d2bb6564e99b819c81d436b27c9624c6de731da",
-          "title": "CPU 回来了：重新思考 LLM 推理的 CPU-GPU 分割 / The CPU is back: Rethinking the CPU-GPU split for LLM inference",
-          "url": "https://www.redhat.com/en/blog/cpu-back-rethinking-cpu-gpu-split-llm-inference",
+          "id": "791785f6eb5df43737e935bb32ce700080603158",
+          "title": "向您的其他 Claude Code 会议发送消息 / Message your other Claude Code sessions",
+          "url": "https://code.claude.com/docs/en/cross-session-messaging",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-08T12:16:03Z"
+          "published_at": "2026-08-08T15:34:49Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.515,
-      "importance": 0.515,
-      "importance_score": 0.515,
+      "score": 0.5274,
+      "importance": 0.5274,
+      "importance_score": 0.5274,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8287,
+        "recency": 0.8978,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-08T12:16:03Z",
-      "latest_at": "2026-08-08T12:50:28.307000Z",
+      "earliest_at": "2026-08-08T15:34:49Z",
+      "latest_at": "2026-08-08T20:17:29.087000Z",
       "primary_item": {
-        "id": "25c6bd52edc337725dc395b866a1f220516a44ff",
-        "title": "CPU 回来了：重新思考 LLM 推理的 CPU-GPU 分割 / The CPU is back: Rethinking the CPU-GPU split for LLM inference",
-        "url": "https://news.ycombinator.com/item?id=49221089",
+        "id": "8fb803b09e0a647245cdd06d46008e918a3052df",
+        "title": "向您的其他 Claude Code 会议发送消息 / Message your other Claude Code sessions",
+        "url": "https://news.ycombinator.com/item?id=49222824",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
@@ -1477,15 +1599,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5098,
-      "importance": 0.5098,
-      "importance_score": 0.5098,
+      "score": 0.5059,
+      "importance": 0.5059,
+      "importance_score": 0.5059,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7998,
+        "recency": 0.7781,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1498,163 +1620,6 @@
         "id": "26f8fb2d763ee96270036f3daa99a0f638745fd0",
         "title": "他加入了OpenAI。以下是他给那些希望在该实验室求职的人的一些建议。",
         "url": "https://www.businessinsider.com/openai-hiring-job-advice-from-product-manager-2026-8",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_de8a671ce9e4",
-      "title": "[分享创造] 做了个平台 ChatGPT Plus/Pro5x20x 低价自助充值，提供质保，给 V 友来波优惠！",
-      "url": "https://www.v2ex.com/t/1232891",
-      "primary_url": "https://www.v2ex.com/t/1232891",
-      "source": "V2EX (创意工作者社区)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "311db402e3f7ea4a04e2651d608f8b7377d8665b",
-          "title": "[分享创造] 做了个平台 ChatGPT Plus/Pro5x20x 低价自助充值，提供质保，给 V 友来波优惠！",
-          "url": "https://www.v2ex.com/t/1232891",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-08T05:38:57Z"
-        },
-        {
-          "id": "903b6fbb18f2c3f717c6f8a6633fbc2571e49798",
-          "title": "[推广] 做了个平台 ChatGPT Plus/Pro5x20x 低价自助充值，提供质保，给 V 友来波优惠！",
-          "url": "https://www.v2ex.com/t/1232891",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-08T05:38:57Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "V2EX (创意工作者社区)"
-      ],
-      "items": [
-        {
-          "id": "311db402e3f7ea4a04e2651d608f8b7377d8665b",
-          "title": "[分享创造] 做了个平台 ChatGPT Plus/Pro5x20x 低价自助充值，提供质保，给 V 友来波优惠！",
-          "url": "https://www.v2ex.com/t/1232891",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-08T05:38:57Z"
-        },
-        {
-          "id": "903b6fbb18f2c3f717c6f8a6633fbc2571e49798",
-          "title": "[推广] 做了个平台 ChatGPT Plus/Pro5x20x 低价自助充值，提供质保，给 V 友来波优惠！",
-          "url": "https://www.v2ex.com/t/1232891",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-08T05:38:57Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5003,
-      "importance": 0.5003,
-      "importance_score": 0.5003,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.747,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-08T05:38:57Z",
-      "latest_at": "2026-08-08T05:38:57Z",
-      "primary_item": {
-        "id": "311db402e3f7ea4a04e2651d608f8b7377d8665b",
-        "title": "[分享创造] 做了个平台 ChatGPT Plus/Pro5x20x 低价自助充值，提供质保，给 V 友来波优惠！",
-        "url": "https://www.v2ex.com/t/1232891",
-        "source": "V2EX (创意工作者社区)",
-        "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_8b3be1aef926",
-      "title": "Arena AI首席执行官表示，企业不知道该信任哪些AI模型",
-      "url": "https://www.businessinsider.com/arena-ai-enteprises-models-trust-anastasios-angelopoulos-2026-8",
-      "primary_url": "https://www.businessinsider.com/arena-ai-enteprises-models-trust-anastasios-angelopoulos-2026-8",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "155fd3b43f26390428733e190d7fbb2debc4dbd1",
-          "title": "Arena AI首席执行官表示，企业不知道该信任哪些AI模型",
-          "url": "https://www.businessinsider.com/arena-ai-enteprises-models-trust-anastasios-angelopoulos-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-08T09:50:49.654000Z"
-        },
-        {
-          "id": "124c56df434445a57516fc03c19002ddc0a14ad3",
-          "title": "Arena AI首席执行官表示，企业不知道该信任哪些AI模型 / Arena AI CEO says enterprises don’t know which AI models to trust",
-          "url": "https://www.businessinsider.com/arena-ai-enteprises-models-trust-anastasios-angelopoulos-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-08T09:36:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "155fd3b43f26390428733e190d7fbb2debc4dbd1",
-          "title": "Arena AI首席执行官表示，企业不知道该信任哪些AI模型",
-          "url": "https://www.businessinsider.com/arena-ai-enteprises-models-trust-anastasios-angelopoulos-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-08T09:50:49.654000Z"
-        },
-        {
-          "id": "124c56df434445a57516fc03c19002ddc0a14ad3",
-          "title": "Arena AI首席执行官表示，企业不知道该信任哪些AI模型 / Arena AI CEO says enterprises don’t know which AI models to trust",
-          "url": "https://www.businessinsider.com/arena-ai-enteprises-models-trust-anastasios-angelopoulos-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-08T09:36:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5087,
-      "importance": 0.5087,
-      "importance_score": 0.5087,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7936,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-08T09:36:01Z",
-      "latest_at": "2026-08-08T09:50:49.654000Z",
-      "primary_item": {
-        "id": "155fd3b43f26390428733e190d7fbb2debc4dbd1",
-        "title": "Arena AI首席执行官表示，企业不知道该信任哪些AI模型",
-        "url": "https://www.businessinsider.com/arena-ai-enteprises-models-trust-anastasios-angelopoulos-2026-8",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
