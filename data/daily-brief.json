@@ -1,52 +1,153 @@
 {
-  "generated_at": "2026-08-10T14:38:47.441483Z",
+  "generated_at": "2026-08-10T16:02:02.540313Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_c7b962b1d9ef",
-      "title": "Model ML借助GPT-5.6 Sol更高效地完成财务工作 / Model ML completes finance work more efficiently with GPT-5.6 Sol",
-      "url": "https://openai.com/index/model-ml",
-      "primary_url": "https://openai.com/index/model-ml",
+      "story_id": "story_61282b7420ed",
+      "title": "OpenAI 致州长阿博特关于德克萨斯州负责任的人工智能基础设施的信 / OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
+      "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
+      "primary_url": "https://openai.com/index/responsible-ai-infrastructure-texas",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "7b7fb4cd8d9595a85bca47cb4ca837b2f123871f",
-          "title": "Model ML借助GPT-5.6 Sol更高效地完成财务工作 / Model ML completes finance work more efficiently with GPT-5.6 Sol",
-          "url": "https://openai.com/index/model-ml",
+          "id": "0754ccb6465361f94f2e013cde380666cd80ded3",
+          "title": "OpenAI 致州长阿博特关于德克萨斯州负责任的人工智能基础设施的信 / OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
+          "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-10T12:00:00Z"
+          "published_at": "2026-08-10T14:00:00Z"
+        },
+        {
+          "id": "c21217956e0d505714e8a4c082b597fef875feb4",
+          "title": "OpenAI 致州长阿博特关于德克萨斯州负责任的人工智能基础设施的信 / OpenAI's letter to Governor Abbott on responsible AI infrastructure in Texas",
+          "url": "https://news.ycombinator.com/item?id=49244308",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-10T15:44:40.099000Z"
+        },
+        {
+          "id": "ad4b50f011a7df8764638bba26e0733014fd5d11",
+          "title": "OpenAI 致州长阿博特关于德克萨斯州负责任的人工智能基础设施的信 / OpenAI's letter to Governor Abbott on responsible AI infrastructure in Texas",
+          "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-10T14:38:20Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 3,
       "source_names": [
-        "OpenAI News"
+        "Hacker News",
+        "OpenAI News",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "7b7fb4cd8d9595a85bca47cb4ca837b2f123871f",
-          "title": "Model ML借助GPT-5.6 Sol更高效地完成财务工作 / Model ML completes finance work more efficiently with GPT-5.6 Sol",
-          "url": "https://openai.com/index/model-ml",
+          "id": "0754ccb6465361f94f2e013cde380666cd80ded3",
+          "title": "OpenAI 致州长阿博特关于德克萨斯州负责任的人工智能基础设施的信 / OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
+          "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-10T12:00:00Z"
+          "published_at": "2026-08-10T14:00:00Z"
+        },
+        {
+          "id": "c21217956e0d505714e8a4c082b597fef875feb4",
+          "title": "OpenAI 致州长阿博特关于德克萨斯州负责任的人工智能基础设施的信 / OpenAI's letter to Governor Abbott on responsible AI infrastructure in Texas",
+          "url": "https://news.ycombinator.com/item?id=49244308",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-10T15:44:40.099000Z"
+        },
+        {
+          "id": "ad4b50f011a7df8764638bba26e0733014fd5d11",
+          "title": "OpenAI 致州长阿博特关于德克萨斯州负责任的人工智能基础设施的信 / OpenAI's letter to Governor Abbott on responsible AI infrastructure in Texas",
+          "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-10T14:38:20Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8533,
-      "importance": 0.8533,
-      "importance_score": 0.8533,
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8968,
+      "importance": 0.8968,
+      "importance_score": 0.8968,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.9625,
+        "ai_relevance": 0.91,
+        "recency": 0.9711,
+        "story_heat": 0.5
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-10T14:00:00Z",
+      "latest_at": "2026-08-10T15:44:40.099000Z",
+      "primary_item": {
+        "id": "0754ccb6465361f94f2e013cde380666cd80ded3",
+        "title": "OpenAI 致州长阿博特关于德克萨斯州负责任的人工智能基础设施的信 / OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
+        "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_47efcab38b5c",
+      "title": "网络副驾驶扩展了对话控制 / Copilot on web expands conversation controls",
+      "url": "https://github.blog/changelog/2026-08-10-copilot-on-web-expands-conversation-controls",
+      "primary_url": "https://github.blog/changelog/2026-08-10-copilot-on-web-expands-conversation-controls",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "c9c9908049165f3c5eb8117cf0267a539caf65a5",
+          "title": "网络副驾驶扩展了对话控制 / Copilot on web expands conversation controls",
+          "url": "https://github.blog/changelog/2026-08-10-copilot-on-web-expands-conversation-controls",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-10T14:27:04Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "c9c9908049165f3c5eb8117cf0267a539caf65a5",
+          "title": "网络副驾驶扩展了对话控制 / Copilot on web expands conversation controls",
+          "url": "https://github.blog/changelog/2026-08-10-copilot-on-web-expands-conversation-controls",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-10T14:27:04Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8479,
+      "importance": 0.8479,
+      "importance_score": 0.8479,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9774,
         "story_heat": 0.0
       },
       "category": "official",
@@ -55,13 +156,13 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-10T12:00:00Z",
-      "latest_at": "2026-08-10T12:00:00Z",
+      "earliest_at": "2026-08-10T14:27:04Z",
+      "latest_at": "2026-08-10T14:27:04Z",
       "primary_item": {
-        "id": "7b7fb4cd8d9595a85bca47cb4ca837b2f123871f",
-        "title": "Model ML借助GPT-5.6 Sol更高效地完成财务工作 / Model ML completes finance work more efficiently with GPT-5.6 Sol",
-        "url": "https://openai.com/index/model-ml",
-        "source": "OpenAI News",
+        "id": "c9c9908049165f3c5eb8117cf0267a539caf65a5",
+        "title": "网络副驾驶扩展了对话控制 / Copilot on web expands conversation controls",
+        "url": "https://github.blog/changelog/2026-08-10-copilot-on-web-expands-conversation-controls",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -100,15 +201,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8485,
-      "importance": 0.8485,
-      "importance_score": 0.8485,
+      "score": 0.8452,
+      "importance": 0.8452,
+      "importance_score": 0.8452,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9364,
+        "recency": 0.9178,
         "story_heat": 0.0
       },
       "category": "official",
@@ -162,15 +263,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8436,
-      "importance": 0.8436,
-      "importance_score": 0.8436,
+      "score": 0.8401,
+      "importance": 0.8401,
+      "importance_score": 0.8401,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9979,
+        "recency": 0.9781,
         "story_heat": 0.0
       },
       "category": "official",
@@ -281,15 +382,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8411,
-      "importance": 0.8411,
-      "importance_score": 0.8411,
+      "score": 0.8375,
+      "importance": 0.8375,
+      "importance_score": 0.8375,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9915,
+        "recency": 0.9719,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -306,6 +407,68 @@
         "url": "https://bobdahacker.com/blog/tldv-hack",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_c7b962b1d9ef",
+      "title": "Model ML借助GPT-5.6 Sol更高效地完成财务工作 / Model ML completes finance work more efficiently with GPT-5.6 Sol",
+      "url": "https://openai.com/index/model-ml",
+      "primary_url": "https://openai.com/index/model-ml",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "7b7fb4cd8d9595a85bca47cb4ca837b2f123871f",
+          "title": "Model ML借助GPT-5.6 Sol更高效地完成财务工作 / Model ML completes finance work more efficiently with GPT-5.6 Sol",
+          "url": "https://openai.com/index/model-ml",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-10T12:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "7b7fb4cd8d9595a85bca47cb4ca837b2f123871f",
+          "title": "Model ML借助GPT-5.6 Sol更高效地完成财务工作 / Model ML completes finance work more efficiently with GPT-5.6 Sol",
+          "url": "https://openai.com/index/model-ml",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-10T12:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8498,
+      "importance": 0.8498,
+      "importance_score": 0.8498,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9434,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-10T12:00:00Z",
+      "latest_at": "2026-08-10T12:00:00Z",
+      "primary_item": {
+        "id": "7b7fb4cd8d9595a85bca47cb4ca837b2f123871f",
+        "title": "Model ML借助GPT-5.6 Sol更高效地完成财务工作 / Model ML completes finance work more efficiently with GPT-5.6 Sol",
+        "url": "https://openai.com/index/model-ml",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -343,15 +506,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8392,
-      "importance": 0.8392,
-      "importance_score": 0.8392,
+      "score": 0.8357,
+      "importance": 0.8357,
+      "importance_score": 0.8357,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9732,
+        "recency": 0.9539,
         "story_heat": 0.0
       },
       "category": "official",
@@ -367,68 +530,6 @@
         "title": "自定义线程订阅已被弃用 / Custom thread subscriptions are being deprecated",
         "url": "https://github.blog/changelog/2026-08-10-custom-thread-subscriptions-are-being-deprecated",
         "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_61282b7420ed",
-      "title": "OpenAI 致州长阿博特关于德克萨斯州负责任的人工智能基础设施的信 / OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
-      "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
-      "primary_url": "https://openai.com/index/responsible-ai-infrastructure-texas",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "0754ccb6465361f94f2e013cde380666cd80ded3",
-          "title": "OpenAI 致州长阿博特关于德克萨斯州负责任的人工智能基础设施的信 / OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
-          "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-10T14:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "0754ccb6465361f94f2e013cde380666cd80ded3",
-          "title": "OpenAI 致州长阿博特关于德克萨斯州负责任的人工智能基础设施的信 / OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
-          "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-10T14:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8503,
-      "importance": 0.8503,
-      "importance_score": 0.8503,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9907,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-10T14:00:00Z",
-      "latest_at": "2026-08-10T14:00:00Z",
-      "primary_item": {
-        "id": "0754ccb6465361f94f2e013cde380666cd80ded3",
-        "title": "OpenAI 致州长阿博特关于德克萨斯州负责任的人工智能基础设施的信 / OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
-        "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
-        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -467,15 +568,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8257,
-      "importance": 0.8257,
-      "importance_score": 0.8257,
+      "score": 0.8228,
+      "importance": 0.8228,
+      "importance_score": 0.8228,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8094,
+        "recency": 0.7933,
         "story_heat": 0.0
       },
       "category": "official",
@@ -529,15 +630,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7712,
-      "importance": 0.7712,
-      "importance_score": 0.7712,
+      "score": 0.7679,
+      "importance": 0.7679,
+      "importance_score": 0.7679,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9366,
+        "recency": 0.9181,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -609,15 +710,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7672,
-      "importance": 0.7672,
-      "importance_score": 0.7672,
+      "score": 0.7643,
+      "importance": 0.7643,
+      "importance_score": 0.7643,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8091,
+        "recency": 0.793,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -633,67 +734,6 @@
         "title": "NVIDIA 发布 NemotronLabs VoiceChat 11B：开源全双工语音模型，支持约 450 毫秒轮换与实时工具调用",
         "url": "https://www.marktechpost.com/2026/08/09/nvidia-releases-nemotronlabs-voicechat-11b-an-open-full-duplex-speech-to-speech-model-with-450-ms-turn-taking-and-live-tool-calling",
         "source": "MarkTechPost（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_9c62e6279cb0",
-      "title": "智能体真的会用电脑吗？a16z 用数据给出答案",
-      "url": "https://www.a16z.news/p/can-agents-use-a-computer-yet-weve",
-      "primary_url": "https://www.a16z.news/p/can-agents-use-a-computer-yet-weve",
-      "source": "a16z：News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c4244d84690cb2d2f343792b4891365042907e91",
-          "title": "智能体真的会用电脑吗？a16z 用数据给出答案",
-          "url": "https://www.a16z.news/p/can-agents-use-a-computer-yet-weve",
-          "source": "a16z：News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-10T14:00:46Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "a16z：News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "c4244d84690cb2d2f343792b4891365042907e91",
-          "title": "智能体真的会用电脑吗？a16z 用数据给出答案",
-          "url": "https://www.a16z.news/p/can-agents-use-a-computer-yet-weve",
-          "source": "a16z：News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-10T14:00:46Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.766,
-      "importance": 0.766,
-      "importance_score": 0.766,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9909,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-10T14:00:46Z",
-      "latest_at": "2026-08-10T14:00:46Z",
-      "primary_item": {
-        "id": "c4244d84690cb2d2f343792b4891365042907e91",
-        "title": "智能体真的会用电脑吗？a16z 用数据给出答案",
-        "url": "https://www.a16z.news/p/can-agents-use-a-computer-yet-weve",
-        "source": "a16z：News（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -751,15 +791,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7658,
-      "importance": 0.7658,
-      "importance_score": 0.7658,
+      "score": 0.7628,
+      "importance": 0.7628,
+      "importance_score": 0.7628,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8345,
+        "recency": 0.818,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -775,6 +815,67 @@
         "title": "千问开放平台上线：租房、寄快递、查理财等十余领域服务可对话办理",
         "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488345&idx=1&sn=ef4e57c9c9350f9238d90211eb2dd453",
         "source": "公众号：千问APP（阿里）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_9c62e6279cb0",
+      "title": "智能体真的会用电脑吗？a16z 用数据给出答案",
+      "url": "https://www.a16z.news/p/can-agents-use-a-computer-yet-weve",
+      "primary_url": "https://www.a16z.news/p/can-agents-use-a-computer-yet-weve",
+      "source": "a16z：News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c4244d84690cb2d2f343792b4891365042907e91",
+          "title": "智能体真的会用电脑吗？a16z 用数据给出答案",
+          "url": "https://www.a16z.news/p/can-agents-use-a-computer-yet-weve",
+          "source": "a16z：News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-10T14:00:46Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "a16z：News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "c4244d84690cb2d2f343792b4891365042907e91",
+          "title": "智能体真的会用电脑吗？a16z 用数据给出答案",
+          "url": "https://www.a16z.news/p/can-agents-use-a-computer-yet-weve",
+          "source": "a16z：News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-10T14:00:46Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7624,
+      "importance": 0.7624,
+      "importance_score": 0.7624,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9712,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-10T14:00:46Z",
+      "latest_at": "2026-08-10T14:00:46Z",
+      "primary_item": {
+        "id": "c4244d84690cb2d2f343792b4891365042907e91",
+        "title": "智能体真的会用电脑吗？a16z 用数据给出答案",
+        "url": "https://www.a16z.news/p/can-agents-use-a-computer-yet-weve",
+        "source": "a16z：News（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -813,15 +914,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7605,
-      "importance": 0.7605,
-      "importance_score": 0.7605,
+      "score": 0.7571,
+      "importance": 0.7571,
+      "importance_score": 0.7571,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9606,
+        "recency": 0.9415,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -836,6 +937,66 @@
         "title": "SGLang 为 Muse Glimmer 提供 Day-0 支持，针对本地智能体工作流优化推理",
         "url": "https://www.lmsys.org/blog/2026-08-10-meta-muse-glimmer",
         "source": "LMSYS：Blog（Chatbot Arena 团队）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_e9b5272ea89a",
+      "title": "OpenRouter 推出由市场智慧驱动的新版 Auto 路由器",
+      "url": "https://openrouter.ai/blog/announcements/introducing-the-new-auto-router",
+      "primary_url": "https://openrouter.ai/blog/announcements/introducing-the-new-auto-router",
+      "source": "OpenRouter：Announcements（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d9c8296ef28d97a78bffcf38683b6ea3c1fecdef",
+          "title": "OpenRouter 推出由市场智慧驱动的新版 Auto 路由器",
+          "url": "https://openrouter.ai/blog/announcements/introducing-the-new-auto-router",
+          "source": "OpenRouter：Announcements（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-10T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenRouter：Announcements（RSS）"
+      ],
+      "items": [
+        {
+          "id": "d9c8296ef28d97a78bffcf38683b6ea3c1fecdef",
+          "title": "OpenRouter 推出由市场智慧驱动的新版 Auto 路由器",
+          "url": "https://openrouter.ai/blog/announcements/introducing-the-new-auto-router",
+          "source": "OpenRouter：Announcements（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-10T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7454,
+      "importance": 0.7454,
+      "importance_score": 0.7454,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7933,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-10T00:00:00Z",
+      "latest_at": "2026-08-10T00:00:00Z",
+      "primary_item": {
+        "id": "d9c8296ef28d97a78bffcf38683b6ea3c1fecdef",
+        "title": "OpenRouter 推出由市场智慧驱动的新版 Auto 路由器",
+        "url": "https://openrouter.ai/blog/announcements/introducing-the-new-auto-router",
+        "source": "OpenRouter：Announcements（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -874,15 +1035,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.747,
-      "importance": 0.747,
-      "importance_score": 0.747,
+      "score": 0.7436,
+      "importance": 0.7436,
+      "importance_score": 0.7436,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9355,
+        "recency": 0.9169,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -953,15 +1114,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7412,
-      "importance": 0.7412,
-      "importance_score": 0.7412,
+      "score": 0.7386,
+      "importance": 0.7386,
+      "importance_score": 0.7386,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.748,
+        "recency": 0.7331,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1014,15 +1175,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7391,
-      "importance": 0.7391,
-      "importance_score": 0.7391,
+      "score": 0.736,
+      "importance": 0.736,
+      "importance_score": 0.736,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8584,
+        "recency": 0.8413,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1074,15 +1235,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7284,
-      "importance": 0.7284,
-      "importance_score": 0.7284,
+      "score": 0.7256,
+      "importance": 0.7256,
+      "importance_score": 0.7256,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7991,
+        "recency": 0.7833,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1153,15 +1314,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7539,
-      "importance": 0.7539,
-      "importance_score": 0.7539,
+      "score": 0.751,
+      "importance": 0.751,
+      "importance_score": 0.751,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8185,
+        "recency": 0.8022,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1234,15 +1395,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6299,
-      "importance": 0.6299,
-      "importance_score": 0.6299,
+      "score": 0.6272,
+      "importance": 0.6272,
+      "importance_score": 0.6272,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5904,
         "source_tier": 0.58,
         "ai_relevance": 0.82,
-        "recency": 0.7567,
+        "recency": 0.7417,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1258,183 +1419,6 @@
         "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default",
         "source": "TechCrunch AI",
         "source_name": "Curated Media"
-      }
-    },
-    {
-      "story_id": "story_70ac8307a80a",
-      "title": "硅谷误读科幻作品，并削弱了民主 / Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
-      "url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy",
-      "primary_url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy",
-      "source": "TechCrunch AI",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "60475933c9e669f87d78b2c368eaadf87fc79586",
-          "title": "硅谷误读科幻作品，并削弱了民主 / Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
-          "url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-09T15:00:00Z"
-        },
-        {
-          "id": "29ae8db8bc1f28d99da1c12ba4c79d2b5f4bef76",
-          "title": "硅谷误读科幻作品，并削弱了民主 / Silicon Valley misreads science fiction and undermines democracy",
-          "url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-09T15:18:25Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "TechCrunch AI"
-      ],
-      "items": [
-        {
-          "id": "60475933c9e669f87d78b2c368eaadf87fc79586",
-          "title": "硅谷误读科幻作品，并削弱了民主 / Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
-          "url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-09T15:00:00Z"
-        },
-        {
-          "id": "29ae8db8bc1f28d99da1c12ba4c79d2b5f4bef76",
-          "title": "硅谷误读科幻作品，并削弱了民主 / Silicon Valley misreads science fiction and undermines democracy",
-          "url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-09T15:18:25Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5967,
-      "importance": 0.5967,
-      "importance_score": 0.5967,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5472,
-        "source_tier": 0.58,
-        "ai_relevance": 0.76,
-        "recency": 0.7107,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-09T15:00:00Z",
-      "latest_at": "2026-08-09T15:18:25Z",
-      "primary_item": {
-        "id": "60475933c9e669f87d78b2c368eaadf87fc79586",
-        "title": "硅谷误读科幻作品，并削弱了民主 / Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
-        "url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy",
-        "source": "TechCrunch AI",
-        "source_name": "Curated Media"
-      }
-    },
-    {
-      "story_id": "story_d75960526de0",
-      "title": "Docker 沙箱——适用于 AI 代理的一次性、隔离式沙箱",
-      "url": "https://www.docker.com/products/docker-sandboxes",
-      "primary_url": "https://www.docker.com/products/docker-sandboxes",
-      "source": "www.docker.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "ca1faf9ac0d638700e0b67788edc7f13be0bb07a",
-          "title": "Docker 沙箱——适用于 AI 代理的一次性、隔离式沙箱",
-          "url": "https://www.docker.com/products/docker-sandboxes",
-          "source": "www.docker.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-10T07:58:21.108000Z"
-        },
-        {
-          "id": "905acd55692d6ca55368002624b04cead3f8645c",
-          "title": "Docker Sandboxes – 用于 AI 代理的一次性隔离沙箱 / Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
-          "url": "https://news.ycombinator.com/item?id=49239751",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-10T07:36:19.959000Z"
-        },
-        {
-          "id": "2ee82fb6cb664d2814ba8a47e5d89ccf4dce5cd0",
-          "title": "Docker 沙箱——适用于 AI 代理的一次性、隔离式沙箱 / Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
-          "url": "https://www.docker.com/products/docker-sandboxes",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-10T06:02:38Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "hackernews",
-        "www.docker.com"
-      ],
-      "items": [
-        {
-          "id": "ca1faf9ac0d638700e0b67788edc7f13be0bb07a",
-          "title": "Docker 沙箱——适用于 AI 代理的一次性、隔离式沙箱",
-          "url": "https://www.docker.com/products/docker-sandboxes",
-          "source": "www.docker.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-10T07:58:21.108000Z"
-        },
-        {
-          "id": "905acd55692d6ca55368002624b04cead3f8645c",
-          "title": "Docker Sandboxes – 用于 AI 代理的一次性隔离沙箱 / Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
-          "url": "https://news.ycombinator.com/item?id=49239751",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-10T07:36:19.959000Z"
-        },
-        {
-          "id": "2ee82fb6cb664d2814ba8a47e5d89ccf4dce5cd0",
-          "title": "Docker 沙箱——适用于 AI 代理的一次性、隔离式沙箱 / Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
-          "url": "https://www.docker.com/products/docker-sandboxes",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-10T06:02:38Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5543,
-      "importance": 0.5543,
-      "importance_score": 0.5543,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9081,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-10T06:02:38Z",
-      "latest_at": "2026-08-10T07:58:21.108000Z",
-      "primary_item": {
-        "id": "ca1faf9ac0d638700e0b67788edc7f13be0bb07a",
-        "title": "Docker 沙箱——适用于 AI 代理的一次性、隔离式沙箱",
-        "url": "https://www.docker.com/products/docker-sandboxes",
-        "source": "www.docker.com",
-        "source_name": "Buzzing"
       }
     }
   ]
