@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T11:49:45.812042Z",
+  "generated_at": "2026-08-10T13:12:15.707819Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8555,
-      "importance": 0.8555,
-      "importance_score": 0.8555,
+      "score": 0.8521,
+      "importance": 0.8521,
+      "importance_score": 0.8521,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9752,
+        "recency": 0.9561,
         "story_heat": 0.0
       },
       "category": "official",
@@ -62,6 +62,68 @@
         "title": "使知识蒸馏足够便宜以进行大规模运行 / Making Knowledge Distillation Cheap Enough to Run at Scale",
         "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
         "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_6f75a11700ad",
+      "title": "自定义线程订阅已被弃用 / Custom thread subscriptions are being deprecated",
+      "url": "https://github.blog/changelog/2026-08-10-custom-thread-subscriptions-are-being-deprecated",
+      "primary_url": "https://github.blog/changelog/2026-08-10-custom-thread-subscriptions-are-being-deprecated",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "4f8602a27b65d6d706ed3d8773f5a546141f259a",
+          "title": "自定义线程订阅已被弃用 / Custom thread subscriptions are being deprecated",
+          "url": "https://github.blog/changelog/2026-08-10-custom-thread-subscriptions-are-being-deprecated",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-10T12:45:49Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "4f8602a27b65d6d706ed3d8773f5a546141f259a",
+          "title": "自定义线程订阅已被弃用 / Custom thread subscriptions are being deprecated",
+          "url": "https://github.blog/changelog/2026-08-10-custom-thread-subscriptions-are-being-deprecated",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-10T12:45:49Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8429,
+      "importance": 0.8429,
+      "importance_score": 0.8429,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9937,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-10T12:45:49Z",
+      "latest_at": "2026-08-10T12:45:49Z",
+      "primary_item": {
+        "id": "4f8602a27b65d6d706ed3d8773f5a546141f259a",
+        "title": "自定义线程订阅已被弃用 / Custom thread subscriptions are being deprecated",
+        "url": "https://github.blog/changelog/2026-08-10-custom-thread-subscriptions-are-being-deprecated",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -100,15 +162,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8317,
-      "importance": 0.8317,
-      "importance_score": 0.8317,
+      "score": 0.8288,
+      "importance": 0.8288,
+      "importance_score": 0.8288,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.843,
+        "recency": 0.8264,
         "story_heat": 0.0
       },
       "category": "official",
@@ -162,15 +224,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7782,
-      "importance": 0.7782,
-      "importance_score": 0.7782,
+      "score": 0.7747,
+      "importance": 0.7747,
+      "importance_score": 0.7747,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9755,
+        "recency": 0.9564,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -242,15 +304,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7733,
-      "importance": 0.7733,
-      "importance_score": 0.7733,
+      "score": 0.7703,
+      "importance": 0.7703,
+      "importance_score": 0.7703,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8427,
+        "recency": 0.8261,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -323,15 +385,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7721,
-      "importance": 0.7721,
-      "importance_score": 0.7721,
+      "score": 0.769,
+      "importance": 0.769,
+      "importance_score": 0.769,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8692,
+        "recency": 0.8521,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -347,6 +409,67 @@
         "title": "千问开放平台上线：租房、寄快递、查理财等十余领域服务可对话办理",
         "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488345&idx=1&sn=ef4e57c9c9350f9238d90211eb2dd453",
         "source": "公众号：千问APP（阿里）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_d23e3b6d03cf",
+      "title": "SGLang 为 Muse Glimmer 提供 Day-0 支持，针对本地智能体工作流优化推理",
+      "url": "https://www.lmsys.org/blog/2026-08-10-meta-muse-glimmer",
+      "primary_url": "https://www.lmsys.org/blog/2026-08-10-meta-muse-glimmer",
+      "source": "LMSYS：Blog（Chatbot Arena 团队）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "4b1deafc19f11b0b2c9849b01377f1c620ca4f0e",
+          "title": "SGLang 为 Muse Glimmer 提供 Day-0 支持，针对本地智能体工作流优化推理",
+          "url": "https://www.lmsys.org/blog/2026-08-10-meta-muse-glimmer",
+          "source": "LMSYS：Blog（Chatbot Arena 团队）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-10T11:51:38.747000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "LMSYS：Blog（Chatbot Arena 团队）"
+      ],
+      "items": [
+        {
+          "id": "4b1deafc19f11b0b2c9849b01377f1c620ca4f0e",
+          "title": "SGLang 为 Muse Glimmer 提供 Day-0 支持，针对本地智能体工作流优化推理",
+          "url": "https://www.lmsys.org/blog/2026-08-10-meta-muse-glimmer",
+          "source": "LMSYS：Blog（Chatbot Arena 团队）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-10T11:51:38.747000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7641,
+      "importance": 0.7641,
+      "importance_score": 0.7641,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9808,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-10T11:51:38.747000Z",
+      "latest_at": "2026-08-10T11:51:38.747000Z",
+      "primary_item": {
+        "id": "4b1deafc19f11b0b2c9849b01377f1c620ca4f0e",
+        "title": "SGLang 为 Muse Glimmer 提供 Day-0 支持，针对本地智能体工作流优化推理",
+        "url": "https://www.lmsys.org/blog/2026-08-10-meta-muse-glimmer",
+        "source": "LMSYS：Blog（Chatbot Arena 团队）",
         "source_name": "AI HOT"
       }
     },
@@ -404,15 +527,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7659,
-      "importance": 0.7659,
-      "importance_score": 0.7659,
+      "score": 0.7633,
+      "importance": 0.7633,
+      "importance_score": 0.7633,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7349,
+        "recency": 0.7205,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -485,15 +608,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
+      "score": 0.757,
+      "importance": 0.757,
+      "importance_score": 0.757,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8524,
+        "recency": 0.8357,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -547,15 +670,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.754,
-      "importance": 0.754,
-      "importance_score": 0.754,
+      "score": 0.7505,
+      "importance": 0.7505,
+      "importance_score": 0.7505,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9743,
+        "recency": 0.9552,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -627,15 +750,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7468,
-      "importance": 0.7468,
-      "importance_score": 0.7468,
+      "score": 0.7441,
+      "importance": 0.7441,
+      "importance_score": 0.7441,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.779,
+        "recency": 0.7637,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -688,15 +811,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7455,
-      "importance": 0.7455,
-      "importance_score": 0.7455,
+      "score": 0.7424,
+      "importance": 0.7424,
+      "importance_score": 0.7424,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.894,
+        "recency": 0.8764,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -748,15 +871,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7344,
-      "importance": 0.7344,
-      "importance_score": 0.7344,
+      "score": 0.7315,
+      "importance": 0.7315,
+      "importance_score": 0.7315,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8323,
+        "recency": 0.8159,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -827,15 +950,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6356,
-      "importance": 0.6356,
-      "importance_score": 0.6356,
+      "score": 0.6328,
+      "importance": 0.6328,
+      "importance_score": 0.6328,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5904,
         "source_tier": 0.58,
         "ai_relevance": 0.82,
-        "recency": 0.7881,
+        "recency": 0.7726,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -851,141 +974,6 @@
         "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default",
         "source": "TechCrunch AI",
         "source_name": "Curated Media"
-      }
-    },
-    {
-      "story_id": "story_774f7412d1a3",
-      "title": "人工智能代码是疯狂的垃圾 / AI Code Is Insane Trash",
-      "url": "https://www.youtube.com/watch?v=EwLW11Ucnps",
-      "primary_url": "https://www.youtube.com/watch?v=EwLW11Ucnps",
-      "source": "Hacker News",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "19f62b6e9cb78b410630cc56b8f99fd54892291c",
-          "title": "人工智能代码是疯狂的垃圾 / AI Code Is Insane Trash",
-          "url": "https://www.youtube.com/watch?v=EwLW11Ucnps",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-09T17:10:35Z"
-        },
-        {
-          "id": "270afdaadbce53cf7a6b122714e5f675ae96fefc",
-          "title": "70% 的 AI 收入来自 OpenAI 和 Anthropic / 70% of AI revenue comes from OpenAI and Anthropic",
-          "url": "https://news.ycombinator.com/item?id=49230605",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-09T15:37:14.306000Z"
-        },
-        {
-          "id": "f49c1f306709789af4e524d6da243a9ba943f9df",
-          "title": "为什么华尔街忽视大型科技公司的债务 / Why Wall Street Is Ignoring Big Tech's Debt",
-          "url": "https://www.youtube.com/watch?v=NufJ7g63KSY",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-09T12:01:39Z"
-        },
-        {
-          "id": "43bf37af49cb13e01b08742a2ed44a8deb73f2b5",
-          "title": "70% 的 AI 收入来自 OpenAI 和 Anthropic / 70% of AI revenue comes from OpenAI and Anthropic",
-          "url": "https://www.youtube.com/watch?v=68X8yEatepQ",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-08-09T11:56:16Z"
-        },
-        {
-          "id": "67cf4ee790ddcb581b86d085711406dbfa91294c",
-          "title": "70% 的 AI 收入来自 OpenAI 和 Anthropic [视频] / 70% of AI revenue comes from OpenAI and Anthropic [video]",
-          "url": "https://www.youtube.com/watch?v=68X8yEatepQ",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-09T11:56:16Z"
-        }
-      ],
-      "source_count": 5,
-      "source_names": [
-        "HN Algolia · AI 24h",
-        "Hacker News",
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "19f62b6e9cb78b410630cc56b8f99fd54892291c",
-          "title": "人工智能代码是疯狂的垃圾 / AI Code Is Insane Trash",
-          "url": "https://www.youtube.com/watch?v=EwLW11Ucnps",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-09T17:10:35Z"
-        },
-        {
-          "id": "270afdaadbce53cf7a6b122714e5f675ae96fefc",
-          "title": "70% 的 AI 收入来自 OpenAI 和 Anthropic / 70% of AI revenue comes from OpenAI and Anthropic",
-          "url": "https://news.ycombinator.com/item?id=49230605",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-09T15:37:14.306000Z"
-        },
-        {
-          "id": "f49c1f306709789af4e524d6da243a9ba943f9df",
-          "title": "为什么华尔街忽视大型科技公司的债务 / Why Wall Street Is Ignoring Big Tech's Debt",
-          "url": "https://www.youtube.com/watch?v=NufJ7g63KSY",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-09T12:01:39Z"
-        },
-        {
-          "id": "43bf37af49cb13e01b08742a2ed44a8deb73f2b5",
-          "title": "70% 的 AI 收入来自 OpenAI 和 Anthropic / 70% of AI revenue comes from OpenAI and Anthropic",
-          "url": "https://www.youtube.com/watch?v=68X8yEatepQ",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-08-09T11:56:16Z"
-        },
-        {
-          "id": "67cf4ee790ddcb581b86d085711406dbfa91294c",
-          "title": "70% 的 AI 收入来自 OpenAI 和 Anthropic [视频] / 70% of AI revenue comes from OpenAI and Anthropic [video]",
-          "url": "https://www.youtube.com/watch?v=68X8yEatepQ",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-09T11:56:16Z"
-        }
-      ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.5783,
-      "importance": 0.5783,
-      "importance_score": 0.5783,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7639,
-        "story_heat": 1.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-09T11:56:16Z",
-      "latest_at": "2026-08-09T17:10:35Z",
-      "primary_item": {
-        "id": "19f62b6e9cb78b410630cc56b8f99fd54892291c",
-        "title": "人工智能代码是疯狂的垃圾 / AI Code Is Insane Trash",
-        "url": "https://www.youtube.com/watch?v=EwLW11Ucnps",
-        "source": "Hacker News",
-        "source_name": "TechURLs"
       }
     },
     {
@@ -1042,15 +1030,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.602,
-      "importance": 0.602,
-      "importance_score": 0.602,
+      "score": 0.5994,
+      "importance": 0.5994,
+      "importance_score": 0.5994,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.7402,
+        "recency": 0.7257,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1140,15 +1128,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.561,
-      "importance": 0.561,
-      "importance_score": 0.561,
+      "score": 0.5577,
+      "importance": 0.5577,
+      "importance_score": 0.5577,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9458,
+        "recency": 0.9272,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1238,15 +1226,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5565,
-      "importance": 0.5565,
-      "importance_score": 0.5565,
+      "score": 0.5533,
+      "importance": 0.5533,
+      "importance_score": 0.5533,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9207,
+        "recency": 0.9026,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1290,18 +1278,18 @@
           "published_at": "2026-08-09T21:08:14.346000Z"
         },
         {
-          "id": "858ce1f865a829da05fd79ea627e1b87408e49d1",
+          "id": "fc5adc4943f002d85b4c0b9947d8e8f78f5dd401",
           "title": "“公地悲剧”的AI版 / The tragedy of the commons, AI edition",
           "url": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-09T19:43:52Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "hackernews",
         "www.economist.com"
       ],
@@ -1325,26 +1313,26 @@
           "published_at": "2026-08-09T21:08:14.346000Z"
         },
         {
-          "id": "858ce1f865a829da05fd79ea627e1b87408e49d1",
+          "id": "fc5adc4943f002d85b4c0b9947d8e8f78f5dd401",
           "title": "“公地悲剧”的AI版 / The tragedy of the commons, AI edition",
           "url": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-09T19:43:52Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5559,
-      "importance": 0.5559,
-      "importance_score": 0.5559,
+      "score": 0.5526,
+      "importance": 0.5526,
+      "importance_score": 0.5526,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9172,
+        "recency": 0.8991,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1434,15 +1422,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5548,
-      "importance": 0.5548,
-      "importance_score": 0.5548,
+      "score": 0.5516,
+      "importance": 0.5516,
+      "importance_score": 0.5516,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.911,
+        "recency": 0.8931,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1460,160 +1448,81 @@
       }
     },
     {
-      "story_id": "story_311d3f683fc6",
-      "title": "Meta Muse Glimmer——开放权重 30B 本地编码模型",
-      "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
-      "primary_url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
-      "source": "research.meta.ai",
+      "story_id": "story_96d56da9835f",
+      "title": "同行评审已不堪重负——它能在人工智能时代生存下去吗？",
+      "url": "https://arstechnica.com/science/2026/08/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era",
+      "primary_url": "https://arstechnica.com/science/2026/08/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era",
+      "source": "arstechnica.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "52204fc7d1dbbd74b2476931745956ccdaddf6b6",
-          "title": "Meta Muse Glimmer——开放权重 30B 本地编码模型",
-          "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
-          "source": "research.meta.ai",
+          "id": "166d73d5e1795ecae1007b026da723f48d31baa6",
+          "title": "同行评审已不堪重负——它能在人工智能时代生存下去吗？",
+          "url": "https://arstechnica.com/science/2026/08/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era",
+          "source": "arstechnica.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-10T11:25:13.277000Z"
+          "published_at": "2026-08-10T11:41:43.365000Z"
         },
         {
-          "id": "be073ad6741e3cf5f19474ae367678a4111f389d",
-          "title": "Meta Muse Glimmer——开放权重 30B 本地编码模型 / Meta Muse Glimmer – open weights 30B local coding model",
-          "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-10T10:10:02Z"
+          "id": "b4d9826840139581a2a4d5afd3656c9e611db38d",
+          "title": "同行评审已不堪重负——它能在人工智能时代生存下去吗？ / Peer review is overwhelmed—can it survive in the AI era?",
+          "url": "https://arstechnica.com/science/2026/08/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era",
+          "source": "Ars Technica",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-10T11:00:47Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "research.meta.ai"
+        "Ars Technica",
+        "arstechnica.com"
       ],
       "items": [
         {
-          "id": "52204fc7d1dbbd74b2476931745956ccdaddf6b6",
-          "title": "Meta Muse Glimmer——开放权重 30B 本地编码模型",
-          "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
-          "source": "research.meta.ai",
+          "id": "166d73d5e1795ecae1007b026da723f48d31baa6",
+          "title": "同行评审已不堪重负——它能在人工智能时代生存下去吗？",
+          "url": "https://arstechnica.com/science/2026/08/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era",
+          "source": "arstechnica.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-10T11:25:13.277000Z"
+          "published_at": "2026-08-10T11:41:43.365000Z"
         },
         {
-          "id": "be073ad6741e3cf5f19474ae367678a4111f389d",
-          "title": "Meta Muse Glimmer——开放权重 30B 本地编码模型 / Meta Muse Glimmer – open weights 30B local coding model",
-          "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-10T10:10:02Z"
+          "id": "b4d9826840139581a2a4d5afd3656c9e611db38d",
+          "title": "同行评审已不堪重负——它能在人工智能时代生存下去吗？ / Peer review is overwhelmed—can it survive in the AI era?",
+          "url": "https://arstechnica.com/science/2026/08/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era",
+          "source": "Ars Technica",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-10T11:00:47Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5447,
-      "importance": 0.5447,
-      "importance_score": 0.5447,
+      "score": 0.5419,
+      "importance": 0.5419,
+      "importance_score": 0.5419,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9941,
+        "recency": 0.9784,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-10T10:10:02Z",
-      "latest_at": "2026-08-10T11:25:13.277000Z",
+      "earliest_at": "2026-08-10T11:00:47Z",
+      "latest_at": "2026-08-10T11:41:43.365000Z",
       "primary_item": {
-        "id": "52204fc7d1dbbd74b2476931745956ccdaddf6b6",
-        "title": "Meta Muse Glimmer——开放权重 30B 本地编码模型",
-        "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
-        "source": "research.meta.ai",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_b959742bac13",
-      "title": "Meta推出Muse Glimmer模型，扎克伯格倡导“人人皆可使用”的人工智能",
-      "url": "https://www.businessinsider.com/meta-muse-glimmer-new-open-weight-model-spark-mark-zuckerberg-2026-8",
-      "primary_url": "https://www.businessinsider.com/meta-muse-glimmer-new-open-weight-model-spark-mark-zuckerberg-2026-8",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "ac3dc2f47442c133211258b0004fc99fc5136af6",
-          "title": "Meta推出Muse Glimmer模型，扎克伯格倡导“人人皆可使用”的人工智能",
-          "url": "https://www.businessinsider.com/meta-muse-glimmer-new-open-weight-model-spark-mark-zuckerberg-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-10T11:09:29.506000Z"
-        },
-        {
-          "id": "448b20ac90ed8131761afea9707e9c77f2552df0",
-          "title": "Meta推出Muse Glimmer模型，扎克伯格倡导“人人皆可使用”的人工智能 / Meta launches Muse Glimmer model as Zuckerberg champions AI for 'everyone'",
-          "url": "https://www.businessinsider.com/meta-muse-glimmer-new-open-weight-model-spark-mark-zuckerberg-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-10T10:36:24Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "ac3dc2f47442c133211258b0004fc99fc5136af6",
-          "title": "Meta推出Muse Glimmer模型，扎克伯格倡导“人人皆可使用”的人工智能",
-          "url": "https://www.businessinsider.com/meta-muse-glimmer-new-open-weight-model-spark-mark-zuckerberg-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-10T11:09:29.506000Z"
-        },
-        {
-          "id": "448b20ac90ed8131761afea9707e9c77f2552df0",
-          "title": "Meta推出Muse Glimmer模型，扎克伯格倡导“人人皆可使用”的人工智能 / Meta launches Muse Glimmer model as Zuckerberg champions AI for 'everyone'",
-          "url": "https://www.businessinsider.com/meta-muse-glimmer-new-open-weight-model-spark-mark-zuckerberg-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-10T10:36:24Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5441,
-      "importance": 0.5441,
-      "importance_score": 0.5441,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9904,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-10T10:36:24Z",
-      "latest_at": "2026-08-10T11:09:29.506000Z",
-      "primary_item": {
-        "id": "ac3dc2f47442c133211258b0004fc99fc5136af6",
-        "title": "Meta推出Muse Glimmer模型，扎克伯格倡导“人人皆可使用”的人工智能",
-        "url": "https://www.businessinsider.com/meta-muse-glimmer-new-open-weight-model-spark-mark-zuckerberg-2026-8",
-        "source": "www.businessinsider.com",
+        "id": "166d73d5e1795ecae1007b026da723f48d31baa6",
+        "title": "同行评审已不堪重负——它能在人工智能时代生存下去吗？",
+        "url": "https://arstechnica.com/science/2026/08/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era",
+        "source": "arstechnica.com",
         "source_name": "Buzzing"
       }
     }
