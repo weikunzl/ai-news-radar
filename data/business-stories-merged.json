@@ -1,30 +1,32 @@
 {
-  "generated_at": "2026-08-10T18:27:14.602229Z",
+  "generated_at": "2026-08-10T19:35:35.967353Z",
   "clusters": [
     {
-      "cluster_id": "biz_cluster_3ca66f022481",
+      "cluster_id": "biz_cluster_714baada281c",
       "thesis": "Founder stories provide the most reusable proof layer for Yuanli IP trust-building.",
       "lane": "founder_case",
       "signal_ids": [
         "biz_29aa61b493eb",
         "biz_444f22d060c0",
+        "biz_3b6e450aa009",
         "biz_c64af49aa75e",
         "biz_f202279281aa"
       ],
       "source_count": 2,
-      "importance_score": 52,
+      "importance_score": 53,
       "confidence": "medium",
       "yuanli_mapping": [
         "ftf_trust",
         "yuanli_asset",
         "wealth_flywheel"
       ],
-      "why_it_matters": "4 English evidence items from 2 sources connect this pattern to Yuanli IP.",
+      "why_it_matters": "5 English evidence items from 2 sources connect this pattern to Yuanli IP.",
       "counter_evidence": "See counter_signal cluster for adoption, ROI, and trust risks.",
       "recommended_action": "Convert high-score founder cases into FTF credible story assets.",
       "evidence_refs": [
         "biz_29aa61b493eb",
         "biz_444f22d060c0",
+        "biz_3b6e450aa009",
         "biz_c64af49aa75e",
         "biz_f202279281aa"
       ],
@@ -41,6 +43,11 @@
         },
         {
           "source": "CB Insights",
+          "title": "CEO Interview: Lovie.co",
+          "url": "https://www.cbinsights.com/research/ceo-interview-lovie-co/"
+        },
+        {
+          "source": "CB Insights",
           "title": "Executive Interview: TMRW",
           "url": "https://www.cbinsights.com/research/executive-interview-tmrw/"
         },
@@ -48,6 +55,48 @@
           "source": "Lenny's Newsletter",
           "title": "Claude Code for normal people: skills, voice mode, and how to collaborate with AI",
           "url": "https://www.lennysnewsletter.com/p/claude-code-for-normal-people-skills"
+        }
+      ]
+    },
+    {
+      "cluster_id": "biz_cluster_b1f2f0d1c3ac",
+      "thesis": "Enterprise AI value is moving toward operating-model redesign rather than isolated copilots.",
+      "lane": "enterprise_workflow",
+      "signal_ids": [
+        "biz_46d216258e64",
+        "biz_4c05660420a7",
+        "biz_b7a4c1263e04"
+      ],
+      "source_count": 3,
+      "importance_score": 42,
+      "confidence": "medium",
+      "yuanli_mapping": [
+        "yuanli_os",
+        "ftf_trust"
+      ],
+      "why_it_matters": "3 English evidence items from 3 sources connect this pattern to Yuanli IP.",
+      "counter_evidence": "See counter_signal cluster for adoption, ROI, and trust risks.",
+      "recommended_action": "Map each workflow case to the Yuanli OS organs: soul, memory, judgment, hands.",
+      "evidence_refs": [
+        "biz_46d216258e64",
+        "biz_4c05660420a7",
+        "biz_b7a4c1263e04"
+      ],
+      "top_sources": [
+        {
+          "source": "a16z",
+          "title": "Can Agents Use a Computer Yet? We've Got the Data | Andreessen Horowitz",
+          "url": "https://a16z.com/can-agents-use-a-computer-yet-weve-got-the-data/"
+        },
+        {
+          "source": "GitHub Blog",
+          "title": "Using the GitHub Copilot SDK for Java",
+          "url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java/"
+        },
+        {
+          "source": "Hugging Face Blog",
+          "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+          "url": "https://huggingface.co/blog/muse-glimmer"
         }
       ]
     },
@@ -84,34 +133,6 @@
           "source": "MIT Sloan Management Review",
           "title": "How to Avoid Innovation One-Hit Wonders",
           "url": "https://sloanreview.mit.edu/article/how-to-avoid-innovation-one-hit-wonders/"
-        }
-      ]
-    },
-    {
-      "cluster_id": "biz_cluster_fc80d567cf92",
-      "thesis": "Enterprise AI value is moving toward operating-model redesign rather than isolated copilots.",
-      "lane": "enterprise_workflow",
-      "signal_ids": [
-        "biz_b7a4c1263e04"
-      ],
-      "source_count": 1,
-      "importance_score": 33,
-      "confidence": "watch",
-      "yuanli_mapping": [
-        "yuanli_os",
-        "ftf_trust"
-      ],
-      "why_it_matters": "1 English evidence items from 1 sources connect this pattern to Yuanli IP.",
-      "counter_evidence": "See counter_signal cluster for adoption, ROI, and trust risks.",
-      "recommended_action": "Map each workflow case to the Yuanli OS organs: soul, memory, judgment, hands.",
-      "evidence_refs": [
-        "biz_b7a4c1263e04"
-      ],
-      "top_sources": [
-        {
-          "source": "Hugging Face Blog",
-          "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
-          "url": "https://huggingface.co/blog/muse-glimmer"
         }
       ]
     }
