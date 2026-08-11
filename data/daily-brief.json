@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T15:00:24.062332Z",
+  "generated_at": "2026-08-11T16:07:40.548234Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8564,
-      "importance": 0.8564,
-      "importance_score": 0.8564,
+      "score": 0.8536,
+      "importance": 0.8536,
+      "importance_score": 0.8536,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9802,
+        "recency": 0.9644,
         "story_heat": 0.0
       },
       "category": "official",
@@ -100,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8432,
-      "importance": 0.8432,
-      "importance_score": 0.8432,
+      "score": 0.8403,
+      "importance": 0.8403,
+      "importance_score": 0.8403,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9955,
+        "recency": 0.9796,
         "story_heat": 0.0
       },
       "category": "official",
@@ -162,15 +162,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8078,
-      "importance": 0.8078,
-      "importance_score": 0.8078,
+      "score": 0.8056,
+      "importance": 0.8056,
+      "importance_score": 0.8056,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7545,
+        "recency": 0.7424,
         "story_heat": 0.0
       },
       "category": "official",
@@ -186,6 +186,68 @@
         "title": "使用适用于 Java 的 GitHub Copilot SDK / Using the GitHub Copilot SDK for Java",
         "url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java",
         "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_7a678e9a26d7",
+      "title": "构建人工智能原生财务功能教会了我什么 / What building an AI-native finance function taught me",
+      "url": "https://openai.com/index/building-an-ai-native-finance-function",
+      "primary_url": "https://openai.com/index/building-an-ai-native-finance-function",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "c2a19441382dddabccade1f3a43bf687166ea0a8",
+          "title": "构建人工智能原生财务功能教会了我什么 / What building an AI-native finance function taught me",
+          "url": "https://openai.com/index/building-an-ai-native-finance-function",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-10T17:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "c2a19441382dddabccade1f3a43bf687166ea0a8",
+          "title": "构建人工智能原生财务功能教会了我什么 / What building an AI-native finance function taught me",
+          "url": "https://openai.com/index/building-an-ai-native-finance-function",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-10T17:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8009,
+      "importance": 0.8009,
+      "importance_score": 0.8009,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7161,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-10T17:00:00Z",
+      "latest_at": "2026-08-10T17:00:00Z",
+      "primary_item": {
+        "id": "c2a19441382dddabccade1f3a43bf687166ea0a8",
+        "title": "构建人工智能原生财务功能教会了我什么 / What building an AI-native finance function taught me",
+        "url": "https://openai.com/index/building-an-ai-native-finance-function",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -262,15 +324,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8034,
-      "importance": 0.8034,
-      "importance_score": 0.8034,
+      "score": 0.8008,
+      "importance": 0.8008,
+      "importance_score": 0.8008,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9213,
+        "recency": 0.9065,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -287,68 +349,6 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247487491&idx=1&sn=fcb14aceb054f9a24e22525d3dae6fa0",
         "source": "公众号：蚂蚁百灵（Ling）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_7a678e9a26d7",
-      "title": "构建人工智能原生财务功能教会了我什么 / What building an AI-native finance function taught me",
-      "url": "https://openai.com/index/building-an-ai-native-finance-function",
-      "primary_url": "https://openai.com/index/building-an-ai-native-finance-function",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "c2a19441382dddabccade1f3a43bf687166ea0a8",
-          "title": "构建人工智能原生财务功能教会了我什么 / What building an AI-native finance function taught me",
-          "url": "https://openai.com/index/building-an-ai-native-finance-function",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-10T17:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "c2a19441382dddabccade1f3a43bf687166ea0a8",
-          "title": "构建人工智能原生财务功能教会了我什么 / What building an AI-native finance function taught me",
-          "url": "https://openai.com/index/building-an-ai-native-finance-function",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-10T17:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.803,
-      "importance": 0.803,
-      "importance_score": 0.803,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7278,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-10T17:00:00Z",
-      "latest_at": "2026-08-10T17:00:00Z",
-      "primary_item": {
-        "id": "c2a19441382dddabccade1f3a43bf687166ea0a8",
-        "title": "构建人工智能原生财务功能教会了我什么 / What building an AI-native finance function taught me",
-        "url": "https://openai.com/index/building-an-ai-native-finance-function",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -405,15 +405,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7915,
-      "importance": 0.7915,
-      "importance_score": 0.7915,
+      "score": 0.7888,
+      "importance": 0.7888,
+      "importance_score": 0.7888,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9438,
+        "recency": 0.9286,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -467,15 +467,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8099,
-      "importance": 0.8099,
-      "importance_score": 0.8099,
+      "score": 0.8078,
+      "importance": 0.8078,
+      "importance_score": 0.8078,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7218,
+        "recency": 0.7102,
         "story_heat": 0.0
       },
       "category": "official",
@@ -492,6 +492,67 @@
         "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_f520ee4ee8e7",
+      "title": "消息称英伟达开发万亿参数开源 AI 模型 Nemotron 4，目标挑战全球顶级",
+      "url": "https://www.ithome.com/0/988/524.htm",
+      "primary_url": "https://www.ithome.com/0/988/524.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "2b93cf3286b962a5fd6e30ed6a7accb666ff80c0",
+          "title": "消息称英伟达开发万亿参数开源 AI 模型 Nemotron 4，目标挑战全球顶级",
+          "url": "https://www.ithome.com/0/988/524.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T14:54:16Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "2b93cf3286b962a5fd6e30ed6a7accb666ff80c0",
+          "title": "消息称英伟达开发万亿参数开源 AI 模型 Nemotron 4，目标挑战全球顶级",
+          "url": "https://www.ithome.com/0/988/524.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T14:54:16Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7734,
+      "importance": 0.7734,
+      "importance_score": 0.7734,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9825,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-11T14:54:16Z",
+      "latest_at": "2026-08-11T14:54:16Z",
+      "primary_item": {
+        "id": "2b93cf3286b962a5fd6e30ed6a7accb666ff80c0",
+        "title": "消息称英伟达开发万亿参数开源 AI 模型 Nemotron 4，目标挑战全球顶级",
+        "url": "https://www.ithome.com/0/988/524.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -529,15 +590,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7745,
-      "importance": 0.7745,
-      "importance_score": 0.7745,
+      "score": 0.7717,
+      "importance": 0.7717,
+      "importance_score": 0.7717,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9715,
+        "recency": 0.9559,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -590,15 +651,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7707,
-      "importance": 0.7707,
-      "importance_score": 0.7707,
+      "score": 0.7678,
+      "importance": 0.7678,
+      "importance_score": 0.7678,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9836,
+        "recency": 0.9678,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -670,15 +731,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7701,
-      "importance": 0.7701,
-      "importance_score": 0.7701,
+      "score": 0.7675,
+      "importance": 0.7675,
+      "importance_score": 0.7675,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8748,
+        "recency": 0.8607,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -751,15 +812,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7623,
-      "importance": 0.7623,
-      "importance_score": 0.7623,
+      "score": 0.7598,
+      "importance": 0.7598,
+      "importance_score": 0.7598,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8651,
+        "recency": 0.8512,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -775,67 +836,6 @@
         "title": "编写智能体时，哪种编程语言最合适？",
         "url": "http://danluu.com/pl-tokens",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_73f3559aa209",
-      "title": "消息称 Anthropic 最快今年 9 月上市，向投资者淡化 AI 模型竞争等挑战",
-      "url": "https://www.ithome.com/0/988/239.htm",
-      "primary_url": "https://www.ithome.com/0/988/239.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "1dbe694443d13f59a7f8e45eaab547e907fc473b",
-          "title": "消息称 Anthropic 最快今年 9 月上市，向投资者淡化 AI 模型竞争等挑战",
-          "url": "https://www.ithome.com/0/988/239.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T03:57:53Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "1dbe694443d13f59a7f8e45eaab547e907fc473b",
-          "title": "消息称 Anthropic 最快今年 9 月上市，向投资者淡化 AI 模型竞争等挑战",
-          "url": "https://www.ithome.com/0/988/239.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T03:57:53Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7621,
-      "importance": 0.7621,
-      "importance_score": 0.7621,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8526,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-11T03:57:53Z",
-      "latest_at": "2026-08-11T03:57:53Z",
-      "primary_item": {
-        "id": "1dbe694443d13f59a7f8e45eaab547e907fc473b",
-        "title": "消息称 Anthropic 最快今年 9 月上市，向投资者淡化 AI 模型竞争等挑战",
-        "url": "https://www.ithome.com/0/988/239.htm",
-        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -874,15 +874,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7493,
-      "importance": 0.7493,
-      "importance_score": 0.7493,
+      "score": 0.747,
+      "importance": 0.747,
+      "importance_score": 0.747,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7816,
+        "recency": 0.769,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -934,15 +934,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7647,
-      "importance": 0.7647,
-      "importance_score": 0.7647,
+      "score": 0.7618,
+      "importance": 0.7618,
+      "importance_score": 0.7618,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9836,
+        "recency": 0.9678,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -957,6 +957,67 @@
         "title": "统一 Radix 缓存：为混合模型前缀缓存构建单一树结构",
         "url": "https://www.lmsys.org/blog/2026-08-11-unified-radix-cache",
         "source": "LMSYS：Blog（Chatbot Arena 团队）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_73f3559aa209",
+      "title": "消息称 Anthropic 最快今年 9 月上市，向投资者淡化 AI 模型竞争等挑战",
+      "url": "https://www.ithome.com/0/988/239.htm",
+      "primary_url": "https://www.ithome.com/0/988/239.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "1dbe694443d13f59a7f8e45eaab547e907fc473b",
+          "title": "消息称 Anthropic 最快今年 9 月上市，向投资者淡化 AI 模型竞争等挑战",
+          "url": "https://www.ithome.com/0/988/239.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T03:57:53Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "1dbe694443d13f59a7f8e45eaab547e907fc473b",
+          "title": "消息称 Anthropic 最快今年 9 月上市，向投资者淡化 AI 模型竞争等挑战",
+          "url": "https://www.ithome.com/0/988/239.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T03:57:53Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7596,
+      "importance": 0.7596,
+      "importance_score": 0.7596,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8389,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-11T03:57:53Z",
+      "latest_at": "2026-08-11T03:57:53Z",
+      "primary_item": {
+        "id": "1dbe694443d13f59a7f8e45eaab547e907fc473b",
+        "title": "消息称 Anthropic 最快今年 9 月上市，向投资者淡化 AI 模型竞争等挑战",
+        "url": "https://www.ithome.com/0/988/239.htm",
+        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -1070,15 +1131,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6031,
-      "importance": 0.6031,
-      "importance_score": 0.6031,
+      "score": 0.6005,
+      "importance": 0.6005,
+      "importance_score": 0.6005,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9016,
+        "recency": 0.8871,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1205,15 +1266,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.5965,
-      "importance": 0.5965,
-      "importance_score": 0.5965,
+      "score": 0.594,
+      "importance": 0.594,
+      "importance_score": 0.594,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8651,
+        "recency": 0.8512,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1228,84 +1289,6 @@
         "url": "https://www.anthropic.com/research/riemann-zeta",
         "source": "www.anthropic.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_38e9f5ee0031",
-      "title": "马克·扎克伯格大规模人工智能宣言的四个要点 / Four takeaways from Mark Zuckerberg&#8217;s massive AI manifesto",
-      "url": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
-      "primary_url": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
-      "source": "The Verge",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "9d33987e242c1b1a07ee99e5ef0dc52739d37715",
-          "title": "马克·扎克伯格大规模人工智能宣言的四个要点 / Four takeaways from Mark Zuckerberg&#8217;s massive AI manifesto",
-          "url": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-10T15:19:05Z"
-        },
-        {
-          "id": "07c89dd8d7771cdaa535d881fbd47f32edf40e0b",
-          "title": "马克·扎克伯格大规模人工智能宣言的四个要点 / Four takeaways from Mark Zuckerberg’s massive AI manifesto",
-          "url": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-10T15:19:05Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Verge"
-      ],
-      "items": [
-        {
-          "id": "9d33987e242c1b1a07ee99e5ef0dc52739d37715",
-          "title": "马克·扎克伯格大规模人工智能宣言的四个要点 / Four takeaways from Mark Zuckerberg&#8217;s massive AI manifesto",
-          "url": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-10T15:19:05Z"
-        },
-        {
-          "id": "07c89dd8d7771cdaa535d881fbd47f32edf40e0b",
-          "title": "马克·扎克伯格大规模人工智能宣言的四个要点 / Four takeaways from Mark Zuckerberg’s massive AI manifesto",
-          "url": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-10T15:19:05Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5633,
-      "importance": 0.5633,
-      "importance_score": 0.5633,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.4896,
-        "source_tier": 0.58,
-        "ai_relevance": 0.68,
-        "recency": 0.7103,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-10T15:19:05Z",
-      "latest_at": "2026-08-10T15:19:05Z",
-      "primary_item": {
-        "id": "9d33987e242c1b1a07ee99e5ef0dc52739d37715",
-        "title": "马克·扎克伯格大规模人工智能宣言的四个要点 / Four takeaways from Mark Zuckerberg&#8217;s massive AI manifesto",
-        "url": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
-        "source": "The Verge",
-        "source_name": "Curated Media"
       }
     },
     {
@@ -1381,15 +1364,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5495,
-      "importance": 0.5495,
-      "importance_score": 0.5495,
+      "score": 0.547,
+      "importance": 0.547,
+      "importance_score": 0.547,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8819,
+        "recency": 0.8677,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1459,15 +1442,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5446,
-      "importance": 0.5446,
-      "importance_score": 0.5446,
+      "score": 0.5418,
+      "importance": 0.5418,
+      "importance_score": 0.5418,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9936,
+        "recency": 0.9776,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1538,15 +1521,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5433,
-      "importance": 0.5433,
-      "importance_score": 0.5433,
+      "score": 0.5404,
+      "importance": 0.5404,
+      "importance_score": 0.5404,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9858,
+        "recency": 0.97,
         "story_heat": 0.25
       },
       "category": "watch",
