@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T09:00:06.556642Z",
+  "generated_at": "2026-08-11T10:07:47.794400Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8838,
-      "importance": 0.8838,
-      "importance_score": 0.8838,
+      "score": 0.8816,
+      "importance": 0.8816,
+      "importance_score": 0.8816,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.76,
+        "recency": 0.7477,
         "story_heat": 0.75
       },
       "category": "official",
@@ -234,15 +234,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.8245,
-      "importance": 0.8245,
-      "importance_score": 0.8245,
+      "score": 0.8223,
+      "importance": 0.8223,
+      "importance_score": 0.8223,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7607,
+        "recency": 0.7484,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -296,15 +296,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8217,
-      "importance": 0.8217,
-      "importance_score": 0.8217,
+      "score": 0.8194,
+      "importance": 0.8194,
+      "importance_score": 0.8194,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7871,
+        "recency": 0.7744,
         "story_heat": 0.0
       },
       "category": "official",
@@ -320,107 +320,6 @@
         "title": "构建低延迟多语言语音代理：使用 NVIDIA Magpie TTS 进行开放权重和全面部署控制 / Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
         "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
         "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_3a8585570cab",
-      "title": "GPT 5.6 网络安全 / Expanding Daybreak as the Cyber Defense Window Narrows",
-      "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-      "primary_url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "5360b7d21091149d76dcd12a52ba8750e544fbae",
-          "title": "GPT 5.6 网络安全 / Expanding Daybreak as the Cyber Defense Window Narrows",
-          "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-10T10:00:00Z"
-        },
-        {
-          "id": "d53e1173335713948c031579c35493314db7562c",
-          "title": "GPT 5.6 网络安全",
-          "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-11T05:46:03.587000Z"
-        },
-        {
-          "id": "95b1b933484992e4ce5309f0273f9f60cf9243d0",
-          "title": "GPT 5.6 网络安全 / GPT 5.6 Cyber",
-          "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-10T17:14:00Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "OpenAI News",
-        "openai.com"
-      ],
-      "items": [
-        {
-          "id": "5360b7d21091149d76dcd12a52ba8750e544fbae",
-          "title": "GPT 5.6 网络安全 / Expanding Daybreak as the Cyber Defense Window Narrows",
-          "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-10T10:00:00Z"
-        },
-        {
-          "id": "d53e1173335713948c031579c35493314db7562c",
-          "title": "GPT 5.6 网络安全",
-          "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-11T05:46:03.587000Z"
-        },
-        {
-          "id": "95b1b933484992e4ce5309f0273f9f60cf9243d0",
-          "title": "GPT 5.6 网络安全 / GPT 5.6 Cyber",
-          "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-10T17:14:00Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8511,
-      "importance": 0.8511,
-      "importance_score": 0.8511,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7174,
-        "story_heat": 0.5
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-10T10:00:00Z",
-      "latest_at": "2026-08-11T05:46:03.587000Z",
-      "primary_item": {
-        "id": "5360b7d21091149d76dcd12a52ba8750e544fbae",
-        "title": "GPT 5.6 网络安全 / Expanding Daybreak as the Cyber Defense Window Narrows",
-        "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -459,15 +358,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8201,
-      "importance": 0.8201,
-      "importance_score": 0.8201,
+      "score": 0.8177,
+      "importance": 0.8177,
+      "importance_score": 0.8177,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8229,
+        "recency": 0.8096,
         "story_heat": 0.0
       },
       "category": "official",
@@ -484,6 +383,106 @@
         "url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java",
         "source": "GitHub AI & ML",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_6cbde97d8260",
+      "title": "Ling-3.0-tiny 正式开源：1.3B 激活参数如何进入真实任务",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247487491&idx=1&sn=fcb14aceb054f9a24e22525d3dae6fa0",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247487491&idx=1&sn=fcb14aceb054f9a24e22525d3dae6fa0",
+      "source": "公众号：蚂蚁百灵（Ling）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f0a6eedb54f0fb1cb79de2bf700485192da8d8b8",
+          "title": "Ling-3.0-tiny 正式开源：1.3B 激活参数如何进入真实任务",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247487491&idx=1&sn=fcb14aceb054f9a24e22525d3dae6fa0",
+          "source": "公众号：蚂蚁百灵（Ling）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T09:20:00Z"
+        },
+        {
+          "id": "fcc1f787a8f50694d563e839c3a5df0f5b260040",
+          "title": "ZCode全面升级：Goal、Subagents、Remote Control与闲时任务四大功能上线",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494052&idx=1&sn=ee3ab3d0f4550e9120927c53a27522c9",
+          "source": "公众号：智谱（GLM）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T05:52:25Z"
+        },
+        {
+          "id": "d29517a81457995e790278d11211679f24adbff8",
+          "title": "微信小微AI帮写与AI点评内测：朋友圈最后一点人味正在消失",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685081&idx=1&sn=13a05578a3959c047209c8e74b56fa48",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T00:12:00Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "公众号：数字生命卡兹克",
+        "公众号：智谱（GLM）",
+        "公众号：蚂蚁百灵（Ling）"
+      ],
+      "items": [
+        {
+          "id": "f0a6eedb54f0fb1cb79de2bf700485192da8d8b8",
+          "title": "Ling-3.0-tiny 正式开源：1.3B 激活参数如何进入真实任务",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247487491&idx=1&sn=fcb14aceb054f9a24e22525d3dae6fa0",
+          "source": "公众号：蚂蚁百灵（Ling）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T09:20:00Z"
+        },
+        {
+          "id": "fcc1f787a8f50694d563e839c3a5df0f5b260040",
+          "title": "ZCode全面升级：Goal、Subagents、Remote Control与闲时任务四大功能上线",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494052&idx=1&sn=ee3ab3d0f4550e9120927c53a27522c9",
+          "source": "公众号：智谱（GLM）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T05:52:25Z"
+        },
+        {
+          "id": "d29517a81457995e790278d11211679f24adbff8",
+          "title": "微信小微AI帮写与AI点评内测：朋友圈最后一点人味正在消失",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685081&idx=1&sn=13a05578a3959c047209c8e74b56fa48",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T00:12:00Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8155,
+      "importance": 0.8155,
+      "importance_score": 0.8155,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9886,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-11T00:12:00Z",
+      "latest_at": "2026-08-11T09:20:00Z",
+      "primary_item": {
+        "id": "f0a6eedb54f0fb1cb79de2bf700485192da8d8b8",
+        "title": "Ling-3.0-tiny 正式开源：1.3B 激活参数如何进入真实任务",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247487491&idx=1&sn=fcb14aceb054f9a24e22525d3dae6fa0",
+        "source": "公众号：蚂蚁百灵（Ling）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -521,15 +520,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8097,
-      "importance": 0.8097,
-      "importance_score": 0.8097,
+      "score": 0.8075,
+      "importance": 0.8075,
+      "importance_score": 0.8075,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.765,
+        "recency": 0.7526,
         "story_heat": 0.0
       },
       "category": "official",
@@ -583,15 +582,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8018,
-      "importance": 0.8018,
-      "importance_score": 0.8018,
+      "score": 0.7996,
+      "importance": 0.7996,
+      "importance_score": 0.7996,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7655,
+        "recency": 0.7532,
         "story_heat": 0.0
       },
       "category": "official",
@@ -607,6 +606,68 @@
         "title": "使用新的人工智能工具发展您的营销 / Evolve your marketing with new AI tools",
         "url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates",
         "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_7a678e9a26d7",
+      "title": "构建人工智能原生财务功能教会了我什么 / What building an AI-native finance function taught me",
+      "url": "https://openai.com/index/building-an-ai-native-finance-function",
+      "primary_url": "https://openai.com/index/building-an-ai-native-finance-function",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "c2a19441382dddabccade1f3a43bf687166ea0a8",
+          "title": "构建人工智能原生财务功能教会了我什么 / What building an AI-native finance function taught me",
+          "url": "https://openai.com/index/building-an-ai-native-finance-function",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-10T17:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "c2a19441382dddabccade1f3a43bf687166ea0a8",
+          "title": "构建人工智能原生财务功能教会了我什么 / What building an AI-native finance function taught me",
+          "url": "https://openai.com/index/building-an-ai-native-finance-function",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-10T17:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8126,
+      "importance": 0.8126,
+      "importance_score": 0.8126,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7809,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-10T17:00:00Z",
+      "latest_at": "2026-08-10T17:00:00Z",
+      "primary_item": {
+        "id": "c2a19441382dddabccade1f3a43bf687166ea0a8",
+        "title": "构建人工智能原生财务功能教会了我什么 / What building an AI-native finance function taught me",
+        "url": "https://openai.com/index/building-an-ai-native-finance-function",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -664,15 +725,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7843,
-      "importance": 0.7843,
-      "importance_score": 0.7843,
+      "score": 0.7816,
+      "importance": 0.7816,
+      "importance_score": 0.7816,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.954,
+        "recency": 0.9386,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -689,149 +750,6 @@
         "url": "https://www.marktechpost.com/2026/08/10/implementing-a-minimax-h3-multimodal-video-and-audio-generation-pipeline-with-comfyui-apis",
         "source": "MarkTechPost（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_6cbde97d8260",
-      "title": "ZCode全面升级：Goal、Subagents、Remote Control与闲时任务四大功能上线",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494052&idx=1&sn=ee3ab3d0f4550e9120927c53a27522c9",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494052&idx=1&sn=ee3ab3d0f4550e9120927c53a27522c9",
-      "source": "公众号：智谱（GLM）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "fcc1f787a8f50694d563e839c3a5df0f5b260040",
-          "title": "ZCode全面升级：Goal、Subagents、Remote Control与闲时任务四大功能上线",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494052&idx=1&sn=ee3ab3d0f4550e9120927c53a27522c9",
-          "source": "公众号：智谱（GLM）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T05:52:25Z"
-        },
-        {
-          "id": "d29517a81457995e790278d11211679f24adbff8",
-          "title": "微信小微AI帮写与AI点评内测：朋友圈最后一点人味正在消失",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685081&idx=1&sn=13a05578a3959c047209c8e74b56fa48",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T00:12:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "公众号：数字生命卡兹克",
-        "公众号：智谱（GLM）"
-      ],
-      "items": [
-        {
-          "id": "fcc1f787a8f50694d563e839c3a5df0f5b260040",
-          "title": "ZCode全面升级：Goal、Subagents、Remote Control与闲时任务四大功能上线",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494052&idx=1&sn=ee3ab3d0f4550e9120927c53a27522c9",
-          "source": "公众号：智谱（GLM）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T05:52:25Z"
-        },
-        {
-          "id": "d29517a81457995e790278d11211679f24adbff8",
-          "title": "微信小微AI帮写与AI点评内测：朋友圈最后一点人味正在消失",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685081&idx=1&sn=13a05578a3959c047209c8e74b56fa48",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T00:12:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7816,
-      "importance": 0.7816,
-      "importance_score": 0.7816,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9558,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-11T00:12:00Z",
-      "latest_at": "2026-08-11T05:52:25Z",
-      "primary_item": {
-        "id": "fcc1f787a8f50694d563e839c3a5df0f5b260040",
-        "title": "ZCode全面升级：Goal、Subagents、Remote Control与闲时任务四大功能上线",
-        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494052&idx=1&sn=ee3ab3d0f4550e9120927c53a27522c9",
-        "source": "公众号：智谱（GLM）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_90d59cd2b4ce",
-      "title": "使知识蒸馏足够便宜以进行大规模运行 / Making Knowledge Distillation Cheap Enough to Run at Scale",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
-      "primary_url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "d5f6590a6a594ba5c61e9f3f87fc9e2b2b9531c7",
-          "title": "使知识蒸馏足够便宜以进行大规模运行 / Making Knowledge Distillation Cheap Enough to Run at Scale",
-          "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-10T10:05:36Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "d5f6590a6a594ba5c61e9f3f87fc9e2b2b9531c7",
-          "title": "使知识蒸馏足够便宜以进行大规模运行 / Making Knowledge Distillation Cheap Enough to Run at Scale",
-          "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-10T10:05:36Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8093,
-      "importance": 0.8093,
-      "importance_score": 0.8093,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7183,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-10T10:05:36Z",
-      "latest_at": "2026-08-10T10:05:36Z",
-      "primary_item": {
-        "id": "d5f6590a6a594ba5c61e9f3f87fc9e2b2b9531c7",
-        "title": "使知识蒸馏足够便宜以进行大规模运行 / Making Knowledge Distillation Cheap Enough to Run at Scale",
-        "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -869,15 +787,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.776,
-      "importance": 0.776,
-      "importance_score": 0.776,
+      "score": 0.7733,
+      "importance": 0.7733,
+      "importance_score": 0.7733,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9298,
+        "recency": 0.9148,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -930,15 +848,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8008,
-      "importance": 0.8008,
-      "importance_score": 0.8008,
+      "score": 0.7986,
+      "importance": 0.7986,
+      "importance_score": 0.7986,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7602,
+        "recency": 0.7479,
         "story_heat": 0.0
       },
       "category": "official",
@@ -992,15 +910,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.762,
-      "importance": 0.762,
-      "importance_score": 0.762,
+      "score": 0.7595,
+      "importance": 0.7595,
+      "importance_score": 0.7595,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8524,
+        "recency": 0.8386,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1019,21 +937,21 @@
       }
     },
     {
-      "story_id": "story_7a678e9a26d7",
-      "title": "构建人工智能原生财务功能教会了我什么 / What building an AI-native finance function taught me",
-      "url": "https://openai.com/index/building-an-ai-native-finance-function",
-      "primary_url": "https://openai.com/index/building-an-ai-native-finance-function",
+      "story_id": "story_c7b962b1d9ef",
+      "title": "Model ML借助GPT-5.6 Sol更高效地完成财务工作 / Model ML completes finance work more efficiently with GPT-5.6 Sol",
+      "url": "https://openai.com/index/model-ml",
+      "primary_url": "https://openai.com/index/model-ml",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "c2a19441382dddabccade1f3a43bf687166ea0a8",
-          "title": "构建人工智能原生财务功能教会了我什么 / What building an AI-native finance function taught me",
-          "url": "https://openai.com/index/building-an-ai-native-finance-function",
+          "id": "7b7fb4cd8d9595a85bca47cb4ca837b2f123871f",
+          "title": "Model ML借助GPT-5.6 Sol更高效地完成财务工作 / Model ML completes finance work more efficiently with GPT-5.6 Sol",
+          "url": "https://openai.com/index/model-ml",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-10T17:00:00Z"
+          "published_at": "2026-08-10T12:00:00Z"
         }
       ],
       "source_count": 1,
@@ -1042,26 +960,26 @@
       ],
       "items": [
         {
-          "id": "c2a19441382dddabccade1f3a43bf687166ea0a8",
-          "title": "构建人工智能原生财务功能教会了我什么 / What building an AI-native finance function taught me",
-          "url": "https://openai.com/index/building-an-ai-native-finance-function",
+          "id": "7b7fb4cd8d9595a85bca47cb4ca837b2f123871f",
+          "title": "Model ML借助GPT-5.6 Sol更高效地完成财务工作 / Model ML completes finance work more efficiently with GPT-5.6 Sol",
+          "url": "https://openai.com/index/model-ml",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-10T17:00:00Z"
+          "published_at": "2026-08-10T12:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8149,
-      "importance": 0.8149,
-      "importance_score": 0.8149,
+      "score": 0.8108,
+      "importance": 0.8108,
+      "importance_score": 0.8108,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7937,
+        "ai_relevance": 0.95,
+        "recency": 0.7265,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1070,12 +988,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-10T17:00:00Z",
-      "latest_at": "2026-08-10T17:00:00Z",
+      "earliest_at": "2026-08-10T12:00:00Z",
+      "latest_at": "2026-08-10T12:00:00Z",
       "primary_item": {
-        "id": "c2a19441382dddabccade1f3a43bf687166ea0a8",
-        "title": "构建人工智能原生财务功能教会了我什么 / What building an AI-native finance function taught me",
-        "url": "https://openai.com/index/building-an-ai-native-finance-function",
+        "id": "7b7fb4cd8d9595a85bca47cb4ca837b2f123871f",
+        "title": "Model ML借助GPT-5.6 Sol更高效地完成财务工作 / Model ML completes finance work more efficiently with GPT-5.6 Sol",
+        "url": "https://openai.com/index/model-ml",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
@@ -1134,15 +1052,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7764,
-      "importance": 0.7764,
-      "importance_score": 0.7764,
+      "score": 0.7737,
+      "importance": 0.7737,
+      "importance_score": 0.7737,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9435,
+        "recency": 0.9282,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1196,15 +1114,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7984,
-      "importance": 0.7984,
-      "importance_score": 0.7984,
+      "score": 0.7962,
+      "importance": 0.7962,
+      "importance_score": 0.7962,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7466,
+        "recency": 0.7345,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1221,66 +1139,6 @@
         "url": "https://github.blog/changelog/2026-08-10-custom-thread-subscriptions-are-being-deprecated",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_3792844fb458",
-      "title": "Scale AI 开源 Muse 系列模型",
-      "url": "https://x.com/alexandr_wang/status/2086756152034066792",
-      "primary_url": "https://x.com/alexandr_wang/status/2086756152034066792",
-      "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b7a1d176abd8a43e84fd375862e58907e1fd4ee0",
-          "title": "Scale AI 开源 Muse 系列模型",
-          "url": "https://x.com/alexandr_wang/status/2086756152034066792",
-          "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-10T10:06:51Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)"
-      ],
-      "items": [
-        {
-          "id": "b7a1d176abd8a43e84fd375862e58907e1fd4ee0",
-          "title": "Scale AI 开源 Muse 系列模型",
-          "url": "https://x.com/alexandr_wang/status/2086756152034066792",
-          "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-10T10:06:51Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7319,
-      "importance": 0.7319,
-      "importance_score": 0.7319,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7186,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-10T10:06:51Z",
-      "latest_at": "2026-08-10T10:06:51Z",
-      "primary_item": {
-        "id": "b7a1d176abd8a43e84fd375862e58907e1fd4ee0",
-        "title": "Scale AI 开源 Muse 系列模型",
-        "url": "https://x.com/alexandr_wang/status/2086756152034066792",
-        "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -1318,15 +1176,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7244,
-      "importance": 0.7244,
-      "importance_score": 0.7244,
+      "score": 0.7222,
+      "importance": 0.7222,
+      "importance_score": 0.7222,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7602,
+        "recency": 0.7479,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1341,68 +1199,6 @@
         "url": "https://www.a16z.news/p/can-agents-use-a-computer-yet-weve",
         "source": "a16z：News（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_c7b962b1d9ef",
-      "title": "Model ML借助GPT-5.6 Sol更高效地完成财务工作 / Model ML completes finance work more efficiently with GPT-5.6 Sol",
-      "url": "https://openai.com/index/model-ml",
-      "primary_url": "https://openai.com/index/model-ml",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "7b7fb4cd8d9595a85bca47cb4ca837b2f123871f",
-          "title": "Model ML借助GPT-5.6 Sol更高效地完成财务工作 / Model ML completes finance work more efficiently with GPT-5.6 Sol",
-          "url": "https://openai.com/index/model-ml",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-10T12:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "7b7fb4cd8d9595a85bca47cb4ca837b2f123871f",
-          "title": "Model ML借助GPT-5.6 Sol更高效地完成财务工作 / Model ML completes finance work more efficiently with GPT-5.6 Sol",
-          "url": "https://openai.com/index/model-ml",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-10T12:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8129,
-      "importance": 0.8129,
-      "importance_score": 0.8129,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7384,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-10T12:00:00Z",
-      "latest_at": "2026-08-10T12:00:00Z",
-      "primary_item": {
-        "id": "7b7fb4cd8d9595a85bca47cb4ca837b2f123871f",
-        "title": "Model ML借助GPT-5.6 Sol更高效地完成财务工作 / Model ML completes finance work more efficiently with GPT-5.6 Sol",
-        "url": "https://openai.com/index/model-ml",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1440,15 +1236,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7227,
-      "importance": 0.7227,
-      "importance_score": 0.7227,
+      "score": 0.7202,
+      "importance": 0.7202,
+      "importance_score": 0.7202,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8674,
+        "recency": 0.8533,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1463,6 +1259,354 @@
         "url": "https://www.databricks.com/blog/how-ground-genie-agents-both-structured-data-and-documents-without-losing-governance",
         "source": "Databricks：Blog（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_fba14a85c872",
+      "title": "Show HN：Mcptoon – 令牌高效的 MCP CLI 客户端 / Show HN: Mcptoon – Token-efficient MCP CLI client",
+      "url": "https://news.ycombinator.com/item?id=49253721",
+      "primary_url": "https://news.ycombinator.com/item?id=49253721",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "0ab469031c342d0ab4db6aca22c8e92ad6d523ff",
+          "title": "Show HN：Mcptoon – 令牌高效的 MCP CLI 客户端 / Show HN: Mcptoon – Token-efficient MCP CLI client",
+          "url": "https://news.ycombinator.com/item?id=49253721",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-11T07:50:03.944000Z"
+        },
+        {
+          "id": "10630e29d4f26c86507dd1caffc5e53e627722d0",
+          "title": "Show HN：Mcptoon – MCP CLI 客户端，可将工具发现令牌减少 97% / Show HN: Mcptoon – MCP CLI client that cuts tool discovery tokens by 97%",
+          "url": "https://news.ycombinator.com/item?id=49253721",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-11T06:19:14.153000Z"
+        },
+        {
+          "id": "997d1fe5a14753fe40650ff1e81706a03c62e160",
+          "title": "Show HN: Mcptoon——一款 MCP CLI 客户端，可将工具发现令牌数量减少 97%",
+          "url": "https://github.com/activeing123/mcptoon",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-11T05:30:08.185000Z"
+        },
+        {
+          "id": "855b392a4053aca4d0be6159a94883b982efb713",
+          "title": "Show HN: Mcptoon——一款 MCP CLI 客户端，可将工具发现令牌数量减少 97% / Show HN: Mcptoon – MCP CLI client that cuts tool discovery tokens by 97%",
+          "url": "https://github.com/activeing123/mcptoon",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-11T05:26:58Z"
+        },
+        {
+          "id": "4194c21004c9b7034dbb0985f7b813147dd0b4a4",
+          "title": "Show HN: Mcptoon——一款 MCP CLI 客户端，可将工具发现令牌数量减少 97% / Show HN: Mcptoon – Token-efficient MCP CLI client",
+          "url": "https://github.com/activeing123/mcptoon",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-11T05:26:58Z"
+        }
+      ],
+      "source_count": 5,
+      "source_names": [
+        "Hacker News",
+        "Hacker News (黑客新闻)",
+        "github.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "0ab469031c342d0ab4db6aca22c8e92ad6d523ff",
+          "title": "Show HN：Mcptoon – 令牌高效的 MCP CLI 客户端 / Show HN: Mcptoon – Token-efficient MCP CLI client",
+          "url": "https://news.ycombinator.com/item?id=49253721",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-11T07:50:03.944000Z"
+        },
+        {
+          "id": "10630e29d4f26c86507dd1caffc5e53e627722d0",
+          "title": "Show HN：Mcptoon – MCP CLI 客户端，可将工具发现令牌减少 97% / Show HN: Mcptoon – MCP CLI client that cuts tool discovery tokens by 97%",
+          "url": "https://news.ycombinator.com/item?id=49253721",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-11T06:19:14.153000Z"
+        },
+        {
+          "id": "997d1fe5a14753fe40650ff1e81706a03c62e160",
+          "title": "Show HN: Mcptoon——一款 MCP CLI 客户端，可将工具发现令牌数量减少 97%",
+          "url": "https://github.com/activeing123/mcptoon",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-11T05:30:08.185000Z"
+        },
+        {
+          "id": "855b392a4053aca4d0be6159a94883b982efb713",
+          "title": "Show HN: Mcptoon——一款 MCP CLI 客户端，可将工具发现令牌数量减少 97% / Show HN: Mcptoon – MCP CLI client that cuts tool discovery tokens by 97%",
+          "url": "https://github.com/activeing123/mcptoon",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-11T05:26:58Z"
+        },
+        {
+          "id": "4194c21004c9b7034dbb0985f7b813147dd0b4a4",
+          "title": "Show HN: Mcptoon——一款 MCP CLI 客户端，可将工具发现令牌数量减少 97% / Show HN: Mcptoon – Token-efficient MCP CLI client",
+          "url": "https://github.com/activeing123/mcptoon",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-11T05:26:58Z"
+        }
+      ],
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.6149,
+      "importance": 0.6149,
+      "importance_score": 0.6149,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9674,
+        "story_heat": 1.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-11T05:26:58Z",
+      "latest_at": "2026-08-11T07:50:03.944000Z",
+      "primary_item": {
+        "id": "0ab469031c342d0ab4db6aca22c8e92ad6d523ff",
+        "title": "Show HN：Mcptoon – 令牌高效的 MCP CLI 客户端 / Show HN: Mcptoon – Token-efficient MCP CLI client",
+        "url": "https://news.ycombinator.com/item?id=49253721",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_0b2744e224d2",
+      "title": "黎曼ζ函数的三分之二以上的零点位于临界线上",
+      "url": "https://www.anthropic.com/research/riemann-zeta",
+      "primary_url": "https://www.anthropic.com/research/riemann-zeta",
+      "source": "www.anthropic.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "61c14183cc4a57d9e1b8d730b0f6c973a4808aa2",
+          "title": "黎曼ζ函数的三分之二以上的零点位于临界线上",
+          "url": "https://www.anthropic.com/research/riemann-zeta",
+          "source": "www.anthropic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-11T04:58:14.972000Z"
+        },
+        {
+          "id": "427659b5f9990e5bbf1a8b83e39fb2f1485c8bc4",
+          "title": "进一步了解克劳德的数学能力 / More than two thirds of the zeros of the Riemann zeta function lie on the critical line",
+          "url": "https://www.anthropic.com/research/riemann-zeta",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-11T01:49:16Z"
+        },
+        {
+          "id": "12173ad590578b11991d7b1d1b2842489544711d",
+          "title": "进一步了解克劳德的数学能力",
+          "url": "https://www.anthropic.com/research/riemann-zeta",
+          "source": "www.anthropic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-10T19:54:08.696000Z"
+        },
+        {
+          "id": "3240bc91afd2def4fa0b271aa9c2dd313d133843",
+          "title": "进一步了解克劳德的数学能力 / Learning more about Claude's mathematical capabilities",
+          "url": "https://news.ycombinator.com/item?id=49247070",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-10T18:15:12.401000Z"
+        },
+        {
+          "id": "b3d7644a043d7c8122eee16ee3c38d119445ebd3",
+          "title": "进一步了解克劳德的数学能力 / Learning more about Claude's mathematical capabilities",
+          "url": "https://www.anthropic.com/research/riemann-zeta",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-10T17:41:13Z"
+        }
+      ],
+      "source_count": 5,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Lobsters (技术社区)",
+        "hackernews",
+        "www.anthropic.com"
+      ],
+      "items": [
+        {
+          "id": "61c14183cc4a57d9e1b8d730b0f6c973a4808aa2",
+          "title": "黎曼ζ函数的三分之二以上的零点位于临界线上",
+          "url": "https://www.anthropic.com/research/riemann-zeta",
+          "source": "www.anthropic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-11T04:58:14.972000Z"
+        },
+        {
+          "id": "427659b5f9990e5bbf1a8b83e39fb2f1485c8bc4",
+          "title": "进一步了解克劳德的数学能力 / More than two thirds of the zeros of the Riemann zeta function lie on the critical line",
+          "url": "https://www.anthropic.com/research/riemann-zeta",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-11T01:49:16Z"
+        },
+        {
+          "id": "12173ad590578b11991d7b1d1b2842489544711d",
+          "title": "进一步了解克劳德的数学能力",
+          "url": "https://www.anthropic.com/research/riemann-zeta",
+          "source": "www.anthropic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-10T19:54:08.696000Z"
+        },
+        {
+          "id": "3240bc91afd2def4fa0b271aa9c2dd313d133843",
+          "title": "进一步了解克劳德的数学能力 / Learning more about Claude's mathematical capabilities",
+          "url": "https://news.ycombinator.com/item?id=49247070",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-10T18:15:12.401000Z"
+        },
+        {
+          "id": "b3d7644a043d7c8122eee16ee3c38d119445ebd3",
+          "title": "进一步了解克劳德的数学能力 / Learning more about Claude's mathematical capabilities",
+          "url": "https://www.anthropic.com/research/riemann-zeta",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-10T17:41:13Z"
+        }
+      ],
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.6079,
+      "importance": 0.6079,
+      "importance_score": 0.6079,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9282,
+        "story_heat": 1.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-10T17:41:13Z",
+      "latest_at": "2026-08-11T04:58:14.972000Z",
+      "primary_item": {
+        "id": "61c14183cc4a57d9e1b8d730b0f6c973a4808aa2",
+        "title": "黎曼ζ函数的三分之二以上的零点位于临界线上",
+        "url": "https://www.anthropic.com/research/riemann-zeta",
+        "source": "www.anthropic.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_38e9f5ee0031",
+      "title": "马克·扎克伯格大规模人工智能宣言的四个要点 / Four takeaways from Mark Zuckerberg&#8217;s massive AI manifesto",
+      "url": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
+      "primary_url": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
+      "source": "The Verge",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "9d33987e242c1b1a07ee99e5ef0dc52739d37715",
+          "title": "马克·扎克伯格大规模人工智能宣言的四个要点 / Four takeaways from Mark Zuckerberg&#8217;s massive AI manifesto",
+          "url": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-10T15:19:05Z"
+        },
+        {
+          "id": "07c89dd8d7771cdaa535d881fbd47f32edf40e0b",
+          "title": "马克·扎克伯格大规模人工智能宣言的四个要点 / Four takeaways from Mark Zuckerberg’s massive AI manifesto",
+          "url": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-10T15:19:05Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Verge"
+      ],
+      "items": [
+        {
+          "id": "9d33987e242c1b1a07ee99e5ef0dc52739d37715",
+          "title": "马克·扎克伯格大规模人工智能宣言的四个要点 / Four takeaways from Mark Zuckerberg&#8217;s massive AI manifesto",
+          "url": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-10T15:19:05Z"
+        },
+        {
+          "id": "07c89dd8d7771cdaa535d881fbd47f32edf40e0b",
+          "title": "马克·扎克伯格大规模人工智能宣言的四个要点 / Four takeaways from Mark Zuckerberg’s massive AI manifesto",
+          "url": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-10T15:19:05Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5727,
+      "importance": 0.5727,
+      "importance_score": 0.5727,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.4896,
+        "source_tier": 0.58,
+        "ai_relevance": 0.68,
+        "recency": 0.7621,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-10T15:19:05Z",
+      "latest_at": "2026-08-10T15:19:05Z",
+      "primary_item": {
+        "id": "9d33987e242c1b1a07ee99e5ef0dc52739d37715",
+        "title": "马克·扎克伯格大规模人工智能宣言的四个要点 / Four takeaways from Mark Zuckerberg&#8217;s massive AI manifesto",
+        "url": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
+        "source": "The Verge",
+        "source_name": "Curated Media"
       }
     }
   ]
