@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T16:01:05.089091Z",
+  "generated_at": "2026-08-12T17:07:40.872983Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8609,
-      "importance": 0.8609,
-      "importance_score": 0.8609,
+      "score": 0.8581,
+      "importance": 0.8581,
+      "importance_score": 0.8581,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.9715,
+        "recency": 0.956,
         "story_heat": 0.0
       },
       "category": "official",
@@ -100,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8389,
-      "importance": 0.8389,
-      "importance_score": 0.8389,
+      "score": 0.8361,
+      "importance": 0.8361,
+      "importance_score": 0.8361,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9717,
+        "recency": 0.9563,
         "story_heat": 0.0
       },
       "category": "official",
@@ -124,6 +124,68 @@
         "title": "将手语人工智能交到用户手中 / Putting sign language AI into users’ hands",
         "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands",
         "source": "Google DeepMind",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_e43158037a35",
+      "title": "OlmoEarth 嵌入简介：从 OlmoEarth Studio 导出的自定义嵌入用于下游分析 / Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+      "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+      "primary_url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "c040381a7f8f8b0de575ea54affbbfc6e27eda2d",
+          "title": "OlmoEarth 嵌入简介：从 OlmoEarth Studio 导出的自定义嵌入用于下游分析 / Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+          "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-12T16:14:36Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "c040381a7f8f8b0de575ea54affbbfc6e27eda2d",
+          "title": "OlmoEarth 嵌入简介：从 OlmoEarth Studio 导出的自定义嵌入用于下游分析 / Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+          "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-12T16:14:36Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8577,
+      "importance": 0.8577,
+      "importance_score": 0.8577,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9873,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-12T16:14:36Z",
+      "latest_at": "2026-08-12T16:14:36Z",
+      "primary_item": {
+        "id": "c040381a7f8f8b0de575ea54affbbfc6e27eda2d",
+        "title": "OlmoEarth 嵌入简介：从 OlmoEarth Studio 导出的自定义嵌入用于下游分析 / Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+        "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+        "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       }
     },
@@ -219,15 +281,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8297,
-      "importance": 0.8297,
-      "importance_score": 0.8297,
+      "score": 0.8272,
+      "importance": 0.8272,
+      "importance_score": 0.8272,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8615,
+        "recency": 0.8478,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -281,15 +343,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8278,
-      "importance": 0.8278,
-      "importance_score": 0.8278,
+      "score": 0.8253,
+      "importance": 0.8253,
+      "importance_score": 0.8253,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8653,
+        "recency": 0.8516,
         "story_heat": 0.0
       },
       "category": "official",
@@ -305,88 +367,6 @@
         "title": "从协助到执行：企业如何让AI发挥作用 / From assistance to execution: How enterprises put AI to work",
         "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
         "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_9514940f045b",
-      "title": "AMIE 研究医疗 AI 系统首次展示实时临床视频问诊能力 / AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations",
-      "primary_url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "75b03ab3d29079ef7777ecfe34d715fd124b0e6f",
-          "title": "AMIE 研究医疗 AI 系统首次展示实时临床视频问诊能力 / AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-11T17:00:00Z"
-        },
-        {
-          "id": "ed80cc76f03944ad704e39a7ee20e3275fa1411c",
-          "title": "AMIE 研究医疗 AI 系统首次展示实时临床视频问诊能力",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations",
-          "source": "Google Blog：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T17:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Google AI Blog",
-        "Google Blog：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "75b03ab3d29079ef7777ecfe34d715fd124b0e6f",
-          "title": "AMIE 研究医疗 AI 系统首次展示实时临床视频问诊能力 / AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-11T17:00:00Z"
-        },
-        {
-          "id": "ed80cc76f03944ad704e39a7ee20e3275fa1411c",
-          "title": "AMIE 研究医疗 AI 系统首次展示实时临床视频问诊能力",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations",
-          "source": "Google Blog：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T17:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8181,
-      "importance": 0.8181,
-      "importance_score": 0.8181,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7172,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-11T17:00:00Z",
-      "latest_at": "2026-08-11T17:00:00Z",
-      "primary_item": {
-        "id": "75b03ab3d29079ef7777ecfe34d715fd124b0e6f",
-        "title": "AMIE 研究医疗 AI 系统首次展示实时临床视频问诊能力 / AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
-        "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations",
-        "source": "Google AI Blog",
         "source_name": "Official AI Updates"
       }
     },
@@ -425,15 +405,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8073,
-      "importance": 0.8073,
-      "importance_score": 0.8073,
+      "score": 0.8052,
+      "importance": 0.8052,
+      "importance_score": 0.8052,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7518,
+        "recency": 0.7399,
         "story_heat": 0.0
       },
       "category": "official",
@@ -487,15 +467,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8034,
-      "importance": 0.8034,
-      "importance_score": 0.8034,
+      "score": 0.8013,
+      "importance": 0.8013,
+      "importance_score": 0.8013,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7301,
+        "recency": 0.7185,
         "story_heat": 0.0
       },
       "category": "official",
@@ -512,6 +492,67 @@
         "url": "https://github.blog/changelog/2026-08-11-mai-code-1-1-flash-available-in-github-copilot",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_f23f549d42d2",
+      "title": "阿里开放 Qwen3.8-2.4T-A95B 模型权重：2.4T MoE、激活 95B、原生 256K 上下文",
+      "url": "https://www.ithome.com/0/989/001.htm",
+      "primary_url": "https://www.ithome.com/0/989/001.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6ac7ca081eff008390b2045aa33b5cf28a8d2efc",
+          "title": "阿里开放 Qwen3.8-2.4T-A95B 模型权重：2.4T MoE、激活 95B、原生 256K 上下文",
+          "url": "https://www.ithome.com/0/989/001.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-12T16:10:01Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "6ac7ca081eff008390b2045aa33b5cf28a8d2efc",
+          "title": "阿里开放 Qwen3.8-2.4T-A95B 模型权重：2.4T MoE、激活 95B、原生 256K 上下文",
+          "url": "https://www.ithome.com/0/989/001.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-12T16:10:01Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7711,
+      "importance": 0.7711,
+      "importance_score": 0.7711,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9862,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-12T16:10:01Z",
+      "latest_at": "2026-08-12T16:10:01Z",
+      "primary_item": {
+        "id": "6ac7ca081eff008390b2045aa33b5cf28a8d2efc",
+        "title": "阿里开放 Qwen3.8-2.4T-A95B 模型权重：2.4T MoE、激活 95B、原生 256K 上下文",
+        "url": "https://www.ithome.com/0/989/001.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -568,15 +609,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7708,
-      "importance": 0.7708,
-      "importance_score": 0.7708,
+      "score": 0.7687,
+      "importance": 0.7687,
+      "importance_score": 0.7687,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7457,
+        "recency": 0.7338,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -649,15 +690,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7669,
-      "importance": 0.7669,
-      "importance_score": 0.7669,
+      "score": 0.7648,
+      "importance": 0.7648,
+      "importance_score": 0.7648,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7239,
+        "recency": 0.7124,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -711,15 +752,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7575,
-      "importance": 0.7575,
-      "importance_score": 0.7575,
+      "score": 0.7548,
+      "importance": 0.7548,
+      "importance_score": 0.7548,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9437,
+        "recency": 0.9287,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -738,62 +779,62 @@
       }
     },
     {
-      "story_id": "story_8925a4da83bc",
-      "title": "LTX-2.5 模型登场：AI 生成 10 秒 720P 视频仅需 6.8 秒，原生集成 ComfyUI",
-      "url": "https://www.ithome.com/0/988/766.htm",
-      "primary_url": "https://www.ithome.com/0/988/766.htm",
-      "source": "IT之家（RSS）",
+      "story_id": "story_6ee25b618d92",
+      "title": "微软首发自研推理模型MAI-Thinking-1",
+      "url": "https://x.com/mustafasuleyman/status/2087570047967408396",
+      "primary_url": "https://x.com/mustafasuleyman/status/2087570047967408396",
+      "source": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "533681e8a43ff685799fe6f21dfee45795c99acb",
-          "title": "LTX-2.5 模型登场：AI 生成 10 秒 720P 视频仅需 6.8 秒，原生集成 ComfyUI",
-          "url": "https://www.ithome.com/0/988/766.htm",
-          "source": "IT之家（RSS）",
+          "id": "1040d8dba308ac1dd323841a048cd390f23de6bb",
+          "title": "微软首发自研推理模型MAI-Thinking-1",
+          "url": "https://x.com/mustafasuleyman/status/2087570047967408396",
+          "source": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-12T06:46:51Z"
+          "published_at": "2026-08-12T16:00:59Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "IT之家（RSS）"
+        "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)"
       ],
       "items": [
         {
-          "id": "533681e8a43ff685799fe6f21dfee45795c99acb",
-          "title": "LTX-2.5 模型登场：AI 生成 10 秒 720P 视频仅需 6.8 秒，原生集成 ComfyUI",
-          "url": "https://www.ithome.com/0/988/766.htm",
-          "source": "IT之家（RSS）",
+          "id": "1040d8dba308ac1dd323841a048cd390f23de6bb",
+          "title": "微软首发自研推理模型MAI-Thinking-1",
+          "url": "https://x.com/mustafasuleyman/status/2087570047967408396",
+          "source": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-12T06:46:51Z"
+          "published_at": "2026-08-12T16:00:59Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7421,
-      "importance": 0.7421,
-      "importance_score": 0.7421,
+      "score": 0.7467,
+      "importance": 0.7467,
+      "importance_score": 0.7467,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.71,
+        "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8751,
+        "recency": 0.9841,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-12T06:46:51Z",
-      "latest_at": "2026-08-12T06:46:51Z",
+      "earliest_at": "2026-08-12T16:00:59Z",
+      "latest_at": "2026-08-12T16:00:59Z",
       "primary_item": {
-        "id": "533681e8a43ff685799fe6f21dfee45795c99acb",
-        "title": "LTX-2.5 模型登场：AI 生成 10 秒 720P 视频仅需 6.8 秒，原生集成 ComfyUI",
-        "url": "https://www.ithome.com/0/988/766.htm",
-        "source": "IT之家（RSS）",
+        "id": "1040d8dba308ac1dd323841a048cd390f23de6bb",
+        "title": "微软首发自研推理模型MAI-Thinking-1",
+        "url": "https://x.com/mustafasuleyman/status/2087570047967408396",
+        "source": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
         "source_name": "AI HOT"
       }
     },
@@ -832,15 +873,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7997,
-      "importance": 0.7997,
-      "importance_score": 0.7997,
+      "score": 0.7975,
+      "importance": 0.7975,
+      "importance_score": 0.7975,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7537,
+        "recency": 0.7418,
         "story_heat": 0.0
       },
       "category": "official",
@@ -857,66 +898,6 @@
         "url": "https://github.blog/changelog/2026-08-11-github-enterprise-server-3-22-release-candidate",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_26a2ec7a2abd",
-      "title": "Gemini月活破10亿，成谷歌增长最快产品",
-      "url": "https://x.com/sundarpichai/status/2087222656819241292",
-      "primary_url": "https://x.com/sundarpichai/status/2087222656819241292",
-      "source": "X：Sundar Pichai (@sundarpichai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6b3d2c7aa4ce095c39f5bef0e3bd8a8b80dfb7a4",
-          "title": "Gemini月活破10亿，成谷歌增长最快产品",
-          "url": "https://x.com/sundarpichai/status/2087222656819241292",
-          "source": "X：Sundar Pichai (@sundarpichai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T17:00:34Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Sundar Pichai (@sundarpichai)"
-      ],
-      "items": [
-        {
-          "id": "6b3d2c7aa4ce095c39f5bef0e3bd8a8b80dfb7a4",
-          "title": "Gemini月活破10亿，成谷歌增长最快产品",
-          "url": "https://x.com/sundarpichai/status/2087222656819241292",
-          "source": "X：Sundar Pichai (@sundarpichai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T17:00:34Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7317,
-      "importance": 0.7317,
-      "importance_score": 0.7317,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7173,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-11T17:00:34Z",
-      "latest_at": "2026-08-11T17:00:34Z",
-      "primary_item": {
-        "id": "6b3d2c7aa4ce095c39f5bef0e3bd8a8b80dfb7a4",
-        "title": "Gemini月活破10亿，成谷歌增长最快产品",
-        "url": "https://x.com/sundarpichai/status/2087222656819241292",
-        "source": "X：Sundar Pichai (@sundarpichai)",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -954,15 +935,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.73,
-      "importance": 0.73,
-      "importance_score": 0.73,
+      "score": 0.7272,
+      "importance": 0.7272,
+      "importance_score": 0.7272,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.62,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9576,
+        "recency": 0.9424,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1014,15 +995,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7247,
-      "importance": 0.7247,
-      "importance_score": 0.7247,
+      "score": 0.7224,
+      "importance": 0.7224,
+      "importance_score": 0.7224,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.795,
+        "recency": 0.7824,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1040,143 +1021,62 @@
       }
     },
     {
-      "story_id": "story_1e7e2d06b693",
-      "title": "Runway Seedance 2.5 上线，支持50角色参考",
-      "url": "https://x.com/runwayml/status/2087251184658657346",
-      "primary_url": "https://x.com/runwayml/status/2087251184658657346",
-      "source": "X：Runway (@runwayml)",
+      "story_id": "story_8925a4da83bc",
+      "title": "LTX-2.5 模型登场：AI 生成 10 秒 720P 视频仅需 6.8 秒，原生集成 ComfyUI",
+      "url": "https://www.ithome.com/0/988/766.htm",
+      "primary_url": "https://www.ithome.com/0/988/766.htm",
+      "source": "IT之家（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "256bd9ef5bcb65f2da9b8487601e7b586ed882d4",
-          "title": "Runway Seedance 2.5 上线，支持50角色参考",
-          "url": "https://x.com/runwayml/status/2087251184658657346",
-          "source": "X：Runway (@runwayml)",
+          "id": "533681e8a43ff685799fe6f21dfee45795c99acb",
+          "title": "LTX-2.5 模型登场：AI 生成 10 秒 720P 视频仅需 6.8 秒，原生集成 ComfyUI",
+          "url": "https://www.ithome.com/0/988/766.htm",
+          "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-11T18:53:56Z"
+          "published_at": "2026-08-12T06:46:51Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Runway (@runwayml)"
+        "IT之家（RSS）"
       ],
       "items": [
         {
-          "id": "256bd9ef5bcb65f2da9b8487601e7b586ed882d4",
-          "title": "Runway Seedance 2.5 上线，支持50角色参考",
-          "url": "https://x.com/runwayml/status/2087251184658657346",
-          "source": "X：Runway (@runwayml)",
+          "id": "533681e8a43ff685799fe6f21dfee45795c99acb",
+          "title": "LTX-2.5 模型登场：AI 生成 10 秒 720P 视频仅需 6.8 秒，原生集成 ComfyUI",
+          "url": "https://www.ithome.com/0/988/766.htm",
+          "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-11T18:53:56Z"
+          "published_at": "2026-08-12T06:46:51Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7203,
-      "importance": 0.7203,
-      "importance_score": 0.7203,
+      "score": 0.7396,
+      "importance": 0.7396,
+      "importance_score": 0.7396,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.72,
+        "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7371,
+        "recency": 0.8612,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-11T18:53:56Z",
-      "latest_at": "2026-08-11T18:53:56Z",
+      "earliest_at": "2026-08-12T06:46:51Z",
+      "latest_at": "2026-08-12T06:46:51Z",
       "primary_item": {
-        "id": "256bd9ef5bcb65f2da9b8487601e7b586ed882d4",
-        "title": "Runway Seedance 2.5 上线，支持50角色参考",
-        "url": "https://x.com/runwayml/status/2087251184658657346",
-        "source": "X：Runway (@runwayml)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_5a70573ea4d6",
-      "title": "Mojo 1.0 正式发布：为生态系统增长提供稳定基础",
-      "url": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
-      "primary_url": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "a2988a0cf2e2d0880eb00350fc3b42591f74404d",
-          "title": "Mojo 1.0 正式发布：为生态系统增长提供稳定基础",
-          "url": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T19:52:14.184000Z"
-        },
-        {
-          "id": "c86fc67e98e0c6d77c62bb7955afaa2c7ecaeeaf",
-          "title": "Mojo 1.0",
-          "url": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-11T16:56:46Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "a2988a0cf2e2d0880eb00350fc3b42591f74404d",
-          "title": "Mojo 1.0 正式发布：为生态系统增长提供稳定基础",
-          "url": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T19:52:14.184000Z"
-        },
-        {
-          "id": "c86fc67e98e0c6d77c62bb7955afaa2c7ecaeeaf",
-          "title": "Mojo 1.0",
-          "url": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-11T16:56:46Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7502,
-      "importance": 0.7502,
-      "importance_score": 0.7502,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7476,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-11T16:56:46Z",
-      "latest_at": "2026-08-11T19:52:14.184000Z",
-      "primary_item": {
-        "id": "a2988a0cf2e2d0880eb00350fc3b42591f74404d",
-        "title": "Mojo 1.0 正式发布：为生态系统增长提供稳定基础",
-        "url": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "id": "533681e8a43ff685799fe6f21dfee45795c99acb",
+        "title": "LTX-2.5 模型登场：AI 生成 10 秒 720P 视频仅需 6.8 秒，原生集成 ComfyUI",
+        "url": "https://www.ithome.com/0/988/766.htm",
+        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -1215,15 +1115,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.797,
-      "importance": 0.797,
-      "importance_score": 0.797,
+      "score": 0.7949,
+      "importance": 0.7949,
+      "importance_score": 0.7949,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7389,
+        "recency": 0.7272,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1243,81 +1143,61 @@
       }
     },
     {
-      "story_id": "story_800ebb0d7846",
-      "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速",
-      "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
-      "primary_url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+      "story_id": "story_5a70573ea4d6",
+      "title": "Mojo 1.0 正式发布：为生态系统增长提供稳定基础",
+      "url": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
+      "primary_url": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
       "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "36fd102d8ae2dbc2c3574f27cb5aad651b1af213",
-          "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速",
-          "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+          "id": "a2988a0cf2e2d0880eb00350fc3b42591f74404d",
+          "title": "Mojo 1.0 正式发布：为生态系统增长提供稳定基础",
+          "url": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
           "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-11T16:41:17.281000Z"
-        },
-        {
-          "id": "4b2102e403d9dec5881249532877b86614b3ef6f",
-          "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11–16 倍的 LLM 推理加速",
-          "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-11T16:41:17.281000Z"
+          "published_at": "2026-08-11T19:52:14.184000Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "github.com"
+        "Hacker News 热门（buzzing.cc 中文翻译）"
       ],
       "items": [
         {
-          "id": "36fd102d8ae2dbc2c3574f27cb5aad651b1af213",
-          "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速",
-          "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+          "id": "a2988a0cf2e2d0880eb00350fc3b42591f74404d",
+          "title": "Mojo 1.0 正式发布：为生态系统增长提供稳定基础",
+          "url": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
           "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-11T16:41:17.281000Z"
-        },
-        {
-          "id": "4b2102e403d9dec5881249532877b86614b3ef6f",
-          "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11–16 倍的 LLM 推理加速",
-          "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-11T16:41:17.281000Z"
+          "published_at": "2026-08-11T19:52:14.184000Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7441,
-      "importance": 0.7441,
-      "importance_score": 0.7441,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.723,
+      "importance": 0.723,
+      "importance_score": 0.723,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.714,
-        "story_heat": 0.25
+        "recency": 0.7357,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-11T16:41:17.281000Z",
-      "latest_at": "2026-08-11T16:41:17.281000Z",
+      "earliest_at": "2026-08-11T19:52:14.184000Z",
+      "latest_at": "2026-08-11T19:52:14.184000Z",
       "primary_item": {
-        "id": "36fd102d8ae2dbc2c3574f27cb5aad651b1af213",
-        "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速",
-        "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+        "id": "a2988a0cf2e2d0880eb00350fc3b42591f74404d",
+        "title": "Mojo 1.0 正式发布：为生态系统增长提供稳定基础",
+        "url": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
@@ -1357,15 +1237,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7966,
-      "importance": 0.7966,
-      "importance_score": 0.7966,
+      "score": 0.7945,
+      "importance": 0.7945,
+      "importance_score": 0.7945,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7366,
+        "recency": 0.7249,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1382,6 +1262,85 @@
         "url": "https://github.blog/changelog/2026-08-11-upcoming-deprecation-of-mai-code-1-flash",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_77da1d8caea4",
+      "title": "Made by Google ’26 宣布的所有内容：Pixel 11、Pixel Watch 5、Pixel Tag 以及大量 Gemini 功能 / Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
+      "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026",
+      "primary_url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026",
+      "source": "TechCrunch AI",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "3392d53d8e320f02171fbe08d83c8e0a085008e0",
+          "title": "Made by Google ’26 宣布的所有内容：Pixel 11、Pixel Watch 5、Pixel Tag 以及大量 Gemini 功能 / Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
+          "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-12T14:20:33Z"
+        },
+        {
+          "id": "714bbdc216ff742f3bf981a7ea6ba25f3ad209a0",
+          "title": "谷歌在 Made by Google 2026 上推出 Pixel 11 系列、新的 AirTag 竞争对手以及 Gemini 功能 / Google unveils Pixel 11 lineup, new AirTag rival, and Gemini features at Made by Google 2026",
+          "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-12T14:20:33Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "TechCrunch",
+        "TechCrunch AI"
+      ],
+      "items": [
+        {
+          "id": "3392d53d8e320f02171fbe08d83c8e0a085008e0",
+          "title": "Made by Google ’26 宣布的所有内容：Pixel 11、Pixel Watch 5、Pixel Tag 以及大量 Gemini 功能 / Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
+          "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-12T14:20:33Z"
+        },
+        {
+          "id": "714bbdc216ff742f3bf981a7ea6ba25f3ad209a0",
+          "title": "谷歌在 Made by Google 2026 上推出 Pixel 11 系列、新的 AirTag 竞争对手以及 Gemini 功能 / Google unveils Pixel 11 lineup, new AirTag rival, and Gemini features at Made by Google 2026",
+          "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-12T14:20:33Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6541,
+      "importance": 0.6541,
+      "importance_score": 0.6541,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5688,
+        "source_tier": 0.58,
+        "ai_relevance": 0.79,
+        "recency": 0.9606,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-12T14:20:33Z",
+      "latest_at": "2026-08-12T14:20:33Z",
+      "primary_item": {
+        "id": "3392d53d8e320f02171fbe08d83c8e0a085008e0",
+        "title": "Made by Google ’26 宣布的所有内容：Pixel 11、Pixel Watch 5、Pixel Tag 以及大量 Gemini 功能 / Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
+        "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026",
+        "source": "TechCrunch AI",
+        "source_name": "Curated Media"
       }
     }
   ]
