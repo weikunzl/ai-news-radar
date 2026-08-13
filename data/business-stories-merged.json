@@ -1,6 +1,84 @@
 {
-  "generated_at": "2026-08-13T18:30:49.100043Z",
+  "generated_at": "2026-08-13T19:39:40.474393Z",
   "clusters": [
+    {
+      "cluster_id": "biz_cluster_12ad23ecfe7a",
+      "thesis": "Enterprise AI value is moving toward operating-model redesign rather than isolated copilots.",
+      "lane": "enterprise_workflow",
+      "signal_ids": [
+        "biz_b10db38ea0b2",
+        "biz_8fb56f722df8",
+        "biz_35eee42b7409",
+        "biz_8458ffed91fc"
+      ],
+      "source_count": 2,
+      "importance_score": 42,
+      "confidence": "medium",
+      "yuanli_mapping": [
+        "yuanli_os",
+        "ftf_trust"
+      ],
+      "why_it_matters": "4 English evidence items from 2 sources connect this pattern to Yuanli IP.",
+      "counter_evidence": "See counter_signal cluster for adoption, ROI, and trust risks.",
+      "recommended_action": "Map each workflow case to the Yuanli OS organs: soul, memory, judgment, hands.",
+      "evidence_refs": [
+        "biz_b10db38ea0b2",
+        "biz_8fb56f722df8",
+        "biz_35eee42b7409",
+        "biz_8458ffed91fc"
+      ],
+      "top_sources": [
+        {
+          "source": "GitHub Blog",
+          "title": "Your guide to GitHub Universe 2026 is here: The schedule just launched!",
+          "url": "https://github.blog/news-insights/company-news/your-guide-to-github-universe-2026-is-here-the-schedule-just-launched/"
+        },
+        {
+          "source": "GitHub Blog",
+          "title": "What 50 open source projects taught us about security in the AI era",
+          "url": "https://github.blog/open-source/maintainers/what-50-open-source-projects-taught-us-about-security-in-the-ai-era/"
+        },
+        {
+          "source": "OpenAI News",
+          "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+          "url": "https://openai.com/index/dali-rajic-chief-revenue-officer"
+        },
+        {
+          "source": "GitHub Blog",
+          "title": "GitHub availability report: July 2026",
+          "url": "https://github.blog/news-insights/company-news/github-availability-report-july-2026/"
+        }
+      ]
+    },
+    {
+      "cluster_id": "biz_cluster_ddf117bb6284",
+      "thesis": "AI leverage is making one-person and tiny-team companies a credible strategic archetype.",
+      "lane": "opc",
+      "signal_ids": [
+        "biz_0eaaf7c655d0"
+      ],
+      "source_count": 1,
+      "importance_score": 42,
+      "confidence": "watch",
+      "yuanli_mapping": [
+        "yuanli_asset",
+        "yuanli_startup",
+        "profit_container"
+      ],
+      "why_it_matters": "1 English evidence items from 1 sources connect this pattern to Yuanli IP.",
+      "counter_evidence": "See counter_signal cluster for adoption, ROI, and trust risks.",
+      "recommended_action": "Turn the strongest case into a Yuanli OPC teaching module with leverage, distribution, and monetization explicitly mapped.",
+      "evidence_refs": [
+        "biz_0eaaf7c655d0"
+      ],
+      "top_sources": [
+        {
+          "source": "Indie Hackers",
+          "title": "Building a $2M ARR product after his $8M ARR product failed overnight",
+          "url": "https://www.indiehackers.com/post/tech/building-a-2m-arr-product-after-his-8m-arr-product-failed-overnight-UZm68xNgjDZBHH7Mvc54"
+        }
+      ]
+    },
     {
       "cluster_id": "biz_cluster_daf03c021c6b",
       "thesis": "AI adoption counter-signals reveal where Yuanli claims need sharper proof and risk language.",
@@ -26,55 +104,6 @@
           "source": "MIT Sloan Management Review",
           "title": "Why Water Management Is a Strategic Concern",
           "url": "https://sloanreview.mit.edu/article/why-water-management-is-a-strategic-concern/"
-        }
-      ]
-    },
-    {
-      "cluster_id": "biz_cluster_8061995238e6",
-      "thesis": "Enterprise AI value is moving toward operating-model redesign rather than isolated copilots.",
-      "lane": "enterprise_workflow",
-      "signal_ids": [
-        "biz_8fb56f722df8",
-        "biz_35eee42b7409",
-        "biz_8458ffed91fc",
-        "biz_ab8f3f3c48f4"
-      ],
-      "source_count": 2,
-      "importance_score": 40,
-      "confidence": "medium",
-      "yuanli_mapping": [
-        "yuanli_os",
-        "ftf_trust"
-      ],
-      "why_it_matters": "4 English evidence items from 2 sources connect this pattern to Yuanli IP.",
-      "counter_evidence": "See counter_signal cluster for adoption, ROI, and trust risks.",
-      "recommended_action": "Map each workflow case to the Yuanli OS organs: soul, memory, judgment, hands.",
-      "evidence_refs": [
-        "biz_8fb56f722df8",
-        "biz_35eee42b7409",
-        "biz_8458ffed91fc",
-        "biz_ab8f3f3c48f4"
-      ],
-      "top_sources": [
-        {
-          "source": "GitHub Blog",
-          "title": "What 50 open source projects taught us about security in the AI era",
-          "url": "https://github.blog/open-source/maintainers/what-50-open-source-projects-taught-us-about-security-in-the-ai-era/"
-        },
-        {
-          "source": "OpenAI News",
-          "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
-          "url": "https://openai.com/index/dali-rajic-chief-revenue-officer"
-        },
-        {
-          "source": "GitHub Blog",
-          "title": "GitHub availability report: July 2026",
-          "url": "https://github.blog/news-insights/company-news/github-availability-report-july-2026/"
-        },
-        {
-          "source": "GitHub Blog",
-          "title": "Write your first prompt with the GitHub Copilot app",
-          "url": "https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app/"
         }
       ]
     },
