@@ -1,39 +1,31 @@
 {
-  "generated_at": "2026-08-13T10:39:17.710350Z",
+  "generated_at": "2026-08-13T11:51:06.984010Z",
   "clusters": [
     {
-      "cluster_id": "biz_cluster_3872f3fd26ba",
-      "thesis": "AI leverage is making one-person and tiny-team companies a credible strategic archetype.",
-      "lane": "opc",
+      "cluster_id": "biz_cluster_daf03c021c6b",
+      "thesis": "AI adoption counter-signals reveal where Yuanli claims need sharper proof and risk language.",
+      "lane": "counter_signal",
       "signal_ids": [
-        "biz_57150e4fd0a6",
-        "biz_a3a78b40d0a8"
+        "biz_de607562aee4"
       ],
       "source_count": 1,
-      "importance_score": 42,
+      "importance_score": 41,
       "confidence": "watch",
       "yuanli_mapping": [
-        "yuanli_asset",
-        "yuanli_startup",
-        "profit_container"
+        "ftf_trust",
+        "yuanli_os"
       ],
-      "why_it_matters": "2 English evidence items from 1 sources connect this pattern to Yuanli IP.",
-      "counter_evidence": "See counter_signal cluster for adoption, ROI, and trust risks.",
-      "recommended_action": "Turn the strongest case into a Yuanli OPC teaching module with leverage, distribution, and monetization explicitly mapped.",
+      "why_it_matters": "1 English evidence items from 1 sources connect this pattern to Yuanli IP.",
+      "counter_evidence": "Counter-signals are the evidence, not a rejection of the thesis.",
+      "recommended_action": "Add these counter-signals to sales objections and content credibility checks.",
       "evidence_refs": [
-        "biz_57150e4fd0a6",
-        "biz_a3a78b40d0a8"
+        "biz_de607562aee4"
       ],
       "top_sources": [
         {
-          "source": "Indie Hackers",
-          "title": "I built Code Factory because I kept getting fooled by passing tests",
-          "url": "https://www.indiehackers.com/post/i-built-code-factory-because-i-kept-getting-fooled-by-passing-tests-dbab368310"
-        },
-        {
-          "source": "Indie Hackers",
-          "title": "I just launched RevPages – an SEO tool that finds your most profitable page opportunities - not just keywords",
-          "url": "https://www.indiehackers.com/post/i-just-launched-revpages-an-seo-tool-that-finds-your-most-profitable-page-opportunities-not-just-keywords-5a5f758942"
+          "source": "MIT Sloan Management Review",
+          "title": "Why Water Management Is a Strategic Concern",
+          "url": "https://sloanreview.mit.edu/article/why-water-management-is-a-strategic-concern/"
         }
       ]
     },
