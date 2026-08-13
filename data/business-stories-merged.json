@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T21:50:13.796088Z",
+  "generated_at": "2026-08-13T22:46:16.746532Z",
   "clusters": [
     {
       "cluster_id": "biz_cluster_f1ffe5febd46",
@@ -74,30 +74,28 @@
       ]
     },
     {
-      "cluster_id": "biz_cluster_12ad23ecfe7a",
+      "cluster_id": "biz_cluster_1da20ac8926b",
       "thesis": "Enterprise AI value is moving toward operating-model redesign rather than isolated copilots.",
       "lane": "enterprise_workflow",
       "signal_ids": [
         "biz_b10db38ea0b2",
         "biz_8fb56f722df8",
-        "biz_35eee42b7409",
-        "biz_8458ffed91fc"
+        "biz_35eee42b7409"
       ],
       "source_count": 2,
-      "importance_score": 42,
+      "importance_score": 43,
       "confidence": "medium",
       "yuanli_mapping": [
         "yuanli_os",
         "ftf_trust"
       ],
-      "why_it_matters": "4 English evidence items from 2 sources connect this pattern to Yuanli IP.",
+      "why_it_matters": "3 English evidence items from 2 sources connect this pattern to Yuanli IP.",
       "counter_evidence": "See counter_signal cluster for adoption, ROI, and trust risks.",
       "recommended_action": "Map each workflow case to the Yuanli OS organs: soul, memory, judgment, hands.",
       "evidence_refs": [
         "biz_b10db38ea0b2",
         "biz_8fb56f722df8",
-        "biz_35eee42b7409",
-        "biz_8458ffed91fc"
+        "biz_35eee42b7409"
       ],
       "top_sources": [
         {
@@ -114,11 +112,6 @@
           "source": "OpenAI News",
           "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
           "url": "https://openai.com/index/dali-rajic-chief-revenue-officer"
-        },
-        {
-          "source": "GitHub Blog",
-          "title": "GitHub availability report: July 2026",
-          "url": "https://github.blog/news-insights/company-news/github-availability-report-july-2026/"
         }
       ]
     },
@@ -130,7 +123,7 @@
         "biz_de607562aee4"
       ],
       "source_count": 1,
-      "importance_score": 41,
+      "importance_score": 40,
       "confidence": "watch",
       "yuanli_mapping": [
         "ftf_trust",
