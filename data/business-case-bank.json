@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T07:43:55.377100Z",
+  "generated_at": "2026-08-14T09:10:29.637738Z",
   "cases": [
     {
       "case_id": "opc_case_09068411a44f",
@@ -83,27 +83,6 @@
       "score": 42
     },
     {
-      "case_id": "opc_case_0602767d1c81",
-      "company": "Onboarding",
-      "founder": "",
-      "source_refs": [
-        "biz_31936c594007"
-      ],
-      "url": "https://www.indiehackers.com/post/onboarding-benchmarks-from-real-data-across-464-saas-products-median-tour-completion-is-29-6288651c93",
-      "title": "Onboarding benchmarks from real data across 464 SaaS products: median tour completion is 29%",
-      "business_model": "OPC",
-      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
-      "monetization": "To be extracted from the linked source.",
-      "team_size_signal": "team size not explicit",
-      "distribution_channel": "Indie Hackers",
-      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
-      "yuanli_mapping": [
-        "yuanli_asset",
-        "ftf_trust"
-      ],
-      "score": 40
-    },
-    {
       "case_id": "opc_case_9870d93b6ca4",
       "company": "Building",
       "founder": "",
@@ -163,6 +142,26 @@
         "yuanli_startup"
       ],
       "score": 37
+    },
+    {
+      "case_id": "opc_case_e3bb93ca87ae",
+      "company": "AI-agent",
+      "founder": "",
+      "source_refs": [
+        "biz_0a4f6ee97887"
+      ],
+      "url": "https://www.indiehackers.com/post/the-first-ai-agent-boundary-you-write-will-probably-be-wrong-54d4ea46bb",
+      "title": "The first AI-agent boundary you write will probably be wrong",
+      "business_model": "Enterprise AI Workflow, OPC",
+      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
+      "monetization": "To be extracted from the linked source.",
+      "team_size_signal": "team size not explicit",
+      "distribution_channel": "Indie Hackers",
+      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
+      "yuanli_mapping": [
+        "yuanli_os"
+      ],
+      "score": 35
     }
   ]
 }
