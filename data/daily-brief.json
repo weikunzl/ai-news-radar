@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T22:52:42.841361Z",
+  "generated_at": "2026-08-14T23:24:46.829739Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -75,15 +75,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8594,
-      "importance": 0.8594,
-      "importance_score": 0.8594,
+      "score": 0.8584,
+      "importance": 0.8584,
+      "importance_score": 0.8584,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7187,
+        "recency": 0.7131,
         "story_heat": 0.5
       },
       "category": "official",
@@ -100,6 +100,68 @@
         "title": "2026年夏季开源模型生态观察：中国前沿模型规模领先，AMD与NVIDIA主导发布量 / State of Open Models: Summer 2026 Observations",
         "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
         "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_0cbdf9e190f0",
+      "title": "OAuth 应用程序的多个重定向 URI 和令牌刷新 / Multiple redirect URIs and token refresh for OAuth apps",
+      "url": "https://github.blog/changelog/2026-08-14-multiple-redirect-uris-and-token-refresh-for-oauth-apps",
+      "primary_url": "https://github.blog/changelog/2026-08-14-multiple-redirect-uris-and-token-refresh-for-oauth-apps",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "69e635cd9bd215d8df2bd1d96ef64c55b55df09e",
+          "title": "OAuth 应用程序的多个重定向 URI 和令牌刷新 / Multiple redirect URIs and token refresh for OAuth apps",
+          "url": "https://github.blog/changelog/2026-08-14-multiple-redirect-uris-and-token-refresh-for-oauth-apps",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-14T22:43:44Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "69e635cd9bd215d8df2bd1d96ef64c55b55df09e",
+          "title": "OAuth 应用程序的多个重定向 URI 和令牌刷新 / Multiple redirect URIs and token refresh for OAuth apps",
+          "url": "https://github.blog/changelog/2026-08-14-multiple-redirect-uris-and-token-refresh-for-oauth-apps",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-14T22:43:44Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8422,
+      "importance": 0.8422,
+      "importance_score": 0.8422,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9902,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-14T22:43:44Z",
+      "latest_at": "2026-08-14T22:43:44Z",
+      "primary_item": {
+        "id": "69e635cd9bd215d8df2bd1d96ef64c55b55df09e",
+        "title": "OAuth 应用程序的多个重定向 URI 和令牌刷新 / Multiple redirect URIs and token refresh for OAuth apps",
+        "url": "https://github.blog/changelog/2026-08-14-multiple-redirect-uris-and-token-refresh-for-oauth-apps",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -195,15 +257,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8362,
-      "importance": 0.8362,
-      "importance_score": 0.8362,
+      "score": 0.835,
+      "importance": 0.835,
+      "importance_score": 0.835,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8476,
+        "recency": 0.841,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -220,68 +282,6 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496140&idx=1&sn=5239a5fbb115c58d2ae0056bb32789ff",
         "source": "公众号：小红书技术（dots.llm）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_61fc6209c742",
-      "title": "Grok 4.6 现已在 GitHub Copilot 中提供 / Grok 4.6 is now available in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-08-14-grok-4-6-is-now-available-in-github-copilot",
-      "primary_url": "https://github.blog/changelog/2026-08-14-grok-4-6-is-now-available-in-github-copilot",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "62eb79284c5d7409c01110d7b88aa07e2089e1e8",
-          "title": "Grok 4.6 现已在 GitHub Copilot 中提供 / Grok 4.6 is now available in GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-08-14-grok-4-6-is-now-available-in-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-14T16:17:46Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "62eb79284c5d7409c01110d7b88aa07e2089e1e8",
-          "title": "Grok 4.6 现已在 GitHub Copilot 中提供 / Grok 4.6 is now available in GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-08-14-grok-4-6-is-now-available-in-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-14T16:17:46Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8357,
-      "importance": 0.8357,
-      "importance_score": 0.8357,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9093,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-14T16:17:46Z",
-      "latest_at": "2026-08-14T16:17:46Z",
-      "primary_item": {
-        "id": "62eb79284c5d7409c01110d7b88aa07e2089e1e8",
-        "title": "Grok 4.6 现已在 GitHub Copilot 中提供 / Grok 4.6 is now available in GitHub Copilot",
-        "url": "https://github.blog/changelog/2026-08-14-grok-4-6-is-now-available-in-github-copilot",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -319,15 +319,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.827,
-      "importance": 0.827,
-      "importance_score": 0.827,
+      "score": 0.8257,
+      "importance": 0.8257,
+      "importance_score": 0.8257,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9054,
+        "recency": 0.8985,
         "story_heat": 0.0
       },
       "category": "official",
@@ -343,6 +343,68 @@
         "title": "如何使用代理应用程序将软件交付工作流程引入 GitHub / How to bring your software delivery workflow into GitHub with agent apps",
         "url": "https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps",
         "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_61fc6209c742",
+      "title": "Grok 4.6 现已在 GitHub Copilot 中提供 / Grok 4.6 is now available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-08-14-grok-4-6-is-now-available-in-github-copilot",
+      "primary_url": "https://github.blog/changelog/2026-08-14-grok-4-6-is-now-available-in-github-copilot",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "62eb79284c5d7409c01110d7b88aa07e2089e1e8",
+          "title": "Grok 4.6 现已在 GitHub Copilot 中提供 / Grok 4.6 is now available in GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-08-14-grok-4-6-is-now-available-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-14T16:17:46Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "62eb79284c5d7409c01110d7b88aa07e2089e1e8",
+          "title": "Grok 4.6 现已在 GitHub Copilot 中提供 / Grok 4.6 is now available in GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-08-14-grok-4-6-is-now-available-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-14T16:17:46Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8344,
+      "importance": 0.8344,
+      "importance_score": 0.8344,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9023,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-14T16:17:46Z",
+      "latest_at": "2026-08-14T16:17:46Z",
+      "primary_item": {
+        "id": "62eb79284c5d7409c01110d7b88aa07e2089e1e8",
+        "title": "Grok 4.6 现已在 GitHub Copilot 中提供 / Grok 4.6 is now available in GitHub Copilot",
+        "url": "https://github.blog/changelog/2026-08-14-grok-4-6-is-now-available-in-github-copilot",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -419,15 +481,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7877,
-      "importance": 0.7877,
-      "importance_score": 0.7877,
+      "score": 0.7864,
+      "importance": 0.7864,
+      "importance_score": 0.7864,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9507,
+        "recency": 0.9434,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -500,15 +562,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.784,
-      "importance": 0.784,
-      "importance_score": 0.784,
+      "score": 0.7828,
+      "importance": 0.7828,
+      "importance_score": 0.7828,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8855,
+        "recency": 0.8786,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -600,15 +662,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7794,
-      "importance": 0.7794,
-      "importance_score": 0.7794,
+      "score": 0.7782,
+      "importance": 0.7782,
+      "importance_score": 0.7782,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8546,
+        "recency": 0.8481,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -624,6 +686,67 @@
         "title": "Cursor 正式被 SpaceX 收购",
         "url": "https://cursor.com/blog/joining-spacex",
         "source": "Cursor Blog",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_09af43cdb43c",
+      "title": "Cursor 正式并入 SpaceXAI 助力 Grok",
+      "url": "https://x.com/SpaceXAI/status/2088250109188608289",
+      "primary_url": "https://x.com/SpaceXAI/status/2088250109188608289",
+      "source": "X：SpaceXAI (@SpaceXAI)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "2dd1ea11a8204f0c5fc0699f92dd3d4e2c3f812f",
+          "title": "Cursor 正式并入 SpaceXAI 助力 Grok",
+          "url": "https://x.com/SpaceXAI/status/2088250109188608289",
+          "source": "X：SpaceXAI (@SpaceXAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-14T13:03:18Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：SpaceXAI (@SpaceXAI)"
+      ],
+      "items": [
+        {
+          "id": "2dd1ea11a8204f0c5fc0699f92dd3d4e2c3f812f",
+          "title": "Cursor 正式并入 SpaceXAI 助力 Grok",
+          "url": "https://x.com/SpaceXAI/status/2088250109188608289",
+          "source": "X：SpaceXAI (@SpaceXAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-14T13:03:18Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7576,
+      "importance": 0.7576,
+      "importance_score": 0.7576,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8611,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-14T13:03:18Z",
+      "latest_at": "2026-08-14T13:03:18Z",
+      "primary_item": {
+        "id": "2dd1ea11a8204f0c5fc0699f92dd3d4e2c3f812f",
+        "title": "Cursor 正式并入 SpaceXAI 助力 Grok",
+        "url": "https://x.com/SpaceXAI/status/2088250109188608289",
+        "source": "X：SpaceXAI (@SpaceXAI)",
         "source_name": "AI HOT"
       }
     },
@@ -662,15 +785,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8076,
-      "importance": 0.8076,
-      "importance_score": 0.8076,
+      "score": 0.8066,
+      "importance": 0.8066,
+      "importance_score": 0.8066,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7534,
+        "recency": 0.7476,
         "story_heat": 0.0
       },
       "category": "official",
@@ -687,67 +810,6 @@
         "url": "https://github.blog/changelog/2026-08-13-github-copilot-weekly-releases-august-10",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_09af43cdb43c",
-      "title": "Cursor 正式并入 SpaceXAI 助力 Grok",
-      "url": "https://x.com/SpaceXAI/status/2088250109188608289",
-      "primary_url": "https://x.com/SpaceXAI/status/2088250109188608289",
-      "source": "X：SpaceXAI (@SpaceXAI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2dd1ea11a8204f0c5fc0699f92dd3d4e2c3f812f",
-          "title": "Cursor 正式并入 SpaceXAI 助力 Grok",
-          "url": "https://x.com/SpaceXAI/status/2088250109188608289",
-          "source": "X：SpaceXAI (@SpaceXAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-14T13:03:18Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：SpaceXAI (@SpaceXAI)"
-      ],
-      "items": [
-        {
-          "id": "2dd1ea11a8204f0c5fc0699f92dd3d4e2c3f812f",
-          "title": "Cursor 正式并入 SpaceXAI 助力 Grok",
-          "url": "https://x.com/SpaceXAI/status/2088250109188608289",
-          "source": "X：SpaceXAI (@SpaceXAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-14T13:03:18Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7588,
-      "importance": 0.7588,
-      "importance_score": 0.7588,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8677,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-14T13:03:18Z",
-      "latest_at": "2026-08-14T13:03:18Z",
-      "primary_item": {
-        "id": "2dd1ea11a8204f0c5fc0699f92dd3d4e2c3f812f",
-        "title": "Cursor 正式并入 SpaceXAI 助力 Grok",
-        "url": "https://x.com/SpaceXAI/status/2088250109188608289",
-        "source": "X：SpaceXAI (@SpaceXAI)",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -785,15 +847,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7454,
-      "importance": 0.7454,
-      "importance_score": 0.7454,
+      "score": 0.7441,
+      "importance": 0.7441,
+      "importance_score": 0.7441,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8931,
+        "recency": 0.8862,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -845,15 +907,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7376,
-      "importance": 0.7376,
-      "importance_score": 0.7376,
+      "score": 0.7363,
+      "importance": 0.7363,
+      "importance_score": 0.7363,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9334,
+        "recency": 0.9263,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -924,15 +986,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6323,
-      "importance": 0.6323,
-      "importance_score": 0.6323,
+      "score": 0.631,
+      "importance": 0.631,
+      "importance_score": 0.631,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.9084,
+        "recency": 0.9014,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1002,15 +1064,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6125,
-      "importance": 0.6125,
-      "importance_score": 0.6125,
+      "score": 0.6112,
+      "importance": 0.6112,
+      "importance_score": 0.6112,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.58,
         "ai_relevance": 0.71,
-        "recency": 0.9141,
+        "recency": 0.9071,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1100,15 +1162,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5692,
-      "importance": 0.5692,
-      "importance_score": 0.5692,
+      "score": 0.5678,
+      "importance": 0.5678,
+      "importance_score": 0.5678,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9912,
+        "recency": 0.9836,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1196,15 +1258,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5665,
-      "importance": 0.5665,
-      "importance_score": 0.5665,
+      "score": 0.5651,
+      "importance": 0.5651,
+      "importance_score": 0.5651,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.976,
+        "recency": 0.9685,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1294,15 +1356,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5619,
-      "importance": 0.5619,
-      "importance_score": 0.5619,
+      "score": 0.5606,
+      "importance": 0.5606,
+      "importance_score": 0.5606,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9506,
+        "recency": 0.9433,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1392,15 +1454,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5542,
-      "importance": 0.5542,
-      "importance_score": 0.5542,
+      "score": 0.5529,
+      "importance": 0.5529,
+      "importance_score": 0.5529,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9077,
+        "recency": 0.9007,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1471,15 +1533,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5835,
-      "importance": 0.5835,
-      "importance_score": 0.5835,
+      "score": 0.5824,
+      "importance": 0.5824,
+      "importance_score": 0.5824,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.8226,
+        "recency": 0.8163,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1569,15 +1631,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5528,
-      "importance": 0.5528,
-      "importance_score": 0.5528,
+      "score": 0.5516,
+      "importance": 0.5516,
+      "importance_score": 0.5516,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9001,
+        "recency": 0.8932,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1592,85 +1654,6 @@
         "url": "https://news.ycombinator.com/item?id=49299000",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_c1d0e5ad0c79",
-      "title": "Anthropic 为其人工智能水印功能进行辩护并作出解释",
-      "url": "https://www.businessinsider.com/anthropic-reveals-more-about-ai-watermarking-plans-amid-eu-regulations-2026-8",
-      "primary_url": "https://www.businessinsider.com/anthropic-reveals-more-about-ai-watermarking-plans-amid-eu-regulations-2026-8",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "4491f507ae140ae6c1d401164f4a6716aec445d9",
-          "title": "Anthropic 为其人工智能水印功能进行辩护并作出解释",
-          "url": "https://www.businessinsider.com/anthropic-reveals-more-about-ai-watermarking-plans-amid-eu-regulations-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-14T21:43:58.808000Z"
-        },
-        {
-          "id": "9368bb5310b3090f653f80f947a43d6b73d49630",
-          "title": "Anthropic 为其人工智能水印功能进行辩护并作出解释 / Anthropic defends and explains its AI watermarking feature",
-          "url": "https://www.businessinsider.com/anthropic-reveals-more-about-ai-watermarking-plans-amid-eu-regulations-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-14T21:25:44Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "4491f507ae140ae6c1d401164f4a6716aec445d9",
-          "title": "Anthropic 为其人工智能水印功能进行辩护并作出解释",
-          "url": "https://www.businessinsider.com/anthropic-reveals-more-about-ai-watermarking-plans-amid-eu-regulations-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-14T21:43:58.808000Z"
-        },
-        {
-          "id": "9368bb5310b3090f653f80f947a43d6b73d49630",
-          "title": "Anthropic 为其人工智能水印功能进行辩护并作出解释 / Anthropic defends and explains its AI watermarking feature",
-          "url": "https://www.businessinsider.com/anthropic-reveals-more-about-ai-watermarking-plans-amid-eu-regulations-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-14T21:25:44Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5428,
-      "importance": 0.5428,
-      "importance_score": 0.5428,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9836,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-14T21:25:44Z",
-      "latest_at": "2026-08-14T21:43:58.808000Z",
-      "primary_item": {
-        "id": "4491f507ae140ae6c1d401164f4a6716aec445d9",
-        "title": "Anthropic 为其人工智能水印功能进行辩护并作出解释",
-        "url": "https://www.businessinsider.com/anthropic-reveals-more-about-ai-watermarking-plans-amid-eu-regulations-2026-8",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
       }
     }
   ]
