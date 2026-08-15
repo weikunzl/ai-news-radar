@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T19:47:42.866159Z",
+  "generated_at": "2026-08-15T20:25:35.863851Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7968,
-      "importance": 0.7968,
-      "importance_score": 0.7968,
+      "score": 0.7956,
+      "importance": 0.7956,
+      "importance_score": 0.7956,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7377,
+        "recency": 0.731,
         "story_heat": 0.0
       },
       "category": "official",
@@ -63,6 +63,87 @@
         "url": "https://github.blog/changelog/2026-08-14-multiple-redirect-uris-and-token-refresh-for-oauth-apps",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_20b744e598ba",
+      "title": "Cursor 正式被 SpaceX 收购",
+      "url": "https://cursor.com/blog/joining-spacex",
+      "primary_url": "https://cursor.com/blog/joining-spacex",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "381d3c56c3c3f15c2c5b031f0dc679588e6f701a",
+          "title": "Cursor 正式被 SpaceX 收购",
+          "url": "https://cursor.com/blog/joining-spacex",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-15T20:05:54.703000Z"
+        },
+        {
+          "id": "7a50d104b08c9f2172194c60466aa260cc885830",
+          "title": "Cursor 现已成为 SpaceX 的一部分",
+          "url": "https://cursor.com/blog/joining-spacex",
+          "source": "cursor.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T20:05:54.703000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "cursor.com"
+      ],
+      "items": [
+        {
+          "id": "381d3c56c3c3f15c2c5b031f0dc679588e6f701a",
+          "title": "Cursor 正式被 SpaceX 收购",
+          "url": "https://cursor.com/blog/joining-spacex",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-15T20:05:54.703000Z"
+        },
+        {
+          "id": "7a50d104b08c9f2172194c60466aa260cc885830",
+          "title": "Cursor 现已成为 SpaceX 的一部分",
+          "url": "https://cursor.com/blog/joining-spacex",
+          "source": "cursor.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T20:05:54.703000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7887,
+      "importance": 0.7887,
+      "importance_score": 0.7887,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9953,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-15T20:05:54.703000Z",
+      "latest_at": "2026-08-15T20:05:54.703000Z",
+      "primary_item": {
+        "id": "381d3c56c3c3f15c2c5b031f0dc679588e6f701a",
+        "title": "Cursor 正式被 SpaceX 收购",
+        "url": "https://cursor.com/blog/joining-spacex",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -118,15 +199,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7652,
-      "importance": 0.7652,
-      "importance_score": 0.7652,
+      "score": 0.7637,
+      "importance": 0.7637,
+      "importance_score": 0.7637,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8809,
+        "recency": 0.8729,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -143,6 +224,123 @@
         "url": "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors",
         "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_0b73ad404776",
+      "title": "二手书销售蓬勃发展。是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
+      "url": "https://news.ycombinator.com/item?id=49310725",
+      "primary_url": "https://news.ycombinator.com/item?id=49310725",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "f50f85b755a8871c36dc1a3f17ad231bac4f5f7e",
+          "title": "二手书销售蓬勃发展。是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
+          "url": "https://news.ycombinator.com/item?id=49310725",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T14:38:30.053000Z"
+        },
+        {
+          "id": "df4e0999ddfe3441c499f1ff2a561e8a81fc55e7",
+          "title": "二手书销售正蓬勃发展。这是因为人工智能吗？",
+          "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
+          "source": "www.bbc.co.uk",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T14:30:12.217000Z"
+        },
+        {
+          "id": "f9db1e50aae4565b43f99f9b9e7aacbbebab7100",
+          "title": "二手书销售蓬勃发展。是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
+          "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-15T14:08:55Z"
+        },
+        {
+          "id": "dcc8a19034a29524320fe1cf922bc36524fb4b37",
+          "title": "二手书销售正蓬勃发展。这是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
+          "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T11:25:32Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "BBC News",
+        "Hacker News · 24h最热",
+        "hackernews",
+        "www.bbc.co.uk"
+      ],
+      "items": [
+        {
+          "id": "f50f85b755a8871c36dc1a3f17ad231bac4f5f7e",
+          "title": "二手书销售蓬勃发展。是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
+          "url": "https://news.ycombinator.com/item?id=49310725",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T14:38:30.053000Z"
+        },
+        {
+          "id": "df4e0999ddfe3441c499f1ff2a561e8a81fc55e7",
+          "title": "二手书销售正蓬勃发展。这是因为人工智能吗？",
+          "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
+          "source": "www.bbc.co.uk",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T14:30:12.217000Z"
+        },
+        {
+          "id": "f9db1e50aae4565b43f99f9b9e7aacbbebab7100",
+          "title": "二手书销售蓬勃发展。是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
+          "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-15T14:08:55Z"
+        },
+        {
+          "id": "dcc8a19034a29524320fe1cf922bc36524fb4b37",
+          "title": "二手书销售正蓬勃发展。这是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
+          "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T11:25:32Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5814,
+      "importance": 0.5814,
+      "importance_score": 0.5814,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9199,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-15T11:25:32Z",
+      "latest_at": "2026-08-15T14:38:30.053000Z",
+      "primary_item": {
+        "id": "f50f85b755a8871c36dc1a3f17ad231bac4f5f7e",
+        "title": "二手书销售蓬勃发展。是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
+        "url": "https://news.ycombinator.com/item?id=49310725",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -218,15 +416,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5695,
-      "importance": 0.5695,
-      "importance_score": 0.5695,
+      "score": 0.5679,
+      "importance": 0.5679,
+      "importance_score": 0.5679,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9929,
+        "recency": 0.9839,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -316,15 +514,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5628,
-      "importance": 0.5628,
-      "importance_score": 0.5628,
+      "score": 0.5612,
+      "importance": 0.5612,
+      "importance_score": 0.5612,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9554,
+        "recency": 0.9467,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -339,104 +537,6 @@
         "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership",
         "source": "allen.bargi.org",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_0b73ad404776",
-      "title": "二手书销售蓬勃发展。是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
-      "url": "https://news.ycombinator.com/item?id=49310725",
-      "primary_url": "https://news.ycombinator.com/item?id=49310725",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "f50f85b755a8871c36dc1a3f17ad231bac4f5f7e",
-          "title": "二手书销售蓬勃发展。是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
-          "url": "https://news.ycombinator.com/item?id=49310725",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T14:38:30.053000Z"
-        },
-        {
-          "id": "df4e0999ddfe3441c499f1ff2a561e8a81fc55e7",
-          "title": "二手书销售正蓬勃发展。这是因为人工智能吗？",
-          "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
-          "source": "www.bbc.co.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-15T14:30:12.217000Z"
-        },
-        {
-          "id": "dcc8a19034a29524320fe1cf922bc36524fb4b37",
-          "title": "二手书销售正蓬勃发展。这是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
-          "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-15T11:25:32Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "BBC News",
-        "hackernews",
-        "www.bbc.co.uk"
-      ],
-      "items": [
-        {
-          "id": "f50f85b755a8871c36dc1a3f17ad231bac4f5f7e",
-          "title": "二手书销售蓬勃发展。是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
-          "url": "https://news.ycombinator.com/item?id=49310725",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T14:38:30.053000Z"
-        },
-        {
-          "id": "df4e0999ddfe3441c499f1ff2a561e8a81fc55e7",
-          "title": "二手书销售正蓬勃发展。这是因为人工智能吗？",
-          "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
-          "source": "www.bbc.co.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-15T14:30:12.217000Z"
-        },
-        {
-          "id": "dcc8a19034a29524320fe1cf922bc36524fb4b37",
-          "title": "二手书销售正蓬勃发展。这是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
-          "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-15T11:25:32Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5579,
-      "importance": 0.5579,
-      "importance_score": 0.5579,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9283,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-15T11:25:32Z",
-      "latest_at": "2026-08-15T14:38:30.053000Z",
-      "primary_item": {
-        "id": "f50f85b755a8871c36dc1a3f17ad231bac4f5f7e",
-        "title": "二手书销售蓬勃发展。是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
-        "url": "https://news.ycombinator.com/item?id=49310725",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -512,15 +612,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5563,
-      "importance": 0.5563,
-      "importance_score": 0.5563,
+      "score": 0.5548,
+      "importance": 0.5548,
+      "importance_score": 0.5548,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9193,
+        "recency": 0.9109,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -535,6 +635,85 @@
         "url": "https://sankalp.bearblog.dev/autoresearch",
         "source": "sankalp.bearblog.dev",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_611835edca3b",
+      "title": "药物发现中的人工智能；我们的立场和前进的道路 / Artificial intelligence in drug discovery; where we stand and the path forward",
+      "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+      "primary_url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "3d0ea0bbf2b073a30e4da34125fa1fee05fc7bdb",
+          "title": "药物发现中的人工智能；我们的立场和前进的道路 / Artificial intelligence in drug discovery; where we stand and the path forward",
+          "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T19:12:53Z"
+        },
+        {
+          "id": "272ea2a447fcb4e4062b82df6b876d97ca4cd881",
+          "title": "那么人工智能药物发现到底表现如何？ / So How Is AI Drug Discovery Doing, Really?",
+          "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T19:12:53Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "Hacker News (黑客新闻)"
+      ],
+      "items": [
+        {
+          "id": "3d0ea0bbf2b073a30e4da34125fa1fee05fc7bdb",
+          "title": "药物发现中的人工智能；我们的立场和前进的道路 / Artificial intelligence in drug discovery; where we stand and the path forward",
+          "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T19:12:53Z"
+        },
+        {
+          "id": "272ea2a447fcb4e4062b82df6b876d97ca4cd881",
+          "title": "那么人工智能药物发现到底表现如何？ / So How Is AI Drug Discovery Doing, Really?",
+          "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T19:12:53Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5427,
+      "importance": 0.5427,
+      "importance_score": 0.5427,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9827,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-15T19:12:53Z",
+      "latest_at": "2026-08-15T19:12:53Z",
+      "primary_item": {
+        "id": "3d0ea0bbf2b073a30e4da34125fa1fee05fc7bdb",
+        "title": "药物发现中的人工智能；我们的立场和前进的道路 / Artificial intelligence in drug discovery; where we stand and the path forward",
+        "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       }
     },
     {
@@ -610,15 +789,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5388,
-      "importance": 0.5388,
-      "importance_score": 0.5388,
+      "score": 0.5375,
+      "importance": 0.5375,
+      "importance_score": 0.5375,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8222,
+        "recency": 0.8147,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -689,15 +868,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5238,
-      "importance": 0.5238,
-      "importance_score": 0.5238,
+      "score": 0.5224,
+      "importance": 0.5224,
+      "importance_score": 0.5224,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8777,
+        "recency": 0.8698,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -768,15 +947,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5238,
-      "importance": 0.5238,
-      "importance_score": 0.5238,
+      "score": 0.5224,
+      "importance": 0.5224,
+      "importance_score": 0.5224,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8777,
+        "recency": 0.8698,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -866,15 +1045,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.539,
-      "importance": 0.539,
-      "importance_score": 0.539,
+      "score": 0.5377,
+      "importance": 0.5377,
+      "importance_score": 0.5377,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8235,
+        "recency": 0.816,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -945,15 +1124,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5055,
-      "importance": 0.5055,
-      "importance_score": 0.5055,
+      "score": 0.5042,
+      "importance": 0.5042,
+      "importance_score": 0.5042,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.776,
+        "recency": 0.7689,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1023,15 +1202,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5023,
-      "importance": 0.5023,
-      "importance_score": 0.5023,
+      "score": 0.5011,
+      "importance": 0.5011,
+      "importance_score": 0.5011,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7585,
+        "recency": 0.7516,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1101,15 +1280,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4951,
-      "importance": 0.4951,
-      "importance_score": 0.4951,
+      "score": 0.4939,
+      "importance": 0.4939,
+      "importance_score": 0.4939,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7183,
+        "recency": 0.7117,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1180,15 +1359,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5232,
-      "importance": 0.5232,
-      "importance_score": 0.5232,
+      "score": 0.5218,
+      "importance": 0.5218,
+      "importance_score": 0.5218,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8744,
+        "recency": 0.8665,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1259,15 +1438,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5366,
-      "importance": 0.5366,
-      "importance_score": 0.5366,
+      "score": 0.535,
+      "importance": 0.535,
+      "importance_score": 0.535,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9486,
+        "recency": 0.94,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1282,84 +1461,6 @@
         "url": "https://news.ycombinator.com/item?id=49311445",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_c499ecff7a9b",
-      "title": "抄袭事件中心的前剑桥大学教授贾森·阿尔戴被发现死亡 / Jason Arday, ex-Cambridge professor at centre of plagiarism row, found dead",
-      "url": "https://www.bbc.com/news/articles/c1j1ye6n30no",
-      "primary_url": "https://www.bbc.com/news/articles/c1j1ye6n30no",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "15b723d70b29cfef7da25fc02d6278e9039ddb6b",
-          "title": "抄袭事件中心的前剑桥大学教授贾森·阿尔戴被发现死亡 / Jason Arday, ex-Cambridge professor at centre of plagiarism row, found dead",
-          "url": "https://www.bbc.com/news/articles/c1j1ye6n30no",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-14T19:51:49Z"
-        },
-        {
-          "id": "c1d770f66b8f79af30538de4b8fbd7edbf780838",
-          "title": "杰森·阿戴：前剑桥大学教授被发现死亡 / Jason Arday: Former Cambridge university professor found dead",
-          "url": "https://www.bbc.com/news/articles/c1j1ye6n30no",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-14T19:51:49Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "15b723d70b29cfef7da25fc02d6278e9039ddb6b",
-          "title": "抄袭事件中心的前剑桥大学教授贾森·阿尔戴被发现死亡 / Jason Arday, ex-Cambridge professor at centre of plagiarism row, found dead",
-          "url": "https://www.bbc.com/news/articles/c1j1ye6n30no",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-14T19:51:49Z"
-        },
-        {
-          "id": "c1d770f66b8f79af30538de4b8fbd7edbf780838",
-          "title": "杰森·阿戴：前剑桥大学教授被发现死亡 / Jason Arday: Former Cambridge university professor found dead",
-          "url": "https://www.bbc.com/news/articles/c1j1ye6n30no",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-14T19:51:49Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4932,
-      "importance": 0.4932,
-      "importance_score": 0.4932,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7078,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-14T19:51:49Z",
-      "latest_at": "2026-08-14T19:51:49Z",
-      "primary_item": {
-        "id": "15b723d70b29cfef7da25fc02d6278e9039ddb6b",
-        "title": "抄袭事件中心的前剑桥大学教授贾森·阿尔戴被发现死亡 / Jason Arday, ex-Cambridge professor at centre of plagiarism row, found dead",
-        "url": "https://www.bbc.com/news/articles/c1j1ye6n30no",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
       }
     },
     {
@@ -1416,15 +1517,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5226,
-      "importance": 0.5226,
-      "importance_score": 0.5226,
+      "score": 0.5212,
+      "importance": 0.5212,
+      "importance_score": 0.5212,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8711,
+        "recency": 0.8632,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1495,15 +1596,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5366,
-      "importance": 0.5366,
-      "importance_score": 0.5366,
+      "score": 0.535,
+      "importance": 0.535,
+      "importance_score": 0.535,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9486,
+        "recency": 0.94,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1574,15 +1675,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5184,
-      "importance": 0.5184,
-      "importance_score": 0.5184,
+      "score": 0.517,
+      "importance": 0.517,
+      "importance_score": 0.517,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8479,
+        "recency": 0.8402,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1597,85 +1698,6 @@
         "url": "https://www.businessinsider.com/ai-running-sf-store-fired-employee-for-the-first-time-2026-8",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_3e34ba37fa70",
-      "title": "Yadda 3.0.0：人工智能代理时代的 BDD / Yadda 3.0.0: BDD in the Age of AI Agents",
-      "url": "https://news.ycombinator.com/item?id=49310495",
-      "primary_url": "https://news.ycombinator.com/item?id=49310495",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "f6b38b4dde366310ef65c6d8455cfeda8e83552c",
-          "title": "Yadda 3.0.0：人工智能代理时代的 BDD / Yadda 3.0.0: BDD in the Age of AI Agents",
-          "url": "https://news.ycombinator.com/item?id=49310495",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T14:38:30.053000Z"
-        },
-        {
-          "id": "6798338c29b45497deb2f55f717a29ab9fe91ec2",
-          "title": "Yadda 3.0.0：人工智能代理时代的 BDD / Yadda 3.0.0: BDD in the Age of AI Agents",
-          "url": "http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-15T13:43:46Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "f6b38b4dde366310ef65c6d8455cfeda8e83552c",
-          "title": "Yadda 3.0.0：人工智能代理时代的 BDD / Yadda 3.0.0: BDD in the Age of AI Agents",
-          "url": "https://news.ycombinator.com/item?id=49310495",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T14:38:30.053000Z"
-        },
-        {
-          "id": "6798338c29b45497deb2f55f717a29ab9fe91ec2",
-          "title": "Yadda 3.0.0：人工智能代理时代的 BDD / Yadda 3.0.0: BDD in the Age of AI Agents",
-          "url": "http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-15T13:43:46Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5329,
-      "importance": 0.5329,
-      "importance_score": 0.5329,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9283,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-15T13:43:46Z",
-      "latest_at": "2026-08-15T14:38:30.053000Z",
-      "primary_item": {
-        "id": "f6b38b4dde366310ef65c6d8455cfeda8e83552c",
-        "title": "Yadda 3.0.0：人工智能代理时代的 BDD / Yadda 3.0.0: BDD in the Age of AI Agents",
-        "url": "https://news.ycombinator.com/item?id=49310495",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     }
   ]
