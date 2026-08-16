@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T19:46:46.583341Z",
+  "generated_at": "2026-08-16T20:25:36.311650Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7749,
-      "importance": 0.7749,
-      "importance_score": 0.7749,
+      "score": 0.7734,
+      "importance": 0.7734,
+      "importance_score": 0.7734,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8847,
+        "recency": 0.8765,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -119,15 +119,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7294,
-      "importance": 0.7294,
-      "importance_score": 0.7294,
+      "score": 0.7281,
+      "importance": 0.7281,
+      "importance_score": 0.7281,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7877,
+        "recency": 0.7804,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -142,86 +142,6 @@
         "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-16-hexi-2077-ai-weekly-2026-w33",
         "source": "Daily Digest",
         "source_name": "AI HubToday"
-      }
-    },
-    {
-      "story_id": "story_20b744e598ba",
-      "title": "Cursor 正式被 SpaceX 收购",
-      "url": "https://cursor.com/blog/joining-spacex",
-      "primary_url": "https://cursor.com/blog/joining-spacex",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "381d3c56c3c3f15c2c5b031f0dc679588e6f701a",
-          "title": "Cursor 正式被 SpaceX 收购",
-          "url": "https://cursor.com/blog/joining-spacex",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-15T20:05:54.703000Z"
-        },
-        {
-          "id": "7a50d104b08c9f2172194c60466aa260cc885830",
-          "title": "Cursor 现已成为 SpaceX 的一部分",
-          "url": "https://cursor.com/blog/joining-spacex",
-          "source": "cursor.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-15T20:05:54.703000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "cursor.com"
-      ],
-      "items": [
-        {
-          "id": "381d3c56c3c3f15c2c5b031f0dc679588e6f701a",
-          "title": "Cursor 正式被 SpaceX 收购",
-          "url": "https://cursor.com/blog/joining-spacex",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-15T20:05:54.703000Z"
-        },
-        {
-          "id": "7a50d104b08c9f2172194c60466aa260cc885830",
-          "title": "Cursor 现已成为 SpaceX 的一部分",
-          "url": "https://cursor.com/blog/joining-spacex",
-          "source": "cursor.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-15T20:05:54.703000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7375,
-      "importance": 0.7375,
-      "importance_score": 0.7375,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7104,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-15T20:05:54.703000Z",
-      "latest_at": "2026-08-15T20:05:54.703000Z",
-      "primary_item": {
-        "id": "381d3c56c3c3f15c2c5b031f0dc679588e6f701a",
-        "title": "Cursor 正式被 SpaceX 收购",
-        "url": "https://cursor.com/blog/joining-spacex",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -297,15 +217,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5648,
-      "importance": 0.5648,
-      "importance_score": 0.5648,
+      "score": 0.5632,
+      "importance": 0.5632,
+      "importance_score": 0.5632,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9668,
+        "recency": 0.9578,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -395,15 +315,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5593,
-      "importance": 0.5593,
-      "importance_score": 0.5593,
+      "score": 0.5577,
+      "importance": 0.5577,
+      "importance_score": 0.5577,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9361,
+        "recency": 0.9274,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -493,15 +413,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5464,
-      "importance": 0.5464,
-      "importance_score": 0.5464,
+      "score": 0.545,
+      "importance": 0.545,
+      "importance_score": 0.545,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8645,
+        "recency": 0.8565,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -572,15 +492,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5425,
-      "importance": 0.5425,
-      "importance_score": 0.5425,
+      "score": 0.5409,
+      "importance": 0.5409,
+      "importance_score": 0.5409,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9818,
+        "recency": 0.9726,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -651,15 +571,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5398,
-      "importance": 0.5398,
-      "importance_score": 0.5398,
+      "score": 0.5382,
+      "importance": 0.5382,
+      "importance_score": 0.5382,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9668,
+        "recency": 0.9578,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -730,15 +650,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5326,
-      "importance": 0.5326,
-      "importance_score": 0.5326,
+      "score": 0.531,
+      "importance": 0.531,
+      "importance_score": 0.531,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9267,
+        "recency": 0.918,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -809,15 +729,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5257,
-      "importance": 0.5257,
-      "importance_score": 0.5257,
+      "score": 0.5242,
+      "importance": 0.5242,
+      "importance_score": 0.5242,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8882,
+        "recency": 0.8799,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -887,15 +807,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5222,
-      "importance": 0.5222,
-      "importance_score": 0.5222,
+      "score": 0.5208,
+      "importance": 0.5208,
+      "importance_score": 0.5208,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.869,
+        "recency": 0.8609,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -966,15 +886,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5335,
-      "importance": 0.5335,
-      "importance_score": 0.5335,
+      "score": 0.5319,
+      "importance": 0.5319,
+      "importance_score": 0.5319,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9316,
+        "recency": 0.923,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1045,15 +965,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5275,
-      "importance": 0.5275,
-      "importance_score": 0.5275,
+      "score": 0.526,
+      "importance": 0.526,
+      "importance_score": 0.526,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8985,
+        "recency": 0.8901,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1067,84 +987,6 @@
         "title": "BCG北美区负责人认为，在人工智能时代，哪项技能更为重要",
         "url": "https://www.businessinsider.com/bcg-consultants-ai-skills-technical-training-mel-wolfgang-2026-8",
         "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_d555dfa280b8",
-      "title": "据《Information》报道，英伟达计划在与OpenAI达成的数据中心合作协议框架下，向SB Energy投资30亿美元",
-      "url": "https://www.reuters.com/business/nvidia-talks-invest-3-billion-sb-energy-part-openai-data-center-deal-information-2026-08-15",
-      "primary_url": "https://www.reuters.com/business/nvidia-talks-invest-3-billion-sb-energy-part-openai-data-center-deal-information-2026-08-15",
-      "source": "www.reuters.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "e23c5f4436bf46537732294ca2df9734da05cf9d",
-          "title": "据《Information》报道，英伟达计划在与OpenAI达成的数据中心合作协议框架下，向SB Energy投资30亿美元",
-          "url": "https://www.reuters.com/business/nvidia-talks-invest-3-billion-sb-energy-part-openai-data-center-deal-information-2026-08-15",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-15T20:38:00.813000Z"
-        },
-        {
-          "id": "d1ca0dad4433f35492e832594ea3d9fd9e4d088b",
-          "title": "据《The Information》报道，英伟达正就向SB Energy投资30亿美元进行谈判，此举是OpenAI数据中心交易的一部分",
-          "url": "https://www.reuters.com/business/nvidia-talks-invest-3-billion-sb-energy-part-openai-data-center-deal-information-2026-08-15",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-15T19:50:12.744000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "www.reuters.com"
-      ],
-      "items": [
-        {
-          "id": "e23c5f4436bf46537732294ca2df9734da05cf9d",
-          "title": "据《Information》报道，英伟达计划在与OpenAI达成的数据中心合作协议框架下，向SB Energy投资30亿美元",
-          "url": "https://www.reuters.com/business/nvidia-talks-invest-3-billion-sb-energy-part-openai-data-center-deal-information-2026-08-15",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-15T20:38:00.813000Z"
-        },
-        {
-          "id": "d1ca0dad4433f35492e832594ea3d9fd9e4d088b",
-          "title": "据《The Information》报道，英伟达正就向SB Energy投资30亿美元进行谈判，此举是OpenAI数据中心交易的一部分",
-          "url": "https://www.reuters.com/business/nvidia-talks-invest-3-billion-sb-energy-part-openai-data-center-deal-information-2026-08-15",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-15T19:50:12.744000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4947,
-      "importance": 0.4947,
-      "importance_score": 0.4947,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7159,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-15T19:50:12.744000Z",
-      "latest_at": "2026-08-15T20:38:00.813000Z",
-      "primary_item": {
-        "id": "e23c5f4436bf46537732294ca2df9734da05cf9d",
-        "title": "据《Information》报道，英伟达计划在与OpenAI达成的数据中心合作协议框架下，向SB Energy投资30亿美元",
-        "url": "https://www.reuters.com/business/nvidia-talks-invest-3-billion-sb-energy-part-openai-data-center-deal-information-2026-08-15",
-        "source": "www.reuters.com",
         "source_name": "Buzzing"
       }
     },
@@ -1202,15 +1044,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5319,
-      "importance": 0.5319,
-      "importance_score": 0.5319,
+      "score": 0.5303,
+      "importance": 0.5303,
+      "importance_score": 0.5303,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9227,
+        "recency": 0.9141,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1281,15 +1123,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5238,
-      "importance": 0.5238,
-      "importance_score": 0.5238,
+      "score": 0.5224,
+      "importance": 0.5224,
+      "importance_score": 0.5224,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.878,
+        "recency": 0.8698,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1379,15 +1221,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5235,
-      "importance": 0.5235,
-      "importance_score": 0.5235,
+      "score": 0.5223,
+      "importance": 0.5223,
+      "importance_score": 0.5223,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7372,
+        "recency": 0.7303,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1402,85 +1244,6 @@
         "url": "https://news.ycombinator.com/item?id=49314594",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_3bd4f58cfc50",
-      "title": "Anthropic称其人工智能代理正在消灭竞争对手并掩盖行踪",
-      "url": "https://www.businessinsider.com/anthropic-ai-agents-risk-report-safety-mythos-claude-2026",
-      "primary_url": "https://www.businessinsider.com/anthropic-ai-agents-risk-report-safety-mythos-claude-2026",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "bbcf39a5af4f81103bc7156c08e1b5e399186a56",
-          "title": "Anthropic称其人工智能代理正在消灭竞争对手并掩盖行踪",
-          "url": "https://www.businessinsider.com/anthropic-ai-agents-risk-report-safety-mythos-claude-2026",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-15T20:21:54.677000Z"
-        },
-        {
-          "id": "4902d066596b0ccca5540acadf99e27f890fa062",
-          "title": "Anthropic称其人工智能代理正在消灭竞争对手并掩盖行踪 / Anthropic says its AI agents are killing rivals and hiding their tracks",
-          "url": "https://www.businessinsider.com/anthropic-ai-agents-risk-report-safety-mythos-claude-2026",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-15T20:09:46Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "bbcf39a5af4f81103bc7156c08e1b5e399186a56",
-          "title": "Anthropic称其人工智能代理正在消灭竞争对手并掩盖行踪",
-          "url": "https://www.businessinsider.com/anthropic-ai-agents-risk-report-safety-mythos-claude-2026",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-15T20:21:54.677000Z"
-        },
-        {
-          "id": "4902d066596b0ccca5540acadf99e27f890fa062",
-          "title": "Anthropic称其人工智能代理正在消灭竞争对手并掩盖行踪 / Anthropic says its AI agents are killing rivals and hiding their tracks",
-          "url": "https://www.businessinsider.com/anthropic-ai-agents-risk-report-safety-mythos-claude-2026",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-15T20:09:46Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4942,
-      "importance": 0.4942,
-      "importance_score": 0.4942,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7131,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-15T20:09:46Z",
-      "latest_at": "2026-08-15T20:21:54.677000Z",
-      "primary_item": {
-        "id": "bbcf39a5af4f81103bc7156c08e1b5e399186a56",
-        "title": "Anthropic称其人工智能代理正在消灭竞争对手并掩盖行踪",
-        "url": "https://www.businessinsider.com/anthropic-ai-agents-risk-report-safety-mythos-claude-2026",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -1537,15 +1300,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5116,
-      "importance": 0.5116,
-      "importance_score": 0.5116,
+      "score": 0.5102,
+      "importance": 0.5102,
+      "importance_score": 0.5102,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8099,
+        "recency": 0.8024,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1616,15 +1379,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5066,
-      "importance": 0.5066,
-      "importance_score": 0.5066,
+      "score": 0.5053,
+      "importance": 0.5053,
+      "importance_score": 0.5053,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.782,
+        "recency": 0.7748,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1637,6 +1400,243 @@
         "id": "d9e5761eb9dc631140a0a40569ec395b1563f0a7",
         "title": "AI 辅助 GPU 移植 250k 行旧天气模拟代码 / AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
         "url": "https://news.ycombinator.com/item?id=49314967",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_aa1bd4c71d6c",
+      "title": "Show HN：我使用 Rust 和 GPUI 为编码代理构建了一个本机应用程序 / Show HN: I built a native app for coding agents with Rust and GPUI",
+      "url": "https://news.ycombinator.com/item?id=49315709",
+      "primary_url": "https://news.ycombinator.com/item?id=49315709",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "a8484567193fa84bfd673651a93e15a0dab91865",
+          "title": "Show HN：我使用 Rust 和 GPUI 为编码代理构建了一个本机应用程序 / Show HN: I built a native app for coding agents with Rust and GPUI",
+          "url": "https://news.ycombinator.com/item?id=49315709",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-16T02:45:13.428000Z"
+        },
+        {
+          "id": "9ba6c737c52dd0ed402515bdd02140febf3a16c1",
+          "title": "Show HN: 我使用 Rust 和 GPUI 开发了一个用于编写代理程序的原生应用 / Show HN: I built a native app for coding agents with Rust and GPUI",
+          "url": "https://waku.sh",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-16T00:38:44Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "a8484567193fa84bfd673651a93e15a0dab91865",
+          "title": "Show HN：我使用 Rust 和 GPUI 为编码代理构建了一个本机应用程序 / Show HN: I built a native app for coding agents with Rust and GPUI",
+          "url": "https://news.ycombinator.com/item?id=49315709",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-16T02:45:13.428000Z"
+        },
+        {
+          "id": "9ba6c737c52dd0ed402515bdd02140febf3a16c1",
+          "title": "Show HN: 我使用 Rust 和 GPUI 开发了一个用于编写代理程序的原生应用 / Show HN: I built a native app for coding agents with Rust and GPUI",
+          "url": "https://waku.sh",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-16T00:38:44Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5053,
+      "importance": 0.5053,
+      "importance_score": 0.5053,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7748,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-16T00:38:44Z",
+      "latest_at": "2026-08-16T02:45:13.428000Z",
+      "primary_item": {
+        "id": "a8484567193fa84bfd673651a93e15a0dab91865",
+        "title": "Show HN：我使用 Rust 和 GPUI 为编码代理构建了一个本机应用程序 / Show HN: I built a native app for coding agents with Rust and GPUI",
+        "url": "https://news.ycombinator.com/item?id=49315709",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_ff34e5a81db6",
+      "title": "这就是你问的方式：法学硕士中与性别相关的语言偏见 / It's How You Ask: Gender-Associated Linguistic Bias in LLMs",
+      "url": "https://news.ycombinator.com/item?id=49316242",
+      "primary_url": "https://news.ycombinator.com/item?id=49316242",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "dd014bf97877d028a6388db7a26c84d56491c9cf",
+          "title": "这就是你问的方式：法学硕士中与性别相关的语言偏见 / It's How You Ask: Gender-Associated Linguistic Bias in LLMs",
+          "url": "https://news.ycombinator.com/item?id=49316242",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-16T02:45:13.428000Z"
+        },
+        {
+          "id": "3715c64be287d162f1e6c16761e1e73d878d5629",
+          "title": "这就是你问的方式：法学硕士中与性别相关的语言偏见 / It's How You Ask: Gender-Associated Linguistic Bias in LLMs",
+          "url": "https://arxiv.org/abs/2608.13328",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-16T02:07:06Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "dd014bf97877d028a6388db7a26c84d56491c9cf",
+          "title": "这就是你问的方式：法学硕士中与性别相关的语言偏见 / It's How You Ask: Gender-Associated Linguistic Bias in LLMs",
+          "url": "https://news.ycombinator.com/item?id=49316242",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-16T02:45:13.428000Z"
+        },
+        {
+          "id": "3715c64be287d162f1e6c16761e1e73d878d5629",
+          "title": "这就是你问的方式：法学硕士中与性别相关的语言偏见 / It's How You Ask: Gender-Associated Linguistic Bias in LLMs",
+          "url": "https://arxiv.org/abs/2608.13328",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-16T02:07:06Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5053,
+      "importance": 0.5053,
+      "importance_score": 0.5053,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7748,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-16T02:07:06Z",
+      "latest_at": "2026-08-16T02:45:13.428000Z",
+      "primary_item": {
+        "id": "dd014bf97877d028a6388db7a26c84d56491c9cf",
+        "title": "这就是你问的方式：法学硕士中与性别相关的语言偏见 / It's How You Ask: Gender-Associated Linguistic Bias in LLMs",
+        "url": "https://news.ycombinator.com/item?id=49316242",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_2ee2f613cd02",
+      "title": "ChatGPT 一年内网络份额下降 22 点 / ChatGPT lost 22 points of web share in a year",
+      "url": "https://news.ycombinator.com/item?id=49315630",
+      "primary_url": "https://news.ycombinator.com/item?id=49315630",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "199e11d6bc043c0a28cb4efb32a931be743df122",
+          "title": "ChatGPT 一年内网络份额下降 22 点 / ChatGPT lost 22 points of web share in a year",
+          "url": "https://news.ycombinator.com/item?id=49315630",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-16T01:10:20.889000Z"
+        },
+        {
+          "id": "b2198654af89e55fc12bdd2add73f095e710c6b3",
+          "title": "ChatGPT 一年内网络份额下降 22 点 / ChatGPT lost 22 points of web share in a year",
+          "url": "https://aicharts.grok.me/c/market-share",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-16T00:22:20Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "199e11d6bc043c0a28cb4efb32a931be743df122",
+          "title": "ChatGPT 一年内网络份额下降 22 点 / ChatGPT lost 22 points of web share in a year",
+          "url": "https://news.ycombinator.com/item?id=49315630",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-16T01:10:20.889000Z"
+        },
+        {
+          "id": "b2198654af89e55fc12bdd2add73f095e710c6b3",
+          "title": "ChatGPT 一年内网络份额下降 22 点 / ChatGPT lost 22 points of web share in a year",
+          "url": "https://aicharts.grok.me/c/market-share",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-16T00:22:20Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5021,
+      "importance": 0.5021,
+      "importance_score": 0.5021,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7573,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-16T00:22:20Z",
+      "latest_at": "2026-08-16T01:10:20.889000Z",
+      "primary_item": {
+        "id": "199e11d6bc043c0a28cb4efb32a931be743df122",
+        "title": "ChatGPT 一年内网络份额下降 22 点 / ChatGPT lost 22 points of web share in a year",
+        "url": "https://news.ycombinator.com/item?id=49315630",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
