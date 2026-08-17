@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T23:03:51.655487Z",
+  "generated_at": "2026-08-17T23:35:08.114017Z",
   "clusters": [
     {
       "cluster_id": "biz_cluster_45cc55f1c3a1",
@@ -107,30 +107,37 @@
       ]
     },
     {
-      "cluster_id": "biz_cluster_aebd3a170b35",
+      "cluster_id": "biz_cluster_5376e7b16fa8",
       "thesis": "Enterprise AI value is moving toward operating-model redesign rather than isolated copilots.",
       "lane": "enterprise_workflow",
       "signal_ids": [
-        "biz_bcf68154907d"
+        "biz_bcf68154907d",
+        "biz_5a5e5c9547de"
       ],
-      "source_count": 1,
-      "importance_score": 47,
-      "confidence": "watch",
+      "source_count": 2,
+      "importance_score": 46,
+      "confidence": "medium",
       "yuanli_mapping": [
         "yuanli_os",
         "ftf_trust"
       ],
-      "why_it_matters": "1 English evidence items from 1 sources connect this pattern to Yuanli IP.",
+      "why_it_matters": "2 English evidence items from 2 sources connect this pattern to Yuanli IP.",
       "counter_evidence": "See counter_signal cluster for adoption, ROI, and trust risks.",
       "recommended_action": "Map each workflow case to the Yuanli OS organs: soul, memory, judgment, hands.",
       "evidence_refs": [
-        "biz_bcf68154907d"
+        "biz_bcf68154907d",
+        "biz_5a5e5c9547de"
       ],
       "top_sources": [
         {
           "source": "GitHub Blog",
           "title": "How canvases make agentic workflows visible, steerable, and cost-efficient",
           "url": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient/"
+        },
+        {
+          "source": "Latent Space",
+          "title": "[AINews] Stripe buys OpenRouter for $7B",
+          "url": "https://www.latent.space/p/ainews-stripe-buys-openrouter-for"
         }
       ]
     },
