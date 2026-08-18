@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T21:03:16.347066Z",
+  "generated_at": "2026-08-18T21:36:48.848053Z",
   "cases": [
     {
       "case_id": "opc_case_d2a613baf372",
@@ -22,6 +22,49 @@
         "profit_container"
       ],
       "score": 57
+    },
+    {
+      "case_id": "opc_case_677e7ca7709c",
+      "company": "Executive Interview",
+      "founder": "",
+      "source_refs": [
+        "biz_6195a6426c00"
+      ],
+      "url": "https://www.cbinsights.com/research/executive-interview-miter/",
+      "title": "Executive Interview: Miter",
+      "business_model": "Founder Case",
+      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
+      "monetization": "To be extracted from the linked source.",
+      "team_size_signal": "team size not explicit",
+      "distribution_channel": "CB Insights",
+      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
+      "yuanli_mapping": [
+        "yuanli_startup",
+        "ftf_trust",
+        "wealth_flywheel"
+      ],
+      "score": 53
+    },
+    {
+      "case_id": "opc_case_58f42312f5e0",
+      "company": "CEO Interview",
+      "founder": "",
+      "source_refs": [
+        "biz_0b69e539ea6d"
+      ],
+      "url": "https://www.cbinsights.com/research/ceo-interview-blue-onion/",
+      "title": "CEO Interview: Blue Onion",
+      "business_model": "Founder Case",
+      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
+      "monetization": "To be extracted from the linked source.",
+      "team_size_signal": "team size not explicit",
+      "distribution_channel": "CB Insights",
+      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
+      "yuanli_mapping": [
+        "yuanli_startup",
+        "ftf_trust"
+      ],
+      "score": 50
     },
     {
       "case_id": "opc_case_6e0ffb17c133",
@@ -106,27 +149,6 @@
         "ftf_trust"
       ],
       "score": 50
-    },
-    {
-      "case_id": "opc_case_bc1607d29b90",
-      "company": "Executive Interview",
-      "founder": "",
-      "source_refs": [
-        "biz_449e080b7f6b"
-      ],
-      "url": "https://www.cbinsights.com/research/executive-interview-mea/",
-      "title": "Executive Interview: mea",
-      "business_model": "Founder Case",
-      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
-      "monetization": "To be extracted from the linked source.",
-      "team_size_signal": "team size not explicit",
-      "distribution_channel": "CB Insights",
-      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
-      "yuanli_mapping": [
-        "yuanli_startup",
-        "ftf_trust"
-      ],
-      "score": 49
     },
     {
       "case_id": "opc_case_65b634113795",
