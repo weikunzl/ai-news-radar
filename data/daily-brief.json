@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T21:35:16.705726Z",
+  "generated_at": "2026-08-18T21:58:20.006911Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8763,
-      "importance": 0.8763,
-      "importance_score": 0.8763,
+      "score": 0.8754,
+      "importance": 0.8754,
+      "importance_score": 0.8754,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9517,
+        "recency": 0.9464,
         "story_heat": 0.25
       },
       "category": "official",
@@ -139,15 +139,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8595,
-      "importance": 0.8595,
-      "importance_score": 0.8595,
+      "score": 0.8586,
+      "importance": 0.8586,
+      "importance_score": 0.8586,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8582,
+        "recency": 0.8535,
         "story_heat": 0.25
       },
       "category": "official",
@@ -239,15 +239,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8698,
-      "importance": 0.8698,
-      "importance_score": 0.8698,
+      "score": 0.8691,
+      "importance": 0.8691,
+      "importance_score": 0.8691,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.7322,
+        "recency": 0.7281,
         "story_heat": 0.5
       },
       "category": "official",
@@ -321,15 +321,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8515,
-      "importance": 0.8515,
-      "importance_score": 0.8515,
+      "score": 0.8506,
+      "importance": 0.8506,
+      "importance_score": 0.8506,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8582,
+        "recency": 0.8535,
         "story_heat": 0.25
       },
       "category": "official",
@@ -347,6 +347,87 @@
         "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_5874235fe6b1",
+      "title": "Mojo 语言正式开源，编译器与工具链全面开放",
+      "url": "https://www.modular.com/blog/mojo-open-source",
+      "primary_url": "https://www.modular.com/blog/mojo-open-source",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c85095d8dff46e7cff0dc8d8bf8ffa15d1d29acf",
+          "title": "Mojo 语言正式开源，编译器与工具链全面开放",
+          "url": "https://www.modular.com/blog/mojo-open-source",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-18T21:26:01.095000Z"
+        },
+        {
+          "id": "e61d8a7318a29492b0af9b0a4cb319bfbaaa9480",
+          "title": "Mojo 现已开源 / Mojo is now open source!",
+          "url": "https://www.modular.com/blog/mojo-open-source",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-18T16:23:24Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "c85095d8dff46e7cff0dc8d8bf8ffa15d1d29acf",
+          "title": "Mojo 语言正式开源，编译器与工具链全面开放",
+          "url": "https://www.modular.com/blog/mojo-open-source",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-18T21:26:01.095000Z"
+        },
+        {
+          "id": "e61d8a7318a29492b0af9b0a4cb319bfbaaa9480",
+          "title": "Mojo 现已开源 / Mojo is now open source!",
+          "url": "https://www.modular.com/blog/mojo-open-source",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-18T16:23:24Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7972,
+      "importance": 0.7972,
+      "importance_score": 0.7972,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9923,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-18T16:23:24Z",
+      "latest_at": "2026-08-18T21:26:01.095000Z",
+      "primary_item": {
+        "id": "c85095d8dff46e7cff0dc8d8bf8ffa15d1d29acf",
+        "title": "Mojo 语言正式开源，编译器与工具链全面开放",
+        "url": "https://www.modular.com/blog/mojo-open-source",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -384,15 +465,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8454,
-      "importance": 0.8454,
-      "importance_score": 0.8454,
+      "score": 0.8444,
+      "importance": 0.8444,
+      "importance_score": 0.8444,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9633,
+        "recency": 0.958,
         "story_heat": 0.0
       },
       "category": "official",
@@ -409,6 +490,126 @@
         "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_aa6ccf651aef",
+      "title": "OpenAI 暂缓前沿训练强化安全监控",
+      "url": "https://x.com/merettm/status/2089776131255783823",
+      "primary_url": "https://x.com/merettm/status/2089776131255783823",
+      "source": "X：Jakub Pachocki（OpenAI 首席科学家，@merettm）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "cf9dc9974a9401bb4062286fb30619abe411abf1",
+          "title": "OpenAI 暂缓前沿训练强化安全监控",
+          "url": "https://x.com/merettm/status/2089776131255783823",
+          "source": "X：Jakub Pachocki（OpenAI 首席科学家，@merettm）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-18T18:07:10Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Jakub Pachocki（OpenAI 首席科学家，@merettm）"
+      ],
+      "items": [
+        {
+          "id": "cf9dc9974a9401bb4062286fb30619abe411abf1",
+          "title": "OpenAI 暂缓前沿训练强化安全监控",
+          "url": "https://x.com/merettm/status/2089776131255783823",
+          "source": "X：Jakub Pachocki（OpenAI 首席科学家，@merettm）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-18T18:07:10Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7459,
+      "importance": 0.7459,
+      "importance_score": 0.7459,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.68,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9459,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-18T18:07:10Z",
+      "latest_at": "2026-08-18T18:07:10Z",
+      "primary_item": {
+        "id": "cf9dc9974a9401bb4062286fb30619abe411abf1",
+        "title": "OpenAI 暂缓前沿训练强化安全监控",
+        "url": "https://x.com/merettm/status/2089776131255783823",
+        "source": "X：Jakub Pachocki（OpenAI 首席科学家，@merettm）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_2a7697ec0027",
+      "title": "Claude 现已支持 Gmail 邮件与 Google Drive 文件管理",
+      "url": "https://x.com/claudeai/status/2089806039088517356",
+      "primary_url": "https://x.com/claudeai/status/2089806039088517356",
+      "source": "X：Claude (@claudeai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5833776bd035dfd9b5170fda745039e872c9c85f",
+          "title": "Claude 现已支持 Gmail 邮件与 Google Drive 文件管理",
+          "url": "https://x.com/claudeai/status/2089806039088517356",
+          "source": "X：Claude (@claudeai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-18T20:06:01Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Claude (@claudeai)"
+      ],
+      "items": [
+        {
+          "id": "5833776bd035dfd9b5170fda745039e872c9c85f",
+          "title": "Claude 现已支持 Gmail 邮件与 Google Drive 文件管理",
+          "url": "https://x.com/claudeai/status/2089806039088517356",
+          "source": "X：Claude (@claudeai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-18T20:06:01Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7418,
+      "importance": 0.7418,
+      "importance_score": 0.7418,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.65,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9733,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-18T20:06:01Z",
+      "latest_at": "2026-08-18T20:06:01Z",
+      "primary_item": {
+        "id": "5833776bd035dfd9b5170fda745039e872c9c85f",
+        "title": "Claude 现已支持 Gmail 邮件与 Google Drive 文件管理",
+        "url": "https://x.com/claudeai/status/2089806039088517356",
+        "source": "X：Claude (@claudeai)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -465,15 +666,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7681,
-      "importance": 0.7681,
-      "importance_score": 0.7681,
+      "score": 0.7674,
+      "importance": 0.7674,
+      "importance_score": 0.7674,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7137,
+        "recency": 0.7098,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -489,126 +690,6 @@
         "title": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
         "url": "https://cursor.com/changelog/origin-code-hosting",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_aa6ccf651aef",
-      "title": "OpenAI 暂缓前沿训练强化安全监控",
-      "url": "https://x.com/merettm/status/2089776131255783823",
-      "primary_url": "https://x.com/merettm/status/2089776131255783823",
-      "source": "X：Jakub Pachocki（OpenAI 首席科学家，@merettm）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "cf9dc9974a9401bb4062286fb30619abe411abf1",
-          "title": "OpenAI 暂缓前沿训练强化安全监控",
-          "url": "https://x.com/merettm/status/2089776131255783823",
-          "source": "X：Jakub Pachocki（OpenAI 首席科学家，@merettm）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-18T18:07:10Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Jakub Pachocki（OpenAI 首席科学家，@merettm）"
-      ],
-      "items": [
-        {
-          "id": "cf9dc9974a9401bb4062286fb30619abe411abf1",
-          "title": "OpenAI 暂缓前沿训练强化安全监控",
-          "url": "https://x.com/merettm/status/2089776131255783823",
-          "source": "X：Jakub Pachocki（OpenAI 首席科学家，@merettm）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-18T18:07:10Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7468,
-      "importance": 0.7468,
-      "importance_score": 0.7468,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.68,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9511,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-18T18:07:10Z",
-      "latest_at": "2026-08-18T18:07:10Z",
-      "primary_item": {
-        "id": "cf9dc9974a9401bb4062286fb30619abe411abf1",
-        "title": "OpenAI 暂缓前沿训练强化安全监控",
-        "url": "https://x.com/merettm/status/2089776131255783823",
-        "source": "X：Jakub Pachocki（OpenAI 首席科学家，@merettm）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_2a7697ec0027",
-      "title": "Claude 现已支持 Gmail 邮件与 Google Drive 文件管理",
-      "url": "https://x.com/claudeai/status/2089806039088517356",
-      "primary_url": "https://x.com/claudeai/status/2089806039088517356",
-      "source": "X：Claude (@claudeai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5833776bd035dfd9b5170fda745039e872c9c85f",
-          "title": "Claude 现已支持 Gmail 邮件与 Google Drive 文件管理",
-          "url": "https://x.com/claudeai/status/2089806039088517356",
-          "source": "X：Claude (@claudeai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-18T20:06:01Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Claude (@claudeai)"
-      ],
-      "items": [
-        {
-          "id": "5833776bd035dfd9b5170fda745039e872c9c85f",
-          "title": "Claude 现已支持 Gmail 邮件与 Google Drive 文件管理",
-          "url": "https://x.com/claudeai/status/2089806039088517356",
-          "source": "X：Claude (@claudeai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-18T20:06:01Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7428,
-      "importance": 0.7428,
-      "importance_score": 0.7428,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9787,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-18T20:06:01Z",
-      "latest_at": "2026-08-18T20:06:01Z",
-      "primary_item": {
-        "id": "5833776bd035dfd9b5170fda745039e872c9c85f",
-        "title": "Claude 现已支持 Gmail 邮件与 Google Drive 文件管理",
-        "url": "https://x.com/claudeai/status/2089806039088517356",
-        "source": "X：Claude (@claudeai)",
         "source_name": "AI HOT"
       }
     },
@@ -647,15 +728,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8265,
-      "importance": 0.8265,
-      "importance_score": 0.8265,
+      "score": 0.8256,
+      "importance": 0.8256,
+      "importance_score": 0.8256,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8582,
+        "recency": 0.8535,
         "story_heat": 0.0
       },
       "category": "official",
@@ -709,15 +790,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7351,
-      "importance": 0.7351,
-      "importance_score": 0.7351,
+      "score": 0.7341,
+      "importance": 0.7341,
+      "importance_score": 0.7341,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.63,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9694,
+        "recency": 0.964,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -769,15 +850,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8258,
-      "importance": 0.8258,
-      "importance_score": 0.8258,
+      "score": 0.825,
+      "importance": 0.825,
+      "importance_score": 0.825,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8101,
+        "recency": 0.8056,
         "story_heat": 0.0
       },
       "category": "official",
@@ -906,15 +987,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.5978,
-      "importance": 0.5978,
-      "importance_score": 0.5978,
+      "score": 0.5969,
+      "importance": 0.5969,
+      "importance_score": 0.5969,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.872,
+        "recency": 0.8672,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1004,15 +1085,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5677,
-      "importance": 0.5677,
-      "importance_score": 0.5677,
+      "score": 0.5667,
+      "importance": 0.5667,
+      "importance_score": 0.5667,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9826,
+        "recency": 0.9772,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1102,15 +1183,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5647,
-      "importance": 0.5647,
-      "importance_score": 0.5647,
+      "score": 0.5637,
+      "importance": 0.5637,
+      "importance_score": 0.5637,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.966,
+        "recency": 0.9607,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1180,15 +1261,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5638,
-      "importance": 0.5638,
-      "importance_score": 0.5638,
+      "score": 0.563,
+      "importance": 0.563,
+      "importance_score": 0.563,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.8338,
+        "recency": 0.8292,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1278,15 +1359,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5623,
-      "importance": 0.5623,
-      "importance_score": 0.5623,
+      "score": 0.5613,
+      "importance": 0.5613,
+      "importance_score": 0.5613,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9527,
+        "recency": 0.9475,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1376,15 +1457,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5597,
-      "importance": 0.5597,
-      "importance_score": 0.5597,
+      "score": 0.5587,
+      "importance": 0.5587,
+      "importance_score": 0.5587,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9381,
+        "recency": 0.9329,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1454,15 +1535,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5454,
-      "importance": 0.5454,
-      "importance_score": 0.5454,
+      "score": 0.5444,
+      "importance": 0.5444,
+      "importance_score": 0.5444,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9978,
+        "recency": 0.9923,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1550,15 +1631,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5366,
-      "importance": 0.5366,
-      "importance_score": 0.5366,
+      "score": 0.5358,
+      "importance": 0.5358,
+      "importance_score": 0.5358,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8098,
+        "recency": 0.8054,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1573,85 +1654,6 @@
         "url": "https://www.v2ex.com/t/1235299",
         "source": "V2EX (创意工作者社区)",
         "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_17f3321dd427",
-      "title": "OpenAI 推出面向青少年的 ChatGPT，配备更严格的防护措施以应对安全风险 - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVlMzd203czRIQzl2a0RlczBUQnFHcklwTnNqc3hfdHNBSW5QdFVReFJZdTFBM1pvUGlLeWZJWUVHTHlzMUdTbHVBNXI1OWM2Q2FtS0ZON3hEcENqQ3J5Z0RvOFgwdm9FZzY0b3RfWlJIMmtINHZtQmdQYlplbi1rS3hkVGw3TXN3RThwZ3EwQzI0N2ZVVTN3WVBWVWI4c29wdGllRl9Pd09YTGxaRWxudHdZQmRaSFc4SEE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "primary_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVlMzd203czRIQzl2a0RlczBUQnFHcklwTnNqc3hfdHNBSW5QdFVReFJZdTFBM1pvUGlLeWZJWUVHTHlzMUdTbHVBNXI1OWM2Q2FtS0ZON3hEcENqQ3J5Z0RvOFgwdm9FZzY0b3RfWlJIMmtINHZtQmdQYlplbi1rS3hkVGw3TXN3RThwZ3EwQzI0N2ZVVTN3WVBWVWI4c29wdGllRl9Pd09YTGxaRWxudHdZQmRaSFc4SEE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "source": "news.google.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "e082dd0a86047c668accb35b69f043c8cdc661a6",
-          "title": "OpenAI 推出面向青少年的 ChatGPT，配备更严格的防护措施以应对安全风险 - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVlMzd203czRIQzl2a0RlczBUQnFHcklwTnNqc3hfdHNBSW5QdFVReFJZdTFBM1pvUGlLeWZJWUVHTHlzMUdTbHVBNXI1OWM2Q2FtS0ZON3hEcENqQ3J5Z0RvOFgwdm9FZzY0b3RfWlJIMmtINHZtQmdQYlplbi1rS3hkVGw3TXN3RThwZ3EwQzI0N2ZVVTN3WVBWVWI4c29wdGllRl9Pd09YTGxaRWxudHdZQmRaSFc4SEE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-18T15:34:33.818000Z"
-        },
-        {
-          "id": "f100222fc171c22f027efc5bffe29b0b3d3bb0f8",
-          "title": "OpenAI 推出面向青少年的 ChatGPT，配备更严格的防护措施以应对安全风险",
-          "url": "https://www.reuters.com/technology/openai-unveils-chatgpt-teens-with-stronger-guardrails-parental-controls-2026-08-18",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-18T14:30:01.554000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "news.google.com",
-        "www.reuters.com"
-      ],
-      "items": [
-        {
-          "id": "e082dd0a86047c668accb35b69f043c8cdc661a6",
-          "title": "OpenAI 推出面向青少年的 ChatGPT，配备更严格的防护措施以应对安全风险 - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVlMzd203czRIQzl2a0RlczBUQnFHcklwTnNqc3hfdHNBSW5QdFVReFJZdTFBM1pvUGlLeWZJWUVHTHlzMUdTbHVBNXI1OWM2Q2FtS0ZON3hEcENqQ3J5Z0RvOFgwdm9FZzY0b3RfWlJIMmtINHZtQmdQYlplbi1rS3hkVGw3TXN3RThwZ3EwQzI0N2ZVVTN3WVBWVWI4c29wdGllRl9Pd09YTGxaRWxudHdZQmRaSFc4SEE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-18T15:34:33.818000Z"
-        },
-        {
-          "id": "f100222fc171c22f027efc5bffe29b0b3d3bb0f8",
-          "title": "OpenAI 推出面向青少年的 ChatGPT，配备更严格的防护措施以应对安全风险",
-          "url": "https://www.reuters.com/technology/openai-unveils-chatgpt-teens-with-stronger-guardrails-parental-controls-2026-08-18",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-18T14:30:01.554000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5308,
-      "importance": 0.5308,
-      "importance_score": 0.5308,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9168,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-18T14:30:01.554000Z",
-      "latest_at": "2026-08-18T15:34:33.818000Z",
-      "primary_item": {
-        "id": "e082dd0a86047c668accb35b69f043c8cdc661a6",
-        "title": "OpenAI 推出面向青少年的 ChatGPT，配备更严格的防护措施以应对安全风险 - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVlMzd203czRIQzl2a0RlczBUQnFHcklwTnNqc3hfdHNBSW5QdFVReFJZdTFBM1pvUGlLeWZJWUVHTHlzMUdTbHVBNXI1OWM2Q2FtS0ZON3hEcENqQ3J5Z0RvOFgwdm9FZzY0b3RfWlJIMmtINHZtQmdQYlplbi1rS3hkVGw3TXN3RThwZ3EwQzI0N2ZVVTN3WVBWVWI4c29wdGllRl9Pd09YTGxaRWxudHdZQmRaSFc4SEE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "source": "news.google.com",
-        "source_name": "Buzzing"
       }
     }
   ]
