@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T14:46:16.635872Z",
+  "generated_at": "2026-08-18T16:42:27.292859Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8755,
-      "importance": 0.8755,
-      "importance_score": 0.8755,
+      "score": 0.8708,
+      "importance": 0.8708,
+      "importance_score": 0.8708,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.947,
+        "recency": 0.9209,
         "story_heat": 0.25
       },
       "category": "official",
@@ -139,15 +139,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8584,
-      "importance": 0.8584,
-      "importance_score": 0.8584,
+      "score": 0.8544,
+      "importance": 0.8544,
+      "importance_score": 0.8544,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.8079,
+        "recency": 0.7856,
         "story_heat": 0.25
       },
       "category": "official",
@@ -259,15 +259,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8314,
-      "importance": 0.8314,
-      "importance_score": 0.8314,
+      "score": 0.8275,
+      "importance": 0.8275,
+      "importance_score": 0.8275,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7876,
+        "recency": 0.7658,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -321,15 +321,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8425,
-      "importance": 0.8425,
-      "importance_score": 0.8425,
+      "score": 0.8378,
+      "importance": 0.8378,
+      "importance_score": 0.8378,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.947,
+        "recency": 0.9209,
         "story_heat": 0.0
       },
       "category": "official",
@@ -345,68 +345,6 @@
         "title": "与 CodeAI 合作，准备第一代 AI / Partnering with CodeAI to prepare the first AI generation",
         "url": "https://openai.com/index/partnering-with-codeai",
         "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_3b2aba282400",
-      "title": "画布如何使代理工作流程可见、可操纵且经济高效 / How canvases make agentic workflows visible, steerable, and cost-efficient",
-      "url": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient",
-      "primary_url": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "9906b46475e583e00b16574efb087d7c6a44e46f",
-          "title": "画布如何使代理工作流程可见、可操纵且经济高效 / How canvases make agentic workflows visible, steerable, and cost-efficient",
-          "url": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-17T16:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub AI & ML"
-      ],
-      "items": [
-        {
-          "id": "9906b46475e583e00b16574efb087d7c6a44e46f",
-          "title": "画布如何使代理工作流程可见、可操纵且经济高效 / How canvases make agentic workflows visible, steerable, and cost-efficient",
-          "url": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-17T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7936,
-      "importance": 0.7936,
-      "importance_score": 0.7936,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7198,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-17T16:00:00Z",
-      "latest_at": "2026-08-17T16:00:00Z",
-      "primary_item": {
-        "id": "9906b46475e583e00b16574efb087d7c6a44e46f",
-        "title": "画布如何使代理工作流程可见、可操纵且经济高效 / How canvases make agentic workflows visible, steerable, and cost-efficient",
-        "url": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient",
-        "source": "GitHub AI & ML",
         "source_name": "Official AI Updates"
       }
     },
@@ -445,15 +383,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8168,
-      "importance": 0.8168,
-      "importance_score": 0.8168,
+      "score": 0.813,
+      "importance": 0.813,
+      "importance_score": 0.813,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7601,
+        "recency": 0.7391,
         "story_heat": 0.0
       },
       "category": "official",
@@ -469,6 +407,68 @@
         "title": "相同的集群，利用率增加了 33 个点：改变的是顺序 / Same Cluster, 33 Points More Utilization: What Changed Was the Order",
         "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
         "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_7d7eacff40aa",
+      "title": "Asana 通过 Codex 在 2 周内完成了 5 年的工程工作 / Asana cleared 5 years of engineering work in 2 weeks with Codex",
+      "url": "https://openai.com/index/asana",
+      "primary_url": "https://openai.com/index/asana",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "2202f2b59ff8d878e47df300dc1567311e52d90b",
+          "title": "Asana 通过 Codex 在 2 周内完成了 5 年的工程工作 / Asana cleared 5 years of engineering work in 2 weeks with Codex",
+          "url": "https://openai.com/index/asana",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-18T07:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "2202f2b59ff8d878e47df300dc1567311e52d90b",
+          "title": "Asana 通过 Codex 在 2 周内完成了 5 年的工程工作 / Asana cleared 5 years of engineering work in 2 weeks with Codex",
+          "url": "https://openai.com/index/asana",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-18T07:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8365,
+      "importance": 0.8365,
+      "importance_score": 0.8365,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8692,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-18T07:00:00Z",
+      "latest_at": "2026-08-18T07:00:00Z",
+      "primary_item": {
+        "id": "2202f2b59ff8d878e47df300dc1567311e52d90b",
+        "title": "Asana 通过 Codex 在 2 周内完成了 5 年的工程工作 / Asana cleared 5 years of engineering work in 2 weeks with Codex",
+        "url": "https://openai.com/index/asana",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -507,15 +507,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7335,
-      "importance": 0.7335,
-      "importance_score": 0.7335,
+      "score": 0.7291,
+      "importance": 0.7291,
+      "importance_score": 0.7291,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8938,
+        "recency": 0.8692,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -567,15 +567,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.73,
-      "importance": 0.73,
-      "importance_score": 0.73,
+      "score": 0.7259,
+      "importance": 0.7259,
+      "importance_score": 0.7259,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8075,
+        "recency": 0.7853,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -589,66 +589,6 @@
         "title": "一个实用的深度思考Prompt：用\"双向钢人论证\"让AI帮你挖出最本质的答案",
         "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685329&idx=1&sn=9471278dc489641c097b228912965ed4",
         "source": "公众号：数字生命卡兹克",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_b317002c7476",
-      "title": "用 Google 的 Agent Development Kit 构建零信任 AI 智能体",
-      "url": "https://developers.googleblog.com/build-zero-trust-ai-agents-with-googles-agent-development-kit",
-      "primary_url": "https://developers.googleblog.com/build-zero-trust-ai-agents-with-googles-agent-development-kit",
-      "source": "Google Developers Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "707f5eb71c2096b7bea1f9c983ab98b9b4433d29",
-          "title": "用 Google 的 Agent Development Kit 构建零信任 AI 智能体",
-          "url": "https://developers.googleblog.com/build-zero-trust-ai-agents-with-googles-agent-development-kit",
-          "source": "Google Developers Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-17T23:22:25.902000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google Developers Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "707f5eb71c2096b7bea1f9c983ab98b9b4433d29",
-          "title": "用 Google 的 Agent Development Kit 构建零信任 AI 智能体",
-          "url": "https://developers.googleblog.com/build-zero-trust-ai-agents-with-googles-agent-development-kit",
-          "source": "Google Developers Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-17T23:22:25.902000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7227,
-      "importance": 0.7227,
-      "importance_score": 0.7227,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.69,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8006,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-17T23:22:25.902000Z",
-      "latest_at": "2026-08-17T23:22:25.902000Z",
-      "primary_item": {
-        "id": "707f5eb71c2096b7bea1f9c983ab98b9b4433d29",
-        "title": "用 Google 的 Agent Development Kit 构建零信任 AI 智能体",
-        "url": "https://developers.googleblog.com/build-zero-trust-ai-agents-with-googles-agent-development-kit",
-        "source": "Google Developers Blog（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -706,15 +646,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7444,
-      "importance": 0.7444,
-      "importance_score": 0.7444,
+      "score": 0.7407,
+      "importance": 0.7407,
+      "importance_score": 0.7407,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7491,
+        "recency": 0.7285,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -786,15 +726,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7399,
-      "importance": 0.7399,
-      "importance_score": 0.7399,
+      "score": 0.7362,
+      "importance": 0.7362,
+      "importance_score": 0.7362,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7405,
+        "recency": 0.7201,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -810,84 +750,6 @@
         "url": "https://www.librarian.net/notoai",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_966ff312c3d3",
-      "title": "曾经是在线书商的亚马逊正在销毁善本书籍来训练人工智能模型 / Amazon, once an online bookseller, is destroying rare books to train AI models",
-      "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models",
-      "primary_url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models",
-      "source": "TechCrunch AI",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "846b0663801ceaeeba96afe7775721d1e81e2b8e",
-          "title": "曾经是在线书商的亚马逊正在销毁善本书籍来训练人工智能模型 / Amazon, once an online bookseller, is destroying rare books to train AI models",
-          "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-17T16:38:44Z"
-        },
-        {
-          "id": "1c138b79f233ab1079997c5ec2f6ed94d65025ac",
-          "title": "以销售书籍起家的亚马逊正在销毁稀有文本来训练人工智能 / Amazon, which started off selling books, is destroying rare texts to train AI",
-          "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-17T16:38:44Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "TechCrunch AI"
-      ],
-      "items": [
-        {
-          "id": "846b0663801ceaeeba96afe7775721d1e81e2b8e",
-          "title": "曾经是在线书商的亚马逊正在销毁善本书籍来训练人工智能模型 / Amazon, once an online bookseller, is destroying rare books to train AI models",
-          "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-17T16:38:44Z"
-        },
-        {
-          "id": "1c138b79f233ab1079997c5ec2f6ed94d65025ac",
-          "title": "以销售书籍起家的亚马逊正在销毁稀有文本来训练人工智能 / Amazon, which started off selling books, is destroying rare texts to train AI",
-          "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-17T16:38:44Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5995,
-      "importance": 0.5995,
-      "importance_score": 0.5995,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5472,
-        "source_tier": 0.58,
-        "ai_relevance": 0.76,
-        "recency": 0.7265,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-17T16:38:44Z",
-      "latest_at": "2026-08-17T16:38:44Z",
-      "primary_item": {
-        "id": "846b0663801ceaeeba96afe7775721d1e81e2b8e",
-        "title": "曾经是在线书商的亚马逊正在销毁善本书籍来训练人工智能模型 / Amazon, once an online bookseller, is destroying rare books to train AI models",
-        "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models",
-        "source": "TechCrunch AI",
-        "source_name": "Curated Media"
       }
     },
     {
@@ -933,9 +795,18 @@
           "source_name": "Info Flow",
           "site_id": "iris",
           "published_at": "2026-08-18T10:13:28Z"
+        },
+        {
+          "id": "c3d7d403ac1291d33bb4825483ec7fb5aeaa9822",
+          "title": "谷歌在拍卖会上购得已破产的Spirit航空公司数据，原因在于人工智能 / Google has acquired the data of failed US airline Spirit",
+          "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-18T10:13:28Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 5,
       "source_names": [
         "Hacker News (黑客新闻)",
         "Hacker News · 24h最热",
@@ -978,20 +849,29 @@
           "source_name": "Info Flow",
           "site_id": "iris",
           "published_at": "2026-08-18T10:13:28Z"
+        },
+        {
+          "id": "c3d7d403ac1291d33bb4825483ec7fb5aeaa9822",
+          "title": "谷歌在拍卖会上购得已破产的Spirit航空公司数据，原因在于人工智能 / Google has acquired the data of failed US airline Spirit",
+          "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-18T10:13:28Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.589,
-      "importance": 0.589,
-      "importance_score": 0.589,
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.6092,
+      "importance": 0.6092,
+      "importance_score": 0.6092,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9622,
-        "story_heat": 0.75
+        "recency": 0.9357,
+        "story_heat": 1.0
       },
       "category": "multi_source",
       "reasons": [
@@ -1117,15 +997,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.5793,
-      "importance": 0.5793,
-      "importance_score": 0.5793,
+      "score": 0.5755,
+      "importance": 0.5755,
+      "importance_score": 0.5755,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7696,
+        "recency": 0.7484,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1195,15 +1075,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5793,
-      "importance": 0.5793,
-      "importance_score": 0.5793,
+      "score": 0.5748,
+      "importance": 0.5748,
+      "importance_score": 0.5748,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.92,
+        "recency": 0.8947,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1247,18 +1127,18 @@
           "published_at": "2026-08-18T13:26:06.311000Z"
         },
         {
-          "id": "ef1336bf4565df83609ef1d8d857d1ce060704ed",
+          "id": "7e6a2be382c3fbc36427f66c207f9ec875c911fe",
           "title": "Show HN: 我取消了AI代码审查服务，并自己编写了一个免费的本地版本 / Show HN: I canceled my AI code reviewer and wrote a free local one",
           "url": "https://github.com/mukundzha/avouch",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-18T13:13:17Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "github.com",
         "hackernews"
       ],
@@ -1282,26 +1162,26 @@
           "published_at": "2026-08-18T13:26:06.311000Z"
         },
         {
-          "id": "ef1336bf4565df83609ef1d8d857d1ce060704ed",
+          "id": "7e6a2be382c3fbc36427f66c207f9ec875c911fe",
           "title": "Show HN: 我取消了AI代码审查服务，并自己编写了一个免费的本地版本 / Show HN: I canceled my AI code reviewer and wrote a free local one",
           "url": "https://github.com/mukundzha/avouch",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-18T13:13:17Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5699,
-      "importance": 0.5699,
-      "importance_score": 0.5699,
+      "score": 0.565,
+      "importance": 0.565,
+      "importance_score": 0.565,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.995,
+        "recency": 0.9675,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1410,15 +1290,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5538,
-      "importance": 0.5538,
-      "importance_score": 0.5538,
+      "score": 0.55,
+      "importance": 0.55,
+      "importance_score": 0.55,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7666,
+        "recency": 0.7455,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1432,104 +1312,6 @@
         "title": "AI;DR（AI；没读）",
         "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
         "source": "www.rickmanelius.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_f1f7a62026fe",
-      "title": "Launch HN: Speko（YC S26）——面向语音AI的OpenRouter",
-      "url": "https://speko.ai",
-      "primary_url": "https://speko.ai",
-      "source": "speko.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "0e03b723143f533f1c7972c6ef73bc20907a74c9",
-          "title": "Launch HN: Speko（YC S26）——面向语音AI的OpenRouter",
-          "url": "https://speko.ai",
-          "source": "speko.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-18T07:02:07.067000Z"
-        },
-        {
-          "id": "0f4ef408c494eb185f2be330728e3e3d4f757964",
-          "title": "推出 HN：Speko (YC S26) – 用于语音 AI 的 OpenRouter / Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
-          "url": "https://news.ycombinator.com/item?id=49332751",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-17T16:10:43.261000Z"
-        },
-        {
-          "id": "36fc23b4b0f1e89b76cc808498e4dbde52ac88f5",
-          "title": "Launch HN: Speko（YC S26）——面向语音AI的OpenRouter / Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
-          "url": "https://speko.ai",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-17T15:36:18Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "speko.ai"
-      ],
-      "items": [
-        {
-          "id": "0e03b723143f533f1c7972c6ef73bc20907a74c9",
-          "title": "Launch HN: Speko（YC S26）——面向语音AI的OpenRouter",
-          "url": "https://speko.ai",
-          "source": "speko.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-18T07:02:07.067000Z"
-        },
-        {
-          "id": "0f4ef408c494eb185f2be330728e3e3d4f757964",
-          "title": "推出 HN：Speko (YC S26) – 用于语音 AI 的 OpenRouter / Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
-          "url": "https://news.ycombinator.com/item?id=49332751",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-17T16:10:43.261000Z"
-        },
-        {
-          "id": "36fc23b4b0f1e89b76cc808498e4dbde52ac88f5",
-          "title": "Launch HN: Speko（YC S26）——面向语音AI的OpenRouter / Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
-          "url": "https://speko.ai",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-17T15:36:18Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5518,
-      "importance": 0.5518,
-      "importance_score": 0.5518,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8943,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-17T15:36:18Z",
-      "latest_at": "2026-08-18T07:02:07.067000Z",
-      "primary_item": {
-        "id": "0e03b723143f533f1c7972c6ef73bc20907a74c9",
-        "title": "Launch HN: Speko（YC S26）——面向语音AI的OpenRouter",
-        "url": "https://speko.ai",
-        "source": "speko.ai",
         "source_name": "Buzzing"
       }
     },
@@ -1604,15 +1386,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5516,
-      "importance": 0.5516,
-      "importance_score": 0.5516,
+      "score": 0.5472,
+      "importance": 0.5472,
+      "importance_score": 0.5472,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8936,
+        "recency": 0.869,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1627,6 +1409,85 @@
         "url": "https://www.v2ex.com/t/1235299",
         "source": "V2EX (创意工作者社区)",
         "source_name": "Info Flow"
+      }
+    },
+    {
+      "story_id": "story_17f3321dd427",
+      "title": "OpenAI 推出面向青少年的 ChatGPT，配备更严格的防护措施以应对安全风险 - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVlMzd203czRIQzl2a0RlczBUQnFHcklwTnNqc3hfdHNBSW5QdFVReFJZdTFBM1pvUGlLeWZJWUVHTHlzMUdTbHVBNXI1OWM2Q2FtS0ZON3hEcENqQ3J5Z0RvOFgwdm9FZzY0b3RfWlJIMmtINHZtQmdQYlplbi1rS3hkVGw3TXN3RThwZ3EwQzI0N2ZVVTN3WVBWVWI4c29wdGllRl9Pd09YTGxaRWxudHdZQmRaSFc4SEE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "primary_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVlMzd203czRIQzl2a0RlczBUQnFHcklwTnNqc3hfdHNBSW5QdFVReFJZdTFBM1pvUGlLeWZJWUVHTHlzMUdTbHVBNXI1OWM2Q2FtS0ZON3hEcENqQ3J5Z0RvOFgwdm9FZzY0b3RfWlJIMmtINHZtQmdQYlplbi1rS3hkVGw3TXN3RThwZ3EwQzI0N2ZVVTN3WVBWVWI4c29wdGllRl9Pd09YTGxaRWxudHdZQmRaSFc4SEE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "news.google.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "e082dd0a86047c668accb35b69f043c8cdc661a6",
+          "title": "OpenAI 推出面向青少年的 ChatGPT，配备更严格的防护措施以应对安全风险 - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVlMzd203czRIQzl2a0RlczBUQnFHcklwTnNqc3hfdHNBSW5QdFVReFJZdTFBM1pvUGlLeWZJWUVHTHlzMUdTbHVBNXI1OWM2Q2FtS0ZON3hEcENqQ3J5Z0RvOFgwdm9FZzY0b3RfWlJIMmtINHZtQmdQYlplbi1rS3hkVGw3TXN3RThwZ3EwQzI0N2ZVVTN3WVBWVWI4c29wdGllRl9Pd09YTGxaRWxudHdZQmRaSFc4SEE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-18T15:34:33.818000Z"
+        },
+        {
+          "id": "f100222fc171c22f027efc5bffe29b0b3d3bb0f8",
+          "title": "OpenAI 推出面向青少年的 ChatGPT，配备更严格的防护措施以应对安全风险",
+          "url": "https://www.reuters.com/technology/openai-unveils-chatgpt-teens-with-stronger-guardrails-parental-controls-2026-08-18",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-18T14:30:01.554000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "news.google.com",
+        "www.reuters.com"
+      ],
+      "items": [
+        {
+          "id": "e082dd0a86047c668accb35b69f043c8cdc661a6",
+          "title": "OpenAI 推出面向青少年的 ChatGPT，配备更严格的防护措施以应对安全风险 - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVlMzd203czRIQzl2a0RlczBUQnFHcklwTnNqc3hfdHNBSW5QdFVReFJZdTFBM1pvUGlLeWZJWUVHTHlzMUdTbHVBNXI1OWM2Q2FtS0ZON3hEcENqQ3J5Z0RvOFgwdm9FZzY0b3RfWlJIMmtINHZtQmdQYlplbi1rS3hkVGw3TXN3RThwZ3EwQzI0N2ZVVTN3WVBWVWI4c29wdGllRl9Pd09YTGxaRWxudHdZQmRaSFc4SEE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-18T15:34:33.818000Z"
+        },
+        {
+          "id": "f100222fc171c22f027efc5bffe29b0b3d3bb0f8",
+          "title": "OpenAI 推出面向青少年的 ChatGPT，配备更严格的防护措施以应对安全风险",
+          "url": "https://www.reuters.com/technology/openai-unveils-chatgpt-teens-with-stronger-guardrails-parental-controls-2026-08-18",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-18T14:30:01.554000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5429,
+      "importance": 0.5429,
+      "importance_score": 0.5429,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9838,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-18T14:30:01.554000Z",
+      "latest_at": "2026-08-18T15:34:33.818000Z",
+      "primary_item": {
+        "id": "e082dd0a86047c668accb35b69f043c8cdc661a6",
+        "title": "OpenAI 推出面向青少年的 ChatGPT，配备更严格的防护措施以应对安全风险 - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVlMzd203czRIQzl2a0RlczBUQnFHcklwTnNqc3hfdHNBSW5QdFVReFJZdTFBM1pvUGlLeWZJWUVHTHlzMUdTbHVBNXI1OWM2Q2FtS0ZON3hEcENqQ3J5Z0RvOFgwdm9FZzY0b3RfWlJIMmtINHZtQmdQYlplbi1rS3hkVGw3TXN3RThwZ3EwQzI0N2ZVVTN3WVBWVWI4c29wdGllRl9Pd09YTGxaRWxudHdZQmRaSFc4SEE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "source": "news.google.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1682,15 +1543,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5451,
-      "importance": 0.5451,
-      "importance_score": 0.5451,
+      "score": 0.5402,
+      "importance": 0.5402,
+      "importance_score": 0.5402,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9961,
+        "recency": 0.9686,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1704,6 +1565,202 @@
         "title": "百度营收连续第五次下滑，AI业务差距进一步扩大",
         "url": "https://www.bloomberg.com/news/articles/2026-08-18/baidu-posts-fifth-straight-sales-drop-after-ai-lags-rivals",
         "source": "www.bloomberg.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_4b340e692b03",
+      "title": "以色列设立了一个虚假智库，此举很可能是为了欺骗AI聊天机器人",
+      "url": "https://responsiblestatecraft.org/israel-influence-chatgpt",
+      "primary_url": "https://responsiblestatecraft.org/israel-influence-chatgpt",
+      "source": "responsiblestatecraft.org",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "3c3be855f30f06d3a83f3e4ebd222f982fd98ec0",
+          "title": "以色列设立了一个虚假智库，此举很可能是为了欺骗AI聊天机器人",
+          "url": "https://responsiblestatecraft.org/israel-influence-chatgpt",
+          "source": "responsiblestatecraft.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-18T02:30:02.549000Z"
+        },
+        {
+          "id": "a93341765557aee7e3916e2287c5666927361494",
+          "title": "以色列创建假智囊团可能试图欺骗人工智能聊天机器人 / Israel creates fake think tank in likely attempt to dupe AI chatbots",
+          "url": "https://news.ycombinator.com/item?id=49337392",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-18T02:27:37.304000Z"
+        },
+        {
+          "id": "29238fb7a9b0754218933360ccd6b3cd19477b13",
+          "title": "以色列设立了一个虚假智库，此举很可能是为了欺骗AI聊天机器人 / Israel creates fake think tank in likely attempt to dupe AI chatbots",
+          "url": "https://responsiblestatecraft.org/israel-influence-chatgpt",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-17T20:46:10Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews",
+        "responsiblestatecraft.org"
+      ],
+      "items": [
+        {
+          "id": "3c3be855f30f06d3a83f3e4ebd222f982fd98ec0",
+          "title": "以色列设立了一个虚假智库，此举很可能是为了欺骗AI聊天机器人",
+          "url": "https://responsiblestatecraft.org/israel-influence-chatgpt",
+          "source": "responsiblestatecraft.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-18T02:30:02.549000Z"
+        },
+        {
+          "id": "a93341765557aee7e3916e2287c5666927361494",
+          "title": "以色列创建假智囊团可能试图欺骗人工智能聊天机器人 / Israel creates fake think tank in likely attempt to dupe AI chatbots",
+          "url": "https://news.ycombinator.com/item?id=49337392",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-18T02:27:37.304000Z"
+        },
+        {
+          "id": "29238fb7a9b0754218933360ccd6b3cd19477b13",
+          "title": "以色列设立了一个虚假智库，此举很可能是为了欺骗AI聊天机器人 / Israel creates fake think tank in likely attempt to dupe AI chatbots",
+          "url": "https://responsiblestatecraft.org/israel-influence-chatgpt",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-17T20:46:10Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5374,
+      "importance": 0.5374,
+      "importance_score": 0.5374,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8145,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-17T20:46:10Z",
+      "latest_at": "2026-08-18T02:30:02.549000Z",
+      "primary_item": {
+        "id": "3c3be855f30f06d3a83f3e4ebd222f982fd98ec0",
+        "title": "以色列设立了一个虚假智库，此举很可能是为了欺骗AI聊天机器人",
+        "url": "https://responsiblestatecraft.org/israel-influence-chatgpt",
+        "source": "responsiblestatecraft.org",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_e37dcbb0bfb6",
+      "title": "GPT-5.6 Sol 价格下调 50%",
+      "url": "https://openrouter.ai/openai/gpt-5.6-sol",
+      "primary_url": "https://openrouter.ai/openai/gpt-5.6-sol",
+      "source": "openrouter.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "b84a2c553b2e04dedf7030449b5ce55e8ffaa426",
+          "title": "GPT-5.6 Sol 价格下调 50%",
+          "url": "https://openrouter.ai/openai/gpt-5.6-sol",
+          "source": "openrouter.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-18T01:42:08.453000Z"
+        },
+        {
+          "id": "bc7b6b4a57050dad2ba48d25dab8747f2e90d5f0",
+          "title": "GPT-5.6 Sol 定价降低 50% / GPT-5.6 Sol Pricing Cut by 50%",
+          "url": "https://news.ycombinator.com/item?id=49337602",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-17T23:41:35.360000Z"
+        },
+        {
+          "id": "0879a46a5ca46121852bfb9ebcd2e4e6b4e2b8a5",
+          "title": "GPT-5.6 Sol 价格下调 50% / GPT-5.6 Sol Pricing Cut by 50%",
+          "url": "https://openrouter.ai/openai/gpt-5.6-sol",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-17T21:03:18Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "openrouter.ai"
+      ],
+      "items": [
+        {
+          "id": "b84a2c553b2e04dedf7030449b5ce55e8ffaa426",
+          "title": "GPT-5.6 Sol 价格下调 50%",
+          "url": "https://openrouter.ai/openai/gpt-5.6-sol",
+          "source": "openrouter.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-18T01:42:08.453000Z"
+        },
+        {
+          "id": "bc7b6b4a57050dad2ba48d25dab8747f2e90d5f0",
+          "title": "GPT-5.6 Sol 定价降低 50% / GPT-5.6 Sol Pricing Cut by 50%",
+          "url": "https://news.ycombinator.com/item?id=49337602",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-17T23:41:35.360000Z"
+        },
+        {
+          "id": "0879a46a5ca46121852bfb9ebcd2e4e6b4e2b8a5",
+          "title": "GPT-5.6 Sol 价格下调 50% / GPT-5.6 Sol Pricing Cut by 50%",
+          "url": "https://openrouter.ai/openai/gpt-5.6-sol",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-17T21:03:18Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5357,
+      "importance": 0.5357,
+      "importance_score": 0.5357,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8052,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-17T21:03:18Z",
+      "latest_at": "2026-08-18T01:42:08.453000Z",
+      "primary_item": {
+        "id": "b84a2c553b2e04dedf7030449b5ce55e8ffaa426",
+        "title": "GPT-5.6 Sol 价格下调 50%",
+        "url": "https://openrouter.ai/openai/gpt-5.6-sol",
+        "source": "openrouter.ai",
         "source_name": "Buzzing"
       }
     }
