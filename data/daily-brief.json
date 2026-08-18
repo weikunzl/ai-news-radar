@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T22:35:22.493268Z",
+  "generated_at": "2026-08-18T23:01:29.181405Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8738,
-      "importance": 0.8738,
-      "importance_score": 0.8738,
+      "score": 0.8728,
+      "importance": 0.8728,
+      "importance_score": 0.8728,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.938,
+        "recency": 0.9322,
         "story_heat": 0.25
       },
       "category": "official",
@@ -139,15 +139,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8573,
-      "importance": 0.8573,
-      "importance_score": 0.8573,
+      "score": 0.8563,
+      "importance": 0.8563,
+      "importance_score": 0.8563,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8459,
+        "recency": 0.8406,
         "story_heat": 0.25
       },
       "category": "official",
@@ -202,15 +202,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8424,
-      "importance": 0.8424,
-      "importance_score": 0.8424,
+      "score": 0.8412,
+      "importance": 0.8412,
+      "importance_score": 0.8412,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9909,
+        "recency": 0.9847,
         "story_heat": 0.0
       },
       "category": "official",
@@ -301,15 +301,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8679,
-      "importance": 0.8679,
-      "importance_score": 0.8679,
+      "score": 0.8671,
+      "importance": 0.8671,
+      "importance_score": 0.8671,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.7217,
+        "recency": 0.7171,
         "story_heat": 0.5
       },
       "category": "official",
@@ -383,15 +383,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8493,
-      "importance": 0.8493,
-      "importance_score": 0.8493,
+      "score": 0.8483,
+      "importance": 0.8483,
+      "importance_score": 0.8483,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8459,
+        "recency": 0.8406,
         "story_heat": 0.25
       },
       "category": "official",
@@ -408,6 +408,68 @@
         "title": "OpenAI 在\"关键网络能力\"时代放缓模型开发节奏 / Pacing model development in an era of cyber-critical capabilities",
         "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
         "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_91992ed9f82d",
+      "title": "法典 CLI 0.148.0 / Codex CLI 0.148.0",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "628d16ca26e4ea18a33764992457d12726bd5db4",
+          "title": "法典 CLI 0.148.0 / Codex CLI 0.148.0",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-18T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "628d16ca26e4ea18a33764992457d12726bd5db4",
+          "title": "法典 CLI 0.148.0 / Codex CLI 0.148.0",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-18T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8151,
+      "importance": 0.8151,
+      "importance_score": 0.8151,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.7171,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-18T00:00:00Z",
+      "latest_at": "2026-08-18T00:00:00Z",
+      "primary_item": {
+        "id": "628d16ca26e4ea18a33764992457d12726bd5db4",
+        "title": "法典 CLI 0.148.0 / Codex CLI 0.148.0",
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -465,15 +527,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7956,
-      "importance": 0.7956,
-      "importance_score": 0.7956,
+      "score": 0.7945,
+      "importance": 0.7945,
+      "importance_score": 0.7945,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9834,
+        "recency": 0.9773,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -527,15 +589,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8429,
-      "importance": 0.8429,
-      "importance_score": 0.8429,
+      "score": 0.8418,
+      "importance": 0.8418,
+      "importance_score": 0.8418,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9495,
+        "recency": 0.9435,
         "story_heat": 0.0
       },
       "category": "official",
@@ -589,15 +651,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7702,
-      "importance": 0.7702,
-      "importance_score": 0.7702,
+      "score": 0.7691,
+      "importance": 0.7691,
+      "importance_score": 0.7691,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9981,
+        "recency": 0.9918,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -650,15 +712,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7443,
-      "importance": 0.7443,
-      "importance_score": 0.7443,
+      "score": 0.7433,
+      "importance": 0.7433,
+      "importance_score": 0.7433,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9375,
+        "recency": 0.9316,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -710,15 +772,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7402,
-      "importance": 0.7402,
-      "importance_score": 0.7402,
+      "score": 0.7392,
+      "importance": 0.7392,
+      "importance_score": 0.7392,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9647,
+        "recency": 0.9586,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -770,15 +832,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8243,
-      "importance": 0.8243,
-      "importance_score": 0.8243,
+      "score": 0.8233,
+      "importance": 0.8233,
+      "importance_score": 0.8233,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8459,
+        "recency": 0.8406,
         "story_heat": 0.0
       },
       "category": "official",
@@ -832,15 +894,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7326,
-      "importance": 0.7326,
-      "importance_score": 0.7326,
+      "score": 0.7315,
+      "importance": 0.7315,
+      "importance_score": 0.7315,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.63,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9555,
+        "recency": 0.9495,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -892,15 +954,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8237,
-      "importance": 0.8237,
-      "importance_score": 0.8237,
+      "score": 0.8228,
+      "importance": 0.8228,
+      "importance_score": 0.8228,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7984,
+        "recency": 0.7934,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1029,15 +1091,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.5955,
-      "importance": 0.5955,
-      "importance_score": 0.5955,
+      "score": 0.5945,
+      "importance": 0.5945,
+      "importance_score": 0.5945,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8595,
+        "recency": 0.8541,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1088,9 +1150,18 @@
           "source_name": "Info Flow",
           "site_id": "iris",
           "published_at": "2026-08-18T19:30:29Z"
+        },
+        {
+          "id": "5268f547288b18920f2330094f0e4f2943350ac4",
+          "title": "挪威应该收购OpenAI / The Norwegian Government Pension Fund Global ought to purchase OpenAI",
+          "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-18T19:30:29Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 4,
       "source_names": [
         "Hacker News (黑客新闻)",
         "hackernews",
@@ -1123,20 +1194,29 @@
           "source_name": "Info Flow",
           "site_id": "iris",
           "published_at": "2026-08-18T19:30:29Z"
+        },
+        {
+          "id": "5268f547288b18920f2330094f0e4f2943350ac4",
+          "title": "挪威应该收购OpenAI / The Norwegian Government Pension Fund Global ought to purchase OpenAI",
+          "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-18T19:30:29Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5651,
-      "importance": 0.5651,
-      "importance_score": 0.5651,
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.589,
+      "importance": 0.589,
+      "importance_score": 0.589,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9685,
-        "story_heat": 0.5
+        "recency": 0.9624,
+        "story_heat": 0.75
       },
       "category": "multi_source",
       "reasons": [
@@ -1225,15 +1305,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5622,
-      "importance": 0.5622,
-      "importance_score": 0.5622,
+      "score": 0.5611,
+      "importance": 0.5611,
+      "importance_score": 0.5611,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9522,
+        "recency": 0.9462,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1303,15 +1383,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5616,
-      "importance": 0.5616,
-      "importance_score": 0.5616,
+      "score": 0.5607,
+      "importance": 0.5607,
+      "importance_score": 0.5607,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.8218,
+        "recency": 0.8167,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1401,15 +1481,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5598,
-      "importance": 0.5598,
-      "importance_score": 0.5598,
+      "score": 0.5588,
+      "importance": 0.5588,
+      "importance_score": 0.5588,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9391,
+        "recency": 0.9332,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1499,15 +1579,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5572,
-      "importance": 0.5572,
-      "importance_score": 0.5572,
+      "score": 0.5562,
+      "importance": 0.5562,
+      "importance_score": 0.5562,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9247,
+        "recency": 0.9189,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1521,84 +1601,6 @@
         "title": "克劳德：多种模型的性能下降",
         "url": "https://status.claude.com/incidents/q7txxvbsftgq",
         "source": "status.claude.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_dc0b9712f9dd",
-      "title": "据《The Information》报道，Anthropic计划在IPO前为创始人设立特别投票权",
-      "url": "https://www.reuters.com/pt/tecnologia/ITXKLLI3X5MUFDUTJ3AT3HPVBA-2026-08-18",
-      "primary_url": "https://www.reuters.com/pt/tecnologia/ITXKLLI3X5MUFDUTJ3AT3HPVBA-2026-08-18",
-      "source": "www.reuters.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "cc9c71df5606fe5a23b51cdc35347eab6998f2c1",
-          "title": "据《The Information》报道，Anthropic计划在IPO前为创始人设立特别投票权",
-          "url": "https://www.reuters.com/pt/tecnologia/ITXKLLI3X5MUFDUTJ3AT3HPVBA-2026-08-18",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-18T21:26:01.509000Z"
-        },
-        {
-          "id": "64d981b20a7d82a7e27902a3679bf212d119fbcc",
-          "title": "据《The Information》报道，Anthropic在IPO前为创始人准备了超级投票权",
-          "url": "https://www.reuters.com/business/anthropic-prepares-supervoting-power-founders-ahead-ipo-information-reports-2026-08-18",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-18T21:26:01.492000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "www.reuters.com"
-      ],
-      "items": [
-        {
-          "id": "cc9c71df5606fe5a23b51cdc35347eab6998f2c1",
-          "title": "据《The Information》报道，Anthropic计划在IPO前为创始人设立特别投票权",
-          "url": "https://www.reuters.com/pt/tecnologia/ITXKLLI3X5MUFDUTJ3AT3HPVBA-2026-08-18",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-18T21:26:01.509000Z"
-        },
-        {
-          "id": "64d981b20a7d82a7e27902a3679bf212d119fbcc",
-          "title": "据《The Information》报道，Anthropic在IPO前为创始人准备了超级投票权",
-          "url": "https://www.reuters.com/business/anthropic-prepares-supervoting-power-founders-ahead-ipo-information-reports-2026-08-18",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-18T21:26:01.492000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5428,
-      "importance": 0.5428,
-      "importance_score": 0.5428,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9834,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-18T21:26:01.492000Z",
-      "latest_at": "2026-08-18T21:26:01.509000Z",
-      "primary_item": {
-        "id": "cc9c71df5606fe5a23b51cdc35347eab6998f2c1",
-        "title": "据《The Information》报道，Anthropic计划在IPO前为创始人设立特别投票权",
-        "url": "https://www.reuters.com/pt/tecnologia/ITXKLLI3X5MUFDUTJ3AT3HPVBA-2026-08-18",
-        "source": "www.reuters.com",
         "source_name": "Buzzing"
       }
     }
