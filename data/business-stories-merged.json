@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T19:38:46.663439Z",
+  "generated_at": "2026-08-19T20:01:45.953450Z",
   "clusters": [
     {
       "cluster_id": "biz_cluster_e9a7ea026d00",
@@ -97,11 +97,11 @@
       ]
     },
     {
-      "cluster_id": "biz_cluster_8f6d9e434d62",
+      "cluster_id": "biz_cluster_41104410173b",
       "thesis": "Enterprise AI value is moving toward operating-model redesign rather than isolated copilots.",
       "lane": "enterprise_workflow",
       "signal_ids": [
-        "biz_e74bfefc6811",
+        "biz_3947ff041b7a",
         "biz_2848ddaf5b47"
       ],
       "source_count": 2,
@@ -115,14 +115,14 @@
       "counter_evidence": "See counter_signal cluster for adoption, ROI, and trust risks.",
       "recommended_action": "Map each workflow case to the Yuanli OS organs: soul, memory, judgment, hands.",
       "evidence_refs": [
-        "biz_e74bfefc6811",
+        "biz_3947ff041b7a",
         "biz_2848ddaf5b47"
       ],
       "top_sources": [
         {
           "source": "OpenAI News",
           "title": "Offering Zero Data Retention for frontier models",
-          "url": "https://openai.com/index/our-commitment-to-zero-data-retention"
+          "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models"
         },
         {
           "source": "GitHub Blog",
