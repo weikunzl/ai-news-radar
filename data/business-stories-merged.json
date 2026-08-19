@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T12:59:20.502051Z",
+  "generated_at": "2026-08-19T13:56:59.794232Z",
   "clusters": [
     {
       "cluster_id": "biz_cluster_4f673f322e0e",
@@ -62,14 +62,14 @@
       ]
     },
     {
-      "cluster_id": "biz_cluster_ba6f774c7b06",
+      "cluster_id": "biz_cluster_df6e0bd5c9e0",
       "thesis": "Business-school and consulting evidence strengthens the trust layer behind Yuanli IP claims.",
       "lane": "authority_trust",
       "signal_ids": [
-        "biz_5b965339cdab"
+        "biz_baf53c222f4b"
       ],
       "source_count": 1,
-      "importance_score": 35,
+      "importance_score": 33,
       "confidence": "watch",
       "yuanli_mapping": [
         "ftf_trust",
@@ -80,13 +80,13 @@
       "counter_evidence": "See counter_signal cluster for adoption, ROI, and trust risks.",
       "recommended_action": "Use these authority-backed signals as FTF proof points before making public claims.",
       "evidence_refs": [
-        "biz_5b965339cdab"
+        "biz_baf53c222f4b"
       ],
       "top_sources": [
         {
-          "source": "Bain Insights",
-          "title": "Game Distribution: Half Your Players Already Buy Direct",
-          "url": "https://www.bain.com/insights/game-distribution-half-your-players-already-buy-direct-gaming-report-2026/"
+          "source": "Harvard Business Review",
+          "title": "Is Your Organizational Culture Too Nice?",
+          "url": "https://hbr.org/2026/08/is-your-organizational-culture-too-nice"
         }
       ]
     }
