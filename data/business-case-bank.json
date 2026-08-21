@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T02:58:16.792414Z",
+  "generated_at": "2026-08-21T08:55:08.648379Z",
   "cases": [
     {
       "case_id": "opc_case_a9bef6356553",
@@ -20,7 +20,7 @@
         "yuanli_startup",
         "ftf_trust"
       ],
-      "score": 50
+      "score": 49
     },
     {
       "case_id": "opc_case_e4208d48bb09",
@@ -41,7 +41,7 @@
         "yuanli_startup",
         "ftf_trust"
       ],
-      "score": 50
+      "score": 49
     },
     {
       "case_id": "opc_case_d092e52c8d12",
@@ -62,7 +62,7 @@
         "yuanli_startup",
         "ftf_trust"
       ],
-      "score": 50
+      "score": 49
     },
     {
       "case_id": "opc_case_c374d26a527d",
@@ -83,7 +83,7 @@
         "yuanli_startup",
         "ftf_trust"
       ],
-      "score": 50
+      "score": 49
     },
     {
       "case_id": "opc_case_ab50c33cb82f",
@@ -104,7 +104,7 @@
         "yuanli_startup",
         "ftf_trust"
       ],
-      "score": 50
+      "score": 49
     },
     {
       "case_id": "opc_case_e3d65f20765a",
@@ -125,7 +125,7 @@
         "yuanli_startup",
         "ftf_trust"
       ],
-      "score": 50
+      "score": 49
     },
     {
       "case_id": "opc_case_840465a4c866",
@@ -170,14 +170,14 @@
       "score": 49
     },
     {
-      "case_id": "opc_case_412f42515cd6",
-      "company": "Ditching",
+      "case_id": "opc_case_5fc86977d75d",
+      "company": "Indie Hackers",
       "founder": "",
       "source_refs": [
-        "biz_79badbd4fc4c"
+        "biz_39f9acbfad22"
       ],
-      "url": "https://www.indiehackers.com/post/ditching-the-multi-tool-tax-why-founders-are-switching-from-mixpanel-to-posthog-f3af79b50d",
-      "title": "Ditching the Multi-Tool Tax: Why Founders Are Switching From Mixpanel to PostHog",
+      "url": "https://www.indiehackers.com/post/i-asked-founders-what-they-actually-want-after-launch-the-answer-wasn-t-more-traffic-8737e93a22",
+      "title": "I asked founders what they actually want after launch. The answer wasn’t more traffic.",
       "business_model": "Founder Case, OPC",
       "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
       "monetization": "To be extracted from the linked source.",
@@ -187,17 +187,17 @@
       "yuanli_mapping": [
         "yuanli_startup"
       ],
-      "score": 42
+      "score": 43
     },
     {
-      "case_id": "opc_case_368f69e0e5bd",
-      "company": "Show IH",
+      "case_id": "opc_case_0c09a84b5594",
+      "company": "Claude",
       "founder": "",
       "source_refs": [
-        "biz_8890fc95027e"
+        "biz_84adec9a91c0"
       ],
-      "url": "https://www.indiehackers.com/post/show-ih-i-built-18-industry-pages-for-the-small-businesses-ai-search-ignores-which-one-did-i-leave-out-7aa6b73dbb",
-      "title": "Show IH: I built 18 industry pages for the small businesses AI search ignores — which one did I leave out?",
+      "url": "https://www.indiehackers.com/post/i-just-taught-my-app-to-talk-to-claude-and-it-made-me-rethink-the-whole-flat-list-vs-messy-whiteboard-problem-i-built-ulup-spaces-to-so-2027ea2059",
+      "title": "I just taught my app to talk to Claude — and it made me rethink the whole \"flat list vs. messy whiteboard\" problem I built UluP Spaces to so",
       "business_model": "Founder Case, OPC",
       "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
       "monetization": "To be extracted from the linked source.",
@@ -208,6 +208,26 @@
         "yuanli_startup"
       ],
       "score": 39
+    },
+    {
+      "case_id": "opc_case_a9b30de5ba99",
+      "company": "AINews",
+      "founder": "",
+      "source_refs": [
+        "biz_31adbc782e54"
+      ],
+      "url": "https://www.latent.space/p/ainews-poolside-gets-12b-reverse",
+      "title": "[AINews] Poolside gets $12B reverse-execuhire to NVIDIA; founders stay for $1B, employees go for $6B, Infraco scaling to 7GW neocloud",
+      "business_model": "Founder Case, Enterprise AI Workflow",
+      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
+      "monetization": "To be extracted from the linked source.",
+      "team_size_signal": "team size not explicit",
+      "distribution_channel": "Latent Space",
+      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
+      "yuanli_mapping": [
+        "yuanli_startup"
+      ],
+      "score": 42
     },
     {
       "case_id": "opc_case_012e95e591f8",
