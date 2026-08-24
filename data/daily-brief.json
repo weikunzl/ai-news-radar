@@ -1,153 +1,251 @@
 {
-  "generated_at": "2026-08-23T14:26:25.841726Z",
+  "generated_at": "2026-08-24T01:23:35.016040Z",
   "window_hours": 24,
-  "total_items": 15,
+  "total_items": 11,
   "items": [
     {
-      "story_id": "story_c3477d4b1486",
-      "title": "何夕2077 AI 深度信号周报 (2026 W34) | 算力基建金融化与安全治理退潮",
-      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-23-hexi-2077-ai-weekly-2026-w34",
-      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-23-hexi-2077-ai-weekly-2026-w34",
-      "source": "Daily Digest",
-      "source_name": "AI HubToday",
+      "story_id": "story_91992ed9f82d",
+      "title": "Codex CLI 0.149.1",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "85009006fffe3911d67a638c58319557b700e017",
-          "title": "何夕2077 AI 深度信号周报 (2026 W34) | 算力基建金融化与安全治理退潮",
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-23-hexi-2077-ai-weekly-2026-w34",
-          "source": "Daily Digest",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": "2026-08-23T04:03:52Z"
+          "id": "6986cd90498eb6d2f2240556fbddd0fbab755c6b",
+          "title": "Codex CLI 0.149.1",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-24T00:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Daily Digest"
+        "OpenAI Codex Changelog"
       ],
       "items": [
         {
-          "id": "85009006fffe3911d67a638c58319557b700e017",
-          "title": "何夕2077 AI 深度信号周报 (2026 W34) | 算力基建金融化与安全治理退潮",
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-23-hexi-2077-ai-weekly-2026-w34",
-          "source": "Daily Digest",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": "2026-08-23T04:03:52Z"
+          "id": "6986cd90498eb6d2f2240556fbddd0fbab755c6b",
+          "title": "Codex CLI 0.149.1",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-24T00:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7426,
-      "importance": 0.7426,
-      "importance_score": 0.7426,
-      "importance_label": "行业动态",
+      "score": 0.8624,
+      "importance": 0.8624,
+      "importance_score": 0.8624,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8608,
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.9801,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
-        "high_ai_relevance"
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-08-23T04:03:52Z",
-      "latest_at": "2026-08-23T04:03:52Z",
+      "earliest_at": "2026-08-24T00:00:00Z",
+      "latest_at": "2026-08-24T00:00:00Z",
       "primary_item": {
-        "id": "85009006fffe3911d67a638c58319557b700e017",
-        "title": "何夕2077 AI 深度信号周报 (2026 W34) | 算力基建金融化与安全治理退潮",
-        "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-23-hexi-2077-ai-weekly-2026-w34",
-        "source": "Daily Digest",
-        "source_name": "AI HubToday"
+        "id": "6986cd90498eb6d2f2240556fbddd0fbab755c6b",
+        "title": "Codex CLI 0.149.1",
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_dd5736dec723",
-      "title": "德克萨斯州一名学生如何揭发了一起恶意AI黑客攻击企图",
-      "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20",
-      "primary_url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "story_id": "story_ff91e2bb7753",
+      "title": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
+      "url": "https://www.ithome.com/0/993/305.htm",
+      "primary_url": "https://www.ithome.com/0/993/305.htm",
+      "source": "IT之家（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "c403826ba017a8d7758a532d0e40783cf37a8e7d",
-          "title": "德克萨斯州一名学生如何揭发了一起恶意AI黑客攻击企图",
-          "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "id": "0dccdb3aa56045c33d61181d209ffb5347cf430b",
+          "title": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
+          "url": "https://www.ithome.com/0/993/305.htm",
+          "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-23T00:53:34.184000Z"
+          "published_at": "2026-08-23T14:13:31Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
+        "IT之家（RSS）"
       ],
       "items": [
         {
-          "id": "c403826ba017a8d7758a532d0e40783cf37a8e7d",
-          "title": "德克萨斯州一名学生如何揭发了一起恶意AI黑客攻击企图",
-          "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "id": "0dccdb3aa56045c33d61181d209ffb5347cf430b",
+          "title": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
+          "url": "https://www.ithome.com/0/993/305.htm",
+          "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-23T00:53:34.184000Z"
+          "published_at": "2026-08-23T14:13:31Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7386,
-      "importance": 0.7386,
-      "importance_score": 0.7386,
+      "score": 0.7378,
+      "importance": 0.7378,
+      "importance_score": 0.7378,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.73,
+        "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8223,
+        "recency": 0.8511,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-23T00:53:34.184000Z",
-      "latest_at": "2026-08-23T00:53:34.184000Z",
+      "earliest_at": "2026-08-23T14:13:31Z",
+      "latest_at": "2026-08-23T14:13:31Z",
       "primary_item": {
-        "id": "c403826ba017a8d7758a532d0e40783cf37a8e7d",
-        "title": "德克萨斯州一名学生如何揭发了一起恶意AI黑客攻击企图",
-        "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "id": "0dccdb3aa56045c33d61181d209ffb5347cf430b",
+        "title": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
+        "url": "https://www.ithome.com/0/993/305.htm",
+        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_6f7310105200",
-      "title": "我开发了一款爆红的人工智能水印去除工具。我完全没料到会引起这么大的关注。",
-      "url": "https://www.businessinsider.com/created-viral-ai-watermark-remover-after-anthropics-announcement-2026-8",
-      "primary_url": "https://www.businessinsider.com/created-viral-ai-watermark-remover-after-anthropics-announcement-2026-8",
+      "story_id": "story_c6ae66e74b15",
+      "title": "阿里巴巴在创纪录的香港股票发售中为人工智能筹集了100亿美元",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-23/alibaba-to-raise-10-billion-by-selling-shares-for-ai-expansion",
+      "primary_url": "https://www.bloomberg.com/news/articles/2026-08-23/alibaba-to-raise-10-billion-by-selling-shares-for-ai-expansion",
+      "source": "www.bloomberg.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "fc73373505b612635be4ad79428c0809f75dfc76",
+          "title": "阿里巴巴在创纪录的香港股票发售中为人工智能筹集了100亿美元",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-23/alibaba-to-raise-10-billion-by-selling-shares-for-ai-expansion",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-24T01:09:16.021000Z"
+        },
+        {
+          "id": "9608de9b2128503b859c9d9a4e196f7dd8de5e8e",
+          "title": "阿里巴巴计划通过股票发行筹集100亿美元，用于人工智能业务扩张",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-23/alibaba-to-raise-10-billion-by-selling-shares-for-ai-expansion",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-23T07:49:36.987000Z"
+        },
+        {
+          "id": "e7712836b2b7772e955227ba5264912a0f50faae",
+          "title": "阿里巴巴将通过出售股份筹集100亿美元，用于人工智能业务扩张",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-23/alibaba-to-raise-10-billion-by-selling-shares-for-ai-expansion",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-23T06:29:17.399000Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "www.bloomberg.com"
+      ],
+      "items": [
+        {
+          "id": "fc73373505b612635be4ad79428c0809f75dfc76",
+          "title": "阿里巴巴在创纪录的香港股票发售中为人工智能筹集了100亿美元",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-23/alibaba-to-raise-10-billion-by-selling-shares-for-ai-expansion",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-24T01:09:16.021000Z"
+        },
+        {
+          "id": "9608de9b2128503b859c9d9a4e196f7dd8de5e8e",
+          "title": "阿里巴巴计划通过股票发行筹集100亿美元，用于人工智能业务扩张",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-23/alibaba-to-raise-10-billion-by-selling-shares-for-ai-expansion",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-23T07:49:36.987000Z"
+        },
+        {
+          "id": "e7712836b2b7772e955227ba5264912a0f50faae",
+          "title": "阿里巴巴将通过出售股份筹集100亿美元，用于人工智能业务扩张",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-23/alibaba-to-raise-10-billion-by-selling-shares-for-ai-expansion",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-23T06:29:17.399000Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5702,
+      "importance": 0.5702,
+      "importance_score": 0.5702,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9966,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-23T06:29:17.399000Z",
+      "latest_at": "2026-08-24T01:09:16.021000Z",
+      "primary_item": {
+        "id": "fc73373505b612635be4ad79428c0809f75dfc76",
+        "title": "阿里巴巴在创纪录的香港股票发售中为人工智能筹集了100亿美元",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-23/alibaba-to-raise-10-billion-by-selling-shares-for-ai-expansion",
+        "source": "www.bloomberg.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_bf8914f7a7d4",
+      "title": "萨姆·阿尔特曼表示，他担心人工智能会被少数几个有权有势的玩家所控制",
+      "url": "https://www.businessinsider.com/sam-altman-openai-risks-ai-2026-8",
+      "primary_url": "https://www.businessinsider.com/sam-altman-openai-risks-ai-2026-8",
       "source": "www.businessinsider.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "f73172ea7aa3069754f2187d4ebaf10cb4c60408",
-          "title": "我开发了一款爆红的人工智能水印去除工具。我完全没料到会引起这么大的关注。",
-          "url": "https://www.businessinsider.com/created-viral-ai-watermark-remover-after-anthropics-announcement-2026-8",
+          "id": "3d4add2a9e9be1ae8858bb4f120cd0aae56c8c0c",
+          "title": "萨姆·阿尔特曼表示，他担心人工智能会被少数几个有权有势的玩家所控制",
+          "url": "https://www.businessinsider.com/sam-altman-openai-risks-ai-2026-8",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-23T12:37:23.718000Z"
+          "published_at": "2026-08-23T21:57:23.465000Z"
         },
         {
-          "id": "d06a604967901d0064f9d28c567f9223cd8fb92c",
-          "title": "我开发了一款爆红的人工智能水印去除工具。我完全没料到会引起这么大的关注。 / I created a viral AI watermark remover. I wasn't ready for all the attention.",
-          "url": "https://www.businessinsider.com/created-viral-ai-watermark-remover-after-anthropics-announcement-2026-8",
+          "id": "3636b0681c01fb3d291ce947793c528456e3d781",
+          "title": "萨姆·阿尔特曼表示，他担心人工智能会被少数几个有权有势的玩家所控制 / Sam Altman says he's worried about AI being controlled by a few powerful players",
+          "url": "https://www.businessinsider.com/sam-altman-openai-risks-ai-2026-8",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-23T11:32:01Z"
+          "published_at": "2026-08-23T21:38:35Z"
         }
       ],
       "source_count": 2,
@@ -157,225 +255,127 @@
       ],
       "items": [
         {
-          "id": "f73172ea7aa3069754f2187d4ebaf10cb4c60408",
-          "title": "我开发了一款爆红的人工智能水印去除工具。我完全没料到会引起这么大的关注。",
-          "url": "https://www.businessinsider.com/created-viral-ai-watermark-remover-after-anthropics-announcement-2026-8",
+          "id": "3d4add2a9e9be1ae8858bb4f120cd0aae56c8c0c",
+          "title": "萨姆·阿尔特曼表示，他担心人工智能会被少数几个有权有势的玩家所控制",
+          "url": "https://www.businessinsider.com/sam-altman-openai-risks-ai-2026-8",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-23T12:37:23.718000Z"
+          "published_at": "2026-08-23T21:57:23.465000Z"
         },
         {
-          "id": "d06a604967901d0064f9d28c567f9223cd8fb92c",
-          "title": "我开发了一款爆红的人工智能水印去除工具。我完全没料到会引起这么大的关注。 / I created a viral AI watermark remover. I wasn't ready for all the attention.",
-          "url": "https://www.businessinsider.com/created-viral-ai-watermark-remover-after-anthropics-announcement-2026-8",
+          "id": "3636b0681c01fb3d291ce947793c528456e3d781",
+          "title": "萨姆·阿尔特曼表示，他担心人工智能会被少数几个有权有势的玩家所控制 / Sam Altman says he's worried about AI being controlled by a few powerful players",
+          "url": "https://www.businessinsider.com/sam-altman-openai-risks-ai-2026-8",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-23T11:32:01Z"
+          "published_at": "2026-08-23T21:38:35Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5411,
-      "importance": 0.5411,
-      "importance_score": 0.5411,
+      "score": 0.5371,
+      "importance": 0.5371,
+      "importance_score": 0.5371,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9741,
+        "recency": 0.9516,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-23T11:32:01Z",
-      "latest_at": "2026-08-23T12:37:23.718000Z",
+      "earliest_at": "2026-08-23T21:38:35Z",
+      "latest_at": "2026-08-23T21:57:23.465000Z",
       "primary_item": {
-        "id": "f73172ea7aa3069754f2187d4ebaf10cb4c60408",
-        "title": "我开发了一款爆红的人工智能水印去除工具。我完全没料到会引起这么大的关注。",
-        "url": "https://www.businessinsider.com/created-viral-ai-watermark-remover-after-anthropics-announcement-2026-8",
+        "id": "3d4add2a9e9be1ae8858bb4f120cd0aae56c8c0c",
+        "title": "萨姆·阿尔特曼表示，他担心人工智能会被少数几个有权有势的玩家所控制",
+        "url": "https://www.businessinsider.com/sam-altman-openai-risks-ai-2026-8",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     },
     {
-      "story_id": "story_3377c27b081e",
-      "title": "NanoGPT 速通前沿",
-      "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
-      "primary_url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
-      "source": "www.primeintellect.ai",
+      "story_id": "story_1a46c098bd02",
+      "title": "与人工智能相关的各种可靠性事故即将发生",
+      "url": "https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming",
+      "primary_url": "https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming",
+      "source": "surfingcomplexity.blog",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "7eb97b3424f169de3f9e46179d95a3fb005bb70e",
-          "title": "NanoGPT 速通前沿",
-          "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
-          "source": "www.primeintellect.ai",
+          "id": "d0b2fb2174cb2721294ab3d82296b821fe879b06",
+          "title": "与人工智能相关的各种可靠性事故即将发生",
+          "url": "https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming",
+          "source": "surfingcomplexity.blog",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-23T10:13:35.301000Z"
+          "published_at": "2026-08-23T19:17:21.738000Z"
         },
         {
-          "id": "c7559584cb495e309e1949cd0d8ab55b86c349df",
-          "title": "NanoGPT 速通前沿 / NanoGPT Speedrun Frontier",
-          "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
-          "source": "Hacker News (黑客新闻)",
+          "id": "af2c1ff808b774474f87267f6f0446cb6fb789ce",
+          "title": "与人工智能相关的各种可靠性事故即将发生 / Wild AI-related reliability incidents are coming",
+          "url": "https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming",
+          "source": "Lobsters (技术社区)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-08-22T22:14:27Z"
+          "published_at": "2026-08-23T19:04:41Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "www.primeintellect.ai"
+        "Lobsters (技术社区)",
+        "surfingcomplexity.blog"
       ],
       "items": [
         {
-          "id": "7eb97b3424f169de3f9e46179d95a3fb005bb70e",
-          "title": "NanoGPT 速通前沿",
-          "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
-          "source": "www.primeintellect.ai",
+          "id": "d0b2fb2174cb2721294ab3d82296b821fe879b06",
+          "title": "与人工智能相关的各种可靠性事故即将发生",
+          "url": "https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming",
+          "source": "surfingcomplexity.blog",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-23T10:13:35.301000Z"
+          "published_at": "2026-08-23T19:17:21.738000Z"
         },
         {
-          "id": "c7559584cb495e309e1949cd0d8ab55b86c349df",
-          "title": "NanoGPT 速通前沿 / NanoGPT Speedrun Frontier",
-          "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
-          "source": "Hacker News (黑客新闻)",
+          "id": "af2c1ff808b774474f87267f6f0446cb6fb789ce",
+          "title": "与人工智能相关的各种可靠性事故即将发生 / Wild AI-related reliability incidents are coming",
+          "url": "https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming",
+          "source": "Lobsters (技术社区)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-08-22T22:14:27Z"
+          "published_at": "2026-08-23T19:04:41Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5352,
-      "importance": 0.5352,
-      "importance_score": 0.5352,
+      "score": 0.5306,
+      "importance": 0.5306,
+      "importance_score": 0.5306,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.941,
+        "recency": 0.9156,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-22T22:14:27Z",
-      "latest_at": "2026-08-23T10:13:35.301000Z",
+      "earliest_at": "2026-08-23T19:04:41Z",
+      "latest_at": "2026-08-23T19:17:21.738000Z",
       "primary_item": {
-        "id": "7eb97b3424f169de3f9e46179d95a3fb005bb70e",
-        "title": "NanoGPT 速通前沿",
-        "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
-        "source": "www.primeintellect.ai",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_c0f9d10986f5",
-      "title": "为什么你身边的LLM看起来比实际更“笨”",
-      "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-      "primary_url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-      "source": "forum.level1techs.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "3bdc741a631b5a9943ec9c441290a79bdf5e22e7",
-          "title": "为什么你身边的LLM看起来比实际更“笨”",
-          "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-          "source": "forum.level1techs.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-22T22:29:26.810000Z"
-        },
-        {
-          "id": "599a31a9650c619bc4ceceb56bd012aa1be1e2fd",
-          "title": "Why your local LLM feels dumber than it is",
-          "url": "https://news.ycombinator.com/item?id=49402232",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-22T20:35:58.501000Z"
-        },
-        {
-          "id": "cafbec0119e2633de9b8e8e8aab370f5777c4b6b",
-          "title": "为什么你身边的LLM看起来比实际更“笨” / Why your local LLM feels dumber than it is",
-          "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-22T18:14:16Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "forum.level1techs.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "3bdc741a631b5a9943ec9c441290a79bdf5e22e7",
-          "title": "为什么你身边的LLM看起来比实际更“笨”",
-          "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-          "source": "forum.level1techs.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-22T22:29:26.810000Z"
-        },
-        {
-          "id": "599a31a9650c619bc4ceceb56bd012aa1be1e2fd",
-          "title": "Why your local LLM feels dumber than it is",
-          "url": "https://news.ycombinator.com/item?id=49402232",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-22T20:35:58.501000Z"
-        },
-        {
-          "id": "cafbec0119e2633de9b8e8e8aab370f5777c4b6b",
-          "title": "为什么你身边的LLM看起来比实际更“笨” / Why your local LLM feels dumber than it is",
-          "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-22T18:14:16Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5338,
-      "importance": 0.5338,
-      "importance_score": 0.5338,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7943,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-22T18:14:16Z",
-      "latest_at": "2026-08-22T22:29:26.810000Z",
-      "primary_item": {
-        "id": "3bdc741a631b5a9943ec9c441290a79bdf5e22e7",
-        "title": "为什么你身边的LLM看起来比实际更“笨”",
-        "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-        "source": "forum.level1techs.com",
+        "id": "d0b2fb2174cb2721294ab3d82296b821fe879b06",
+        "title": "与人工智能相关的各种可靠性事故即将发生",
+        "url": "https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming",
+        "source": "surfingcomplexity.blog",
         "source_name": "Buzzing"
       }
     },
@@ -384,17 +384,17 @@
       "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
       "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
       "primary_url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
-      "source": "HN Algolia · AI 24h",
-      "source_name": "Hacker News",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
       "sources": [
         {
-          "id": "9bc9ed060f7e0217af16e1a6feff16ee75eed9f0",
+          "id": "cb84d279c38f2590e04746bc34eedcbc7a6ebefb",
           "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
           "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-08-23T09:21:44Z"
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-23T18:16:37Z"
         },
         {
           "id": "b03a8dddde42de3628c4e8c28589984e09141c58",
@@ -408,18 +408,18 @@
       ],
       "source_count": 2,
       "source_names": [
-        "HN Algolia · AI 24h",
+        "Hacker News (黑客新闻)",
         "www.ft.com"
       ],
       "items": [
         {
-          "id": "9bc9ed060f7e0217af16e1a6feff16ee75eed9f0",
+          "id": "cb84d279c38f2590e04746bc34eedcbc7a6ebefb",
           "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
           "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-08-23T09:21:44Z"
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-23T18:16:37Z"
         },
         {
           "id": "b03a8dddde42de3628c4e8c28589984e09141c58",
@@ -433,15 +433,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5331,
-      "importance": 0.5331,
-      "importance_score": 0.5331,
+      "score": 0.5282,
+      "importance": 0.5282,
+      "importance_score": 0.5282,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9293,
+        "recency": 0.9023,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -449,40 +449,119 @@
         "multi_source"
       ],
       "earliest_at": "2026-08-23T08:53:13.741000Z",
-      "latest_at": "2026-08-23T09:21:44Z",
+      "latest_at": "2026-08-23T18:16:37Z",
       "primary_item": {
-        "id": "9bc9ed060f7e0217af16e1a6feff16ee75eed9f0",
+        "id": "cb84d279c38f2590e04746bc34eedcbc7a6ebefb",
         "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
         "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
-        "source": "HN Algolia · AI 24h",
-        "source_name": "Hacker News"
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       }
     },
     {
-      "story_id": "story_c6ae66e74b15",
-      "title": "阿里巴巴计划通过股票发行筹集100亿美元，用于人工智能业务扩张",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-23/alibaba-to-raise-10-billion-by-selling-shares-for-ai-expansion",
-      "primary_url": "https://www.bloomberg.com/news/articles/2026-08-23/alibaba-to-raise-10-billion-by-selling-shares-for-ai-expansion",
+      "story_id": "story_36a58a3d5841",
+      "title": "亚马逊总是在强制关闭我的平板电脑，所以我花了266美元买了四个AI模型，就是为了能完全掌控它",
+      "url": "https://ericpardee.github.io/fire-hd-ownership",
+      "primary_url": "https://ericpardee.github.io/fire-hd-ownership",
+      "source": "ericpardee.github.io",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "a29200980b020f297998579e6059cb65651ce275",
+          "title": "亚马逊总是在强制关闭我的平板电脑，所以我花了266美元买了四个AI模型，就是为了能完全掌控它",
+          "url": "https://ericpardee.github.io/fire-hd-ownership",
+          "source": "ericpardee.github.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-23T15:49:17.721000Z"
+        },
+        {
+          "id": "1756a8d7516a166fcb2b4168f099af7d0a8442b8",
+          "title": "亚马逊总是在强制关闭我的平板电脑，所以我花了266美元买了四个AI模型，就是为了能完全掌控它 / Amazon kept shutting down my tablet, so I spent $266 on four AI models to own it",
+          "url": "https://ericpardee.github.io/fire-hd-ownership",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-23T15:45:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "ericpardee.github.io"
+      ],
+      "items": [
+        {
+          "id": "a29200980b020f297998579e6059cb65651ce275",
+          "title": "亚马逊总是在强制关闭我的平板电脑，所以我花了266美元买了四个AI模型，就是为了能完全掌控它",
+          "url": "https://ericpardee.github.io/fire-hd-ownership",
+          "source": "ericpardee.github.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-23T15:49:17.721000Z"
+        },
+        {
+          "id": "1756a8d7516a166fcb2b4168f099af7d0a8442b8",
+          "title": "亚马逊总是在强制关闭我的平板电脑，所以我花了266美元买了四个AI模型，就是为了能完全掌控它 / Amazon kept shutting down my tablet, so I spent $266 on four AI models to own it",
+          "url": "https://ericpardee.github.io/fire-hd-ownership",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-23T15:45:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5226,
+      "importance": 0.5226,
+      "importance_score": 0.5226,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8709,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-23T15:45:01Z",
+      "latest_at": "2026-08-23T15:49:17.721000Z",
+      "primary_item": {
+        "id": "a29200980b020f297998579e6059cb65651ce275",
+        "title": "亚马逊总是在强制关闭我的平板电脑，所以我花了266美元买了四个AI模型，就是为了能完全掌控它",
+        "url": "https://ericpardee.github.io/fire-hd-ownership",
+        "source": "ericpardee.github.io",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_e02b71985256",
+      "title": "亚洲股市走低，市场聚焦人工智能，油价下跌：市场综述",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-23/stock-market-today-dow-s-p-live-updates",
+      "primary_url": "https://www.bloomberg.com/news/articles/2026-08-23/stock-market-today-dow-s-p-live-updates",
       "source": "www.bloomberg.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "9608de9b2128503b859c9d9a4e196f7dd8de5e8e",
-          "title": "阿里巴巴计划通过股票发行筹集100亿美元，用于人工智能业务扩张",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-23/alibaba-to-raise-10-billion-by-selling-shares-for-ai-expansion",
+          "id": "fde428dfd51802f20ba553053d8e5cc066b26672",
+          "title": "亚洲股市走低，市场聚焦人工智能，油价下跌：市场综述",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-23/stock-market-today-dow-s-p-live-updates",
           "source": "www.bloomberg.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-23T07:49:36.987000Z"
+          "published_at": "2026-08-24T00:21:19.452000Z"
         },
         {
-          "id": "e7712836b2b7772e955227ba5264912a0f50faae",
-          "title": "阿里巴巴将通过出售股份筹集100亿美元，用于人工智能业务扩张",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-23/alibaba-to-raise-10-billion-by-selling-shares-for-ai-expansion",
+          "id": "042aebfaaf38a3a915c5f2063491a5e8af34dad2",
+          "title": "油价下跌，阿里巴巴融资计划使人工智能持续成为市场焦点：市场综述",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-23/stock-market-today-dow-s-p-live-updates",
           "source": "www.bloomberg.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-23T06:29:17.399000Z"
+          "published_at": "2026-08-23T23:49:12.229000Z"
         }
       ],
       "source_count": 2,
@@ -491,48 +570,127 @@
       ],
       "items": [
         {
-          "id": "9608de9b2128503b859c9d9a4e196f7dd8de5e8e",
-          "title": "阿里巴巴计划通过股票发行筹集100亿美元，用于人工智能业务扩张",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-23/alibaba-to-raise-10-billion-by-selling-shares-for-ai-expansion",
+          "id": "fde428dfd51802f20ba553053d8e5cc066b26672",
+          "title": "亚洲股市走低，市场聚焦人工智能，油价下跌：市场综述",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-23/stock-market-today-dow-s-p-live-updates",
           "source": "www.bloomberg.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-23T07:49:36.987000Z"
+          "published_at": "2026-08-24T00:21:19.452000Z"
         },
         {
-          "id": "e7712836b2b7772e955227ba5264912a0f50faae",
-          "title": "阿里巴巴将通过出售股份筹集100亿美元，用于人工智能业务扩张",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-23/alibaba-to-raise-10-billion-by-selling-shares-for-ai-expansion",
+          "id": "042aebfaaf38a3a915c5f2063491a5e8af34dad2",
+          "title": "油价下跌，阿里巴巴融资计划使人工智能持续成为市场焦点：市场综述",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-23/stock-market-today-dow-s-p-live-updates",
           "source": "www.bloomberg.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-23T06:29:17.399000Z"
+          "published_at": "2026-08-23T23:49:12.229000Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5294,
-      "importance": 0.5294,
-      "importance_score": 0.5294,
+      "score": 0.5431,
+      "importance": 0.5431,
+      "importance_score": 0.5431,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9089,
+        "recency": 0.9851,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-23T06:29:17.399000Z",
-      "latest_at": "2026-08-23T07:49:36.987000Z",
+      "earliest_at": "2026-08-23T23:49:12.229000Z",
+      "latest_at": "2026-08-24T00:21:19.452000Z",
       "primary_item": {
-        "id": "9608de9b2128503b859c9d9a4e196f7dd8de5e8e",
-        "title": "阿里巴巴计划通过股票发行筹集100亿美元，用于人工智能业务扩张",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-23/alibaba-to-raise-10-billion-by-selling-shares-for-ai-expansion",
+        "id": "fde428dfd51802f20ba553053d8e5cc066b26672",
+        "title": "亚洲股市走低，市场聚焦人工智能，油价下跌：市场综述",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-23/stock-market-today-dow-s-p-live-updates",
         "source": "www.bloomberg.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_37ba5c34e2c1",
+      "title": "Hugging Face 一直在接洽有关一笔价值至少 130 亿美元的并购交易的意向",
+      "url": "https://www.businessinsider.com/hugging-face-could-be-acquired-13-billion-2026-8",
+      "primary_url": "https://www.businessinsider.com/hugging-face-could-be-acquired-13-billion-2026-8",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "25d18e7262a6bdd4bde5bcf012695843fed9967e",
+          "title": "Hugging Face 一直在接洽有关一笔价值至少 130 亿美元的并购交易的意向",
+          "url": "https://www.businessinsider.com/hugging-face-could-be-acquired-13-billion-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-23T19:17:22.029000Z"
+        },
+        {
+          "id": "401582ef9828db6fbbe86d614ba1bae1b6d62b32",
+          "title": "Hugging Face 一直在接洽有关一笔价值至少 130 亿美元的并购交易的意向 / Hugging Face has been fielding M&A interest for a deal worth at least $13 billion",
+          "url": "https://www.businessinsider.com/hugging-face-could-be-acquired-13-billion-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-23T19:01:36Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "25d18e7262a6bdd4bde5bcf012695843fed9967e",
+          "title": "Hugging Face 一直在接洽有关一笔价值至少 130 亿美元的并购交易的意向",
+          "url": "https://www.businessinsider.com/hugging-face-could-be-acquired-13-billion-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-23T19:17:22.029000Z"
+        },
+        {
+          "id": "401582ef9828db6fbbe86d614ba1bae1b6d62b32",
+          "title": "Hugging Face 一直在接洽有关一笔价值至少 130 亿美元的并购交易的意向 / Hugging Face has been fielding M&A interest for a deal worth at least $13 billion",
+          "url": "https://www.businessinsider.com/hugging-face-could-be-acquired-13-billion-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-23T19:01:36Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5306,
+      "importance": 0.5306,
+      "importance_score": 0.5306,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9156,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-23T19:01:36Z",
+      "latest_at": "2026-08-23T19:17:22.029000Z",
+      "primary_item": {
+        "id": "25d18e7262a6bdd4bde5bcf012695843fed9967e",
+        "title": "Hugging Face 一直在接洽有关一笔价值至少 130 亿美元的并购交易的意向",
+        "url": "https://www.businessinsider.com/hugging-face-could-be-acquired-13-billion-2026-8",
+        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     },
@@ -589,15 +747,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5196,
-      "importance": 0.5196,
-      "importance_score": 0.5196,
+      "score": 0.4971,
+      "importance": 0.4971,
+      "importance_score": 0.4971,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8544,
+        "recency": 0.7294,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -615,346 +773,30 @@
       }
     },
     {
-      "story_id": "story_5a810ab0e3ac",
-      "title": "据《彭博新闻》报道，英伟达已通知客户，与人工智能相关的产品价格将上调15%以上 - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPLWE3OUFQMndpYzJSVFBuYXBocWg0RUlmWGFtZDU0NEdtTUJzRmV2c3ZtWjJFOTUxNEFwaFNkSno5ZlhCdGpTSjJOMnNUc2U1Y01Fc1YtX2NrdnRFM0pEMDYyYXBrWGdHUVpTei1ramJ6YVE1aFFFTGVwX0drX1lBOFdyRGM4cEpZVG9uUEhka1J1RDZDQ0F3UWY3S0VjQVhLbzVjYmZPazhPcnV3c1ZVd0F4bExTeU9QN0VnOVRyVlA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "primary_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPLWE3OUFQMndpYzJSVFBuYXBocWg0RUlmWGFtZDU0NEdtTUJzRmV2c3ZtWjJFOTUxNEFwaFNkSno5ZlhCdGpTSjJOMnNUc2U1Y01Fc1YtX2NrdnRFM0pEMDYyYXBrWGdHUVpTei1ramJ6YVE1aFFFTGVwX0drX1lBOFdyRGM4cEpZVG9uUEhka1J1RDZDQ0F3UWY3S0VjQVhLbzVjYmZPazhPcnV3c1ZVd0F4bExTeU9QN0VnOVRyVlA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "source": "news.google.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "5716da9589e818a302ce94b5cf069e755f1c7918",
-          "title": "据《彭博新闻》报道，英伟达已通知客户，与人工智能相关的产品价格将上调15%以上 - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPLWE3OUFQMndpYzJSVFBuYXBocWg0RUlmWGFtZDU0NEdtTUJzRmV2c3ZtWjJFOTUxNEFwaFNkSno5ZlhCdGpTSjJOMnNUc2U1Y01Fc1YtX2NrdnRFM0pEMDYyYXBrWGdHUVpTei1ramJ6YVE1aFFFTGVwX0drX1lBOFdyRGM4cEpZVG9uUEhka1J1RDZDQ0F3UWY3S0VjQVhLbzVjYmZPazhPcnV3c1ZVd0F4bExTeU9QN0VnOVRyVlA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-23T01:10:03.522000Z"
-        },
-        {
-          "id": "9c2ff5e57acea354e27a2ad8ee9581a194e7205e",
-          "title": "据《彭博新闻》报道，英伟达已通知客户，与人工智能相关的产品价格将上调15%以上",
-          "url": "https://www.reuters.com/business/nvidia-customers-notified-about-ai-related-price-hikes-above-15-bloomberg-news-2026-08-22",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-22T19:33:43.240000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "news.google.com",
-        "www.reuters.com"
-      ],
-      "items": [
-        {
-          "id": "5716da9589e818a302ce94b5cf069e755f1c7918",
-          "title": "据《彭博新闻》报道，英伟达已通知客户，与人工智能相关的产品价格将上调15%以上 - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPLWE3OUFQMndpYzJSVFBuYXBocWg0RUlmWGFtZDU0NEdtTUJzRmV2c3ZtWjJFOTUxNEFwaFNkSno5ZlhCdGpTSjJOMnNUc2U1Y01Fc1YtX2NrdnRFM0pEMDYyYXBrWGdHUVpTei1ramJ6YVE1aFFFTGVwX0drX1lBOFdyRGM4cEpZVG9uUEhka1J1RDZDQ0F3UWY3S0VjQVhLbzVjYmZPazhPcnV3c1ZVd0F4bExTeU9QN0VnOVRyVlA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-23T01:10:03.522000Z"
-        },
-        {
-          "id": "9c2ff5e57acea354e27a2ad8ee9581a194e7205e",
-          "title": "据《彭博新闻》报道，英伟达已通知客户，与人工智能相关的产品价格将上调15%以上",
-          "url": "https://www.reuters.com/business/nvidia-customers-notified-about-ai-related-price-hikes-above-15-bloomberg-news-2026-08-22",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-22T19:33:43.240000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5144,
-      "importance": 0.5144,
-      "importance_score": 0.5144,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8256,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-22T19:33:43.240000Z",
-      "latest_at": "2026-08-23T01:10:03.522000Z",
-      "primary_item": {
-        "id": "5716da9589e818a302ce94b5cf069e755f1c7918",
-        "title": "据《彭博新闻》报道，英伟达已通知客户，与人工智能相关的产品价格将上调15%以上 - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPLWE3OUFQMndpYzJSVFBuYXBocWg0RUlmWGFtZDU0NEdtTUJzRmV2c3ZtWjJFOTUxNEFwaFNkSno5ZlhCdGpTSjJOMnNUc2U1Y01Fc1YtX2NrdnRFM0pEMDYyYXBrWGdHUVpTei1ramJ6YVE1aFFFTGVwX0drX1lBOFdyRGM4cEpZVG9uUEhka1J1RDZDQ0F3UWY3S0VjQVhLbzVjYmZPazhPcnV3c1ZVd0F4bExTeU9QN0VnOVRyVlA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "source": "news.google.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_304760d42766",
-      "title": "Anthropic 似乎正在对 Claude Code 中的工作量降低程度进行 A/B 测试",
-      "url": "https://twitter.com/argofowl/status/2091150597374537729",
-      "primary_url": "https://twitter.com/argofowl/status/2091150597374537729",
-      "source": "twitter.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "756cbab0cafb5cc40cb78549659cffae8f5b09fa",
-          "title": "Anthropic 似乎正在对 Claude Code 中的工作量降低程度进行 A/B 测试",
-          "url": "https://twitter.com/argofowl/status/2091150597374537729",
-          "source": "twitter.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-22T21:09:21.713000Z"
-        },
-        {
-          "id": "2d16b60fffff75c717240a948bdb7f8526dca6b2",
-          "title": "Anthropic 似乎正在对 Claude Code 中的工作量降低程度进行 A/B 测试 / Anthropic appears to be A/B testing reduced effort levels in Claude Code",
-          "url": "https://twitter.com/argofowl/status/2091150597374537729",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-22T16:58:49Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "twitter.com"
-      ],
-      "items": [
-        {
-          "id": "756cbab0cafb5cc40cb78549659cffae8f5b09fa",
-          "title": "Anthropic 似乎正在对 Claude Code 中的工作量降低程度进行 A/B 测试",
-          "url": "https://twitter.com/argofowl/status/2091150597374537729",
-          "source": "twitter.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-22T21:09:21.713000Z"
-        },
-        {
-          "id": "2d16b60fffff75c717240a948bdb7f8526dca6b2",
-          "title": "Anthropic 似乎正在对 Claude Code 中的工作量降低程度进行 A/B 测试 / Anthropic appears to be A/B testing reduced effort levels in Claude Code",
-          "url": "https://twitter.com/argofowl/status/2091150597374537729",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-22T16:58:49Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.506,
-      "importance": 0.506,
-      "importance_score": 0.506,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7791,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-22T16:58:49Z",
-      "latest_at": "2026-08-22T21:09:21.713000Z",
-      "primary_item": {
-        "id": "756cbab0cafb5cc40cb78549659cffae8f5b09fa",
-        "title": "Anthropic 似乎正在对 Claude Code 中的工作量降低程度进行 A/B 测试",
-        "url": "https://twitter.com/argofowl/status/2091150597374537729",
-        "source": "twitter.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_45f68b1865d1",
-      "title": "消息人士称，人为 IPO 文件将显示人工智能的强烈反对是一个风险因素 / Anthropic IPO filing will show AI backlash as a risk factor, sources say",
-      "url": "https://news.ycombinator.com/item?id=49401229",
-      "primary_url": "https://news.ycombinator.com/item?id=49401229",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "53c1f3cf45dfa17d5f20edf41cc25040e57ef49a",
-          "title": "消息人士称，人为 IPO 文件将显示人工智能的强烈反对是一个风险因素 / Anthropic IPO filing will show AI backlash as a risk factor, sources say",
-          "url": "https://news.ycombinator.com/item?id=49401229",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-22T17:11:08.754000Z"
-        },
-        {
-          "id": "41337639170e8377fa3ca0c7fc5d554d61e9b0d8",
-          "title": "消息人士称，人为 IPO 文件将显示人工智能的强烈反对是一个风险因素 / Anthropic IPO filing will show AI backlash as a risk factor, sources say",
-          "url": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-22T16:23:09Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "53c1f3cf45dfa17d5f20edf41cc25040e57ef49a",
-          "title": "消息人士称，人为 IPO 文件将显示人工智能的强烈反对是一个风险因素 / Anthropic IPO filing will show AI backlash as a risk factor, sources say",
-          "url": "https://news.ycombinator.com/item?id=49401229",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-22T17:11:08.754000Z"
-        },
-        {
-          "id": "41337639170e8377fa3ca0c7fc5d554d61e9b0d8",
-          "title": "消息人士称，人为 IPO 文件将显示人工智能的强烈反对是一个风险因素 / Anthropic IPO filing will show AI backlash as a risk factor, sources say",
-          "url": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-22T16:23:09Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4982,
-      "importance": 0.4982,
-      "importance_score": 0.4982,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7357,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-22T16:23:09Z",
-      "latest_at": "2026-08-22T17:11:08.754000Z",
-      "primary_item": {
-        "id": "53c1f3cf45dfa17d5f20edf41cc25040e57ef49a",
-        "title": "消息人士称，人为 IPO 文件将显示人工智能的强烈反对是一个风险因素 / Anthropic IPO filing will show AI backlash as a risk factor, sources say",
-        "url": "https://news.ycombinator.com/item?id=49401229",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_3e284d11e91a",
-      "title": "林纳斯·托瓦兹利用人工智能排查英特尔GPU驱动程序中的一个错误",
-      "url": "https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c",
-      "primary_url": "https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c",
-      "source": "github.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "ab7ee90307777c1e4b896dcf9684832675e2c9e9",
-          "title": "林纳斯·托瓦兹利用人工智能排查英特尔GPU驱动程序中的一个错误",
-          "url": "https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-22T16:21:29.526000Z"
-        },
-        {
-          "id": "d507c13caf2ff7b53ccbd6b054dc1f7798034692",
-          "title": "林纳斯·托瓦兹利用人工智能排查英特尔GPU驱动程序中的一个错误 / Linus Torvalds uses AI to debug an Intel GPU driver bug",
-          "url": "https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-22T16:04:51Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "github.com"
-      ],
-      "items": [
-        {
-          "id": "ab7ee90307777c1e4b896dcf9684832675e2c9e9",
-          "title": "林纳斯·托瓦兹利用人工智能排查英特尔GPU驱动程序中的一个错误",
-          "url": "https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-22T16:21:29.526000Z"
-        },
-        {
-          "id": "d507c13caf2ff7b53ccbd6b054dc1f7798034692",
-          "title": "林纳斯·托瓦兹利用人工智能排查英特尔GPU驱动程序中的一个错误 / Linus Torvalds uses AI to debug an Intel GPU driver bug",
-          "url": "https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-22T16:04:51Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4967,
-      "importance": 0.4967,
-      "importance_score": 0.4967,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.727,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-22T16:04:51Z",
-      "latest_at": "2026-08-22T16:21:29.526000Z",
-      "primary_item": {
-        "id": "ab7ee90307777c1e4b896dcf9684832675e2c9e9",
-        "title": "林纳斯·托瓦兹利用人工智能排查英特尔GPU驱动程序中的一个错误",
-        "url": "https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c",
-        "source": "github.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_18837430aeb7",
-      "title": "一款神秘的免费AI模型正让开发者们赞叹不已。而谁也搞不清它究竟是谁开发的。",
-      "url": "https://www.businessinsider.com/ox-alpha-ai-model-mystery-2026-8",
-      "primary_url": "https://www.businessinsider.com/ox-alpha-ai-model-mystery-2026-8",
+      "story_id": "story_6f7310105200",
+      "title": "我开发了一款爆红的人工智能水印去除工具。我完全没料到会引起这么大的关注。",
+      "url": "https://www.businessinsider.com/created-viral-ai-watermark-remover-after-anthropics-announcement-2026-8",
+      "primary_url": "https://www.businessinsider.com/created-viral-ai-watermark-remover-after-anthropics-announcement-2026-8",
       "source": "www.businessinsider.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "e80361b3dc4bfd2b38ceea461b389b9f1f15aaef",
-          "title": "一款神秘的免费AI模型正让开发者们赞叹不已。而谁也搞不清它究竟是谁开发的。",
-          "url": "https://www.businessinsider.com/ox-alpha-ai-model-mystery-2026-8",
+          "id": "f73172ea7aa3069754f2187d4ebaf10cb4c60408",
+          "title": "我开发了一款爆红的人工智能水印去除工具。我完全没料到会引起这么大的关注。",
+          "url": "https://www.businessinsider.com/created-viral-ai-watermark-remover-after-anthropics-announcement-2026-8",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-22T20:53:16.928000Z"
+          "published_at": "2026-08-23T12:37:23.718000Z"
         },
         {
-          "id": "00e7c9b8c5c6db7ded59d314068e5c7f631c33de",
-          "title": "一款神秘的免费AI模型正让开发者们赞叹不已。而谁也搞不清它究竟是谁开发的。 / A mysterious free AI model is impressing developers. And nobody knows who made it.",
-          "url": "https://www.businessinsider.com/ox-alpha-ai-model-mystery-2026-8",
+          "id": "d06a604967901d0064f9d28c567f9223cd8fb92c",
+          "title": "我开发了一款爆红的人工智能水印去除工具。我完全没料到会引起这么大的关注。 / I created a viral AI watermark remover. I wasn't ready for all the attention.",
+          "url": "https://www.businessinsider.com/created-viral-ai-watermark-remover-after-anthropics-announcement-2026-8",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-22T20:46:35Z"
+          "published_at": "2026-08-23T11:32:01Z"
         }
       ],
       "source_count": 2,
@@ -964,205 +806,49 @@
       ],
       "items": [
         {
-          "id": "e80361b3dc4bfd2b38ceea461b389b9f1f15aaef",
-          "title": "一款神秘的免费AI模型正让开发者们赞叹不已。而谁也搞不清它究竟是谁开发的。",
-          "url": "https://www.businessinsider.com/ox-alpha-ai-model-mystery-2026-8",
+          "id": "f73172ea7aa3069754f2187d4ebaf10cb4c60408",
+          "title": "我开发了一款爆红的人工智能水印去除工具。我完全没料到会引起这么大的关注。",
+          "url": "https://www.businessinsider.com/created-viral-ai-watermark-remover-after-anthropics-announcement-2026-8",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-22T20:53:16.928000Z"
+          "published_at": "2026-08-23T12:37:23.718000Z"
         },
         {
-          "id": "00e7c9b8c5c6db7ded59d314068e5c7f631c33de",
-          "title": "一款神秘的免费AI模型正让开发者们赞叹不已。而谁也搞不清它究竟是谁开发的。 / A mysterious free AI model is impressing developers. And nobody knows who made it.",
-          "url": "https://www.businessinsider.com/ox-alpha-ai-model-mystery-2026-8",
+          "id": "d06a604967901d0064f9d28c567f9223cd8fb92c",
+          "title": "我开发了一款爆红的人工智能水印去除工具。我完全没料到会引起这么大的关注。 / I created a viral AI watermark remover. I wasn't ready for all the attention.",
+          "url": "https://www.businessinsider.com/created-viral-ai-watermark-remover-after-anthropics-announcement-2026-8",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-22T20:46:35Z"
+          "published_at": "2026-08-23T11:32:01Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5055,
-      "importance": 0.5055,
-      "importance_score": 0.5055,
+      "score": 0.5155,
+      "importance": 0.5155,
+      "importance_score": 0.5155,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7761,
+        "recency": 0.8316,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-22T20:46:35Z",
-      "latest_at": "2026-08-22T20:53:16.928000Z",
+      "earliest_at": "2026-08-23T11:32:01Z",
+      "latest_at": "2026-08-23T12:37:23.718000Z",
       "primary_item": {
-        "id": "e80361b3dc4bfd2b38ceea461b389b9f1f15aaef",
-        "title": "一款神秘的免费AI模型正让开发者们赞叹不已。而谁也搞不清它究竟是谁开发的。",
-        "url": "https://www.businessinsider.com/ox-alpha-ai-model-mystery-2026-8",
+        "id": "f73172ea7aa3069754f2187d4ebaf10cb4c60408",
+        "title": "我开发了一款爆红的人工智能水印去除工具。我完全没料到会引起这么大的关注。",
+        "url": "https://www.businessinsider.com/created-viral-ai-watermark-remover-after-anthropics-announcement-2026-8",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_0cbbcd53f19c",
-      "title": "Scrap",
-      "url": "https://twitter.com/moxie/status/2091218652133732491",
-      "primary_url": "https://twitter.com/moxie/status/2091218652133732491",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "4f08c028505a5b07b4d010e8b5b19bd9406e8efa",
-          "title": "Scrap",
-          "url": "https://twitter.com/moxie/status/2091218652133732491",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-22T18:08:56Z"
-        },
-        {
-          "id": "6d2864684780734cb9cf225f77f55eb5073b7b33",
-          "title": "Scrap (2006)",
-          "url": "https://twitter.com/moxie/status/2091218652133732491",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-22T18:08:56Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "4f08c028505a5b07b4d010e8b5b19bd9406e8efa",
-          "title": "Scrap",
-          "url": "https://twitter.com/moxie/status/2091218652133732491",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-22T18:08:56Z"
-        },
-        {
-          "id": "6d2864684780734cb9cf225f77f55eb5073b7b33",
-          "title": "Scrap (2006)",
-          "url": "https://twitter.com/moxie/status/2091218652133732491",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-22T18:08:56Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5001,
-      "importance": 0.5001,
-      "importance_score": 0.5001,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.746,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-22T18:08:56Z",
-      "latest_at": "2026-08-22T18:08:56Z",
-      "primary_item": {
-        "id": "4f08c028505a5b07b4d010e8b5b19bd9406e8efa",
-        "title": "Scrap",
-        "url": "https://twitter.com/moxie/status/2091218652133732491",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_d901a93bbcfa",
-      "title": "《用Python思考》 / Thinking in Python",
-      "url": "https://thinkinginpython.com",
-      "primary_url": "https://thinkinginpython.com",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "9b3057092d25d66e6b9588eb8ddcabaf5cd3e85f",
-          "title": "《用Python思考》 / Thinking in Python",
-          "url": "https://thinkinginpython.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-22T18:10:49Z"
-        },
-        {
-          "id": "3289df469c5b7ba3c168fe930418c735ddf2afd9",
-          "title": "《用Python思考》 / Thinking in Python by Bruce Eckel",
-          "url": "https://thinkinginpython.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-22T18:10:49Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "9b3057092d25d66e6b9588eb8ddcabaf5cd3e85f",
-          "title": "《用Python思考》 / Thinking in Python",
-          "url": "https://thinkinginpython.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-22T18:10:49Z"
-        },
-        {
-          "id": "3289df469c5b7ba3c168fe930418c735ddf2afd9",
-          "title": "《用Python思考》 / Thinking in Python by Bruce Eckel",
-          "url": "https://thinkinginpython.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-22T18:10:49Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5001,
-      "importance": 0.5001,
-      "importance_score": 0.5001,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7463,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-22T18:10:49Z",
-      "latest_at": "2026-08-22T18:10:49Z",
-      "primary_item": {
-        "id": "9b3057092d25d66e6b9588eb8ddcabaf5cd3e85f",
-        "title": "《用Python思考》 / Thinking in Python",
-        "url": "https://thinkinginpython.com",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
       }
     }
   ]
