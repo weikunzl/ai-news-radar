@@ -1,47 +1,66 @@
 {
-  "generated_at": "2026-08-28T05:17:00.782830Z",
+  "generated_at": "2026-08-28T17:41:50.262675Z",
   "cases": [
     {
-      "case_id": "opc_case_7c4b5a324d7b",
+      "case_id": "opc_case_ceb889cc8931",
+      "company": "CEO Interview",
+      "founder": "",
+      "source_refs": [
+        "biz_be106671f06d"
+      ],
+      "url": "https://www.cbinsights.com/research/ceo-interview-elphi/",
+      "title": "CEO Interview: Elphi",
+      "business_model": "AI Business Model Innovation, Founder Case",
+      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
+      "monetization": "To be extracted from the linked source.",
+      "team_size_signal": "team size not explicit",
+      "distribution_channel": "CB Insights",
+      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
+      "yuanli_mapping": [
+        "yuanli_startup",
+        "ftf_trust"
+      ],
+      "score": 52
+    },
+    {
+      "case_id": "opc_case_f817cbc3c61a",
       "company": "Indie Hackers",
       "founder": "",
       "source_refs": [
-        "biz_83fe7215e410"
+        "biz_da48da1b33ba"
       ],
-      "url": "https://www.indiehackers.com/post/15-days-after-launching-to-zero-audience-0-1-follower-0-stars-the-full-numbers-c14435be6c",
-      "title": "15 days after launching to zero audience: $0, 1 follower, 0 stars. The full numbers.",
-      "business_model": "OPC",
+      "url": "https://www.indiehackers.com/post/i-built-a-website-security-tool-after-realizing-how-hard-it-is-to-quickly-judge-a-sites-trust-setup-1c558458f2",
+      "title": "I built a website security tool after realizing how hard it is to quickly judge a site's trust setup",
+      "business_model": "Founder Case, OPC",
       "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
       "monetization": "To be extracted from the linked source.",
       "team_size_signal": "team size not explicit",
       "distribution_channel": "Indie Hackers",
       "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
       "yuanli_mapping": [
-        "yuanli_asset"
+        "yuanli_startup"
       ],
-      "score": 35
+      "score": 40
     },
     {
-      "case_id": "opc_case_6dc6f68436b0",
-      "company": "Spot New Tech",
+      "case_id": "opc_case_cf5d78cf4ccc",
+      "company": "Supporting Thailand",
       "founder": "",
       "source_refs": [
-        "biz_38f429a0b5c5"
+        "biz_0b3a3eb7f8bd"
       ],
-      "url": "https://sloanreview.mit.edu/article/spot-new-tech-skills-emerging-from-the-workforce/",
-      "title": "Spot New Tech Skills Emerging From the Workforce",
-      "business_model": "Founder Case, AI Business Model Innovation",
+      "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+      "title": "Supporting Thailand’s next generation of AI startups",
+      "business_model": "Founder Case, Enterprise AI Workflow",
       "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
       "monetization": "To be extracted from the linked source.",
       "team_size_signal": "team size not explicit",
-      "distribution_channel": "MIT Sloan Management Review",
+      "distribution_channel": "OpenAI News",
       "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
       "yuanli_mapping": [
-        "yuanli_asset",
-        "yuanli_os",
-        "ftf_trust"
+        "yuanli_startup"
       ],
-      "score": 47
+      "score": 41
     },
     {
       "case_id": "opc_case_c950a2e6f920",
@@ -63,7 +82,7 @@
         "ftf_trust",
         "profit_container"
       ],
-      "score": 35
+      "score": 34
     }
   ]
 }
