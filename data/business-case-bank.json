@@ -1,6 +1,26 @@
 {
-  "generated_at": "2026-08-29T01:42:11.859615Z",
+  "generated_at": "2026-08-29T08:56:52.319407Z",
   "cases": [
+    {
+      "case_id": "opc_case_c662d8d2216f",
+      "company": "Indie Hackers",
+      "founder": "",
+      "source_refs": [
+        "biz_d9b342c9128b"
+      ],
+      "url": "https://www.indiehackers.com/post/i-launched-a-project-for-indie-hackers-and-i-just-wanted-to-say-thank-you-e9396c1289",
+      "title": "I launched a project for Indie Hackers, and I just wanted to say thank you",
+      "business_model": "OPC, Founder Case",
+      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
+      "monetization": "To be extracted from the linked source.",
+      "team_size_signal": "one-person/tiny-team fit",
+      "distribution_channel": "Indie Hackers",
+      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
+      "yuanli_mapping": [
+        "yuanli_startup"
+      ],
+      "score": 45
+    },
     {
       "case_id": "opc_case_9e53990439ac",
       "company": "Executive Interview",
@@ -22,7 +42,7 @@
         "ftf_trust",
         "wealth_flywheel"
       ],
-      "score": 56
+      "score": 55
     },
     {
       "case_id": "opc_case_ceb889cc8931",
@@ -43,7 +63,7 @@
         "yuanli_startup",
         "ftf_trust"
       ],
-      "score": 52
+      "score": 51
     },
     {
       "case_id": "opc_case_953501d00c5f",
@@ -64,7 +84,7 @@
         "yuanli_startup",
         "ftf_trust"
       ],
-      "score": 50
+      "score": 49
     },
     {
       "case_id": "opc_case_51ca0dc3bbc5",
@@ -85,27 +105,7 @@
         "yuanli_startup",
         "ftf_trust"
       ],
-      "score": 50
-    },
-    {
-      "case_id": "opc_case_cf5d78cf4ccc",
-      "company": "Supporting Thailand",
-      "founder": "",
-      "source_refs": [
-        "biz_0b3a3eb7f8bd"
-      ],
-      "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
-      "title": "Supporting Thailand’s next generation of AI startups",
-      "business_model": "Founder Case, Enterprise AI Workflow",
-      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
-      "monetization": "To be extracted from the linked source.",
-      "team_size_signal": "team size not explicit",
-      "distribution_channel": "OpenAI News",
-      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
-      "yuanli_mapping": [
-        "yuanli_startup"
-      ],
-      "score": 41
+      "score": 49
     }
   ]
 }

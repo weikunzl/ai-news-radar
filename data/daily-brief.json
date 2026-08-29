@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T01:33:10.228632Z",
+  "generated_at": "2026-08-29T08:44:52.348477Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8391,
-      "importance": 0.8391,
-      "importance_score": 0.8391,
+      "score": 0.8226,
+      "importance": 0.8226,
+      "importance_score": 0.8226,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9284,
+        "recency": 0.8367,
         "story_heat": 0.0
       },
       "category": "official",
@@ -63,6 +63,87 @@
         "url": "https://github.blog/changelog/2026-08-28-github-copilot-in-visual-studio-august-update-2",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_7e896a4b3791",
+      "title": "在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据",
+      "url": "https://terminalbytes.com/run-qwen-3-8-27b-locally",
+      "primary_url": "https://terminalbytes.com/run-qwen-3-8-27b-locally",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d8d0fc7e9d682fb59b806837b4fba07f487f2821",
+          "title": "在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据",
+          "url": "https://terminalbytes.com/run-qwen-3-8-27b-locally",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-29T07:00:22.003000Z"
+        },
+        {
+          "id": "34efc253fd6a47c6ea1bab868e0ba5e08d60d2c2",
+          "title": "在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据 / Run Qwen3.8 27B locally: real numbers from my Mac Studio",
+          "url": "https://terminalbytes.com/run-qwen-3-8-27b-locally",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-28T15:24:44Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "d8d0fc7e9d682fb59b806837b4fba07f487f2821",
+          "title": "在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据",
+          "url": "https://terminalbytes.com/run-qwen-3-8-27b-locally",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-29T07:00:22.003000Z"
+        },
+        {
+          "id": "34efc253fd6a47c6ea1bab868e0ba5e08d60d2c2",
+          "title": "在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据 / Run Qwen3.8 27B locally: real numbers from my Mac Studio",
+          "url": "https://terminalbytes.com/run-qwen-3-8-27b-locally",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-28T15:24:44Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7971,
+      "importance": 0.7971,
+      "importance_score": 0.7971,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9752,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-28T15:24:44Z",
+      "latest_at": "2026-08-29T07:00:22.003000Z",
+      "primary_item": {
+        "id": "d8d0fc7e9d682fb59b806837b4fba07f487f2821",
+        "title": "在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据",
+        "url": "https://terminalbytes.com/run-qwen-3-8-27b-locally",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -100,15 +181,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8387,
-      "importance": 0.8387,
-      "importance_score": 0.8387,
+      "score": 0.8222,
+      "importance": 0.8222,
+      "importance_score": 0.8222,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9259,
+        "recency": 0.8345,
         "story_heat": 0.0
       },
       "category": "official",
@@ -124,68 +205,6 @@
         "title": "GitHub Copilot weekly releases — August 24",
         "url": "https://github.blog/changelog/2026-08-28-github-copilot-weekly-releases-august-24",
         "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_0b00c80d502c",
-      "title": "支持泰国下一代人工智能初创公司 / Supporting Thailand’s next generation of AI startups",
-      "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
-      "primary_url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "24ec9f94b3ac6f53e72ce6f65713d759422fa294",
-          "title": "支持泰国下一代人工智能初创公司 / Supporting Thailand’s next generation of AI startups",
-          "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-28T02:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "24ec9f94b3ac6f53e72ce6f65713d759422fa294",
-          "title": "支持泰国下一代人工智能初创公司 / Supporting Thailand’s next generation of AI startups",
-          "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-28T02:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8001,
-      "importance": 0.8001,
-      "importance_score": 0.8001,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7117,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-28T02:00:00Z",
-      "latest_at": "2026-08-28T02:00:00Z",
-      "primary_item": {
-        "id": "24ec9f94b3ac6f53e72ce6f65713d759422fa294",
-        "title": "支持泰国下一代人工智能初创公司 / Supporting Thailand’s next generation of AI startups",
-        "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
-        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -262,15 +281,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7963,
-      "importance": 0.7963,
-      "importance_score": 0.7963,
+      "score": 0.7804,
+      "importance": 0.7804,
+      "importance_score": 0.7804,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8984,
+        "recency": 0.8097,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -286,6 +305,229 @@
         "title": "联邦法官裁定特朗普政府将 Anthropic 列入黑名单违法",
         "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge",
         "source": "Ars Technica：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_7c7e4270511d",
+      "title": "OpenAI 终止与 Cursor 合作，11 月 12 日生效",
+      "url": "https://x.com/thsottiaux/status/2093515916076343774",
+      "primary_url": "https://x.com/thsottiaux/status/2093515916076343774",
+      "source": "X：Tibo (@thsottiaux)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "24c8fd94adc5e6f2753bdcf0b50fab34b0cb29a6",
+          "title": "OpenAI 终止与 Cursor 合作，11 月 12 日生效",
+          "url": "https://x.com/thsottiaux/status/2093515916076343774",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-29T01:47:44Z"
+        },
+        {
+          "id": "7de24c53f12a0a52660f29653e167e01812b4c21",
+          "title": "OpenAI 终止与 Cursor 合作，11 月 12 日生效 / We unfortunately have decided that we cannot continue providing access to our models through Cursor and are ending our partnership. It boils down to trust and we’ve asked that this takes effect on November 12 to give...",
+          "url": "https://x.com/thsottiaux/status/2093515916076343774",
+          "source": "Follow Builders · X · Thibault Sottiaux",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-08-29T01:47:44Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Follow Builders · X · Thibault Sottiaux",
+        "X：Tibo (@thsottiaux)"
+      ],
+      "items": [
+        {
+          "id": "24c8fd94adc5e6f2753bdcf0b50fab34b0cb29a6",
+          "title": "OpenAI 终止与 Cursor 合作，11 月 12 日生效",
+          "url": "https://x.com/thsottiaux/status/2093515916076343774",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-29T01:47:44Z"
+        },
+        {
+          "id": "7de24c53f12a0a52660f29653e167e01812b4c21",
+          "title": "OpenAI 终止与 Cursor 合作，11 月 12 日生效 / We unfortunately have decided that we cannot continue providing access to our models through Cursor and are ending our partnership. It boils down to trust and we’ve asked that this takes effect on November 12 to give...",
+          "url": "https://x.com/thsottiaux/status/2093515916076343774",
+          "source": "Follow Builders · X · Thibault Sottiaux",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-08-29T01:47:44Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7664,
+      "importance": 0.7664,
+      "importance_score": 0.7664,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.69,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9045,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-29T01:47:44Z",
+      "latest_at": "2026-08-29T01:47:44Z",
+      "primary_item": {
+        "id": "24c8fd94adc5e6f2753bdcf0b50fab34b0cb29a6",
+        "title": "OpenAI 终止与 Cursor 合作，11 月 12 日生效",
+        "url": "https://x.com/thsottiaux/status/2093515916076343774",
+        "source": "X：Tibo (@thsottiaux)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_fb769fc67e24",
+      "title": "开放世界多智能体环境中的自主数学发现",
+      "url": "https://arxiv.org/abs/2608.23691",
+      "primary_url": "https://arxiv.org/abs/2608.23691",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "0c77a82075a7f7c8872fd8532664947c92702747",
+          "title": "开放世界多智能体环境中的自主数学发现",
+          "url": "https://arxiv.org/abs/2608.23691",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-29T07:32:16.981000Z"
+        },
+        {
+          "id": "8e6baa986d00c8e4e02b24681ffc0f68cde8450f",
+          "title": "开放世界多智能体环境中的自主数学发现 / Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
+          "url": "https://arxiv.org/abs/2608.23691",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-28T17:01:12Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "0c77a82075a7f7c8872fd8532664947c92702747",
+          "title": "开放世界多智能体环境中的自主数学发现",
+          "url": "https://arxiv.org/abs/2608.23691",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-29T07:32:16.981000Z"
+        },
+        {
+          "id": "8e6baa986d00c8e4e02b24681ffc0f68cde8450f",
+          "title": "开放世界多智能体环境中的自主数学发现 / Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
+          "url": "https://arxiv.org/abs/2608.23691",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-28T17:01:12Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7955,
+      "importance": 0.7955,
+      "importance_score": 0.7955,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9827,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-28T17:01:12Z",
+      "latest_at": "2026-08-29T07:32:16.981000Z",
+      "primary_item": {
+        "id": "0c77a82075a7f7c8872fd8532664947c92702747",
+        "title": "开放世界多智能体环境中的自主数学发现",
+        "url": "https://arxiv.org/abs/2608.23691",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_94a433aab9d2",
+      "title": "智谱开源 GLM-5.3 模型权重，主打智能体编程与网络防御",
+      "url": "https://www.ithome.com/0/995/896.htm",
+      "primary_url": "https://www.ithome.com/0/995/896.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "dfac024832fa2a93b74122ecaf59a5b9f236ca9c",
+          "title": "智谱开源 GLM-5.3 模型权重，主打智能体编程与网络防御",
+          "url": "https://www.ithome.com/0/995/896.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-29T04:31:21Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "dfac024832fa2a93b74122ecaf59a5b9f236ca9c",
+          "title": "智谱开源 GLM-5.3 模型权重，主打智能体编程与网络防御",
+          "url": "https://www.ithome.com/0/995/896.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-29T04:31:21Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7569,
+      "importance": 0.7569,
+      "importance_score": 0.7569,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9408,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-29T04:31:21Z",
+      "latest_at": "2026-08-29T04:31:21Z",
+      "primary_item": {
+        "id": "dfac024832fa2a93b74122ecaf59a5b9f236ca9c",
+        "title": "智谱开源 GLM-5.3 模型权重，主打智能体编程与网络防御",
+        "url": "https://www.ithome.com/0/995/896.htm",
+        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -324,21 +566,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7657,
-      "importance": 0.7657,
-      "importance_score": 0.7657,
+      "score": 0.7499,
+      "importance": 0.7499,
+      "importance_score": 0.7499,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8894,
+        "recency": 0.8016,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-28T17:25:56.912000Z",
       "latest_at": "2026-08-28T17:25:56.912000Z",
@@ -347,87 +588,6 @@
         "title": "Anthropic 让 Claude 自主训练模型以缓解对齐失败",
         "url": "https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures",
         "source": "Anthropic：Research（发表成果 · 网页）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_a0b834204cb6",
-      "title": "AI 工程师笔记本：在 Colab 上免费、无需框架即可使用 RAG/智能体/评估工具",
-      "url": "https://github.com/calmrocks/ai-engineer-notebooks",
-      "primary_url": "https://github.com/calmrocks/ai-engineer-notebooks",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "dfe73907480978f8302c5b95753d65394369ac39",
-          "title": "AI 工程师笔记本：在 Colab 上免费、无需框架即可使用 RAG/智能体/评估工具",
-          "url": "https://github.com/calmrocks/ai-engineer-notebooks",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-28T08:36:31.021000Z"
-        },
-        {
-          "id": "00d4afc17d37d52f29d5f4fdb35c27e35ed3576f",
-          "title": "AI 工程师笔记本——在 Colab 上免费、无需框架即可使用 RAG/智能体/评估工具",
-          "url": "https://github.com/calmrocks/ai-engineer-notebooks",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-28T08:36:31.021000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "github.com"
-      ],
-      "items": [
-        {
-          "id": "dfe73907480978f8302c5b95753d65394369ac39",
-          "title": "AI 工程师笔记本：在 Colab 上免费、无需框架即可使用 RAG/智能体/评估工具",
-          "url": "https://github.com/calmrocks/ai-engineer-notebooks",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-28T08:36:31.021000Z"
-        },
-        {
-          "id": "00d4afc17d37d52f29d5f4fdb35c27e35ed3576f",
-          "title": "AI 工程师笔记本——在 Colab 上免费、无需框架即可使用 RAG/智能体/评估工具",
-          "url": "https://github.com/calmrocks/ai-engineer-notebooks",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-28T08:36:31.021000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7625,
-      "importance": 0.7625,
-      "importance_score": 0.7625,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.783,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-28T08:36:31.021000Z",
-      "latest_at": "2026-08-28T08:36:31.021000Z",
-      "primary_item": {
-        "id": "dfe73907480978f8302c5b95753d65394369ac39",
-        "title": "AI 工程师笔记本：在 Colab 上免费、无需框架即可使用 RAG/智能体/评估工具",
-        "url": "https://github.com/calmrocks/ai-engineer-notebooks",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -466,15 +626,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8192,
-      "importance": 0.8192,
-      "importance_score": 0.8192,
+      "score": 0.8047,
+      "importance": 0.8047,
+      "importance_score": 0.8047,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8178,
+        "recency": 0.7371,
         "story_heat": 0.0
       },
       "category": "official",
@@ -491,67 +651,6 @@
         "url": "https://github.blog/changelog/2026-08-28-upcoming-changes-to-github-copilot-policies-and-billing",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_6cbde97d8260",
-      "title": "腾讯混元发布 Hy4 preview：770B 总参数、1M 上下文，开源上线",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498484&idx=1&sn=0db140a12b8e18601ac933788045c831",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498484&idx=1&sn=0db140a12b8e18601ac933788045c831",
-      "source": "公众号：腾讯混元",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2a1ba17e75840201d6c5e7e822542dbe715b212a",
-          "title": "腾讯混元发布 Hy4 preview：770B 总参数、1M 上下文，开源上线",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498484&idx=1&sn=0db140a12b8e18601ac933788045c831",
-          "source": "公众号：腾讯混元",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-28T06:03:48Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：腾讯混元"
-      ],
-      "items": [
-        {
-          "id": "2a1ba17e75840201d6c5e7e822542dbe715b212a",
-          "title": "腾讯混元发布 Hy4 preview：770B 总参数、1M 上下文，开源上线",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498484&idx=1&sn=0db140a12b8e18601ac933788045c831",
-          "source": "公众号：腾讯混元",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-28T06:03:48Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7534,
-      "importance": 0.7534,
-      "importance_score": 0.7534,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.82,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7547,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-28T06:03:48Z",
-      "latest_at": "2026-08-28T06:03:48Z",
-      "primary_item": {
-        "id": "2a1ba17e75840201d6c5e7e822542dbe715b212a",
-        "title": "腾讯混元发布 Hy4 preview：770B 总参数、1M 上下文，开源上线",
-        "url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498484&idx=1&sn=0db140a12b8e18601ac933788045c831",
-        "source": "公众号：腾讯混元",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -589,15 +688,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7459,
-      "importance": 0.7459,
-      "importance_score": 0.7459,
+      "score": 0.7303,
+      "importance": 0.7303,
+      "importance_score": 0.7303,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8797,
+        "recency": 0.7929,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -649,15 +748,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.745,
-      "importance": 0.745,
-      "importance_score": 0.745,
+      "score": 0.7301,
+      "importance": 0.7301,
+      "importance_score": 0.7301,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8412,
+        "recency": 0.7582,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -672,6 +771,66 @@
         "url": "https://dev.to/googleai/stop-wrestling-with-asr-the-complete-guide-to-gemini-35-transcribe-1m6i",
         "source": "Google AI：DEV 作者专属（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_bfb0aa7648ad",
+      "title": "微博通报孙宇晨谷爱凌聊天记录系 AI 炮制，造谣账号遭永久关闭",
+      "url": "https://www.aibase.com/news/30696",
+      "primary_url": "https://www.aibase.com/news/30696",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "993dff09f18b65be560f9f554e2264528c5fbb5b",
+          "title": "微博通报孙宇晨谷爱凌聊天记录系 AI 炮制，造谣账号遭永久关闭",
+          "url": "https://www.aibase.com/news/30696",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-28T15:40:40.998846Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "993dff09f18b65be560f9f554e2264528c5fbb5b",
+          "title": "微博通报孙宇晨谷爱凌聊天记录系 AI 炮制，造谣账号遭永久关闭",
+          "url": "https://www.aibase.com/news/30696",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-28T15:40:40.998846Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7283,
+      "importance": 0.7283,
+      "importance_score": 0.7283,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7815,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-28T15:40:40.998846Z",
+      "latest_at": "2026-08-28T15:40:40.998846Z",
+      "primary_item": {
+        "id": "993dff09f18b65be560f9f554e2264528c5fbb5b",
+        "title": "微博通报孙宇晨谷爱凌聊天记录系 AI 炮制，造谣账号遭永久关闭",
+        "url": "https://www.aibase.com/news/30696",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -728,22 +887,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7608,
-      "importance": 0.7608,
-      "importance_score": 0.7608,
+      "score": 0.7462,
+      "importance": 0.7462,
+      "importance_score": 0.7462,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8232,
+        "recency": 0.742,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-28T12:04:47.737000Z",
       "latest_at": "2026-08-28T12:04:47.737000Z",
@@ -753,186 +911,6 @@
         "url": "https://www.terminal-bench-science.ai/announcement",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_6aea2121fb47",
-      "title": "OpenAI 攻击 Hugging Face 事件的 5 个教训",
-      "url": "https://garymarcus.substack.com/p/5-lessons-from-the-openai-hugging",
-      "primary_url": "https://garymarcus.substack.com/p/5-lessons-from-the-openai-hugging",
-      "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "961a69ee45ff775b164ffd3f0a46c696fada06e3",
-          "title": "OpenAI 攻击 Hugging Face 事件的 5 个教训",
-          "url": "https://garymarcus.substack.com/p/5-lessons-from-the-openai-hugging",
-          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-28T18:24:05Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Gary Marcus：The Road to AI We Can Trust（RSS）"
-      ],
-      "items": [
-        {
-          "id": "961a69ee45ff775b164ffd3f0a46c696fada06e3",
-          "title": "OpenAI 攻击 Hugging Face 事件的 5 个教训",
-          "url": "https://garymarcus.substack.com/p/5-lessons-from-the-openai-hugging",
-          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-28T18:24:05Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7229,
-      "importance": 0.7229,
-      "importance_score": 0.7229,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.63,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9019,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-28T18:24:05Z",
-      "latest_at": "2026-08-28T18:24:05Z",
-      "primary_item": {
-        "id": "961a69ee45ff775b164ffd3f0a46c696fada06e3",
-        "title": "OpenAI 攻击 Hugging Face 事件的 5 个教训",
-        "url": "https://garymarcus.substack.com/p/5-lessons-from-the-openai-hugging",
-        "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_d3a9afa53072",
-      "title": "GLM-5.3 开源权重，智能体编码与网防最强",
-      "url": "https://x.com/Zai_org/status/2093354097122455713",
-      "primary_url": "https://x.com/Zai_org/status/2093354097122455713",
-      "source": "X：智谱 Z.ai (@Zai_org)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "1245c3bf42bd62d6c7cbce4a5afb42e78a45c85b",
-          "title": "GLM-5.3 开源权重，智能体编码与网防最强",
-          "url": "https://x.com/Zai_org/status/2093354097122455713",
-          "source": "X：智谱 Z.ai (@Zai_org)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-28T15:04:44Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：智谱 Z.ai (@Zai_org)"
-      ],
-      "items": [
-        {
-          "id": "1245c3bf42bd62d6c7cbce4a5afb42e78a45c85b",
-          "title": "GLM-5.3 开源权重，智能体编码与网防最强",
-          "url": "https://x.com/Zai_org/status/2093354097122455713",
-          "source": "X：智谱 Z.ai (@Zai_org)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-28T15:04:44Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7213,
-      "importance": 0.7213,
-      "importance_score": 0.7213,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8596,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-28T15:04:44Z",
-      "latest_at": "2026-08-28T15:04:44Z",
-      "primary_item": {
-        "id": "1245c3bf42bd62d6c7cbce4a5afb42e78a45c85b",
-        "title": "GLM-5.3 开源权重，智能体编码与网防最强",
-        "url": "https://x.com/Zai_org/status/2093354097122455713",
-        "source": "X：智谱 Z.ai (@Zai_org)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_bfb0aa7648ad",
-      "title": "微博通报孙宇晨谷爱凌聊天记录系 AI 炮制，造谣账号遭永久关闭",
-      "url": "https://www.aibase.com/news/30696",
-      "primary_url": "https://www.aibase.com/news/30696",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "993dff09f18b65be560f9f554e2264528c5fbb5b",
-          "title": "微博通报孙宇晨谷爱凌聊天记录系 AI 炮制，造谣账号遭永久关闭",
-          "url": "https://www.aibase.com/news/30696",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-28T15:40:40.998846Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "993dff09f18b65be560f9f554e2264528c5fbb5b",
-          "title": "微博通报孙宇晨谷爱凌聊天记录系 AI 炮制，造谣账号遭永久关闭",
-          "url": "https://www.aibase.com/news/30696",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-28T15:40:40.998846Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7437,
-      "importance": 0.7437,
-      "importance_score": 0.7437,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8671,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-28T15:40:40.998846Z",
-      "latest_at": "2026-08-28T15:40:40.998846Z",
-      "primary_item": {
-        "id": "993dff09f18b65be560f9f554e2264528c5fbb5b",
-        "title": "微博通报孙宇晨谷爱凌聊天记录系 AI 炮制，造谣账号遭永久关闭",
-        "url": "https://www.aibase.com/news/30696",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -970,15 +948,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7437,
-      "importance": 0.7437,
-      "importance_score": 0.7437,
+      "score": 0.7283,
+      "importance": 0.7283,
+      "importance_score": 0.7283,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8671,
+        "recency": 0.7815,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1030,15 +1008,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7437,
-      "importance": 0.7437,
-      "importance_score": 0.7437,
+      "score": 0.7283,
+      "importance": 0.7283,
+      "importance_score": 0.7283,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8671,
+        "recency": 0.7815,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1109,15 +1087,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6309,
-      "importance": 0.6309,
-      "importance_score": 0.6309,
+      "score": 0.6161,
+      "importance": 0.6161,
+      "importance_score": 0.6161,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5688,
         "source_tier": 0.58,
         "ai_relevance": 0.79,
-        "recency": 0.8314,
+        "recency": 0.7494,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1169,15 +1147,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7414,
-      "importance": 0.7414,
-      "importance_score": 0.7414,
+      "score": 0.7263,
+      "importance": 0.7263,
+      "importance_score": 0.7263,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8547,
+        "recency": 0.7703,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1247,15 +1225,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5931,
-      "importance": 0.5931,
-      "importance_score": 0.5931,
+      "score": 0.5776,
+      "importance": 0.5776,
+      "importance_score": 0.5776,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.8758,
+        "recency": 0.7894,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1307,15 +1285,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7414,
-      "importance": 0.7414,
-      "importance_score": 0.7414,
+      "score": 0.7263,
+      "importance": 0.7263,
+      "importance_score": 0.7263,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8547,
+        "recency": 0.7703,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1330,6 +1308,104 @@
         "url": "https://www.aibase.com/news/30693",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_6f0715608976",
+      "title": "我不小心把LLM内存变成了程序分析",
+      "url": "https://pwning.systems/posts/llm-memory-program-analysis",
+      "primary_url": "https://pwning.systems/posts/llm-memory-program-analysis",
+      "source": "pwning.systems",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "f53cc7718c916a82ba7d2a5ffe22cee80d301975",
+          "title": "我不小心把LLM内存变成了程序分析",
+          "url": "https://pwning.systems/posts/llm-memory-program-analysis",
+          "source": "pwning.systems",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T06:44:16.846000Z"
+        },
+        {
+          "id": "36d6f35c8e5d0357dc5d24415a7121610c8f8d41",
+          "title": "I accidentally turned LLM memory into program analysis",
+          "url": "https://news.ycombinator.com/item?id=49485416",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-29T01:04:16.296000Z"
+        },
+        {
+          "id": "4b3dc26fa9059c335845e86833449b3453c388b4",
+          "title": "我不小心把LLM内存变成了程序分析 / I accidentally turned LLM memory into program analysis",
+          "url": "https://pwning.systems/posts/llm-memory-program-analysis",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-28T23:27:45Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "pwning.systems"
+      ],
+      "items": [
+        {
+          "id": "f53cc7718c916a82ba7d2a5ffe22cee80d301975",
+          "title": "我不小心把LLM内存变成了程序分析",
+          "url": "https://pwning.systems/posts/llm-memory-program-analysis",
+          "source": "pwning.systems",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T06:44:16.846000Z"
+        },
+        {
+          "id": "36d6f35c8e5d0357dc5d24415a7121610c8f8d41",
+          "title": "I accidentally turned LLM memory into program analysis",
+          "url": "https://news.ycombinator.com/item?id=49485416",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-29T01:04:16.296000Z"
+        },
+        {
+          "id": "4b3dc26fa9059c335845e86833449b3453c388b4",
+          "title": "我不小心把LLM内存变成了程序分析 / I accidentally turned LLM memory into program analysis",
+          "url": "https://pwning.systems/posts/llm-memory-program-analysis",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-28T23:27:45Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5657,
+      "importance": 0.5657,
+      "importance_score": 0.5657,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9714,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-28T23:27:45Z",
+      "latest_at": "2026-08-29T06:44:16.846000Z",
+      "primary_item": {
+        "id": "f53cc7718c916a82ba7d2a5ffe22cee80d301975",
+        "title": "我不小心把LLM内存变成了程序分析",
+        "url": "https://pwning.systems/posts/llm-memory-program-analysis",
+        "source": "pwning.systems",
+        "source_name": "Buzzing"
       }
     }
   ]
