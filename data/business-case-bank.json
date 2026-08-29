@@ -1,111 +1,46 @@
 {
-  "generated_at": "2026-08-29T01:42:11.859615Z",
+  "generated_at": "2026-08-29T23:13:53.608614Z",
   "cases": [
     {
-      "case_id": "opc_case_9e53990439ac",
-      "company": "Executive Interview",
+      "case_id": "opc_case_456466379360",
+      "company": "Infinite Slop",
       "founder": "",
       "source_refs": [
-        "biz_3d5ae979805e"
+        "biz_b8d14ad12090"
       ],
-      "url": "https://www.cbinsights.com/research/executive-interview-afori/",
-      "title": "Executive Interview : Afori",
-      "business_model": "Founder Case",
+      "url": "https://levels.io/i-built-infinite-slop",
+      "title": "I built Infinite Slop, an infinite interactive AI generated live stream",
+      "business_model": "Founder Case, OPC",
       "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
       "monetization": "To be extracted from the linked source.",
       "team_size_signal": "team size not explicit",
-      "distribution_channel": "CB Insights",
-      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
-      "yuanli_mapping": [
-        "yuanli_asset",
-        "yuanli_startup",
-        "ftf_trust",
-        "wealth_flywheel"
-      ],
-      "score": 56
-    },
-    {
-      "case_id": "opc_case_ceb889cc8931",
-      "company": "CEO Interview",
-      "founder": "",
-      "source_refs": [
-        "biz_be106671f06d"
-      ],
-      "url": "https://www.cbinsights.com/research/ceo-interview-elphi/",
-      "title": "CEO Interview: Elphi",
-      "business_model": "AI Business Model Innovation, Founder Case",
-      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
-      "monetization": "To be extracted from the linked source.",
-      "team_size_signal": "team size not explicit",
-      "distribution_channel": "CB Insights",
-      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
-      "yuanli_mapping": [
-        "yuanli_startup",
-        "ftf_trust"
-      ],
-      "score": 52
-    },
-    {
-      "case_id": "opc_case_953501d00c5f",
-      "company": "CEO Interview",
-      "founder": "",
-      "source_refs": [
-        "biz_89c9a1597572"
-      ],
-      "url": "https://www.cbinsights.com/research/ceo-interview-compliantchatgpt/",
-      "title": "CEO Interview : CompliantChatGpt",
-      "business_model": "Founder Case",
-      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
-      "monetization": "To be extracted from the linked source.",
-      "team_size_signal": "team size not explicit",
-      "distribution_channel": "CB Insights",
-      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
-      "yuanli_mapping": [
-        "yuanli_startup",
-        "ftf_trust"
-      ],
-      "score": 50
-    },
-    {
-      "case_id": "opc_case_51ca0dc3bbc5",
-      "company": "CEO Interview",
-      "founder": "",
-      "source_refs": [
-        "biz_82e8100e8591"
-      ],
-      "url": "https://www.cbinsights.com/research/ceo-interview-12x-ai/",
-      "title": "CEO Interview: 12x AI",
-      "business_model": "Founder Case",
-      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
-      "monetization": "To be extracted from the linked source.",
-      "team_size_signal": "team size not explicit",
-      "distribution_channel": "CB Insights",
-      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
-      "yuanli_mapping": [
-        "yuanli_startup",
-        "ftf_trust"
-      ],
-      "score": 50
-    },
-    {
-      "case_id": "opc_case_cf5d78cf4ccc",
-      "company": "Supporting Thailand",
-      "founder": "",
-      "source_refs": [
-        "biz_0b3a3eb7f8bd"
-      ],
-      "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
-      "title": "Supporting Thailand’s next generation of AI startups",
-      "business_model": "Founder Case, Enterprise AI Workflow",
-      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
-      "monetization": "To be extracted from the linked source.",
-      "team_size_signal": "team size not explicit",
-      "distribution_channel": "OpenAI News",
+      "distribution_channel": "levels.io",
       "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
       "yuanli_mapping": [
         "yuanli_startup"
       ],
-      "score": 41
+      "score": 39
+    },
+    {
+      "case_id": "opc_case_ce305b316dcd",
+      "company": "Community Wisdom",
+      "founder": "",
+      "source_refs": [
+        "biz_d77718bc3d1e"
+      ],
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-building-without",
+      "title": "🧠 Community Wisdom: Building without clear PM requirements, selling a product before building it, pricing fast-moving B2B SaaS, a year of job hunting, and more",
+      "business_model": "AI Business Model Innovation, Founder Case",
+      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
+      "monetization": "To be extracted from the linked source.",
+      "team_size_signal": "team size not explicit",
+      "distribution_channel": "Lenny's Newsletter",
+      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
+      "yuanli_mapping": [
+        "yuanli_startup",
+        "profit_container"
+      ],
+      "score": 32
     }
   ]
 }

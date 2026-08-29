@@ -1,81 +1,61 @@
 {
-  "generated_at": "2026-08-29T01:42:11.859615Z",
+  "generated_at": "2026-08-29T23:13:53.608614Z",
   "clusters": [
     {
-      "cluster_id": "biz_cluster_13fa585e47ff",
+      "cluster_id": "biz_cluster_06d559eac5be",
+      "thesis": "AI leverage is making one-person and tiny-team companies a credible strategic archetype.",
+      "lane": "opc",
+      "signal_ids": [
+        "biz_b8d14ad12090"
+      ],
+      "source_count": 1,
+      "importance_score": 41,
+      "confidence": "watch",
+      "yuanli_mapping": [
+        "yuanli_asset",
+        "yuanli_startup",
+        "profit_container"
+      ],
+      "why_it_matters": "1 English evidence items from 1 sources connect this pattern to Yuanli IP.",
+      "counter_evidence": "See counter_signal cluster for adoption, ROI, and trust risks.",
+      "recommended_action": "Turn the strongest case into a Yuanli OPC teaching module with leverage, distribution, and monetization explicitly mapped.",
+      "evidence_refs": [
+        "biz_b8d14ad12090"
+      ],
+      "top_sources": [
+        {
+          "source": "levels.io",
+          "title": "I built Infinite Slop, an infinite interactive AI generated live stream",
+          "url": "https://levels.io/i-built-infinite-slop"
+        }
+      ]
+    },
+    {
+      "cluster_id": "biz_cluster_4fa269c859b0",
       "thesis": "Founder stories provide the most reusable proof layer for Yuanli IP trust-building.",
       "lane": "founder_case",
       "signal_ids": [
-        "biz_3d5ae979805e",
-        "biz_be106671f06d",
-        "biz_89c9a1597572",
-        "biz_82e8100e8591"
+        "biz_d77718bc3d1e"
       ],
       "source_count": 1,
-      "importance_score": 54,
+      "importance_score": 34,
       "confidence": "watch",
       "yuanli_mapping": [
         "ftf_trust",
         "yuanli_asset",
         "wealth_flywheel"
       ],
-      "why_it_matters": "4 English evidence items from 1 sources connect this pattern to Yuanli IP.",
+      "why_it_matters": "1 English evidence items from 1 sources connect this pattern to Yuanli IP.",
       "counter_evidence": "See counter_signal cluster for adoption, ROI, and trust risks.",
       "recommended_action": "Convert high-score founder cases into FTF credible story assets.",
       "evidence_refs": [
-        "biz_3d5ae979805e",
-        "biz_be106671f06d",
-        "biz_89c9a1597572",
-        "biz_82e8100e8591"
+        "biz_d77718bc3d1e"
       ],
       "top_sources": [
         {
-          "source": "CB Insights",
-          "title": "Executive Interview : Afori",
-          "url": "https://www.cbinsights.com/research/executive-interview-afori/"
-        },
-        {
-          "source": "CB Insights",
-          "title": "CEO Interview: Elphi",
-          "url": "https://www.cbinsights.com/research/ceo-interview-elphi/"
-        },
-        {
-          "source": "CB Insights",
-          "title": "CEO Interview : CompliantChatGpt",
-          "url": "https://www.cbinsights.com/research/ceo-interview-compliantchatgpt/"
-        },
-        {
-          "source": "CB Insights",
-          "title": "CEO Interview: 12x AI",
-          "url": "https://www.cbinsights.com/research/ceo-interview-12x-ai/"
-        }
-      ]
-    },
-    {
-      "cluster_id": "biz_cluster_1f78cdb3765e",
-      "thesis": "Enterprise AI value is moving toward operating-model redesign rather than isolated copilots.",
-      "lane": "enterprise_workflow",
-      "signal_ids": [
-        "biz_0b3a3eb7f8bd"
-      ],
-      "source_count": 1,
-      "importance_score": 43,
-      "confidence": "watch",
-      "yuanli_mapping": [
-        "yuanli_os",
-        "ftf_trust"
-      ],
-      "why_it_matters": "1 English evidence items from 1 sources connect this pattern to Yuanli IP.",
-      "counter_evidence": "See counter_signal cluster for adoption, ROI, and trust risks.",
-      "recommended_action": "Map each workflow case to the Yuanli OS organs: soul, memory, judgment, hands.",
-      "evidence_refs": [
-        "biz_0b3a3eb7f8bd"
-      ],
-      "top_sources": [
-        {
-          "source": "OpenAI News",
-          "title": "Supporting Thailand’s next generation of AI startups",
-          "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand"
+          "source": "Lenny's Newsletter",
+          "title": "🧠 Community Wisdom: Building without clear PM requirements, selling a product before building it, pricing fast-moving B2B SaaS, a year of job hunting, and more",
+          "url": "https://www.lennysnewsletter.com/p/community-wisdom-building-without"
         }
       ]
     }
