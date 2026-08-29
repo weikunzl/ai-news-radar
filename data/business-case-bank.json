@@ -1,6 +1,29 @@
 {
-  "generated_at": "2026-08-28T17:41:50.262675Z",
+  "generated_at": "2026-08-29T01:42:11.859615Z",
   "cases": [
+    {
+      "case_id": "opc_case_9e53990439ac",
+      "company": "Executive Interview",
+      "founder": "",
+      "source_refs": [
+        "biz_3d5ae979805e"
+      ],
+      "url": "https://www.cbinsights.com/research/executive-interview-afori/",
+      "title": "Executive Interview : Afori",
+      "business_model": "Founder Case",
+      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
+      "monetization": "To be extracted from the linked source.",
+      "team_size_signal": "team size not explicit",
+      "distribution_channel": "CB Insights",
+      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
+      "yuanli_mapping": [
+        "yuanli_asset",
+        "yuanli_startup",
+        "ftf_trust",
+        "wealth_flywheel"
+      ],
+      "score": 56
+    },
     {
       "case_id": "opc_case_ceb889cc8931",
       "company": "CEO Interview",
@@ -23,24 +46,46 @@
       "score": 52
     },
     {
-      "case_id": "opc_case_f817cbc3c61a",
-      "company": "Indie Hackers",
+      "case_id": "opc_case_953501d00c5f",
+      "company": "CEO Interview",
       "founder": "",
       "source_refs": [
-        "biz_da48da1b33ba"
+        "biz_89c9a1597572"
       ],
-      "url": "https://www.indiehackers.com/post/i-built-a-website-security-tool-after-realizing-how-hard-it-is-to-quickly-judge-a-sites-trust-setup-1c558458f2",
-      "title": "I built a website security tool after realizing how hard it is to quickly judge a site's trust setup",
-      "business_model": "Founder Case, OPC",
+      "url": "https://www.cbinsights.com/research/ceo-interview-compliantchatgpt/",
+      "title": "CEO Interview : CompliantChatGpt",
+      "business_model": "Founder Case",
       "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
       "monetization": "To be extracted from the linked source.",
       "team_size_signal": "team size not explicit",
-      "distribution_channel": "Indie Hackers",
+      "distribution_channel": "CB Insights",
       "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
       "yuanli_mapping": [
-        "yuanli_startup"
+        "yuanli_startup",
+        "ftf_trust"
       ],
-      "score": 40
+      "score": 50
+    },
+    {
+      "case_id": "opc_case_51ca0dc3bbc5",
+      "company": "CEO Interview",
+      "founder": "",
+      "source_refs": [
+        "biz_82e8100e8591"
+      ],
+      "url": "https://www.cbinsights.com/research/ceo-interview-12x-ai/",
+      "title": "CEO Interview: 12x AI",
+      "business_model": "Founder Case",
+      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
+      "monetization": "To be extracted from the linked source.",
+      "team_size_signal": "team size not explicit",
+      "distribution_channel": "CB Insights",
+      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
+      "yuanli_mapping": [
+        "yuanli_startup",
+        "ftf_trust"
+      ],
+      "score": 50
     },
     {
       "case_id": "opc_case_cf5d78cf4ccc",
@@ -61,28 +106,6 @@
         "yuanli_startup"
       ],
       "score": 41
-    },
-    {
-      "case_id": "opc_case_c950a2e6f920",
-      "company": "Nvidia",
-      "founder": "",
-      "source_refs": [
-        "biz_97302d51de04"
-      ],
-      "url": "https://www.cbinsights.com/research/newsletter-august-27/",
-      "title": "Nvidia acquires Hugging Face and the SpaceX mafia",
-      "business_model": "AI Business Model Innovation, Founder Case",
-      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
-      "monetization": "To be extracted from the linked source.",
-      "team_size_signal": "team size not explicit",
-      "distribution_channel": "CB Insights",
-      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
-      "yuanli_mapping": [
-        "yuanli_startup",
-        "ftf_trust",
-        "profit_container"
-      ],
-      "score": 34
     }
   ]
 }
