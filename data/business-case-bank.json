@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T20:55:16.376137Z",
+  "generated_at": "2026-08-30T23:30:10.860961Z",
   "cases": [
     {
       "case_id": "opc_case_0a1907a0786c",
@@ -20,6 +20,26 @@
         "yuanli_startup"
       ],
       "score": 43
+    },
+    {
+      "case_id": "opc_case_2e34f5916820",
+      "company": "Now I",
+      "founder": "",
+      "source_refs": [
+        "biz_0221d911d40d"
+      ],
+      "url": "https://www.indiehackers.com/post/i-built-the-product-now-i-m-questioning-whether-users-will-build-the-habit-8a6682dba3",
+      "title": "I built the product. Now I’m questioning whether users will build the habit.",
+      "business_model": "Founder Case, OPC",
+      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
+      "monetization": "To be extracted from the linked source.",
+      "team_size_signal": "team size not explicit",
+      "distribution_channel": "Indie Hackers",
+      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
+      "yuanli_mapping": [
+        "yuanli_startup"
+      ],
+      "score": 40
     }
   ]
 }

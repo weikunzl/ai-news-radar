@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T20:55:16.376137Z",
+  "generated_at": "2026-08-30T23:30:10.860961Z",
   "window_hours": 24,
   "items": [
     {
@@ -9,7 +9,7 @@
       "source_id": "indie_hackers",
       "source_name": "Indie Hackers",
       "published_at": "2026-08-30T15:54:24.170000Z",
-      "captured_at": "2026-08-30T20:55:16.376137Z",
+      "captured_at": "2026-08-30T23:30:10.860961Z",
       "lane": "opc",
       "entities": [
         "Indie Hackers",
@@ -36,6 +36,42 @@
         "counter_signal_value": 0
       },
       "summary": "I spent the week talking to Customer Support pros about AI tools. Here are the 3 biggest flaws they highlighted. Tags: Founder Case, OPC.",
+      "timestamp_basis": "page_structured_time",
+      "transport_mode": "page_detail"
+    },
+    {
+      "signal_id": "biz_0221d911d40d",
+      "title": "I built the product. Now I’m questioning whether users will build the habit.",
+      "url": "https://www.indiehackers.com/post/i-built-the-product-now-i-m-questioning-whether-users-will-build-the-habit-8a6682dba3",
+      "source_id": "indie_hackers",
+      "source_name": "Indie Hackers",
+      "published_at": "2026-08-30T15:37:51.204000Z",
+      "captured_at": "2026-08-30T23:30:10.860961Z",
+      "lane": "opc",
+      "entities": [
+        "Indie Hackers",
+        "Now I"
+      ],
+      "business_model_tags": [
+        "Founder Case",
+        "OPC"
+      ],
+      "yuanli_tags": [
+        "yuanli_startup"
+      ],
+      "opc_fit_score": 5,
+      "case_concreteness_score": 8,
+      "total_score": 40,
+      "score_breakdown": {
+        "source_authority": 16,
+        "yuanli_relevance": 0,
+        "business_model_value": 3,
+        "case_concreteness": 8,
+        "opc_fit": 5,
+        "freshness": 8,
+        "counter_signal_value": 0
+      },
+      "summary": "I built the product. Now I’m questioning whether users will build the habit. Tags: Founder Case, OPC.",
       "timestamp_basis": "page_structured_time",
       "transport_mode": "page_detail"
     }
