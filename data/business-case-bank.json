@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T12:05:31.427656Z",
+  "generated_at": "2026-09-01T16:27:03.389874Z",
   "cases": [
     {
       "case_id": "opc_case_53971000bdbd",
@@ -19,7 +19,7 @@
       "yuanli_mapping": [
         "yuanli_startup"
       ],
-      "score": 44
+      "score": 43
     },
     {
       "case_id": "opc_case_61ea269efdf5",
@@ -111,14 +111,14 @@
       "score": 52
     },
     {
-      "case_id": "opc_case_3a20a6e4a798",
+      "case_id": "opc_case_6c040247fd17",
       "company": "CEO Interview",
       "founder": "",
       "source_refs": [
-        "biz_965b270435aa"
+        "biz_18642bc2ba50"
       ],
-      "url": "https://www.cbinsights.com/research/ceo-interview-asuene/",
-      "title": "CEO Interview: Asuene",
+      "url": "https://www.cbinsights.com/research/ceo-interview-furtherai/",
+      "title": "CEO Interview: FurtherAI",
       "business_model": "Founder Case",
       "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
       "monetization": "To be extracted from the linked source.",
@@ -127,30 +127,71 @@
       "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
       "yuanli_mapping": [
         "yuanli_startup",
-        "yuanli_os",
         "ftf_trust"
       ],
-      "score": 52
+      "score": 50
     },
     {
-      "case_id": "opc_case_d185ba5e8ce0",
-      "company": "Expanding",
+      "case_id": "opc_case_54a2e11b4371",
+      "company": "CEO Interview",
       "founder": "",
       "source_refs": [
-        "biz_236d6d468767"
+        "biz_3d38679afbe7"
       ],
-      "url": "https://a16z.com/expanding-the-a16z-growth-fund-and-platform/",
-      "title": "Expanding the a16z Growth Fund and Platform | Andreessen Horowitz",
+      "url": "https://www.cbinsights.com/research/ceo-interview-cofers/",
+      "title": "CEO Interview: Cofers",
+      "business_model": "Founder Case",
+      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
+      "monetization": "To be extracted from the linked source.",
+      "team_size_signal": "team size not explicit",
+      "distribution_channel": "CB Insights",
+      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
+      "yuanli_mapping": [
+        "yuanli_startup",
+        "ftf_trust"
+      ],
+      "score": 50
+    },
+    {
+      "case_id": "opc_case_0a91f131d7b5",
+      "company": "What Kind",
+      "founder": "",
+      "source_refs": [
+        "biz_3e117e25d3c7"
+      ],
+      "url": "https://sloanreview.mit.edu/article/what-kind-of-chief-purpose-officer-does-your-company-need/",
+      "title": "What Kind of Chief Purpose Officer Does Your Company Need?",
+      "business_model": "Founder Case, AI Business Model Innovation",
+      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
+      "monetization": "To be extracted from the linked source.",
+      "team_size_signal": "team size not explicit",
+      "distribution_channel": "MIT Sloan Management Review",
+      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
+      "yuanli_mapping": [
+        "ftf_trust"
+      ],
+      "score": 46
+    },
+    {
+      "case_id": "opc_case_2307f63b4250",
+      "company": "How Leadership Anxiety",
+      "founder": "",
+      "source_refs": [
+        "biz_2687ce561573"
+      ],
+      "url": "https://sloanreview.mit.edu/article/how-leadership-anxiety-derails-transformation/",
+      "title": "﻿How Leadership Anxiety Derails Transformation",
       "business_model": "AI Business Model Innovation, Founder Case",
       "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
       "monetization": "To be extracted from the linked source.",
       "team_size_signal": "team size not explicit",
-      "distribution_channel": "a16z",
+      "distribution_channel": "MIT Sloan Management Review",
       "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
       "yuanli_mapping": [
-        "wealth_flywheel"
+        "ftf_trust",
+        "profit_container"
       ],
-      "score": 43
+      "score": 47
     },
     {
       "case_id": "opc_case_70611b2ed210",
@@ -224,27 +265,6 @@
       ],
       "url": "https://www.cbinsights.com/research/executive-interview-altuva-group/",
       "title": "Executive Interview: Altuva Group",
-      "business_model": "Founder Case",
-      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
-      "monetization": "To be extracted from the linked source.",
-      "team_size_signal": "team size not explicit",
-      "distribution_channel": "CB Insights",
-      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
-      "yuanli_mapping": [
-        "yuanli_os",
-        "ftf_trust"
-      ],
-      "score": 40
-    },
-    {
-      "case_id": "opc_case_55b3b7321f02",
-      "company": "CEO Interview",
-      "founder": "",
-      "source_refs": [
-        "biz_ac267e830f83"
-      ],
-      "url": "https://www.cbinsights.com/research/ceo-interview-wadiz/",
-      "title": "CEO Interview: Wadiz",
       "business_model": "Founder Case",
       "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
       "monetization": "To be extracted from the linked source.",
