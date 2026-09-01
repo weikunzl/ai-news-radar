@@ -1,39 +1,109 @@
 {
-  "generated_at": "2026-08-31T01:42:43.152873Z",
+  "generated_at": "2026-09-01T00:51:05.446395Z",
   "clusters": [
     {
-      "cluster_id": "biz_cluster_26529c550697",
-      "thesis": "AI leverage is making one-person and tiny-team companies a credible strategic archetype.",
-      "lane": "opc",
+      "cluster_id": "biz_cluster_42e5a39d0a9f",
+      "thesis": "Founder stories provide the most reusable proof layer for Yuanli IP trust-building.",
+      "lane": "founder_case",
       "signal_ids": [
-        "biz_0221d911d40d",
-        "biz_7e5e9a75867c"
+        "biz_fe9dddf32002",
+        "biz_f97bae42c3ee",
+        "biz_2b74eecc45ba",
+        "biz_b366b95f2db0",
+        "biz_965b270435aa",
+        "biz_236d6d468767",
+        "biz_3ba1a8c50640",
+        "biz_b9e514dd002f",
+        "biz_358bb716c664",
+        "biz_d13a8c0f4701",
+        "biz_ac267e830f83"
+      ],
+      "source_count": 2,
+      "importance_score": 58,
+      "confidence": "medium",
+      "yuanli_mapping": [
+        "ftf_trust",
+        "yuanli_asset",
+        "wealth_flywheel"
+      ],
+      "why_it_matters": "11 English evidence items from 2 sources connect this pattern to Yuanli IP.",
+      "counter_evidence": "See counter_signal cluster for adoption, ROI, and trust risks.",
+      "recommended_action": "Convert high-score founder cases into FTF credible story assets.",
+      "evidence_refs": [
+        "biz_fe9dddf32002",
+        "biz_f97bae42c3ee",
+        "biz_2b74eecc45ba",
+        "biz_b366b95f2db0",
+        "biz_965b270435aa"
+      ],
+      "top_sources": [
+        {
+          "source": "CB Insights",
+          "title": "Executive Interview: Quantifeed",
+          "url": "https://www.cbinsights.com/research/executive-interview-quantifeed/"
+        },
+        {
+          "source": "CB Insights",
+          "title": "Executive Interview: Arya.ag",
+          "url": "https://www.cbinsights.com/research/executive-interview-arya-ag/"
+        },
+        {
+          "source": "CB Insights",
+          "title": "CEO Interview: Oxtak",
+          "url": "https://www.cbinsights.com/research/ceo-interview-oxtak/"
+        },
+        {
+          "source": "CB Insights",
+          "title": "CEO Interview: AIVI Technologies",
+          "url": "https://www.cbinsights.com/research/ceo-interview-aivi-technologies/"
+        },
+        {
+          "source": "CB Insights",
+          "title": "CEO Interview: Asuene",
+          "url": "https://www.cbinsights.com/research/ceo-interview-asuene/"
+        }
+      ]
+    },
+    {
+      "cluster_id": "biz_cluster_1a40c0294a4e",
+      "thesis": "Business-school and consulting evidence strengthens the trust layer behind Yuanli IP claims.",
+      "lane": "authority_trust",
+      "signal_ids": [
+        "biz_69eb1c3c7a62",
+        "biz_b3e5bda5b6c6",
+        "biz_50c18be5cf74"
       ],
       "source_count": 1,
       "importance_score": 40,
       "confidence": "watch",
       "yuanli_mapping": [
+        "ftf_trust",
         "yuanli_asset",
-        "yuanli_startup",
-        "profit_container"
+        "yuanli_startup"
       ],
-      "why_it_matters": "2 English evidence items from 1 sources connect this pattern to Yuanli IP.",
+      "why_it_matters": "3 English evidence items from 1 sources connect this pattern to Yuanli IP.",
       "counter_evidence": "See counter_signal cluster for adoption, ROI, and trust risks.",
-      "recommended_action": "Turn the strongest case into a Yuanli OPC teaching module with leverage, distribution, and monetization explicitly mapped.",
+      "recommended_action": "Use these authority-backed signals as FTF proof points before making public claims.",
       "evidence_refs": [
-        "biz_0221d911d40d",
-        "biz_7e5e9a75867c"
+        "biz_69eb1c3c7a62",
+        "biz_b3e5bda5b6c6",
+        "biz_50c18be5cf74"
       ],
       "top_sources": [
         {
-          "source": "Indie Hackers",
-          "title": "I built the product. Now I’m questioning whether users will build the habit.",
-          "url": "https://www.indiehackers.com/post/i-built-the-product-now-i-m-questioning-whether-users-will-build-the-habit-8a6682dba3"
+          "source": "MIT Sloan Management Review",
+          "title": "Three Things to Know About Customer Resistance to AI",
+          "url": "https://sloanreview.mit.edu/article/three-things-to-know-about-customer-resistance-to-ai/"
         },
         {
-          "source": "Indie Hackers",
-          "title": "Tweak — client website feedback that goes straight to your AI coding agent",
-          "url": "https://www.indiehackers.com/post/tweak-client-website-feedback-that-goes-straight-to-your-ai-coding-agent-b3a45d6efc"
+          "source": "MIT Sloan Management Review",
+          "title": "A Compelling Story Can Disarm Even a Skeptical Negotiator",
+          "url": "https://sloanreview.mit.edu/article/a-compelling-story-can-disarm-even-a-skeptical-negotiator/"
+        },
+        {
+          "source": "MIT Sloan Management Review",
+          "title": "Why Employees With Working-Class Roots Are Better at Getting Their Ideas Heard",
+          "url": "https://sloanreview.mit.edu/article/why-employees-with-working-class-roots-are-better-at-getting-their-ideas-heard/"
         }
       ]
     }
