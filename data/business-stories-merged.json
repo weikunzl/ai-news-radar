@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-01T12:05:31.427656Z",
+  "generated_at": "2026-09-01T16:27:03.389874Z",
   "clusters": [
     {
-      "cluster_id": "biz_cluster_42e5a39d0a9f",
+      "cluster_id": "biz_cluster_3836cb8de4c6",
       "thesis": "Founder stories provide the most reusable proof layer for Yuanli IP trust-building.",
       "lane": "founder_case",
       "signal_ids": [
@@ -10,23 +10,22 @@
         "biz_f97bae42c3ee",
         "biz_2b74eecc45ba",
         "biz_b366b95f2db0",
-        "biz_965b270435aa",
-        "biz_236d6d468767",
+        "biz_18642bc2ba50",
+        "biz_3d38679afbe7",
         "biz_3ba1a8c50640",
         "biz_b9e514dd002f",
         "biz_358bb716c664",
-        "biz_d13a8c0f4701",
-        "biz_ac267e830f83"
+        "biz_d13a8c0f4701"
       ],
-      "source_count": 2,
-      "importance_score": 57,
-      "confidence": "medium",
+      "source_count": 1,
+      "importance_score": 54,
+      "confidence": "watch",
       "yuanli_mapping": [
         "ftf_trust",
         "yuanli_asset",
         "wealth_flywheel"
       ],
-      "why_it_matters": "11 English evidence items from 2 sources connect this pattern to Yuanli IP.",
+      "why_it_matters": "10 English evidence items from 1 sources connect this pattern to Yuanli IP.",
       "counter_evidence": "See counter_signal cluster for adoption, ROI, and trust risks.",
       "recommended_action": "Convert high-score founder cases into FTF credible story assets.",
       "evidence_refs": [
@@ -34,7 +33,7 @@
         "biz_f97bae42c3ee",
         "biz_2b74eecc45ba",
         "biz_b366b95f2db0",
-        "biz_965b270435aa"
+        "biz_18642bc2ba50"
       ],
       "top_sources": [
         {
@@ -59,8 +58,51 @@
         },
         {
           "source": "CB Insights",
-          "title": "CEO Interview: Asuene",
-          "url": "https://www.cbinsights.com/research/ceo-interview-asuene/"
+          "title": "CEO Interview: FurtherAI",
+          "url": "https://www.cbinsights.com/research/ceo-interview-furtherai/"
+        }
+      ]
+    },
+    {
+      "cluster_id": "biz_cluster_069bcad94545",
+      "thesis": "Business-school and consulting evidence strengthens the trust layer behind Yuanli IP claims.",
+      "lane": "authority_trust",
+      "signal_ids": [
+        "biz_2687ce561573",
+        "biz_3e117e25d3c7",
+        "biz_663257bd8c1e"
+      ],
+      "source_count": 2,
+      "importance_score": 45,
+      "confidence": "medium",
+      "yuanli_mapping": [
+        "ftf_trust",
+        "yuanli_asset",
+        "yuanli_startup"
+      ],
+      "why_it_matters": "3 English evidence items from 2 sources connect this pattern to Yuanli IP.",
+      "counter_evidence": "See counter_signal cluster for adoption, ROI, and trust risks.",
+      "recommended_action": "Use these authority-backed signals as FTF proof points before making public claims.",
+      "evidence_refs": [
+        "biz_2687ce561573",
+        "biz_3e117e25d3c7",
+        "biz_663257bd8c1e"
+      ],
+      "top_sources": [
+        {
+          "source": "MIT Sloan Management Review",
+          "title": "﻿How Leadership Anxiety Derails Transformation",
+          "url": "https://sloanreview.mit.edu/article/how-leadership-anxiety-derails-transformation/"
+        },
+        {
+          "source": "MIT Sloan Management Review",
+          "title": "What Kind of Chief Purpose Officer Does Your Company Need?",
+          "url": "https://sloanreview.mit.edu/article/what-kind-of-chief-purpose-officer-does-your-company-need/"
+        },
+        {
+          "source": "Harvard Business Review",
+          "title": "Middle Managers Will Make or Break AI Adoption",
+          "url": "https://hbr.org/2026/09/middle-managers-will-make-or-break-ai-adoption"
         }
       ]
     },
@@ -72,7 +114,7 @@
         "biz_e77974ba381e"
       ],
       "source_count": 1,
-      "importance_score": 46,
+      "importance_score": 45,
       "confidence": "watch",
       "yuanli_mapping": [
         "yuanli_asset",
