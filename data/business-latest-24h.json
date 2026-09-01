@@ -1,78 +1,539 @@
 {
-  "generated_at": "2026-08-31T01:42:43.152873Z",
+  "generated_at": "2026-09-01T00:51:05.446395Z",
   "window_hours": 24,
   "items": [
     {
-      "signal_id": "biz_0221d911d40d",
-      "title": "I built the product. Now I’m questioning whether users will build the habit.",
-      "url": "https://www.indiehackers.com/post/i-built-the-product-now-i-m-questioning-whether-users-will-build-the-habit-8a6682dba3",
-      "source_id": "indie_hackers",
-      "source_name": "Indie Hackers",
-      "published_at": "2026-08-30T15:37:51.204000Z",
-      "captured_at": "2026-08-31T01:42:43.152873Z",
-      "lane": "opc",
+      "signal_id": "biz_fe9dddf32002",
+      "title": "Executive Interview: Quantifeed",
+      "url": "https://www.cbinsights.com/research/executive-interview-quantifeed/",
+      "source_id": "cbinsights",
+      "source_name": "CB Insights",
+      "published_at": "2026-08-31T22:04:29Z",
+      "captured_at": "2026-09-01T00:51:05.446395Z",
+      "lane": "startup_vc",
       "entities": [
-        "Indie Hackers",
-        "Now I"
+        "CB Insights",
+        "Executive Interview",
+        "Quantifeed"
+      ],
+      "business_model_tags": [
+        "Founder Case"
+      ],
+      "yuanli_tags": [
+        "yuanli_asset",
+        "yuanli_startup",
+        "yuanli_os",
+        "ftf_trust"
+      ],
+      "opc_fit_score": 0,
+      "case_concreteness_score": 15,
+      "total_score": 56,
+      "score_breakdown": {
+        "source_authority": 16,
+        "yuanli_relevance": 12,
+        "business_model_value": 5,
+        "case_concreteness": 15,
+        "opc_fit": 0,
+        "freshness": 8,
+        "counter_signal_value": 0
+      },
+      "summary": "Ross Milward, Co-founder & CTO at Quantifeed, tells CB Insights how they see Asia’s evolving innovation ecosystem. How has Asia’s innovation ecosystem evolved over the past decade? Over the past decade, Asia’s wealthtech... Tags: Founder Case.",
+      "timestamp_basis": "feed_published",
+      "transport_mode": "feed"
+    },
+    {
+      "signal_id": "biz_f97bae42c3ee",
+      "title": "Executive Interview: Arya.ag",
+      "url": "https://www.cbinsights.com/research/executive-interview-arya-ag/",
+      "source_id": "cbinsights",
+      "source_name": "CB Insights",
+      "published_at": "2026-08-31T22:00:38Z",
+      "captured_at": "2026-09-01T00:51:05.446395Z",
+      "lane": "startup_vc",
+      "entities": [
+        "CB Insights",
+        "Executive Interview",
+        "Arya.ag"
+      ],
+      "business_model_tags": [
+        "Founder Case"
+      ],
+      "yuanli_tags": [
+        "yuanli_startup",
+        "yuanli_os",
+        "ftf_trust"
+      ],
+      "opc_fit_score": 0,
+      "case_concreteness_score": 15,
+      "total_score": 53,
+      "score_breakdown": {
+        "source_authority": 16,
+        "yuanli_relevance": 9,
+        "business_model_value": 5,
+        "case_concreteness": 15,
+        "opc_fit": 0,
+        "freshness": 8,
+        "counter_signal_value": 0
+      },
+      "summary": "Anand Chandra, Co-founder & Executive Director at Arya, tells CB Insights how they see Asia’s evolving innovation ecosystem. How has Asia’s innovation ecosystem evolved over the past decade? Asia’s innovation ecosystem h... Tags: Founder Case.",
+      "timestamp_basis": "feed_published",
+      "transport_mode": "feed"
+    },
+    {
+      "signal_id": "biz_2b74eecc45ba",
+      "title": "CEO Interview: Oxtak",
+      "url": "https://www.cbinsights.com/research/ceo-interview-oxtak/",
+      "source_id": "cbinsights",
+      "source_name": "CB Insights",
+      "published_at": "2026-08-31T22:00:19Z",
+      "captured_at": "2026-09-01T00:51:05.446395Z",
+      "lane": "startup_vc",
+      "entities": [
+        "CB Insights",
+        "CEO Interview",
+        "Oxtak"
+      ],
+      "business_model_tags": [
+        "Founder Case"
+      ],
+      "yuanli_tags": [
+        "yuanli_startup",
+        "yuanli_os",
+        "ftf_trust"
+      ],
+      "opc_fit_score": 0,
+      "case_concreteness_score": 15,
+      "total_score": 53,
+      "score_breakdown": {
+        "source_authority": 16,
+        "yuanli_relevance": 9,
+        "business_model_value": 5,
+        "case_concreteness": 15,
+        "opc_fit": 0,
+        "freshness": 8,
+        "counter_signal_value": 0
+      },
+      "summary": "Laurent Le Pen, Founder & CEO at Oxtak, tells CB Insights how they view the market and how the innovation ecosystem in Asia is rapidly changing their business. How has Asia’s innovation ecosystem evolved over the past de... Tags: Founder Case.",
+      "timestamp_basis": "feed_published",
+      "transport_mode": "feed"
+    },
+    {
+      "signal_id": "biz_b366b95f2db0",
+      "title": "CEO Interview: AIVI Technologies",
+      "url": "https://www.cbinsights.com/research/ceo-interview-aivi-technologies/",
+      "source_id": "cbinsights",
+      "source_name": "CB Insights",
+      "published_at": "2026-08-31T22:00:15Z",
+      "captured_at": "2026-09-01T00:51:05.446395Z",
+      "lane": "startup_vc",
+      "entities": [
+        "CB Insights",
+        "CEO Interview",
+        "AIVI Technologies"
+      ],
+      "business_model_tags": [
+        "Founder Case"
+      ],
+      "yuanli_tags": [
+        "yuanli_startup",
+        "yuanli_os",
+        "ftf_trust"
+      ],
+      "opc_fit_score": 0,
+      "case_concreteness_score": 15,
+      "total_score": 53,
+      "score_breakdown": {
+        "source_authority": 16,
+        "yuanli_relevance": 9,
+        "business_model_value": 5,
+        "case_concreteness": 15,
+        "opc_fit": 0,
+        "freshness": 8,
+        "counter_signal_value": 0
+      },
+      "summary": "Chao He, Founder & CEO at AIVI, tells CB Insights how they see Asia’s evolving innovation ecosystem. How has Asia’s innovation ecosystem evolved over the past decade? We’ve seen a drastic change. Ten years ago, the narra... Tags: Founder Case.",
+      "timestamp_basis": "feed_published",
+      "transport_mode": "feed"
+    },
+    {
+      "signal_id": "biz_965b270435aa",
+      "title": "CEO Interview: Asuene",
+      "url": "https://www.cbinsights.com/research/ceo-interview-asuene/",
+      "source_id": "cbinsights",
+      "source_name": "CB Insights",
+      "published_at": "2026-08-31T21:31:40Z",
+      "captured_at": "2026-09-01T00:51:05.446395Z",
+      "lane": "startup_vc",
+      "entities": [
+        "CB Insights",
+        "CEO Interview",
+        "Asuene"
+      ],
+      "business_model_tags": [
+        "Founder Case"
+      ],
+      "yuanli_tags": [
+        "yuanli_startup",
+        "yuanli_os",
+        "ftf_trust"
+      ],
+      "opc_fit_score": 0,
+      "case_concreteness_score": 15,
+      "total_score": 53,
+      "score_breakdown": {
+        "source_authority": 16,
+        "yuanli_relevance": 9,
+        "business_model_value": 5,
+        "case_concreteness": 15,
+        "opc_fit": 0,
+        "freshness": 8,
+        "counter_signal_value": 0
+      },
+      "summary": "Kohei Nishiwada, Founder & CEO at Asuene, tells CB Insights how he views Asia’s innovation ecosystem, China’s role within it, and where Hong Kong fits in. How has Asia’s innovation ecosystem evolved over the past decade?... Tags: Founder Case.",
+      "timestamp_basis": "feed_published",
+      "transport_mode": "feed"
+    },
+    {
+      "signal_id": "biz_69eb1c3c7a62",
+      "title": "Three Things to Know About Customer Resistance to AI",
+      "url": "https://sloanreview.mit.edu/article/three-things-to-know-about-customer-resistance-to-ai/",
+      "source_id": "mit_smr",
+      "source_name": "MIT Sloan Management Review",
+      "published_at": "2026-08-31T11:00:06Z",
+      "captured_at": "2026-09-01T00:51:05.446395Z",
+      "lane": "authority",
+      "entities": [
+        "MIT Sloan Management Review",
+        "Three Things",
+        "Know About Customer",
+        "Resistance"
       ],
       "business_model_tags": [
         "Founder Case",
-        "OPC"
+        "Enterprise AI Workflow",
+        "AI Business Model Innovation"
       ],
       "yuanli_tags": [
-        "yuanli_startup"
+        "yuanli_startup",
+        "yuanli_os",
+        "profit_container"
       ],
-      "opc_fit_score": 5,
+      "opc_fit_score": 0,
       "case_concreteness_score": 8,
-      "total_score": 40,
+      "total_score": 50,
       "score_breakdown": {
-        "source_authority": 16,
-        "yuanli_relevance": 0,
-        "business_model_value": 3,
+        "source_authority": 20,
+        "yuanli_relevance": 9,
+        "business_model_value": 6,
         "case_concreteness": 8,
-        "opc_fit": 5,
-        "freshness": 8,
+        "opc_fit": 0,
+        "freshness": 7,
         "counter_signal_value": 0
       },
-      "summary": "I built the product. Now I’m questioning whether users will build the habit. Tags: Founder Case, OPC.",
-      "timestamp_basis": "page_structured_time",
-      "transport_mode": "page_detail"
+      "summary": "Microsoft Copilot/Unsplash Companies are betting that AI chatbots will deliver faster and cheaper customer service. But if you’ve ever tried to circumvent a chatbot and get to a human, you’re not alone. Here’s what three... Tags: Founder Case, Enterprise AI Workflow, AI Business Model Innovation.",
+      "timestamp_basis": "feed_published",
+      "transport_mode": "feed"
     },
     {
-      "signal_id": "biz_7e5e9a75867c",
-      "title": "Tweak — client website feedback that goes straight to your AI coding agent",
-      "url": "https://www.indiehackers.com/post/tweak-client-website-feedback-that-goes-straight-to-your-ai-coding-agent-b3a45d6efc",
-      "source_id": "indie_hackers",
-      "source_name": "Indie Hackers",
-      "published_at": "2026-08-30T15:25:55.237000Z",
-      "captured_at": "2026-08-31T01:42:43.152873Z",
-      "lane": "opc",
+      "signal_id": "biz_236d6d468767",
+      "title": "Expanding the a16z Growth Fund and Platform | Andreessen Horowitz",
+      "url": "https://a16z.com/expanding-the-a16z-growth-fund-and-platform/",
+      "source_id": "a16z",
+      "source_name": "a16z",
+      "published_at": "2026-08-31T14:40:08Z",
+      "captured_at": "2026-09-01T00:51:05.446395Z",
+      "lane": "startup_vc",
       "entities": [
-        "Indie Hackers",
-        "Tweak"
+        "a16z",
+        "Expanding",
+        "Growth Fund",
+        "Platform",
+        "Andreessen Horowitz"
       ],
       "business_model_tags": [
-        "Enterprise AI Workflow",
-        "OPC"
+        "AI Business Model Innovation",
+        "Founder Case"
       ],
       "yuanli_tags": [
-        "yuanli_os"
+        "wealth_flywheel"
       ],
-      "opc_fit_score": 5,
-      "case_concreteness_score": 0,
-      "total_score": 35,
+      "opc_fit_score": 0,
+      "case_concreteness_score": 8,
+      "total_score": 44,
       "score_breakdown": {
-        "source_authority": 16,
+        "source_authority": 20,
         "yuanli_relevance": 3,
-        "business_model_value": 3,
-        "case_concreteness": 0,
-        "opc_fit": 5,
+        "business_model_value": 5,
+        "case_concreteness": 8,
+        "opc_fit": 0,
         "freshness": 8,
         "counter_signal_value": 0
       },
-      "summary": "Tweak — client website feedback that goes straight to your AI coding agent Tags: Enterprise AI Workflow, OPC.",
+      "summary": "Expanding the a16z Growth Fund and Platform | Andreessen Horowitz Tags: AI Business Model Innovation, Founder Case.",
       "timestamp_basis": "page_structured_time",
-      "transport_mode": "page_detail"
+      "transport_mode": "sitemap_page"
+    },
+    {
+      "signal_id": "biz_3ba1a8c50640",
+      "title": "Executive Interview: Re-Teck",
+      "url": "https://www.cbinsights.com/research/executive-interview-re-teck/",
+      "source_id": "cbinsights",
+      "source_name": "CB Insights",
+      "published_at": "2026-08-31T22:22:09Z",
+      "captured_at": "2026-09-01T00:51:05.446395Z",
+      "lane": "startup_vc",
+      "entities": [
+        "CB Insights",
+        "Executive Interview",
+        "Re-Teck"
+      ],
+      "business_model_tags": [
+        "Founder Case"
+      ],
+      "yuanli_tags": [
+        "yuanli_os",
+        "ftf_trust"
+      ],
+      "opc_fit_score": 0,
+      "case_concreteness_score": 8,
+      "total_score": 41,
+      "score_breakdown": {
+        "source_authority": 16,
+        "yuanli_relevance": 6,
+        "business_model_value": 3,
+        "case_concreteness": 8,
+        "opc_fit": 0,
+        "freshness": 8,
+        "counter_signal_value": 0
+      },
+      "summary": "Linda Li, Chief Strategy Officer at Re-Teck, tells CB Insights how he views Asia’s innovation ecosystem, China’s role within it, and where Hong Kong fits in. How has Asia’s innovation ecosystem evolved over the past deca... Tags: Founder Case.",
+      "timestamp_basis": "feed_published",
+      "transport_mode": "feed"
+    },
+    {
+      "signal_id": "biz_b9e514dd002f",
+      "title": "CEO Interview: Pantheon Lab",
+      "url": "https://www.cbinsights.com/research/ceo-interview-pantheon-lab/",
+      "source_id": "cbinsights",
+      "source_name": "CB Insights",
+      "published_at": "2026-08-31T22:17:21Z",
+      "captured_at": "2026-09-01T00:51:05.446395Z",
+      "lane": "startup_vc",
+      "entities": [
+        "CB Insights",
+        "CEO Interview",
+        "Pantheon Lab"
+      ],
+      "business_model_tags": [
+        "Founder Case"
+      ],
+      "yuanli_tags": [
+        "yuanli_os",
+        "ftf_trust"
+      ],
+      "opc_fit_score": 0,
+      "case_concreteness_score": 8,
+      "total_score": 41,
+      "score_breakdown": {
+        "source_authority": 16,
+        "yuanli_relevance": 6,
+        "business_model_value": 3,
+        "case_concreteness": 8,
+        "opc_fit": 0,
+        "freshness": 8,
+        "counter_signal_value": 0
+      },
+      "summary": "Ivan Lau, CEO at Pantheon Lab, tells CB Insights how he views Asia’s innovation ecosystem, China’s role within it, and where Hong Kong fits in. How has Asia’s innovation ecosystem evolved over the past decade? A decade a... Tags: Founder Case.",
+      "timestamp_basis": "feed_published",
+      "transport_mode": "feed"
+    },
+    {
+      "signal_id": "biz_358bb716c664",
+      "title": "Investor Interview: Chainfir Capital",
+      "url": "https://www.cbinsights.com/research/investor-interview-chainfir-capital/",
+      "source_id": "cbinsights",
+      "source_name": "CB Insights",
+      "published_at": "2026-08-31T22:11:45Z",
+      "captured_at": "2026-09-01T00:51:05.446395Z",
+      "lane": "startup_vc",
+      "entities": [
+        "CB Insights",
+        "Investor Interview",
+        "Chainfir Capital"
+      ],
+      "business_model_tags": [
+        "Founder Case"
+      ],
+      "yuanli_tags": [
+        "yuanli_os",
+        "ftf_trust"
+      ],
+      "opc_fit_score": 0,
+      "case_concreteness_score": 8,
+      "total_score": 41,
+      "score_breakdown": {
+        "source_authority": 16,
+        "yuanli_relevance": 6,
+        "business_model_value": 3,
+        "case_concreteness": 8,
+        "opc_fit": 0,
+        "freshness": 8,
+        "counter_signal_value": 0
+      },
+      "summary": "Brian Tian, CEO of Chainfir Capital, tells CB Insights how he views Asia’s innovation ecosystem, China’s role within it, and where Hong Kong fits in. How has Asia’s innovation ecosystem evolved over the past decade? Over... Tags: Founder Case.",
+      "timestamp_basis": "feed_published",
+      "transport_mode": "feed"
+    },
+    {
+      "signal_id": "biz_d13a8c0f4701",
+      "title": "Executive Interview: Altuva Group",
+      "url": "https://www.cbinsights.com/research/executive-interview-altuva-group/",
+      "source_id": "cbinsights",
+      "source_name": "CB Insights",
+      "published_at": "2026-08-31T22:00:01Z",
+      "captured_at": "2026-09-01T00:51:05.446395Z",
+      "lane": "startup_vc",
+      "entities": [
+        "CB Insights",
+        "Executive Interview",
+        "Altuva Group"
+      ],
+      "business_model_tags": [
+        "Founder Case"
+      ],
+      "yuanli_tags": [
+        "yuanli_os",
+        "ftf_trust"
+      ],
+      "opc_fit_score": 0,
+      "case_concreteness_score": 8,
+      "total_score": 41,
+      "score_breakdown": {
+        "source_authority": 16,
+        "yuanli_relevance": 6,
+        "business_model_value": 3,
+        "case_concreteness": 8,
+        "opc_fit": 0,
+        "freshness": 8,
+        "counter_signal_value": 0
+      },
+      "summary": "William Wu, Managing Director at Altuva Group, tells CB Insights how he views Asia’s innovation ecosystem, China’s role within it, and where Hong Kong fits in. How has Asia’s innovation ecosystem evolved over the past de... Tags: Founder Case.",
+      "timestamp_basis": "feed_published",
+      "transport_mode": "feed"
+    },
+    {
+      "signal_id": "biz_ac267e830f83",
+      "title": "CEO Interview: Wadiz",
+      "url": "https://www.cbinsights.com/research/ceo-interview-wadiz/",
+      "source_id": "cbinsights",
+      "source_name": "CB Insights",
+      "published_at": "2026-08-31T21:04:03Z",
+      "captured_at": "2026-09-01T00:51:05.446395Z",
+      "lane": "startup_vc",
+      "entities": [
+        "CB Insights",
+        "CEO Interview",
+        "Wadiz"
+      ],
+      "business_model_tags": [
+        "Founder Case"
+      ],
+      "yuanli_tags": [
+        "yuanli_os",
+        "ftf_trust"
+      ],
+      "opc_fit_score": 0,
+      "case_concreteness_score": 8,
+      "total_score": 41,
+      "score_breakdown": {
+        "source_authority": 16,
+        "yuanli_relevance": 6,
+        "business_model_value": 3,
+        "case_concreteness": 8,
+        "opc_fit": 0,
+        "freshness": 8,
+        "counter_signal_value": 0
+      },
+      "summary": "David Shin, CEO at Wadiz, tells CB Insights how they see Asia’s evolving innovation ecosystem. How has Asia’s innovation ecosystem evolved over the past decade? Over the past decade, the status of the Asian market has ch... Tags: Founder Case.",
+      "timestamp_basis": "feed_published",
+      "transport_mode": "feed"
+    },
+    {
+      "signal_id": "biz_b3e5bda5b6c6",
+      "title": "A Compelling Story Can Disarm Even a Skeptical Negotiator",
+      "url": "https://sloanreview.mit.edu/article/a-compelling-story-can-disarm-even-a-skeptical-negotiator/",
+      "source_id": "mit_smr",
+      "source_name": "MIT Sloan Management Review",
+      "published_at": "2026-08-31T11:00:41Z",
+      "captured_at": "2026-09-01T00:51:05.446395Z",
+      "lane": "authority",
+      "entities": [
+        "MIT Sloan Management Review",
+        "A Compelling Story",
+        "Can Disarm Even",
+        "Skeptical Negotiator"
+      ],
+      "business_model_tags": [
+        "AI Business Model Innovation"
+      ],
+      "yuanli_tags": [
+        "yuanli_startup",
+        "ftf_trust"
+      ],
+      "opc_fit_score": 0,
+      "case_concreteness_score": 0,
+      "total_score": 33,
+      "score_breakdown": {
+        "source_authority": 20,
+        "yuanli_relevance": 6,
+        "business_model_value": 0,
+        "case_concreteness": 0,
+        "opc_fit": 0,
+        "freshness": 7,
+        "counter_signal_value": 0
+      },
+      "summary": "Ivan Diaz/Unsplash Human beings are not good at separating fact from fiction. But surely hard-nosed B2B professionals are different? Our research suggests otherwise. In two experiments with 622 B2B sales professionals, w... Tags: AI Business Model Innovation.",
+      "timestamp_basis": "feed_published",
+      "transport_mode": "feed"
+    },
+    {
+      "signal_id": "biz_50c18be5cf74",
+      "title": "Why Employees With Working-Class Roots Are Better at Getting Their Ideas Heard",
+      "url": "https://sloanreview.mit.edu/article/why-employees-with-working-class-roots-are-better-at-getting-their-ideas-heard/",
+      "source_id": "mit_smr",
+      "source_name": "MIT Sloan Management Review",
+      "published_at": "2026-08-31T11:00:02Z",
+      "captured_at": "2026-09-01T00:51:05.446395Z",
+      "lane": "authority",
+      "entities": [
+        "MIT Sloan Management Review",
+        "Why Employees With",
+        "Working-Class Roots Are",
+        "Better",
+        "Getting Their Ideas",
+        "Heard"
+      ],
+      "business_model_tags": [
+        "AI Business Model Innovation"
+      ],
+      "yuanli_tags": [
+        "ftf_trust"
+      ],
+      "opc_fit_score": 0,
+      "case_concreteness_score": 0,
+      "total_score": 32,
+      "score_breakdown": {
+        "source_authority": 20,
+        "yuanli_relevance": 5,
+        "business_model_value": 0,
+        "case_concreteness": 0,
+        "opc_fit": 0,
+        "freshness": 7,
+        "counter_signal_value": 0
+      },
+      "summary": "Nimble Made/Unsplash Getting manager buy-in for a good idea is harder than it should be. Our research points to a communication style that reliably breaks through this wall — and that is disproportionately exhibited by w... Tags: AI Business Model Innovation.",
+      "timestamp_basis": "feed_published",
+      "transport_mode": "feed"
     }
   ]
 }
