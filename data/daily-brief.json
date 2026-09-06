@@ -1,951 +1,1031 @@
 {
-  "generated_at": "2026-09-01T11:58:16.944560Z",
+  "generated_at": "2026-09-06T05:38:20.334158Z",
   "window_hours": 24,
-  "total_items": 20,
+  "total_items": 15,
   "items": [
     {
-      "story_id": "story_91992ed9f82d",
-      "title": "Codex CLI 0.152.0",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "cc6461cd095bbff5eb1ec161feb53ac7bd933172",
-          "title": "Codex CLI 0.152.0",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-01T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI Codex Changelog"
-      ],
-      "items": [
-        {
-          "id": "cc6461cd095bbff5eb1ec161feb53ac7bd933172",
-          "title": "Codex CLI 0.152.0",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-01T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8374,
-      "importance": 0.8374,
-      "importance_score": 0.8374,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.8412,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-01T00:00:00Z",
-      "latest_at": "2026-09-01T00:00:00Z",
-      "primary_item": {
-        "id": "cc6461cd095bbff5eb1ec161feb53ac7bd933172",
-        "title": "Codex CLI 0.152.0",
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_e83ff5faec70",
-      "title": "Anthropic 复盘 Claude 模型越权访问事件并公布安全与对齐改进措施",
-      "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
-      "primary_url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
-      "source": "Anthropic：Newsroom（网页）",
+      "story_id": "story_1cb48b3f4151",
+      "title": "OpenAI 承认 wiki 事件，称正在制定更透明的事故披露框架",
+      "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure",
+      "primary_url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure",
+      "source": "TechCrunch：AI（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "482d69095480e9a3b9ee9bdf12b2a15f2bf319c6",
-          "title": "Anthropic 复盘 Claude 模型越权访问事件并公布安全与对齐改进措施",
-          "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
-          "source": "Anthropic：Newsroom（网页）",
+          "id": "f4630bc8d65b5b820902865dd28361dec0883fba",
+          "title": "OpenAI 承认 wiki 事件，称正在制定更透明的事故披露框架",
+          "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure",
+          "source": "TechCrunch：AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-31T23:00:05.386000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Anthropic：Newsroom（网页）"
-      ],
-      "items": [
-        {
-          "id": "482d69095480e9a3b9ee9bdf12b2a15f2bf319c6",
-          "title": "Anthropic 复盘 Claude 模型越权访问事件并公布安全与对齐改进措施",
-          "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
-          "source": "Anthropic：Newsroom（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-31T23:00:05.386000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7609,
-      "importance": 0.7609,
-      "importance_score": 0.7609,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.8,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8292,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-31T23:00:05.386000Z",
-      "latest_at": "2026-08-31T23:00:05.386000Z",
-      "primary_item": {
-        "id": "482d69095480e9a3b9ee9bdf12b2a15f2bf319c6",
-        "title": "Anthropic 复盘 Claude 模型越权访问事件并公布安全与对齐改进措施",
-        "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
-        "source": "Anthropic：Newsroom（网页）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_776339958332",
-      "title": "Anthropic 研究：训练一个错位的奖励寻求者模型",
-      "url": "https://x.com/AnthropicAI/status/2094577944056430865",
-      "primary_url": "https://x.com/AnthropicAI/status/2094577944056430865",
-      "source": "X：Anthropic (@AnthropicAI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5c4b3fed1f86f047d3dbbd88f0a4b2aa2ec28bee",
-          "title": "Anthropic 研究：训练一个错位的奖励寻求者模型",
-          "url": "https://x.com/AnthropicAI/status/2094577944056430865",
-          "source": "X：Anthropic (@AnthropicAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-01T00:07:51Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Anthropic (@AnthropicAI)"
-      ],
-      "items": [
-        {
-          "id": "5c4b3fed1f86f047d3dbbd88f0a4b2aa2ec28bee",
-          "title": "Anthropic 研究：训练一个错位的奖励寻求者模型",
-          "url": "https://x.com/AnthropicAI/status/2094577944056430865",
-          "source": "X：Anthropic (@AnthropicAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-01T00:07:51Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7423,
-      "importance": 0.7423,
-      "importance_score": 0.7423,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8428,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-01T00:07:51Z",
-      "latest_at": "2026-09-01T00:07:51Z",
-      "primary_item": {
-        "id": "5c4b3fed1f86f047d3dbbd88f0a4b2aa2ec28bee",
-        "title": "Anthropic 研究：训练一个错位的奖励寻求者模型",
-        "url": "https://x.com/AnthropicAI/status/2094577944056430865",
-        "source": "X：Anthropic (@AnthropicAI)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_46f5917a5ac0",
-      "title": "Anthropic 发安全警报：信息窃取木马盗走部分用户 Claude 登录会话",
-      "url": "https://www.aibase.com/news/30730",
-      "primary_url": "https://www.aibase.com/news/30730",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "2d84a1a39345577f8c5bdba4f81c293fa5f4539a",
-          "title": "Anthropic 发安全警报：信息窃取木马盗走部分用户 Claude 登录会话",
-          "url": "https://www.aibase.com/news/30730",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-31T17:47:07.324356Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "2d84a1a39345577f8c5bdba4f81c293fa5f4539a",
-          "title": "Anthropic 发安全警报：信息窃取木马盗走部分用户 Claude 登录会话",
-          "url": "https://www.aibase.com/news/30730",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-31T17:47:07.324356Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.726,
-      "importance": 0.726,
-      "importance_score": 0.726,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.769,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-31T17:47:07.324356Z",
-      "latest_at": "2026-08-31T17:47:07.324356Z",
-      "primary_item": {
-        "id": "2d84a1a39345577f8c5bdba4f81c293fa5f4539a",
-        "title": "Anthropic 发安全警报：信息窃取木马盗走部分用户 Claude 登录会话",
-        "url": "https://www.aibase.com/news/30730",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_4c6d7019ef5d",
-      "title": "单月飙升超92%！MiniMax交出亮眼半年报，总市值强势回升至1249.56亿港元",
-      "url": "https://www.aibase.com/news/30726",
-      "primary_url": "https://www.aibase.com/news/30726",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "5aa0f0e804692ccf6580c4db292df4f4f7cd1b36",
-          "title": "单月飙升超92%！MiniMax交出亮眼半年报，总市值强势回升至1249.56亿港元",
-          "url": "https://www.aibase.com/news/30726",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-31T16:47:07.324356Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "5aa0f0e804692ccf6580c4db292df4f4f7cd1b36",
-          "title": "单月飙升超92%！MiniMax交出亮眼半年报，总市值强势回升至1249.56亿港元",
-          "url": "https://www.aibase.com/news/30726",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-31T16:47:07.324356Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.724,
-      "importance": 0.724,
-      "importance_score": 0.724,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.758,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-31T16:47:07.324356Z",
-      "latest_at": "2026-08-31T16:47:07.324356Z",
-      "primary_item": {
-        "id": "5aa0f0e804692ccf6580c4db292df4f4f7cd1b36",
-        "title": "单月飙升超92%！MiniMax交出亮眼半年报，总市值强势回升至1249.56亿港元",
-        "url": "https://www.aibase.com/news/30726",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_b7f87ab1c827",
-      "title": "腾讯大模型迭代按下“加速键”，混元Hy4预览版参数规模倍增且大摩看高至550港元",
-      "url": "https://www.aibase.com/news/30725",
-      "primary_url": "https://www.aibase.com/news/30725",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "863d10f0ba8275b8fad96979cfc32b7c01e1ebe2",
-          "title": "腾讯大模型迭代按下“加速键”，混元Hy4预览版参数规模倍增且大摩看高至550港元",
-          "url": "https://www.aibase.com/news/30725",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-31T16:47:07.324356Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "863d10f0ba8275b8fad96979cfc32b7c01e1ebe2",
-          "title": "腾讯大模型迭代按下“加速键”，混元Hy4预览版参数规模倍增且大摩看高至550港元",
-          "url": "https://www.aibase.com/news/30725",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-31T16:47:07.324356Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.724,
-      "importance": 0.724,
-      "importance_score": 0.724,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.758,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-31T16:47:07.324356Z",
-      "latest_at": "2026-08-31T16:47:07.324356Z",
-      "primary_item": {
-        "id": "863d10f0ba8275b8fad96979cfc32b7c01e1ebe2",
-        "title": "腾讯大模型迭代按下“加速键”，混元Hy4预览版参数规模倍增且大摩看高至550港元",
-        "url": "https://www.aibase.com/news/30725",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_3878568af382",
-      "title": "英国监管机构警示：医疗 AI 转录工具频繁出错，正在威胁患者安全",
-      "url": "https://www.aibase.com/news/30727",
-      "primary_url": "https://www.aibase.com/news/30727",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "5dcc3af4be9731086fe179575c44962e35e10c9d",
-          "title": "英国监管机构警示：医疗 AI 转录工具频繁出错，正在威胁患者安全",
-          "url": "https://www.aibase.com/news/30727",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-31T16:47:07.324356Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "5dcc3af4be9731086fe179575c44962e35e10c9d",
-          "title": "英国监管机构警示：医疗 AI 转录工具频繁出错，正在威胁患者安全",
-          "url": "https://www.aibase.com/news/30727",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-31T16:47:07.324356Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.724,
-      "importance": 0.724,
-      "importance_score": 0.724,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.758,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-31T16:47:07.324356Z",
-      "latest_at": "2026-08-31T16:47:07.324356Z",
-      "primary_item": {
-        "id": "5dcc3af4be9731086fe179575c44962e35e10c9d",
-        "title": "英国监管机构警示：医疗 AI 转录工具频繁出错，正在威胁患者安全",
-        "url": "https://www.aibase.com/news/30727",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_dadf3bd24ccf",
-      "title": "豆包辟谣“建议煮拖鞋”:系博主诱导模型摆拍，非真实回复",
-      "url": "https://www.aibase.com/news/30728",
-      "primary_url": "https://www.aibase.com/news/30728",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "1b0ba04e595ae87af4620134a940b64b363bc0db",
-          "title": "豆包辟谣“建议煮拖鞋”:系博主诱导模型摆拍，非真实回复",
-          "url": "https://www.aibase.com/news/30728",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-31T16:47:07.324356Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "1b0ba04e595ae87af4620134a940b64b363bc0db",
-          "title": "豆包辟谣“建议煮拖鞋”:系博主诱导模型摆拍，非真实回复",
-          "url": "https://www.aibase.com/news/30728",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-31T16:47:07.324356Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.724,
-      "importance": 0.724,
-      "importance_score": 0.724,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.758,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-31T16:47:07.324356Z",
-      "latest_at": "2026-08-31T16:47:07.324356Z",
-      "primary_item": {
-        "id": "1b0ba04e595ae87af4620134a940b64b363bc0db",
-        "title": "豆包辟谣“建议煮拖鞋”:系博主诱导模型摆拍，非真实回复",
-        "url": "https://www.aibase.com/news/30728",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_f89f50bc2477",
-      "title": "Claude遭大规模盗号，大批账号被强制注销",
-      "url": "https://www.aibase.com/news/30722",
-      "primary_url": "https://www.aibase.com/news/30722",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "ac3d42e757acdf40ddc5ef4762382e2fe7ac959e",
-          "title": "Claude遭大规模盗号，大批账号被强制注销",
-          "url": "https://www.aibase.com/news/30722",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-31T15:47:07.324356Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "ac3d42e757acdf40ddc5ef4762382e2fe7ac959e",
-          "title": "Claude遭大规模盗号，大批账号被强制注销",
-          "url": "https://www.aibase.com/news/30722",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-31T15:47:07.324356Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7221,
-      "importance": 0.7221,
-      "importance_score": 0.7221,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7471,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-31T15:47:07.324356Z",
-      "latest_at": "2026-08-31T15:47:07.324356Z",
-      "primary_item": {
-        "id": "ac3d42e757acdf40ddc5ef4762382e2fe7ac959e",
-        "title": "Claude遭大规模盗号，大批账号被强制注销",
-        "url": "https://www.aibase.com/news/30722",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_662ad6a9f4e0",
-      "title": "Debian 不会禁止其 Linux 发行版中的人工智能代码 / Debian won&#8217;t ban AI code from its Linux distribution",
-      "url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
-      "primary_url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
-      "source": "The Verge",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "c31cbc534aeee356d5e6e09febb9ce1bd7582231",
-          "title": "Debian 不会禁止其 Linux 发行版中的人工智能代码 / Debian won&#8217;t ban AI code from its Linux distribution",
-          "url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-31T15:34:58Z"
+          "published_at": "2026-09-05T18:05:27Z"
         },
         {
-          "id": "af4e926d239e04b788a903a3bcf33f3bb3867157",
-          "title": "Debian 不会禁止其 Linux 发行版中的人工智能代码 / Debian won’t ban AI code from its Linux distribution",
-          "url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-31T15:34:58Z"
+          "id": "47aaf60fb1df1d8dddce9401a1e5c859e7a9571b",
+          "title": "OpenAI 承认 wiki 事件，称正在制定更透明的事故披露框架 / OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+          "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-05T18:05:27Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "The Verge"
+        "TechCrunch AI",
+        "TechCrunch：AI（RSS）"
       ],
       "items": [
         {
-          "id": "c31cbc534aeee356d5e6e09febb9ce1bd7582231",
-          "title": "Debian 不会禁止其 Linux 发行版中的人工智能代码 / Debian won&#8217;t ban AI code from its Linux distribution",
-          "url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-31T15:34:58Z"
+          "id": "f4630bc8d65b5b820902865dd28361dec0883fba",
+          "title": "OpenAI 承认 wiki 事件，称正在制定更透明的事故披露框架",
+          "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-05T18:05:27Z"
         },
         {
-          "id": "af4e926d239e04b788a903a3bcf33f3bb3867157",
-          "title": "Debian 不会禁止其 Linux 发行版中的人工智能代码 / Debian won’t ban AI code from its Linux distribution",
-          "url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-31T15:34:58Z"
+          "id": "47aaf60fb1df1d8dddce9401a1e5c859e7a9571b",
+          "title": "OpenAI 承认 wiki 事件，称正在制定更透明的事故披露框架 / OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+          "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-05T18:05:27Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5696,
-      "importance": 0.5696,
-      "importance_score": 0.5696,
-      "importance_label": "值得关注",
+      "score": 0.795,
+      "importance": 0.795,
+      "importance_score": 0.795,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.4896,
-        "source_tier": 0.58,
-        "ai_relevance": 0.68,
-        "recency": 0.745,
+        "editorial": 0.82,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8464,
         "story_heat": 0.25
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
-        "multi_source"
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-08-31T15:34:58Z",
-      "latest_at": "2026-08-31T15:34:58Z",
+      "earliest_at": "2026-09-05T18:05:27Z",
+      "latest_at": "2026-09-05T18:05:27Z",
       "primary_item": {
-        "id": "c31cbc534aeee356d5e6e09febb9ce1bd7582231",
-        "title": "Debian 不会禁止其 Linux 发行版中的人工智能代码 / Debian won&#8217;t ban AI code from its Linux distribution",
-        "url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
-        "source": "The Verge",
-        "source_name": "Curated Media"
+        "id": "f4630bc8d65b5b820902865dd28361dec0883fba",
+        "title": "OpenAI 承认 wiki 事件，称正在制定更透明的事故披露框架",
+        "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_06fc64092c57",
-      "title": "人工智能也能让你更快变差",
-      "url": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too",
-      "primary_url": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too",
-      "source": "www.hermit-tech.com",
-      "source_name": "Buzzing",
+      "story_id": "story_ac5a64ceef28",
+      "title": "OpenAI 承认德国 wiki 事件并承诺改革智能体错位事件报告机制",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+      "source": "The Verge：AI（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "2d8bdd448a3b068f4bd6b026675e1d279287f26a",
-          "title": "人工智能也能让你更快变差",
-          "url": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too",
-          "source": "www.hermit-tech.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-01T11:45:30.411000Z"
+          "id": "1a45d4c9bbc56daf07ebb121ef83df67aa80fb67",
+          "title": "OpenAI 承认德国 wiki 事件并承诺改革智能体错位事件报告机制",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-05T11:15:55Z"
         },
         {
-          "id": "cb9073795c3eb91b0d8819872e8dd39a1a8db66e",
-          "title": "人工智能也能让你更快变差 / AI Can Make You Suck Faster Too",
-          "url": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-01T05:32:56Z"
+          "id": "bf56e38204fe5072d81300a4e5630ba736115791",
+          "title": "OpenAI 承认德国 wiki 事件并承诺改革智能体错位事件报告机制 / OpenAI admits to German wiki ‘incident’",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-05T11:15:55Z"
         }
       ],
       "source_count": 2,
+      "source_names": [
+        "The Verge",
+        "The Verge：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "1a45d4c9bbc56daf07ebb121ef83df67aa80fb67",
+          "title": "OpenAI 承认德国 wiki 事件并承诺改革智能体错位事件报告机制",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-05T11:15:55Z"
+        },
+        {
+          "id": "bf56e38204fe5072d81300a4e5630ba736115791",
+          "title": "OpenAI 承认德国 wiki 事件并承诺改革智能体错位事件报告机制 / OpenAI admits to German wiki ‘incident’",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-05T11:15:55Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7867,
+      "importance": 0.7867,
+      "importance_score": 0.7867,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.84,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.767,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-05T11:15:55Z",
+      "latest_at": "2026-09-05T11:15:55Z",
+      "primary_item": {
+        "id": "1a45d4c9bbc56daf07ebb121ef83df67aa80fb67",
+        "title": "OpenAI 承认德国 wiki 事件并承诺改革智能体错位事件报告机制",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+        "source": "The Verge：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_61744e8cf204",
+      "title": "OpenAI 向 Pro、Enterprise 和 Business Premium 用户推出 GPT-6 Astra，消息额度约为 GPT-5.6 Sol 的一半",
+      "url": "https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol",
+      "primary_url": "https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d7f882efa18c123fa7a03ca56f8ffd39e8ecf2fe",
+          "title": "OpenAI 向 Pro、Enterprise 和 Business Premium 用户推出 GPT-6 Astra，消息额度约为 GPT-5.6 Sol 的一半",
+          "url": "https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-05T07:41:03Z"
+        },
+        {
+          "id": "34bb7ac591aae9d385061aa2e2715b26d555eb47",
+          "title": "OpenAI 向 Pro、Enterprise 和 Business Premium 用户推出 GPT-6 Astra，消息额度约为 GPT-5.6 Sol 的一半 / OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol",
+          "url": "https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-05T07:41:03Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Decoder AI News",
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "d7f882efa18c123fa7a03ca56f8ffd39e8ecf2fe",
+          "title": "OpenAI 向 Pro、Enterprise 和 Business Premium 用户推出 GPT-6 Astra，消息额度约为 GPT-5.6 Sol 的一半",
+          "url": "https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-05T07:41:03Z"
+        },
+        {
+          "id": "34bb7ac591aae9d385061aa2e2715b26d555eb47",
+          "title": "OpenAI 向 Pro、Enterprise 和 Business Premium 用户推出 GPT-6 Astra，消息额度约为 GPT-5.6 Sol 的一半 / OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol",
+          "url": "https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-05T07:41:03Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7737,
+      "importance": 0.7737,
+      "importance_score": 0.7737,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.82,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7283,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-05T07:41:03Z",
+      "latest_at": "2026-09-05T07:41:03Z",
+      "primary_item": {
+        "id": "d7f882efa18c123fa7a03ca56f8ffd39e8ecf2fe",
+        "title": "OpenAI 向 Pro、Enterprise 和 Business Premium 用户推出 GPT-6 Astra，消息额度约为 GPT-5.6 Sol 的一半",
+        "url": "https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_8eaa7da6c549",
+      "title": "OpenAI 承认 wiki 事件，称将建立智能体异常行为披露框架",
+      "url": "https://x.com/rohanpaul_ai/status/2096303922378088854",
+      "primary_url": "https://x.com/rohanpaul_ai/status/2096303922378088854",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "786836d98ac997152df84d9f9ed173eda62be199",
+          "title": "OpenAI 承认 wiki 事件，称将建立智能体异常行为披露框架",
+          "url": "https://x.com/rohanpaul_ai/status/2096303922378088854",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-05T18:26:17Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Rohan Paul (@rohanpaul_ai)"
+      ],
+      "items": [
+        {
+          "id": "786836d98ac997152df84d9f9ed173eda62be199",
+          "title": "OpenAI 承认 wiki 事件，称将建立智能体异常行为披露框架",
+          "url": "https://x.com/rohanpaul_ai/status/2096303922378088854",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-05T18:26:17Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7737,
+      "importance": 0.7737,
+      "importance_score": 0.7737,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.83,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8507,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-05T18:26:17Z",
+      "latest_at": "2026-09-05T18:26:17Z",
+      "primary_item": {
+        "id": "786836d98ac997152df84d9f9ed173eda62be199",
+        "title": "OpenAI 承认 wiki 事件，称将建立智能体异常行为披露框架",
+        "url": "https://x.com/rohanpaul_ai/status/2096303922378088854",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_e46c6749700e",
+      "title": "OpenAI GPT-6 Astra 登顶 Code Arena WebDev 榜首，领先 Claude Fable 5.1 达 35 分",
+      "url": "https://x.com/testingcatalog/status/2096350628054176240",
+      "primary_url": "https://x.com/testingcatalog/status/2096350628054176240",
+      "source": "X：Testing Catalog (@testingcatalog)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "39063cb094fc0954bba38154036ab86e9dc2220a",
+          "title": "OpenAI GPT-6 Astra 登顶 Code Arena WebDev 榜首，领先 Claude Fable 5.1 达 35 分",
+          "url": "https://x.com/testingcatalog/status/2096350628054176240",
+          "source": "X：Testing Catalog (@testingcatalog)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-05T21:31:52Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Testing Catalog (@testingcatalog)"
+      ],
+      "items": [
+        {
+          "id": "39063cb094fc0954bba38154036ab86e9dc2220a",
+          "title": "OpenAI GPT-6 Astra 登顶 Code Arena WebDev 榜首，领先 Claude Fable 5.1 达 35 分",
+          "url": "https://x.com/testingcatalog/status/2096350628054176240",
+          "source": "X：Testing Catalog (@testingcatalog)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-05T21:31:52Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7597,
+      "importance": 0.7597,
+      "importance_score": 0.7597,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8895,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-05T21:31:52Z",
+      "latest_at": "2026-09-05T21:31:52Z",
+      "primary_item": {
+        "id": "39063cb094fc0954bba38154036ab86e9dc2220a",
+        "title": "OpenAI GPT-6 Astra 登顶 Code Arena WebDev 榜首，领先 Claude Fable 5.1 达 35 分",
+        "url": "https://x.com/testingcatalog/status/2096350628054176240",
+        "source": "X：Testing Catalog (@testingcatalog)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_fdab4dad7ac0",
+      "title": "OpenAI 回应智能体接管德语维基网站事件，称将改革 AI 误对齐事件披露机制",
+      "url": "https://www.ithome.com/0/998/814.htm",
+      "primary_url": "https://www.ithome.com/0/998/814.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "211c57b36479363c1c2991e12ee6c42ec65dee09",
+          "title": "OpenAI 回应智能体接管德语维基网站事件，称将改革 AI 误对齐事件披露机制",
+          "url": "https://www.ithome.com/0/998/814.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-05T11:43:16Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "211c57b36479363c1c2991e12ee6c42ec65dee09",
+          "title": "OpenAI 回应智能体接管德语维基网站事件，称将改革 AI 误对齐事件披露机制",
+          "url": "https://www.ithome.com/0/998/814.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-05T11:43:16Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7536,
+      "importance": 0.7536,
+      "importance_score": 0.7536,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.81,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.772,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-05T11:43:16Z",
+      "latest_at": "2026-09-05T11:43:16Z",
+      "primary_item": {
+        "id": "211c57b36479363c1c2991e12ee6c42ec65dee09",
+        "title": "OpenAI 回应智能体接管德语维基网站事件，称将改革 AI 误对齐事件披露机制",
+        "url": "https://www.ithome.com/0/998/814.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_e2d719d60d77",
+      "title": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单",
+      "url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words",
+      "primary_url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6e756d5d1a516d955c8d10082347a24296dbc25e",
+          "title": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单",
+          "url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-05T13:31:04Z"
+        },
+        {
+          "id": "59a40120723ec5d866b59b8d9e1b8036f050434a",
+          "title": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单 / OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
+          "url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-05T13:31:04Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Decoder AI News",
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "6e756d5d1a516d955c8d10082347a24296dbc25e",
+          "title": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单",
+          "url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-05T13:31:04Z"
+        },
+        {
+          "id": "59a40120723ec5d866b59b8d9e1b8036f050434a",
+          "title": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单 / OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
+          "url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-05T13:31:04Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7732,
+      "importance": 0.7732,
+      "importance_score": 0.7732,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7923,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-05T13:31:04Z",
+      "latest_at": "2026-09-05T13:31:04Z",
+      "primary_item": {
+        "id": "6e756d5d1a516d955c8d10082347a24296dbc25e",
+        "title": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单",
+        "url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_6cbde97d8260",
+      "title": "实测GPT-6 Astra：速度、前端与代码能力对比GPT-5.6 Sol的全面升级",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685905&idx=1&sn=2a6327daa3fb1d5573a824afd63af7f6",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685905&idx=1&sn=2a6327daa3fb1d5573a824afd63af7f6",
+      "source": "公众号：数字生命卡兹克",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "8fcb315f932c03959f1b18eca4c996c65925fabf",
+          "title": "实测GPT-6 Astra：速度、前端与代码能力对比GPT-5.6 Sol的全面升级",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685905&idx=1&sn=2a6327daa3fb1d5573a824afd63af7f6",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-05T11:39:52Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：数字生命卡兹克"
+      ],
+      "items": [
+        {
+          "id": "8fcb315f932c03959f1b18eca4c996c65925fabf",
+          "title": "实测GPT-6 Astra：速度、前端与代码能力对比GPT-5.6 Sol的全面升级",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685905&idx=1&sn=2a6327daa3fb1d5573a824afd63af7f6",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-05T11:39:52Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7415,
+      "importance": 0.7415,
+      "importance_score": 0.7415,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7714,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-05T11:39:52Z",
+      "latest_at": "2026-09-05T11:39:52Z",
+      "primary_item": {
+        "id": "8fcb315f932c03959f1b18eca4c996c65925fabf",
+        "title": "实测GPT-6 Astra：速度、前端与代码能力对比GPT-5.6 Sol的全面升级",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685905&idx=1&sn=2a6327daa3fb1d5573a824afd63af7f6",
+        "source": "公众号：数字生命卡兹克",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_2ed23ceecfed",
+      "title": "费马大定理的 Lean 4 机器检查完整证明开源发布",
+      "url": "https://github.com/anthropics/fermats-last-theorem",
+      "primary_url": "https://github.com/anthropics/fermats-last-theorem",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ed60dc93c20939e6d91f28a81eeb2ac41ea2a900",
+          "title": "费马大定理的 Lean 4 机器检查完整证明开源发布",
+          "url": "https://github.com/anthropics/fermats-last-theorem",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-05T07:56:50.597000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "ed60dc93c20939e6d91f28a81eeb2ac41ea2a900",
+          "title": "费马大定理的 Lean 4 机器检查完整证明开源发布",
+          "url": "https://github.com/anthropics/fermats-last-theorem",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-05T07:56:50.597000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7402,
+      "importance": 0.7402,
+      "importance_score": 0.7402,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7311,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-05T07:56:50.597000Z",
+      "latest_at": "2026-09-05T07:56:50.597000Z",
+      "primary_item": {
+        "id": "ed60dc93c20939e6d91f28a81eeb2ac41ea2a900",
+        "title": "费马大定理的 Lean 4 机器检查完整证明开源发布",
+        "url": "https://github.com/anthropics/fermats-last-theorem",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_6379d9ed9541",
+      "title": "塔姆布勒岭校园枪击案受害者追加 30 起诉讼，OpenAI 面临诉讼超 50 起",
+      "url": "https://www.ithome.com/0/998/758.htm",
+      "primary_url": "https://www.ithome.com/0/998/758.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "1adb3448d4f2a91e09c9c5c6502214442d76848f",
+          "title": "塔姆布勒岭校园枪击案受害者追加 30 起诉讼，OpenAI 面临诉讼超 50 起",
+          "url": "https://www.ithome.com/0/998/758.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-05T07:53:01Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "1adb3448d4f2a91e09c9c5c6502214442d76848f",
+          "title": "塔姆布勒岭校园枪击案受害者追加 30 起诉讼，OpenAI 面临诉讼超 50 起",
+          "url": "https://www.ithome.com/0/998/758.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-05T07:53:01Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7521,
+      "importance": 0.7521,
+      "importance_score": 0.7521,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.83,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7304,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-05T07:53:01Z",
+      "latest_at": "2026-09-05T07:53:01Z",
+      "primary_item": {
+        "id": "1adb3448d4f2a91e09c9c5c6502214442d76848f",
+        "title": "塔姆布勒岭校园枪击案受害者追加 30 起诉讼，OpenAI 面临诉讼超 50 起",
+        "url": "https://www.ithome.com/0/998/758.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_774f7412d1a3",
+      "title": "Isar Aerospace launch into orbit [video]",
+      "url": "https://www.youtube.com/watch?v=Ss1DUqLjecc",
+      "primary_url": "https://www.youtube.com/watch?v=Ss1DUqLjecc",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "ba5ebb699dc8bf5d724e83d9f7c960d1ae69f8d4",
+          "title": "Isar Aerospace launch into orbit [video]",
+          "url": "https://www.youtube.com/watch?v=Ss1DUqLjecc",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-05T20:25:30Z"
+        },
+        {
+          "id": "bdd65f94339878103168417a32707a27748f002b",
+          "title": "OpenAI GPT-6 Astra is AGI? [video]",
+          "url": "https://www.youtube.com/watch?v=vuFYLqe3-xc",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-09-05T14:45:29Z"
+        },
+        {
+          "id": "ee571ae9ad7bf931bd9e2ecd8222a9c2e1b864f4",
+          "title": "LG TVs aren't the only ones spying on you [video]",
+          "url": "https://www.youtube.com/watch?v=IvFu343KNek",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-05T10:36:14Z"
+        },
+        {
+          "id": "ef2cec06f1b4051909cbdf8ad24c60096cb2aa25",
+          "title": "LG and Samsung TVs are logging everything you say [video]",
+          "url": "https://www.youtube.com/watch?v=w5KnFmKjFTA",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-05T05:45:54Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "HN Algolia · AI 24h",
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "ba5ebb699dc8bf5d724e83d9f7c960d1ae69f8d4",
+          "title": "Isar Aerospace launch into orbit [video]",
+          "url": "https://www.youtube.com/watch?v=Ss1DUqLjecc",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-05T20:25:30Z"
+        },
+        {
+          "id": "bdd65f94339878103168417a32707a27748f002b",
+          "title": "OpenAI GPT-6 Astra is AGI? [video]",
+          "url": "https://www.youtube.com/watch?v=vuFYLqe3-xc",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-09-05T14:45:29Z"
+        },
+        {
+          "id": "ee571ae9ad7bf931bd9e2ecd8222a9c2e1b864f4",
+          "title": "LG TVs aren't the only ones spying on you [video]",
+          "url": "https://www.youtube.com/watch?v=IvFu343KNek",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-05T10:36:14Z"
+        },
+        {
+          "id": "ef2cec06f1b4051909cbdf8ad24c60096cb2aa25",
+          "title": "LG and Samsung TVs are logging everything you say [video]",
+          "url": "https://www.youtube.com/watch?v=w5KnFmKjFTA",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-05T05:45:54Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5734,
+      "importance": 0.5734,
+      "importance_score": 0.5734,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8754,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-05T05:45:54Z",
+      "latest_at": "2026-09-05T20:25:30Z",
+      "primary_item": {
+        "id": "ba5ebb699dc8bf5d724e83d9f7c960d1ae69f8d4",
+        "title": "Isar Aerospace launch into orbit [video]",
+        "url": "https://www.youtube.com/watch?v=Ss1DUqLjecc",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_ae0c2e3335c6",
+      "title": "GPT-6 Astra on robot arms",
+      "url": "https://news.ycombinator.com/item?id=49582582",
+      "primary_url": "https://news.ycombinator.com/item?id=49582582",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "e93639ebc18b9cd558d329fdd7c5e416f58243d2",
+          "title": "GPT-6 Astra on robot arms",
+          "url": "https://news.ycombinator.com/item?id=49582582",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-06T05:24:49.854000Z"
+        },
+        {
+          "id": "d0e7e847b7d3b7da65b636c6c56ab4ed835bd76b",
+          "title": "安装在机械臂上的GPT-6 Astra",
+          "url": "https://openai.robocurve.org/gpt-6-astra",
+          "source": "openai.robocurve.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-06T04:56:10.649000Z"
+        },
+        {
+          "id": "d075ebc311b9df2a498b1a183f0c1fab5149f730",
+          "title": "安装在机械臂上的GPT-6 Astra / GPT-6 Astra on robot arms",
+          "url": "https://openai.robocurve.org/gpt-6-astra",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-06T01:52:45Z"
+        }
+      ],
+      "source_count": 3,
       "source_names": [
         "Hacker News",
-        "www.hermit-tech.com"
+        "hackernews",
+        "openai.robocurve.org"
       ],
       "items": [
         {
-          "id": "2d8bdd448a3b068f4bd6b026675e1d279287f26a",
-          "title": "人工智能也能让你更快变差",
-          "url": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too",
-          "source": "www.hermit-tech.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-01T11:45:30.411000Z"
+          "id": "e93639ebc18b9cd558d329fdd7c5e416f58243d2",
+          "title": "GPT-6 Astra on robot arms",
+          "url": "https://news.ycombinator.com/item?id=49582582",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-06T05:24:49.854000Z"
         },
         {
-          "id": "cb9073795c3eb91b0d8819872e8dd39a1a8db66e",
-          "title": "人工智能也能让你更快变差 / AI Can Make You Suck Faster Too",
-          "url": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too",
+          "id": "d0e7e847b7d3b7da65b636c6c56ab4ed835bd76b",
+          "title": "安装在机械臂上的GPT-6 Astra",
+          "url": "https://openai.robocurve.org/gpt-6-astra",
+          "source": "openai.robocurve.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-06T04:56:10.649000Z"
+        },
+        {
+          "id": "d075ebc311b9df2a498b1a183f0c1fab5149f730",
+          "title": "安装在机械臂上的GPT-6 Astra / GPT-6 Astra on robot arms",
+          "url": "https://openai.robocurve.org/gpt-6-astra",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-01T05:32:56Z"
+          "published_at": "2026-09-06T01:52:45Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5452,
-      "importance": 0.5452,
-      "importance_score": 0.5452,
-      "importance_label": "值得关注",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5702,
+      "importance": 0.5702,
+      "importance_score": 0.5702,
+      "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9969,
-        "story_heat": 0.25
+        "recency": 0.9968,
+        "story_heat": 0.5
       },
-      "category": "watch",
+      "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-01T05:32:56Z",
-      "latest_at": "2026-09-01T11:45:30.411000Z",
+      "earliest_at": "2026-09-06T01:52:45Z",
+      "latest_at": "2026-09-06T05:24:49.854000Z",
       "primary_item": {
-        "id": "2d8bdd448a3b068f4bd6b026675e1d279287f26a",
-        "title": "人工智能也能让你更快变差",
-        "url": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too",
-        "source": "www.hermit-tech.com",
-        "source_name": "Buzzing"
+        "id": "e93639ebc18b9cd558d329fdd7c5e416f58243d2",
+        "title": "GPT-6 Astra on robot arms",
+        "url": "https://news.ycombinator.com/item?id=49582582",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
-      "story_id": "story_1a6ed0db4046",
-      "title": "OpenClaw2.0正式发布:重构底层架构，支持多人共享云端会话",
-      "url": "https://www.aibase.com/news/30720",
-      "primary_url": "https://www.aibase.com/news/30720",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "4002cb2839ec1f2fd066b48899cde68d2aa06615",
-          "title": "OpenClaw2.0正式发布:重构底层架构，支持多人共享云端会话",
-          "url": "https://www.aibase.com/news/30720",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-31T15:47:07.324356Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "4002cb2839ec1f2fd066b48899cde68d2aa06615",
-          "title": "OpenClaw2.0正式发布:重构底层架构，支持多人共享云端会话",
-          "url": "https://www.aibase.com/news/30720",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-31T15:47:07.324356Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7221,
-      "importance": 0.7221,
-      "importance_score": 0.7221,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7471,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-31T15:47:07.324356Z",
-      "latest_at": "2026-08-31T15:47:07.324356Z",
-      "primary_item": {
-        "id": "4002cb2839ec1f2fd066b48899cde68d2aa06615",
-        "title": "OpenClaw2.0正式发布:重构底层架构，支持多人共享云端会话",
-        "url": "https://www.aibase.com/news/30720",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_8aa666e4205d",
-      "title": "Robot Framework 语言",
-      "url": "https://docs.robotframework.org/docs/getting_started/how_to_write_rf",
-      "primary_url": "https://docs.robotframework.org/docs/getting_started/how_to_write_rf",
-      "source": "docs.robotframework.org",
+      "story_id": "story_b6a75cdb30da",
+      "title": "大型语言模型作为认知病毒",
+      "url": "https://arxiv.org/abs/2609.03344",
+      "primary_url": "https://arxiv.org/abs/2609.03344",
+      "source": "arxiv.org",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "507c5ae4e5801b67a46700dadac0a1c920b8c22d",
-          "title": "Robot Framework 语言",
-          "url": "https://docs.robotframework.org/docs/getting_started/how_to_write_rf",
-          "source": "docs.robotframework.org",
+          "id": "ee960bc39612b0f42d0123d94fccbb52085cb023",
+          "title": "大型语言模型作为认知病毒",
+          "url": "https://arxiv.org/abs/2609.03344",
+          "source": "arxiv.org",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-01T07:29:16.653000Z"
+          "published_at": "2026-09-05T22:19:59.980000Z"
         },
         {
-          "id": "cbff148f2a701d369af27442cc89c86aea2d9f10",
-          "title": "Robot Framework 语言 / The Robot Framework language",
-          "url": "https://docs.robotframework.org/docs/getting_started/how_to_write_rf",
-          "source": "Lobsters (技术社区)",
+          "id": "14d5f3d25a90a052a62873de13da4b3d36db8db5",
+          "title": "大语言模型作为认知病毒",
+          "url": "https://arxiv.org/abs/2609.03344",
+          "source": "arxiv.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-05T22:19:59.965000Z"
+        },
+        {
+          "id": "b72649e582a023f0cfd069e021e67fcb9a6c5ec5",
+          "title": "大语言模型作为认知病毒 / LLMs as a Cognitive Virus",
+          "url": "https://arxiv.org/abs/2609.03344",
+          "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-09-01T07:22:01Z"
+          "published_at": "2026-09-05T20:02:35Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
-        "Lobsters (技术社区)",
-        "docs.robotframework.org"
+        "Hacker News (黑客新闻)",
+        "arxiv.org"
       ],
       "items": [
         {
-          "id": "507c5ae4e5801b67a46700dadac0a1c920b8c22d",
-          "title": "Robot Framework 语言",
-          "url": "https://docs.robotframework.org/docs/getting_started/how_to_write_rf",
-          "source": "docs.robotframework.org",
+          "id": "ee960bc39612b0f42d0123d94fccbb52085cb023",
+          "title": "大型语言模型作为认知病毒",
+          "url": "https://arxiv.org/abs/2609.03344",
+          "source": "arxiv.org",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-01T07:29:16.653000Z"
+          "published_at": "2026-09-05T22:19:59.980000Z"
         },
         {
-          "id": "cbff148f2a701d369af27442cc89c86aea2d9f10",
-          "title": "Robot Framework 语言 / The Robot Framework language",
-          "url": "https://docs.robotframework.org/docs/getting_started/how_to_write_rf",
-          "source": "Lobsters (技术社区)",
+          "id": "14d5f3d25a90a052a62873de13da4b3d36db8db5",
+          "title": "大语言模型作为认知病毒",
+          "url": "https://arxiv.org/abs/2609.03344",
+          "source": "arxiv.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-05T22:19:59.965000Z"
+        },
+        {
+          "id": "b72649e582a023f0cfd069e021e67fcb9a6c5ec5",
+          "title": "大语言模型作为认知病毒 / LLMs as a Cognitive Virus",
+          "url": "https://arxiv.org/abs/2609.03344",
+          "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-09-01T07:22:01Z"
+          "published_at": "2026-09-05T20:02:35Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5345,
-      "importance": 0.5345,
-      "importance_score": 0.5345,
-      "importance_label": "值得关注",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5528,
+      "importance": 0.5528,
+      "importance_score": 0.5528,
+      "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9373,
-        "story_heat": 0.25
+        "recency": 0.8999,
+        "story_heat": 0.5
       },
-      "category": "watch",
+      "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-01T07:22:01Z",
-      "latest_at": "2026-09-01T07:29:16.653000Z",
+      "earliest_at": "2026-09-05T20:02:35Z",
+      "latest_at": "2026-09-05T22:19:59.980000Z",
       "primary_item": {
-        "id": "507c5ae4e5801b67a46700dadac0a1c920b8c22d",
-        "title": "Robot Framework 语言",
-        "url": "https://docs.robotframework.org/docs/getting_started/how_to_write_rf",
-        "source": "docs.robotframework.org",
+        "id": "ee960bc39612b0f42d0123d94fccbb52085cb023",
+        "title": "大型语言模型作为认知病毒",
+        "url": "https://arxiv.org/abs/2609.03344",
+        "source": "arxiv.org",
         "source_name": "Buzzing"
       }
     },
     {
-      "story_id": "story_d404617e2b7d",
-      "title": "Flock 快速扩张的人工智能监控网络在美国面临日益强烈的反对声浪",
-      "url": "https://www.bbc.co.uk/news/videos/cvgy4ddx1q8o?at_medium=RSS&at_campaign=rss",
-      "primary_url": "https://www.bbc.co.uk/news/videos/cvgy4ddx1q8o?at_medium=RSS&at_campaign=rss",
-      "source": "www.bbc.co.uk",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "05e90e56c05e170d4da18c36f18aac7856b7845b",
-          "title": "Flock 快速扩张的人工智能监控网络在美国面临日益强烈的反对声浪",
-          "url": "https://www.bbc.co.uk/news/videos/cvgy4ddx1q8o?at_medium=RSS&at_campaign=rss",
-          "source": "www.bbc.co.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-01T05:21:18.396000Z"
-        },
-        {
-          "id": "907551e717f01c192616b9228ac56c7fa4e59b79",
-          "title": "Flock 快速扩张的人工智能监控网络在美国面临日益强烈的反对声浪 / Flock's rapidly expanding AI surveillance network facing growing backlash in US",
-          "url": "https://www.bbc.co.uk/news/videos/cvgy4ddx1q8o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News (世界新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-01T05:11:23Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "BBC News (世界新闻)",
-        "www.bbc.co.uk"
-      ],
-      "items": [
-        {
-          "id": "05e90e56c05e170d4da18c36f18aac7856b7845b",
-          "title": "Flock 快速扩张的人工智能监控网络在美国面临日益强烈的反对声浪",
-          "url": "https://www.bbc.co.uk/news/videos/cvgy4ddx1q8o?at_medium=RSS&at_campaign=rss",
-          "source": "www.bbc.co.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-01T05:21:18.396000Z"
-        },
-        {
-          "id": "907551e717f01c192616b9228ac56c7fa4e59b79",
-          "title": "Flock 快速扩张的人工智能监控网络在美国面临日益强烈的反对声浪 / Flock's rapidly expanding AI surveillance network facing growing backlash in US",
-          "url": "https://www.bbc.co.uk/news/videos/cvgy4ddx1q8o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News (世界新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-01T05:11:23Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5294,
-      "importance": 0.5294,
-      "importance_score": 0.5294,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9089,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-01T05:11:23Z",
-      "latest_at": "2026-09-01T05:21:18.396000Z",
-      "primary_item": {
-        "id": "05e90e56c05e170d4da18c36f18aac7856b7845b",
-        "title": "Flock 快速扩张的人工智能监控网络在美国面临日益强烈的反对声浪",
-        "url": "https://www.bbc.co.uk/news/videos/cvgy4ddx1q8o?at_medium=RSS&at_campaign=rss",
-        "source": "www.bbc.co.uk",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_8599784c193b",
-      "title": "在Claude智能代理三次失控后，Anthropic加强了其训练环境的安全措施",
-      "url": "https://www.businessinsider.com/anthropic-tightens-training-security-after-claude-agents-went-rogue-2026-8",
-      "primary_url": "https://www.businessinsider.com/anthropic-tightens-training-security-after-claude-agents-went-rogue-2026-8",
+      "story_id": "story_6993de6f2e8a",
+      "title": "OpenAI表示，将调整在人工智能代理出现失控情况时向公众通报的方式",
+      "url": "https://www.businessinsider.com/openai-ai-agent-rogue-reporting-german-wiki-hugging-face-2026-9",
+      "primary_url": "https://www.businessinsider.com/openai-ai-agent-rogue-reporting-german-wiki-hugging-face-2026-9",
       "source": "www.businessinsider.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "70496949b4abcac872fc69b1e16c1d44afb40ccb",
-          "title": "在Claude智能代理三次失控后，Anthropic加强了其训练环境的安全措施",
-          "url": "https://www.businessinsider.com/anthropic-tightens-training-security-after-claude-agents-went-rogue-2026-8",
+          "id": "4e6c7327e3738359eff052733767c670dd48f81d",
+          "title": "OpenAI表示，将调整在人工智能代理出现失控情况时向公众通报的方式",
+          "url": "https://www.businessinsider.com/openai-ai-agent-rogue-reporting-german-wiki-hugging-face-2026-9",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-01T03:13:10.438000Z"
+          "published_at": "2026-09-05T16:18:47.467000Z"
         },
         {
-          "id": "31f9ceb93030aa140897ebfefc7502c8e5045455",
-          "title": "在Claude智能代理三次失控后，Anthropic加强了其训练环境的安全措施 / Anthropic tightens security on its training environment after Claude agents went rogue 3 times",
-          "url": "https://www.businessinsider.com/anthropic-tightens-training-security-after-claude-agents-went-rogue-2026-8",
+          "id": "4e55fd6a71d454fdf05417e47d286e4ac4229daa",
+          "title": "OpenAI表示，将调整在人工智能代理出现失控情况时向公众通报的方式 / OpenAI says it will change how it informs the public when its AI agents go off the rails",
+          "url": "https://www.businessinsider.com/openai-ai-agent-rogue-reporting-german-wiki-hugging-face-2026-9",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-01T02:05:31Z"
+          "published_at": "2026-09-05T16:09:59Z"
         }
       ],
       "source_count": 2,
@@ -955,424 +1035,127 @@
       ],
       "items": [
         {
-          "id": "70496949b4abcac872fc69b1e16c1d44afb40ccb",
-          "title": "在Claude智能代理三次失控后，Anthropic加强了其训练环境的安全措施",
-          "url": "https://www.businessinsider.com/anthropic-tightens-training-security-after-claude-agents-went-rogue-2026-8",
+          "id": "4e6c7327e3738359eff052733767c670dd48f81d",
+          "title": "OpenAI表示，将调整在人工智能代理出现失控情况时向公众通报的方式",
+          "url": "https://www.businessinsider.com/openai-ai-agent-rogue-reporting-german-wiki-hugging-face-2026-9",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-01T03:13:10.438000Z"
+          "published_at": "2026-09-05T16:18:47.467000Z"
         },
         {
-          "id": "31f9ceb93030aa140897ebfefc7502c8e5045455",
-          "title": "在Claude智能代理三次失控后，Anthropic加强了其训练环境的安全措施 / Anthropic tightens security on its training environment after Claude agents went rogue 3 times",
-          "url": "https://www.businessinsider.com/anthropic-tightens-training-security-after-claude-agents-went-rogue-2026-8",
+          "id": "4e55fd6a71d454fdf05417e47d286e4ac4229daa",
+          "title": "OpenAI表示，将调整在人工智能代理出现失控情况时向公众通报的方式 / OpenAI says it will change how it informs the public when its AI agents go off the rails",
+          "url": "https://www.businessinsider.com/openai-ai-agent-rogue-reporting-german-wiki-hugging-face-2026-9",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-01T02:05:31Z"
+          "published_at": "2026-09-05T16:09:59Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5244,
-      "importance": 0.5244,
-      "importance_score": 0.5244,
+      "score": 0.5143,
+      "importance": 0.5143,
+      "importance_score": 0.5143,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8813,
+        "recency": 0.825,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-01T02:05:31Z",
-      "latest_at": "2026-09-01T03:13:10.438000Z",
+      "earliest_at": "2026-09-05T16:09:59Z",
+      "latest_at": "2026-09-05T16:18:47.467000Z",
       "primary_item": {
-        "id": "70496949b4abcac872fc69b1e16c1d44afb40ccb",
-        "title": "在Claude智能代理三次失控后，Anthropic加强了其训练环境的安全措施",
-        "url": "https://www.businessinsider.com/anthropic-tightens-training-security-after-claude-agents-went-rogue-2026-8",
+        "id": "4e6c7327e3738359eff052733767c670dd48f81d",
+        "title": "OpenAI表示，将调整在人工智能代理出现失控情况时向公众通报的方式",
+        "url": "https://www.businessinsider.com/openai-ai-agent-rogue-reporting-german-wiki-hugging-face-2026-9",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     },
     {
-      "story_id": "story_f467f95d0953",
-      "title": "在人工智能时代，最安全的职业可能是写作",
-      "url": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
-      "primary_url": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
-      "source": "muratbuffalo.blogspot.com",
+      "story_id": "story_40d7d24c82bd",
+      "title": "AI 处理事件，工程师与系统脱节",
+      "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+      "primary_url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+      "source": "www.sylvainkalache.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "ac2d76d1406dbaad825833a4d479f240c6ee8bfe",
-          "title": "在人工智能时代，最安全的职业可能是写作",
-          "url": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
-          "source": "muratbuffalo.blogspot.com",
+          "id": "5a8e9f74ca12247563c50725057e5c3d858abe8c",
+          "title": "AI 处理事件，工程师与系统脱节",
+          "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+          "source": "www.sylvainkalache.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-01T01:21:40.999000Z"
+          "published_at": "2026-09-05T11:05:53.747000Z"
         },
         {
-          "id": "c3460ccd49af4559b8c7d2502d5d0badb5cb400c",
-          "title": "在人工智能时代，最安全的职业可能是写作 / The safest job from AI may be writing",
-          "url": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
+          "id": "d17f949bfc44fa3df54dda386ebcf1995a15af56",
+          "title": "AI 处理事件，工程师与系统脱节 / AI handles incidents, engineers lose touch with their systems",
+          "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-08-31T18:12:20Z"
+          "published_at": "2026-09-05T07:52:50Z"
         }
       ],
       "source_count": 2,
       "source_names": [
         "Hacker News · 24h最热",
-        "muratbuffalo.blogspot.com"
+        "www.sylvainkalache.com"
       ],
       "items": [
         {
-          "id": "ac2d76d1406dbaad825833a4d479f240c6ee8bfe",
-          "title": "在人工智能时代，最安全的职业可能是写作",
-          "url": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
-          "source": "muratbuffalo.blogspot.com",
+          "id": "5a8e9f74ca12247563c50725057e5c3d858abe8c",
+          "title": "AI 处理事件，工程师与系统脱节",
+          "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+          "source": "www.sylvainkalache.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-01T01:21:40.999000Z"
+          "published_at": "2026-09-05T11:05:53.747000Z"
         },
         {
-          "id": "c3460ccd49af4559b8c7d2502d5d0badb5cb400c",
-          "title": "在人工智能时代，最安全的职业可能是写作 / The safest job from AI may be writing",
-          "url": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
+          "id": "d17f949bfc44fa3df54dda386ebcf1995a15af56",
+          "title": "AI 处理事件，工程师与系统脱节 / AI handles incidents, engineers lose touch with their systems",
+          "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-08-31T18:12:20Z"
+          "published_at": "2026-09-05T07:52:50Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5202,
-      "importance": 0.5202,
-      "importance_score": 0.5202,
+      "score": 0.5035,
+      "importance": 0.5035,
+      "importance_score": 0.5035,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8579,
+        "recency": 0.7651,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-31T18:12:20Z",
-      "latest_at": "2026-09-01T01:21:40.999000Z",
+      "earliest_at": "2026-09-05T07:52:50Z",
+      "latest_at": "2026-09-05T11:05:53.747000Z",
       "primary_item": {
-        "id": "ac2d76d1406dbaad825833a4d479f240c6ee8bfe",
-        "title": "在人工智能时代，最安全的职业可能是写作",
-        "url": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
-        "source": "muratbuffalo.blogspot.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_e9c6f52771f1",
-      "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
-      "url": "https://news.ycombinator.com/item?id=49508982",
-      "primary_url": "https://news.ycombinator.com/item?id=49508982",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "dbac602454ffcaaa3f4844a6074fde512a0e07f6",
-          "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
-          "url": "https://news.ycombinator.com/item?id=49508982",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-01T00:50:34.565000Z"
-        },
-        {
-          "id": "d939518be2259fea47ec2b899497c65553d4778f",
-          "title": "Mac Mini 和 Mac Studio 的 AI 需求让苹果措手不及 / Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio",
-          "url": "https://hardware.slashdot.org/story/26/08/31/2133202/apple-caught-off-guard-by-ai-demand-for-mac-mini-and-mac-studio",
-          "source": "Slashdot",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-31T22:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Slashdot",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "dbac602454ffcaaa3f4844a6074fde512a0e07f6",
-          "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
-          "url": "https://news.ycombinator.com/item?id=49508982",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-01T00:50:34.565000Z"
-        },
-        {
-          "id": "d939518be2259fea47ec2b899497c65553d4778f",
-          "title": "Mac Mini 和 Mac Studio 的 AI 需求让苹果措手不及 / Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio",
-          "url": "https://hardware.slashdot.org/story/26/08/31/2133202/apple-caught-off-guard-by-ai-demand-for-mac-mini-and-mac-studio",
-          "source": "Slashdot",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-31T22:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5191,
-      "importance": 0.5191,
-      "importance_score": 0.5191,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8515,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-31T22:00:00Z",
-      "latest_at": "2026-09-01T00:50:34.565000Z",
-      "primary_item": {
-        "id": "dbac602454ffcaaa3f4844a6074fde512a0e07f6",
-        "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
-        "url": "https://news.ycombinator.com/item?id=49508982",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_7fa57488b441",
-      "title": "一个创意，一支AI团队:千问创作Agent Teams上线，编剧导演美术全承包",
-      "url": "https://www.aibase.com/news/30721",
-      "primary_url": "https://www.aibase.com/news/30721",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "02fd4e679dd1f9f6e0ef561b3aa49f58a7127d25",
-          "title": "一个创意，一支AI团队:千问创作Agent Teams上线，编剧导演美术全承包",
-          "url": "https://www.aibase.com/news/30721",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-31T15:47:07.324356Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "02fd4e679dd1f9f6e0ef561b3aa49f58a7127d25",
-          "title": "一个创意，一支AI团队:千问创作Agent Teams上线，编剧导演美术全承包",
-          "url": "https://www.aibase.com/news/30721",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-31T15:47:07.324356Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7221,
-      "importance": 0.7221,
-      "importance_score": 0.7221,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7471,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-31T15:47:07.324356Z",
-      "latest_at": "2026-08-31T15:47:07.324356Z",
-      "primary_item": {
-        "id": "02fd4e679dd1f9f6e0ef561b3aa49f58a7127d25",
-        "title": "一个创意，一支AI团队:千问创作Agent Teams上线，编剧导演美术全承包",
-        "url": "https://www.aibase.com/news/30721",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_fc94637995a4",
-      "title": "“Zlibrary，我最爱的”：索尼诉讼中援引的Anthropic员工聊天记录中盛赞盗版",
-      "url": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit",
-      "primary_url": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit",
-      "source": "arstechnica.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "5131b21ad0ccbe175057d38c75ff04f52c13f6cd",
-          "title": "“Zlibrary，我最爱的”：索尼诉讼中援引的Anthropic员工聊天记录中盛赞盗版",
-          "url": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit",
-          "source": "arstechnica.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-31T20:33:21.285000Z"
-        },
-        {
-          "id": "c4f81af88268df7b13e415550ff2aa2b4541e130",
-          "title": "“Zlibrary，我最爱的”：索尼诉讼中援引的Anthropic员工聊天记录中盛赞盗版 / “Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit",
-          "url": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit",
-          "source": "Ars Technica",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-31T18:10:45Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Ars Technica",
-        "arstechnica.com"
-      ],
-      "items": [
-        {
-          "id": "5131b21ad0ccbe175057d38c75ff04f52c13f6cd",
-          "title": "“Zlibrary，我最爱的”：索尼诉讼中援引的Anthropic员工聊天记录中盛赞盗版",
-          "url": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit",
-          "source": "arstechnica.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-31T20:33:21.285000Z"
-        },
-        {
-          "id": "c4f81af88268df7b13e415550ff2aa2b4541e130",
-          "title": "“Zlibrary，我最爱的”：索尼诉讼中援引的Anthropic员工聊天记录中盛赞盗版 / “Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit",
-          "url": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit",
-          "source": "Ars Technica",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-31T18:10:45Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5099,
-      "importance": 0.5099,
-      "importance_score": 0.5099,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8004,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-31T18:10:45Z",
-      "latest_at": "2026-08-31T20:33:21.285000Z",
-      "primary_item": {
-        "id": "5131b21ad0ccbe175057d38c75ff04f52c13f6cd",
-        "title": "“Zlibrary，我最爱的”：索尼诉讼中援引的Anthropic员工聊天记录中盛赞盗版",
-        "url": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit",
-        "source": "arstechnica.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_228b2d12557d",
-      "title": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及",
-      "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand",
-      "primary_url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand",
-      "source": "www.macrumors.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "d41c9cf568fc7cdabd62520cd3848217b93b03de",
-          "title": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及",
-          "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand",
-          "source": "www.macrumors.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-31T18:41:20.531000Z"
-        },
-        {
-          "id": "7bf130bbd0e6717c0903fc01569c981f69751471",
-          "title": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及 / Apple caught off guard by AI demand for Mac Mini and Mac Studio",
-          "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-31T12:41:22Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "www.macrumors.com"
-      ],
-      "items": [
-        {
-          "id": "d41c9cf568fc7cdabd62520cd3848217b93b03de",
-          "title": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及",
-          "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand",
-          "source": "www.macrumors.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-31T18:41:20.531000Z"
-        },
-        {
-          "id": "7bf130bbd0e6717c0903fc01569c981f69751471",
-          "title": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及 / Apple caught off guard by AI demand for Mac Mini and Mac Studio",
-          "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-31T12:41:22Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.506,
-      "importance": 0.506,
-      "importance_score": 0.506,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7791,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-31T12:41:22Z",
-      "latest_at": "2026-08-31T18:41:20.531000Z",
-      "primary_item": {
-        "id": "d41c9cf568fc7cdabd62520cd3848217b93b03de",
-        "title": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及",
-        "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand",
-        "source": "www.macrumors.com",
+        "id": "5a8e9f74ca12247563c50725057e5c3d858abe8c",
+        "title": "AI 处理事件，工程师与系统脱节",
+        "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+        "source": "www.sylvainkalache.com",
         "source_name": "Buzzing"
       }
     }
