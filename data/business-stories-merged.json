@@ -1,32 +1,45 @@
 {
-  "generated_at": "2026-09-07T05:59:38.404755Z",
+  "generated_at": "2026-09-08T06:33:24.734912Z",
   "clusters": [
     {
-      "cluster_id": "biz_cluster_64906b754b0d",
-      "thesis": "AI leverage is making one-person and tiny-team companies a credible strategic archetype.",
-      "lane": "opc",
+      "cluster_id": "biz_cluster_412d1e93472b",
+      "thesis": "Enterprise AI value is moving toward operating-model redesign rather than isolated copilots.",
+      "lane": "enterprise_workflow",
       "signal_ids": [
-        "biz_91602c7ddfde"
+        "biz_f470c94aa931",
+        "biz_37da81ed2e2f",
+        "biz_8452c0cf2c35"
       ],
-      "source_count": 1,
-      "importance_score": 34,
-      "confidence": "watch",
+      "source_count": 2,
+      "importance_score": 42,
+      "confidence": "medium",
       "yuanli_mapping": [
-        "yuanli_asset",
-        "yuanli_startup",
-        "profit_container"
+        "yuanli_os",
+        "ftf_trust"
       ],
-      "why_it_matters": "1 English evidence items from 1 sources connect this pattern to Yuanli IP.",
+      "why_it_matters": "3 English evidence items from 2 sources connect this pattern to Yuanli IP.",
       "counter_evidence": "See counter_signal cluster for adoption, ROI, and trust risks.",
-      "recommended_action": "Turn the strongest case into a Yuanli OPC teaching module with leverage, distribution, and monetization explicitly mapped.",
+      "recommended_action": "Map each workflow case to the Yuanli OS organs: soul, memory, judgment, hands.",
       "evidence_refs": [
-        "biz_91602c7ddfde"
+        "biz_f470c94aa931",
+        "biz_37da81ed2e2f",
+        "biz_8452c0cf2c35"
       ],
       "top_sources": [
         {
-          "source": "Indie Hackers",
-          "title": "$48 MRR and I can't prove where any of it came from",
-          "url": "https://www.indiehackers.com/post/48-mrr-and-i-cant-prove-where-any-of-it-came-from-e4c2829e58"
+          "source": "Lenny's Newsletter",
+          "title": "Build your own company brain: the enterprise AI playbook from Stripe’s engineering team | Sharadh Krishnamurthy",
+          "url": "https://www.lennysnewsletter.com/p/build-your-own-company-brain-the"
+        },
+        {
+          "source": "Latent Space",
+          "title": "The Frontier AEO Tracker: What Astra Chooses (and every other frontier model, and what you can do about it)",
+          "url": "https://www.latent.space/p/aeo"
+        },
+        {
+          "source": "Lenny's Newsletter",
+          "title": "🎙️ How I AI: GPT-6 Astra is a banger + Stripe’s AI playbook + Grok Bot vs. OpenClaw: why I replaced my entire agent stack",
+          "url": "https://www.lennysnewsletter.com/p/how-i-ai-gpt-6-astra-is-a-banger"
         }
       ]
     }
