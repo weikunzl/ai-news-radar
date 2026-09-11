@@ -1,21 +1,57 @@
 {
-  "generated_at": "2026-09-08T06:33:24.734912Z",
+  "generated_at": "2026-09-11T08:55:19.186523Z",
   "window_hours": 24,
   "items": [
     {
-      "signal_id": "biz_f470c94aa931",
-      "title": "Build your own company brain: the enterprise AI playbook from Stripe’s engineering team | Sharadh Krishnamurthy",
-      "url": "https://www.lennysnewsletter.com/p/build-your-own-company-brain-the",
-      "source_id": "lenny",
-      "source_name": "Lenny's Newsletter",
-      "published_at": "2026-09-07T12:04:19Z",
-      "captured_at": "2026-09-08T06:33:24.734912Z",
+      "signal_id": "biz_42cd60bb051b",
+      "title": "Stripe’s founder factory and the AI governance boom",
+      "url": "https://www.cbinsights.com/research/newsletter-september-10-2026/",
+      "source_id": "cbinsights",
+      "source_name": "CB Insights",
+      "published_at": "2026-09-10T22:35:34Z",
+      "captured_at": "2026-09-11T08:55:19.186523Z",
       "lane": "startup_vc",
       "entities": [
-        "Lenny's Newsletter",
-        "Build",
-        "Stripe",
-        "Sharadh Krishnamurthy"
+        "CB Insights",
+        "Stripe"
+      ],
+      "business_model_tags": [
+        "Founder Case"
+      ],
+      "yuanli_tags": [
+        "yuanli_asset",
+        "yuanli_startup",
+        "ftf_trust"
+      ],
+      "opc_fit_score": 0,
+      "case_concreteness_score": 15,
+      "total_score": 57,
+      "score_breakdown": {
+        "source_authority": 16,
+        "yuanli_relevance": 13,
+        "business_model_value": 5,
+        "case_concreteness": 15,
+        "opc_fit": 0,
+        "freshness": 8,
+        "counter_signal_value": 0
+      },
+      "summary": "Below, we break down some of tech’s biggest stories, with analyst perspective on the moves that matter the most. Here’s what we’re watching this week: AI app governance startups Stripe’s crypto mafia Asia’s Silicon Valle... Tags: Founder Case.",
+      "timestamp_basis": "feed_published",
+      "transport_mode": "feed"
+    },
+    {
+      "signal_id": "biz_76657f3b423e",
+      "title": "When AI Disruption Never Ends",
+      "url": "https://sloanreview.mit.edu/article/when-ai-disruption-never-ends/",
+      "source_id": "mit_smr",
+      "source_name": "MIT Sloan Management Review",
+      "published_at": "2026-09-10T11:00:26Z",
+      "captured_at": "2026-09-11T08:55:19.186523Z",
+      "lane": "authority",
+      "entities": [
+        "MIT Sloan Management Review",
+        "When AI Disruption",
+        "Never Ends"
       ],
       "business_model_tags": [
         "AI Business Model Innovation",
@@ -23,51 +59,92 @@
         "Enterprise AI Workflow"
       ],
       "yuanli_tags": [
+        "yuanli_asset",
+        "yuanli_startup",
         "yuanli_os"
       ],
       "opc_fit_score": 0,
       "case_concreteness_score": 8,
-      "total_score": 44,
+      "total_score": 52,
       "score_breakdown": {
-        "source_authority": 16,
-        "yuanli_relevance": 3,
-        "business_model_value": 10,
+        "source_authority": 20,
+        "yuanli_relevance": 9,
+        "business_model_value": 8,
         "case_concreteness": 8,
         "opc_fit": 0,
         "freshness": 7,
         "counter_signal_value": 0
       },
-      "summary": "Watch now | 🎙️ Learn how Stripe scaled AI to everyone at a complex global company by building context, governance, and a shared skills platform directly into their internal agent Tags: AI Business Model Innovation, Founder Case, Enterprise AI Workflow.",
+      "summary": "Phil Bliss/theispot.com A vice president of product opens her laptop on a Monday morning to find that the AI model her team had worked with for the past six weeks to build a customer workflow has been leapfrogged by a ch... Tags: AI Business Model Innovation, Founder Case, Enterprise AI Workflow.",
       "timestamp_basis": "feed_published",
       "transport_mode": "feed"
     },
     {
-      "signal_id": "biz_37da81ed2e2f",
-      "title": "The Frontier AEO Tracker: What Astra Chooses (and every other frontier model, and what you can do about it)",
-      "url": "https://www.latent.space/p/aeo",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "published_at": "2026-09-07T21:32:37Z",
-      "captured_at": "2026-09-08T06:33:24.734912Z",
-      "lane": "ai_commercialization",
+      "signal_id": "biz_a0ff1b13e384",
+      "title": "I built a $19.99 tool for a pricing problem I kept seeing in bookkeeping",
+      "url": "https://www.indiehackers.com/post/i-built-a-19-99-tool-for-a-pricing-problem-i-kept-seeing-in-bookkeeping-9d8a37c3e1",
+      "source_id": "indie_hackers",
+      "source_name": "Indie Hackers",
+      "published_at": "2026-09-10T10:09:19.928000Z",
+      "captured_at": "2026-09-11T08:55:19.186523Z",
+      "lane": "opc",
       "entities": [
-        "Latent Space",
-        "The Frontier AEO",
-        "Tracker",
-        "What Astra Chooses"
+        "Indie Hackers"
+      ],
+      "business_model_tags": [
+        "AI Business Model Innovation",
+        "Founder Case",
+        "OPC"
+      ],
+      "yuanli_tags": [
+        "yuanli_startup",
+        "profit_container"
+      ],
+      "opc_fit_score": 5,
+      "case_concreteness_score": 12,
+      "total_score": 51,
+      "score_breakdown": {
+        "source_authority": 16,
+        "yuanli_relevance": 6,
+        "business_model_value": 5,
+        "case_concreteness": 12,
+        "opc_fit": 5,
+        "freshness": 7,
+        "counter_signal_value": 0
+      },
+      "summary": "I built a $19.99 tool for a pricing problem I kept seeing in bookkeeping Tags: AI Business Model Innovation, Founder Case, OPC.",
+      "timestamp_basis": "page_structured_time",
+      "transport_mode": "page_detail"
+    },
+    {
+      "signal_id": "biz_be56e9397c5d",
+      "title": "India’s Next Growth Frontier: B2B Commerce, Payments, and Credit",
+      "url": "https://www.bain.com/insights/indias-next-growth-frontier-b2b-commerce-payments-and-credit/",
+      "source_id": "bain_insights",
+      "source_name": "Bain Insights",
+      "published_at": "2026-09-11T02:00:00Z",
+      "captured_at": "2026-09-11T08:55:19.186523Z",
+      "lane": "authority",
+      "entities": [
+        "Bain Insights",
+        "India",
+        "Next Growth Frontier",
+        "B2B Commerce",
+        "Payments",
+        "Credit"
       ],
       "business_model_tags": [
         "Founder Case",
-        "Enterprise AI Workflow"
+        "AI Business Model Innovation"
       ],
       "yuanli_tags": [
-        "yuanli_startup"
+        "wealth_flywheel"
       ],
       "opc_fit_score": 0,
       "case_concreteness_score": 8,
-      "total_score": 38,
+      "total_score": 42,
       "score_breakdown": {
-        "source_authority": 16,
+        "source_authority": 20,
         "yuanli_relevance": 3,
         "business_model_value": 3,
         "case_concreteness": 8,
@@ -75,48 +152,119 @@
         "freshness": 8,
         "counter_signal_value": 0
       },
-      "summary": "Our first Astra project dives into AEO trends, a top asked topic from founders and DX leaders we talk to. Tags: Founder Case, Enterprise AI Workflow.",
+      "summary": "India’s Next Growth Frontier: B2B Commerce, Payments, and Credit Tags: Founder Case, AI Business Model Innovation.",
       "timestamp_basis": "feed_published",
       "transport_mode": "feed"
     },
     {
-      "signal_id": "biz_8452c0cf2c35",
-      "title": "🎙️ How I AI: GPT-6 Astra is a banger + Stripe’s AI playbook + Grok Bot vs. OpenClaw: why I replaced my entire agent stack",
-      "url": "https://www.lennysnewsletter.com/p/how-i-ai-gpt-6-astra-is-a-banger",
-      "source_id": "lenny",
-      "source_name": "Lenny's Newsletter",
-      "published_at": "2026-09-07T15:02:41Z",
-      "captured_at": "2026-09-08T06:33:24.734912Z",
-      "lane": "startup_vc",
+      "signal_id": "biz_435d54127b86",
+      "title": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
+      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser/",
+      "source_id": "github_blog",
+      "source_name": "GitHub Blog",
+      "published_at": "2026-09-10T21:31:19Z",
+      "captured_at": "2026-09-11T08:55:19.186523Z",
+      "lane": "ai_commercialization",
       "entities": [
-        "Lenny's Newsletter",
-        "How I AI",
-        "GPT-6 Astra",
-        "Stripe",
-        "Grok Bot",
-        "OpenClaw"
+        "GitHub Blog",
+        "GitHub Copilot",
+        "Beginners",
+        "Using"
       ],
       "business_model_tags": [
-        "Enterprise AI Workflow",
-        "Founder Case"
+        "Enterprise AI Workflow"
       ],
       "yuanli_tags": [
-        "yuanli_os",
-        "wealth_flywheel"
+        "yuanli_os"
       ],
       "opc_fit_score": 0,
       "case_concreteness_score": 0,
-      "total_score": 32,
+      "total_score": 37,
       "score_breakdown": {
-        "source_authority": 16,
-        "yuanli_relevance": 6,
-        "business_model_value": 3,
+        "source_authority": 20,
+        "yuanli_relevance": 5,
+        "business_model_value": 5,
         "case_concreteness": 0,
         "opc_fit": 0,
         "freshness": 7,
         "counter_signal_value": 0
       },
-      "summary": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network Tags: Enterprise AI Workflow, Founder Case.",
+      "summary": "Checking agent-generated code usually means hopping between tabs. Learn how to view diffs, run terminal commands, and preview web apps side by side in the GitHub Copilot app. The post GitHub Copilot app for Beginners: Us... Tags: Enterprise AI Workflow.",
+      "timestamp_basis": "feed_published",
+      "transport_mode": "feed"
+    },
+    {
+      "signal_id": "biz_1e9ac176e750",
+      "title": "How Card Issuers and Banks Can Avoid Being Shut Out of Agentic Commerce",
+      "url": "https://www.bain.com/insights/how-card-issuers-and-banks-can-avoid-being-shut-out-of-agentic-commerce/",
+      "source_id": "bain_insights",
+      "source_name": "Bain Insights",
+      "published_at": "2026-09-10T13:00:00Z",
+      "captured_at": "2026-09-11T08:55:19.186523Z",
+      "lane": "authority",
+      "entities": [
+        "Bain Insights",
+        "How Card Issuers",
+        "Banks Can Avoid",
+        "Being Shut Out",
+        "Agentic Commerce"
+      ],
+      "business_model_tags": [
+        "AI Business Model Innovation",
+        "Enterprise AI Workflow"
+      ],
+      "yuanli_tags": [
+        "yuanli_os"
+      ],
+      "opc_fit_score": 0,
+      "case_concreteness_score": 0,
+      "total_score": 35,
+      "score_breakdown": {
+        "source_authority": 20,
+        "yuanli_relevance": 3,
+        "business_model_value": 5,
+        "case_concreteness": 0,
+        "opc_fit": 0,
+        "freshness": 7,
+        "counter_signal_value": 0
+      },
+      "summary": "How Card Issuers and Banks Can Avoid Being Shut Out of Agentic Commerce Tags: AI Business Model Innovation, Enterprise AI Workflow.",
+      "timestamp_basis": "feed_published",
+      "transport_mode": "feed"
+    },
+    {
+      "signal_id": "biz_aa8070d801bc",
+      "title": "Now everyone can put data to work",
+      "url": "https://openai.com/index/put-data-to-work",
+      "source_id": "openai_news",
+      "source_name": "OpenAI News",
+      "published_at": "2026-09-10T15:00:00Z",
+      "captured_at": "2026-09-11T08:55:19.186523Z",
+      "lane": "ai_commercialization",
+      "entities": [
+        "OpenAI News",
+        "Now"
+      ],
+      "business_model_tags": [
+        "Enterprise AI Workflow"
+      ],
+      "yuanli_tags": [
+        "yuanli_asset",
+        "ftf_trust"
+      ],
+      "opc_fit_score": 0,
+      "case_concreteness_score": 0,
+      "total_score": 33,
+      "score_breakdown": {
+        "source_authority": 20,
+        "yuanli_relevance": 6,
+        "business_model_value": 0,
+        "case_concreteness": 0,
+        "opc_fit": 0,
+        "freshness": 7,
+        "counter_signal_value": 0
+      },
+      "summary": "Now everyone can put data to work Tags: Enterprise AI Workflow.",
       "timestamp_basis": "feed_published",
       "transport_mode": "feed"
     }

@@ -1,45 +1,139 @@
 {
-  "generated_at": "2026-09-08T06:33:24.734912Z",
+  "generated_at": "2026-09-11T08:55:19.186523Z",
   "clusters": [
     {
-      "cluster_id": "biz_cluster_412d1e93472b",
+      "cluster_id": "biz_cluster_f8a3357cbb6f",
+      "thesis": "Founder stories provide the most reusable proof layer for Yuanli IP trust-building.",
+      "lane": "founder_case",
+      "signal_ids": [
+        "biz_42cd60bb051b"
+      ],
+      "source_count": 1,
+      "importance_score": 59,
+      "confidence": "watch",
+      "yuanli_mapping": [
+        "ftf_trust",
+        "yuanli_asset",
+        "wealth_flywheel"
+      ],
+      "why_it_matters": "1 English evidence items from 1 sources connect this pattern to Yuanli IP.",
+      "counter_evidence": "See counter_signal cluster for adoption, ROI, and trust risks.",
+      "recommended_action": "Convert high-score founder cases into FTF credible story assets.",
+      "evidence_refs": [
+        "biz_42cd60bb051b"
+      ],
+      "top_sources": [
+        {
+          "source": "CB Insights",
+          "title": "Stripe’s founder factory and the AI governance boom",
+          "url": "https://www.cbinsights.com/research/newsletter-september-10-2026/"
+        }
+      ]
+    },
+    {
+      "cluster_id": "biz_cluster_6abed0cd34b8",
+      "thesis": "AI leverage is making one-person and tiny-team companies a credible strategic archetype.",
+      "lane": "opc",
+      "signal_ids": [
+        "biz_a0ff1b13e384"
+      ],
+      "source_count": 1,
+      "importance_score": 53,
+      "confidence": "watch",
+      "yuanli_mapping": [
+        "yuanli_asset",
+        "yuanli_startup",
+        "profit_container"
+      ],
+      "why_it_matters": "1 English evidence items from 1 sources connect this pattern to Yuanli IP.",
+      "counter_evidence": "See counter_signal cluster for adoption, ROI, and trust risks.",
+      "recommended_action": "Turn the strongest case into a Yuanli OPC teaching module with leverage, distribution, and monetization explicitly mapped.",
+      "evidence_refs": [
+        "biz_a0ff1b13e384"
+      ],
+      "top_sources": [
+        {
+          "source": "Indie Hackers",
+          "title": "I built a $19.99 tool for a pricing problem I kept seeing in bookkeeping",
+          "url": "https://www.indiehackers.com/post/i-built-a-19-99-tool-for-a-pricing-problem-i-kept-seeing-in-bookkeeping-9d8a37c3e1"
+        }
+      ]
+    },
+    {
+      "cluster_id": "biz_cluster_24a356a9fa67",
+      "thesis": "Business-school and consulting evidence strengthens the trust layer behind Yuanli IP claims.",
+      "lane": "authority_trust",
+      "signal_ids": [
+        "biz_76657f3b423e",
+        "biz_be56e9397c5d",
+        "biz_1e9ac176e750"
+      ],
+      "source_count": 2,
+      "importance_score": 47,
+      "confidence": "medium",
+      "yuanli_mapping": [
+        "ftf_trust",
+        "yuanli_asset",
+        "yuanli_startup"
+      ],
+      "why_it_matters": "3 English evidence items from 2 sources connect this pattern to Yuanli IP.",
+      "counter_evidence": "See counter_signal cluster for adoption, ROI, and trust risks.",
+      "recommended_action": "Use these authority-backed signals as FTF proof points before making public claims.",
+      "evidence_refs": [
+        "biz_76657f3b423e",
+        "biz_be56e9397c5d",
+        "biz_1e9ac176e750"
+      ],
+      "top_sources": [
+        {
+          "source": "MIT Sloan Management Review",
+          "title": "When AI Disruption Never Ends",
+          "url": "https://sloanreview.mit.edu/article/when-ai-disruption-never-ends/"
+        },
+        {
+          "source": "Bain Insights",
+          "title": "India’s Next Growth Frontier: B2B Commerce, Payments, and Credit",
+          "url": "https://www.bain.com/insights/indias-next-growth-frontier-b2b-commerce-payments-and-credit/"
+        },
+        {
+          "source": "Bain Insights",
+          "title": "How Card Issuers and Banks Can Avoid Being Shut Out of Agentic Commerce",
+          "url": "https://www.bain.com/insights/how-card-issuers-and-banks-can-avoid-being-shut-out-of-agentic-commerce/"
+        }
+      ]
+    },
+    {
+      "cluster_id": "biz_cluster_c05a9e143d99",
       "thesis": "Enterprise AI value is moving toward operating-model redesign rather than isolated copilots.",
       "lane": "enterprise_workflow",
       "signal_ids": [
-        "biz_f470c94aa931",
-        "biz_37da81ed2e2f",
-        "biz_8452c0cf2c35"
+        "biz_435d54127b86",
+        "biz_aa8070d801bc"
       ],
       "source_count": 2,
-      "importance_score": 42,
+      "importance_score": 39,
       "confidence": "medium",
       "yuanli_mapping": [
         "yuanli_os",
         "ftf_trust"
       ],
-      "why_it_matters": "3 English evidence items from 2 sources connect this pattern to Yuanli IP.",
+      "why_it_matters": "2 English evidence items from 2 sources connect this pattern to Yuanli IP.",
       "counter_evidence": "See counter_signal cluster for adoption, ROI, and trust risks.",
       "recommended_action": "Map each workflow case to the Yuanli OS organs: soul, memory, judgment, hands.",
       "evidence_refs": [
-        "biz_f470c94aa931",
-        "biz_37da81ed2e2f",
-        "biz_8452c0cf2c35"
+        "biz_435d54127b86",
+        "biz_aa8070d801bc"
       ],
       "top_sources": [
         {
-          "source": "Lenny's Newsletter",
-          "title": "Build your own company brain: the enterprise AI playbook from Stripe’s engineering team | Sharadh Krishnamurthy",
-          "url": "https://www.lennysnewsletter.com/p/build-your-own-company-brain-the"
+          "source": "GitHub Blog",
+          "title": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
+          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser/"
         },
         {
-          "source": "Latent Space",
-          "title": "The Frontier AEO Tracker: What Astra Chooses (and every other frontier model, and what you can do about it)",
-          "url": "https://www.latent.space/p/aeo"
-        },
-        {
-          "source": "Lenny's Newsletter",
-          "title": "🎙️ How I AI: GPT-6 Astra is a banger + Stripe’s AI playbook + Grok Bot vs. OpenClaw: why I replaced my entire agent stack",
-          "url": "https://www.lennysnewsletter.com/p/how-i-ai-gpt-6-astra-is-a-banger"
+          "source": "OpenAI News",
+          "title": "Now everyone can put data to work",
+          "url": "https://openai.com/index/put-data-to-work"
         }
       ]
     }
