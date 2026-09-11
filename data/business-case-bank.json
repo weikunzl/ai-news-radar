@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T13:23:54.135511Z",
+  "generated_at": "2026-09-11T17:16:00.953976Z",
   "cases": [
     {
       "case_id": "opc_case_2c5abc9e6a04",
@@ -22,6 +22,48 @@
         "ftf_trust"
       ],
       "score": 56
+    },
+    {
+      "case_id": "opc_case_c726f154e97b",
+      "company": "CEO Interview",
+      "founder": "",
+      "source_refs": [
+        "biz_ca218043790e"
+      ],
+      "url": "https://www.cbinsights.com/research/ceo-interview-perimeter/",
+      "title": "CEO Interview: Perimeter",
+      "business_model": "Founder Case",
+      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
+      "monetization": "To be extracted from the linked source.",
+      "team_size_signal": "team size not explicit",
+      "distribution_channel": "CB Insights",
+      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
+      "yuanli_mapping": [
+        "yuanli_startup",
+        "ftf_trust"
+      ],
+      "score": 50
+    },
+    {
+      "case_id": "opc_case_5eefe0c70efe",
+      "company": "CEO Interview",
+      "founder": "",
+      "source_refs": [
+        "biz_a3bed2acf744"
+      ],
+      "url": "https://www.cbinsights.com/research/ceo-interview-yottavate/",
+      "title": "CEO Interview: YottaVate",
+      "business_model": "Founder Case",
+      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
+      "monetization": "To be extracted from the linked source.",
+      "team_size_signal": "team size not explicit",
+      "distribution_channel": "CB Insights",
+      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
+      "yuanli_mapping": [
+        "yuanli_startup",
+        "ftf_trust"
+      ],
+      "score": 50
     },
     {
       "case_id": "opc_case_dedcc02d0c10",
