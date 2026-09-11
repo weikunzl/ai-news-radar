@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T08:55:19.186523Z",
+  "generated_at": "2026-09-11T13:23:54.135511Z",
   "window_hours": 24,
   "items": [
     {
@@ -9,7 +9,7 @@
       "source_id": "cbinsights",
       "source_name": "CB Insights",
       "published_at": "2026-09-10T22:35:34Z",
-      "captured_at": "2026-09-11T08:55:19.186523Z",
+      "captured_at": "2026-09-11T13:23:54.135511Z",
       "lane": "startup_vc",
       "entities": [
         "CB Insights",
@@ -25,96 +25,19 @@
       ],
       "opc_fit_score": 0,
       "case_concreteness_score": 15,
-      "total_score": 57,
+      "total_score": 56,
       "score_breakdown": {
         "source_authority": 16,
         "yuanli_relevance": 13,
         "business_model_value": 5,
         "case_concreteness": 15,
         "opc_fit": 0,
-        "freshness": 8,
+        "freshness": 7,
         "counter_signal_value": 0
       },
       "summary": "Below, we break down some of tech’s biggest stories, with analyst perspective on the moves that matter the most. Here’s what we’re watching this week: AI app governance startups Stripe’s crypto mafia Asia’s Silicon Valle... Tags: Founder Case.",
       "timestamp_basis": "feed_published",
       "transport_mode": "feed"
-    },
-    {
-      "signal_id": "biz_76657f3b423e",
-      "title": "When AI Disruption Never Ends",
-      "url": "https://sloanreview.mit.edu/article/when-ai-disruption-never-ends/",
-      "source_id": "mit_smr",
-      "source_name": "MIT Sloan Management Review",
-      "published_at": "2026-09-10T11:00:26Z",
-      "captured_at": "2026-09-11T08:55:19.186523Z",
-      "lane": "authority",
-      "entities": [
-        "MIT Sloan Management Review",
-        "When AI Disruption",
-        "Never Ends"
-      ],
-      "business_model_tags": [
-        "AI Business Model Innovation",
-        "Founder Case",
-        "Enterprise AI Workflow"
-      ],
-      "yuanli_tags": [
-        "yuanli_asset",
-        "yuanli_startup",
-        "yuanli_os"
-      ],
-      "opc_fit_score": 0,
-      "case_concreteness_score": 8,
-      "total_score": 52,
-      "score_breakdown": {
-        "source_authority": 20,
-        "yuanli_relevance": 9,
-        "business_model_value": 8,
-        "case_concreteness": 8,
-        "opc_fit": 0,
-        "freshness": 7,
-        "counter_signal_value": 0
-      },
-      "summary": "Phil Bliss/theispot.com A vice president of product opens her laptop on a Monday morning to find that the AI model her team had worked with for the past six weeks to build a customer workflow has been leapfrogged by a ch... Tags: AI Business Model Innovation, Founder Case, Enterprise AI Workflow.",
-      "timestamp_basis": "feed_published",
-      "transport_mode": "feed"
-    },
-    {
-      "signal_id": "biz_a0ff1b13e384",
-      "title": "I built a $19.99 tool for a pricing problem I kept seeing in bookkeeping",
-      "url": "https://www.indiehackers.com/post/i-built-a-19-99-tool-for-a-pricing-problem-i-kept-seeing-in-bookkeeping-9d8a37c3e1",
-      "source_id": "indie_hackers",
-      "source_name": "Indie Hackers",
-      "published_at": "2026-09-10T10:09:19.928000Z",
-      "captured_at": "2026-09-11T08:55:19.186523Z",
-      "lane": "opc",
-      "entities": [
-        "Indie Hackers"
-      ],
-      "business_model_tags": [
-        "AI Business Model Innovation",
-        "Founder Case",
-        "OPC"
-      ],
-      "yuanli_tags": [
-        "yuanli_startup",
-        "profit_container"
-      ],
-      "opc_fit_score": 5,
-      "case_concreteness_score": 12,
-      "total_score": 51,
-      "score_breakdown": {
-        "source_authority": 16,
-        "yuanli_relevance": 6,
-        "business_model_value": 5,
-        "case_concreteness": 12,
-        "opc_fit": 5,
-        "freshness": 7,
-        "counter_signal_value": 0
-      },
-      "summary": "I built a $19.99 tool for a pricing problem I kept seeing in bookkeeping Tags: AI Business Model Innovation, Founder Case, OPC.",
-      "timestamp_basis": "page_structured_time",
-      "transport_mode": "page_detail"
     },
     {
       "signal_id": "biz_be56e9397c5d",
@@ -123,7 +46,7 @@
       "source_id": "bain_insights",
       "source_name": "Bain Insights",
       "published_at": "2026-09-11T02:00:00Z",
-      "captured_at": "2026-09-11T08:55:19.186523Z",
+      "captured_at": "2026-09-11T13:23:54.135511Z",
       "lane": "authority",
       "entities": [
         "Bain Insights",
@@ -142,14 +65,14 @@
       ],
       "opc_fit_score": 0,
       "case_concreteness_score": 8,
-      "total_score": 42,
+      "total_score": 41,
       "score_breakdown": {
         "source_authority": 20,
         "yuanli_relevance": 3,
         "business_model_value": 3,
         "case_concreteness": 8,
         "opc_fit": 0,
-        "freshness": 8,
+        "freshness": 7,
         "counter_signal_value": 0
       },
       "summary": "India’s Next Growth Frontier: B2B Commerce, Payments, and Credit Tags: Founder Case, AI Business Model Innovation.",
@@ -163,7 +86,7 @@
       "source_id": "github_blog",
       "source_name": "GitHub Blog",
       "published_at": "2026-09-10T21:31:19Z",
-      "captured_at": "2026-09-11T08:55:19.186523Z",
+      "captured_at": "2026-09-11T13:23:54.135511Z",
       "lane": "ai_commercialization",
       "entities": [
         "GitHub Blog",
@@ -194,41 +117,41 @@
       "transport_mode": "feed"
     },
     {
-      "signal_id": "biz_1e9ac176e750",
-      "title": "How Card Issuers and Banks Can Avoid Being Shut Out of Agentic Commerce",
-      "url": "https://www.bain.com/insights/how-card-issuers-and-banks-can-avoid-being-shut-out-of-agentic-commerce/",
-      "source_id": "bain_insights",
-      "source_name": "Bain Insights",
-      "published_at": "2026-09-10T13:00:00Z",
-      "captured_at": "2026-09-11T08:55:19.186523Z",
+      "signal_id": "biz_4fd17b58df7d",
+      "title": "The Questions You Should Be Asking About the AI Bubble",
+      "url": "https://hbr.org/2026/09/the-questions-you-should-be-asking-about-the-ai-bubble",
+      "source_id": "hbr",
+      "source_name": "Harvard Business Review",
+      "published_at": "2026-09-11T12:05:21Z",
+      "captured_at": "2026-09-11T13:23:54.135511Z",
       "lane": "authority",
       "entities": [
-        "Bain Insights",
-        "How Card Issuers",
-        "Banks Can Avoid",
-        "Being Shut Out",
-        "Agentic Commerce"
+        "Harvard Business Review",
+        "The Questions You",
+        "Should Be Asking",
+        "About",
+        "AI Bubble"
       ],
       "business_model_tags": [
-        "AI Business Model Innovation",
-        "Enterprise AI Workflow"
+        "Counter Signal",
+        "AI Business Model Innovation"
       ],
       "yuanli_tags": [
-        "yuanli_os"
+        "yuanli_startup"
       ],
       "opc_fit_score": 0,
       "case_concreteness_score": 0,
       "total_score": 35,
       "score_breakdown": {
         "source_authority": 20,
-        "yuanli_relevance": 3,
-        "business_model_value": 5,
+        "yuanli_relevance": 0,
+        "business_model_value": 3,
         "case_concreteness": 0,
         "opc_fit": 0,
-        "freshness": 7,
-        "counter_signal_value": 0
+        "freshness": 8,
+        "counter_signal_value": 4
       },
-      "summary": "How Card Issuers and Banks Can Avoid Being Shut Out of Agentic Commerce Tags: AI Business Model Innovation, Enterprise AI Workflow.",
+      "summary": "The Questions You Should Be Asking About the AI Bubble Tags: Counter Signal, AI Business Model Innovation.",
       "timestamp_basis": "feed_published",
       "transport_mode": "feed"
     },
@@ -239,7 +162,7 @@
       "source_id": "openai_news",
       "source_name": "OpenAI News",
       "published_at": "2026-09-10T15:00:00Z",
-      "captured_at": "2026-09-11T08:55:19.186523Z",
+      "captured_at": "2026-09-11T13:23:54.135511Z",
       "lane": "ai_commercialization",
       "entities": [
         "OpenAI News",
