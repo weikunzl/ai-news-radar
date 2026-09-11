@@ -1,32 +1,46 @@
 {
-  "generated_at": "2026-09-11T13:23:54.135511Z",
+  "generated_at": "2026-09-11T17:16:00.953976Z",
   "clusters": [
     {
-      "cluster_id": "biz_cluster_f8a3357cbb6f",
+      "cluster_id": "biz_cluster_a0e427aef2be",
       "thesis": "Founder stories provide the most reusable proof layer for Yuanli IP trust-building.",
       "lane": "founder_case",
       "signal_ids": [
-        "biz_42cd60bb051b"
+        "biz_42cd60bb051b",
+        "biz_ca218043790e",
+        "biz_a3bed2acf744"
       ],
       "source_count": 1,
-      "importance_score": 58,
+      "importance_score": 54,
       "confidence": "watch",
       "yuanli_mapping": [
         "ftf_trust",
         "yuanli_asset",
         "wealth_flywheel"
       ],
-      "why_it_matters": "1 English evidence items from 1 sources connect this pattern to Yuanli IP.",
+      "why_it_matters": "3 English evidence items from 1 sources connect this pattern to Yuanli IP.",
       "counter_evidence": "See counter_signal cluster for adoption, ROI, and trust risks.",
       "recommended_action": "Convert high-score founder cases into FTF credible story assets.",
       "evidence_refs": [
-        "biz_42cd60bb051b"
+        "biz_42cd60bb051b",
+        "biz_ca218043790e",
+        "biz_a3bed2acf744"
       ],
       "top_sources": [
         {
           "source": "CB Insights",
           "title": "Stripe’s founder factory and the AI governance boom",
           "url": "https://www.cbinsights.com/research/newsletter-september-10-2026/"
+        },
+        {
+          "source": "CB Insights",
+          "title": "CEO Interview: Perimeter",
+          "url": "https://www.cbinsights.com/research/ceo-interview-perimeter/"
+        },
+        {
+          "source": "CB Insights",
+          "title": "CEO Interview: YottaVate",
+          "url": "https://www.cbinsights.com/research/ceo-interview-yottavate/"
         }
       ]
     },
@@ -60,15 +74,15 @@
       ]
     },
     {
-      "cluster_id": "biz_cluster_c05a9e143d99",
+      "cluster_id": "biz_cluster_5151172cc3f7",
       "thesis": "Enterprise AI value is moving toward operating-model redesign rather than isolated copilots.",
       "lane": "enterprise_workflow",
       "signal_ids": [
         "biz_435d54127b86",
-        "biz_aa8070d801bc"
+        "biz_b0e2aa22bc99"
       ],
       "source_count": 2,
-      "importance_score": 39,
+      "importance_score": 38,
       "confidence": "medium",
       "yuanli_mapping": [
         "yuanli_os",
@@ -79,7 +93,7 @@
       "recommended_action": "Map each workflow case to the Yuanli OS organs: soul, memory, judgment, hands.",
       "evidence_refs": [
         "biz_435d54127b86",
-        "biz_aa8070d801bc"
+        "biz_b0e2aa22bc99"
       ],
       "top_sources": [
         {
@@ -89,8 +103,8 @@
         },
         {
           "source": "OpenAI News",
-          "title": "Now everyone can put data to work",
-          "url": "https://openai.com/index/put-data-to-work"
+          "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+          "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one"
         }
       ]
     },
