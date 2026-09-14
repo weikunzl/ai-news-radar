@@ -1,4 +1,45 @@
 {
-  "generated_at": "2026-09-14T00:06:23.948093Z",
-  "cases": []
+  "generated_at": "2026-09-14T04:05:03.885110Z",
+  "cases": [
+    {
+      "case_id": "opc_case_c7200ceef2d5",
+      "company": "Indie Hackers",
+      "founder": "",
+      "source_refs": [
+        "biz_827b45aea9ff"
+      ],
+      "url": "https://www.indiehackers.com/post/a-small-question-for-founders-7403da3009",
+      "title": "A small question for founders",
+      "business_model": "Founder Case, OPC",
+      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
+      "monetization": "To be extracted from the linked source.",
+      "team_size_signal": "team size not explicit",
+      "distribution_channel": "Indie Hackers",
+      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
+      "yuanli_mapping": [
+        "yuanli_startup"
+      ],
+      "score": 42
+    },
+    {
+      "case_id": "opc_case_8c7cc6f57f9a",
+      "company": "POS",
+      "founder": "",
+      "source_refs": [
+        "biz_10cfc9224416"
+      ],
+      "url": "https://www.indiehackers.com/post/i-built-an-offline-first-pos-app-for-indonesian-small-businesses-59a52221b6",
+      "title": "I built an offline-first POS app for Indonesian small businesses",
+      "business_model": "Founder Case, OPC",
+      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
+      "monetization": "To be extracted from the linked source.",
+      "team_size_signal": "team size not explicit",
+      "distribution_channel": "Indie Hackers",
+      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
+      "yuanli_mapping": [
+        "yuanli_startup"
+      ],
+      "score": 39
+    }
+  ]
 }

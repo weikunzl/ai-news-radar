@@ -1,4 +1,41 @@
 {
-  "generated_at": "2026-09-14T00:06:23.948093Z",
-  "clusters": []
+  "generated_at": "2026-09-14T04:05:03.885110Z",
+  "clusters": [
+    {
+      "cluster_id": "biz_cluster_01f6e24909ce",
+      "thesis": "AI leverage is making one-person and tiny-team companies a credible strategic archetype.",
+      "lane": "opc",
+      "signal_ids": [
+        "biz_827b45aea9ff",
+        "biz_10cfc9224416"
+      ],
+      "source_count": 1,
+      "importance_score": 42,
+      "confidence": "watch",
+      "yuanli_mapping": [
+        "yuanli_asset",
+        "yuanli_startup",
+        "profit_container"
+      ],
+      "why_it_matters": "2 English evidence items from 1 sources connect this pattern to Yuanli IP.",
+      "counter_evidence": "See counter_signal cluster for adoption, ROI, and trust risks.",
+      "recommended_action": "Turn the strongest case into a Yuanli OPC teaching module with leverage, distribution, and monetization explicitly mapped.",
+      "evidence_refs": [
+        "biz_827b45aea9ff",
+        "biz_10cfc9224416"
+      ],
+      "top_sources": [
+        {
+          "source": "Indie Hackers",
+          "title": "A small question for founders",
+          "url": "https://www.indiehackers.com/post/a-small-question-for-founders-7403da3009"
+        },
+        {
+          "source": "Indie Hackers",
+          "title": "I built an offline-first POS app for Indonesian small businesses",
+          "url": "https://www.indiehackers.com/post/i-built-an-offline-first-pos-app-for-indonesian-small-businesses-59a52221b6"
+        }
+      ]
+    }
+  ]
 }
