@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T13:48:10.540353Z",
+  "generated_at": "2026-09-18T17:44:10.704320Z",
   "cases": [
     {
       "case_id": "opc_case_ec40514e5198",
@@ -22,6 +22,27 @@
         "profit_container"
       ],
       "score": 54
+    },
+    {
+      "case_id": "opc_case_879d7674d9de",
+      "company": "CEO Interview",
+      "founder": "",
+      "source_refs": [
+        "biz_d88ca3358227"
+      ],
+      "url": "https://www.cbinsights.com/research/ceo-interview-chorah-labs/",
+      "title": "CEO Interview: Chorah Labs",
+      "business_model": "Founder Case",
+      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
+      "monetization": "To be extracted from the linked source.",
+      "team_size_signal": "team size not explicit",
+      "distribution_channel": "CB Insights",
+      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
+      "yuanli_mapping": [
+        "yuanli_startup",
+        "ftf_trust"
+      ],
+      "score": 50
     },
     {
       "case_id": "opc_case_816047271370",
@@ -192,45 +213,24 @@
       "score": 49
     },
     {
-      "case_id": "opc_case_43125eaee133",
-      "company": "Executive Interview",
+      "case_id": "opc_case_c3b2a45bfca4",
+      "company": "Saplings",
       "founder": "",
       "source_refs": [
-        "biz_1d2e750b4a97"
+        "biz_caaecd105b14"
       ],
-      "url": "https://www.cbinsights.com/research/executive-interview-augmentifai/",
-      "title": "Executive Interview: Augmentifai",
+      "url": "https://www.generalist.com/p/saplings-the-world-outside",
+      "title": "Saplings: The World Outside",
       "business_model": "Founder Case",
       "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
       "monetization": "To be extracted from the linked source.",
       "team_size_signal": "team size not explicit",
-      "distribution_channel": "CB Insights",
-      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
-      "yuanli_mapping": [
-        "yuanli_startup",
-        "ftf_trust"
-      ],
-      "score": 49
-    },
-    {
-      "case_id": "opc_case_a2275bbbe2da",
-      "company": "AI Tube Hits",
-      "founder": "",
-      "source_refs": [
-        "biz_a5d0283b3517"
-      ],
-      "url": "https://www.indiehackers.com/post/ai-tube-hits-424k-active-users-this-in-last-8-months-we-re-offering-free-promotion-to-saas-ai-businesses-bef72f9310",
-      "title": "AI Tube Hits 424K+ Active Users this in Last 8 Months We’re Offering Free Promotion to SaaS & AI Businesses",
-      "business_model": "OPC",
-      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
-      "monetization": "To be extracted from the linked source.",
-      "team_size_signal": "team size not explicit",
-      "distribution_channel": "Indie Hackers",
+      "distribution_channel": "The Generalist",
       "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
       "yuanli_mapping": [
         "yuanli_startup"
       ],
-      "score": 32
+      "score": 38
     }
   ]
 }
