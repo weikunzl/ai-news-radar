@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T10:02:02.154928Z",
+  "generated_at": "2026-09-20T14:10:18.716420Z",
   "clusters": [
     {
       "cluster_id": "biz_cluster_cf53e7f5dfd7",
@@ -27,6 +27,34 @@
           "source": "Lenny's Newsletter",
           "title": "🧠 Community Wisdom: Finding your first users before the product exists, debriefing your own interviews, what to optimize for in the early years of your career, and more",
           "url": "https://www.lennysnewsletter.com/p/community-wisdom-finding-your-first"
+        }
+      ]
+    },
+    {
+      "cluster_id": "biz_cluster_e4a9be24e0eb",
+      "thesis": "Enterprise AI value is moving toward operating-model redesign rather than isolated copilots.",
+      "lane": "enterprise_workflow",
+      "signal_ids": [
+        "biz_64f1dafd7b93"
+      ],
+      "source_count": 1,
+      "importance_score": 33,
+      "confidence": "watch",
+      "yuanli_mapping": [
+        "yuanli_os",
+        "ftf_trust"
+      ],
+      "why_it_matters": "1 English evidence items from 1 sources connect this pattern to Yuanli IP.",
+      "counter_evidence": "See counter_signal cluster for adoption, ROI, and trust risks.",
+      "recommended_action": "Map each workflow case to the Yuanli OS organs: soul, memory, judgment, hands.",
+      "evidence_refs": [
+        "biz_64f1dafd7b93"
+      ],
+      "top_sources": [
+        {
+          "source": "Lenny's Newsletter",
+          "title": "90 minutes of unfiltered product advice from Snap and Discord’s product chief | Peter Sellis",
+          "url": "https://www.lennysnewsletter.com/p/90-minutes-of-unfiltered-product"
         }
       ]
     }

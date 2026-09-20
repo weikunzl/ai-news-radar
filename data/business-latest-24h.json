@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T10:02:02.154928Z",
+  "generated_at": "2026-09-20T14:10:18.716420Z",
   "window_hours": 24,
   "items": [
     {
@@ -9,7 +9,7 @@
       "source_id": "lenny",
       "source_name": "Lenny's Newsletter",
       "published_at": "2026-09-19T19:42:24Z",
-      "captured_at": "2026-09-20T10:02:02.154928Z",
+      "captured_at": "2026-09-20T14:10:18.716420Z",
       "lane": "startup_vc",
       "entities": [
         "Lenny's Newsletter",
@@ -35,6 +35,44 @@
         "counter_signal_value": 0
       },
       "summary": "Community Wisdom 299 Tags: Founder Case.",
+      "timestamp_basis": "feed_published",
+      "transport_mode": "feed"
+    },
+    {
+      "signal_id": "biz_64f1dafd7b93",
+      "title": "90 minutes of unfiltered product advice from Snap and Discord’s product chief | Peter Sellis",
+      "url": "https://www.lennysnewsletter.com/p/90-minutes-of-unfiltered-product",
+      "source_id": "lenny",
+      "source_name": "Lenny's Newsletter",
+      "published_at": "2026-09-20T12:32:17Z",
+      "captured_at": "2026-09-20T14:10:18.716420Z",
+      "lane": "startup_vc",
+      "entities": [
+        "Lenny's Newsletter",
+        "Snap",
+        "Discord",
+        "Peter Sellis"
+      ],
+      "business_model_tags": [
+        "Enterprise AI Workflow",
+        "Founder Case"
+      ],
+      "yuanli_tags": [
+        "yuanli_startup"
+      ],
+      "opc_fit_score": 0,
+      "case_concreteness_score": 4,
+      "total_score": 31,
+      "score_breakdown": {
+        "source_authority": 16,
+        "yuanli_relevance": 0,
+        "business_model_value": 3,
+        "case_concreteness": 4,
+        "opc_fit": 0,
+        "freshness": 8,
+        "counter_signal_value": 0
+      },
+      "summary": "Peter Sellis on designing teams like terrorist organizations, riding your best people hard, and the three oxymorons of a truly great PM Tags: Enterprise AI Workflow, Founder Case.",
       "timestamp_basis": "feed_published",
       "transport_mode": "feed"
     }
