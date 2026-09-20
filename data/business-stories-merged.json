@@ -1,6 +1,35 @@
 {
-  "generated_at": "2026-09-20T00:19:34.195937Z",
+  "generated_at": "2026-09-20T05:18:20.882613Z",
   "clusters": [
+    {
+      "cluster_id": "biz_cluster_67d92b28f4a8",
+      "thesis": "AI leverage is making one-person and tiny-team companies a credible strategic archetype.",
+      "lane": "opc",
+      "signal_ids": [
+        "biz_cdaa3a9783fd"
+      ],
+      "source_count": 1,
+      "importance_score": 41,
+      "confidence": "watch",
+      "yuanli_mapping": [
+        "yuanli_asset",
+        "yuanli_startup",
+        "profit_container"
+      ],
+      "why_it_matters": "1 English evidence items from 1 sources connect this pattern to Yuanli IP.",
+      "counter_evidence": "See counter_signal cluster for adoption, ROI, and trust risks.",
+      "recommended_action": "Turn the strongest case into a Yuanli OPC teaching module with leverage, distribution, and monetization explicitly mapped.",
+      "evidence_refs": [
+        "biz_cdaa3a9783fd"
+      ],
+      "top_sources": [
+        {
+          "source": "Indie Hackers",
+          "title": "I let an AI agent run my LLM-security product's whole sales loop for 30 days. Here's what actually broke.",
+          "url": "https://www.indiehackers.com/post/i-let-an-ai-agent-run-my-llm-security-products-whole-sales-loop-for-30-days-here-s-what-actually-broke-e16f092b52"
+        }
+      ]
+    },
     {
       "cluster_id": "biz_cluster_cf53e7f5dfd7",
       "thesis": "Founder stories provide the most reusable proof layer for Yuanli IP trust-building.",
