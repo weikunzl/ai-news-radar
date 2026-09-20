@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T20:30:00.529764Z",
+  "generated_at": "2026-09-20T22:41:27.665533Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8485,
-      "importance": 0.8485,
-      "importance_score": 0.8485,
+      "score": 0.843,
+      "importance": 0.843,
+      "importance_score": 0.843,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9659,
+        "recency": 0.9358,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -213,15 +213,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8218,
-      "importance": 0.8218,
-      "importance_score": 0.8218,
+      "score": 0.8168,
+      "importance": 0.8168,
+      "importance_score": 0.8168,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8845,
+        "recency": 0.8569,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -237,6 +237,67 @@
         "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像",
         "url": "https://qwen.ai/blog?id=qwen-image-2.1",
         "source": "Qwen：Blog Retrieval（API）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_fcca394b788e",
+      "title": "Google 确认 Gemini 在 Irregular 安全测试中访问 3 家真实公司系统，与 OpenAI、Anthropic、Meta 属同一评估事故",
+      "url": "https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests",
+      "primary_url": "https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests",
+      "source": "MarkTechPost（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e7934196a7be1cf52a62f81ea6d8d9b348e216c3",
+          "title": "Google 确认 Gemini 在 Irregular 安全测试中访问 3 家真实公司系统，与 OpenAI、Anthropic、Meta 属同一评估事故",
+          "url": "https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-20T20:20:56Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "MarkTechPost（RSS）"
+      ],
+      "items": [
+        {
+          "id": "e7934196a7be1cf52a62f81ea6d8d9b348e216c3",
+          "title": "Google 确认 Gemini 在 Irregular 安全测试中访问 3 家真实公司系统，与 OpenAI、Anthropic、Meta 属同一评估事故",
+          "url": "https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-20T20:20:56Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7796,
+      "importance": 0.7796,
+      "importance_score": 0.7796,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9667,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-20T20:20:56Z",
+      "latest_at": "2026-09-20T20:20:56Z",
+      "primary_item": {
+        "id": "e7934196a7be1cf52a62f81ea6d8d9b348e216c3",
+        "title": "Google 确认 Gemini 在 Irregular 安全测试中访问 3 家真实公司系统，与 OpenAI、Anthropic、Meta 属同一评估事故",
+        "url": "https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests",
+        "source": "MarkTechPost（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -275,15 +336,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7422,
-      "importance": 0.7422,
-      "importance_score": 0.7422,
+      "score": 0.7371,
+      "importance": 0.7371,
+      "importance_score": 0.7371,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9087,
+        "recency": 0.8804,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -354,15 +415,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7614,
-      "importance": 0.7614,
-      "importance_score": 0.7614,
+      "score": 0.7573,
+      "importance": 0.7573,
+      "importance_score": 0.7573,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7435,
+        "recency": 0.7203,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -379,6 +440,84 @@
         "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_410fb4adc82c",
+      "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026",
+      "primary_url": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026",
+      "source": "TechCrunch AI",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "ad4ad93a18b7efa456d3b1d3c24e4f443110f8d3",
+          "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
+          "url": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-20T21:41:08Z"
+        },
+        {
+          "id": "147592a8d4261159974ab1de17457b25f9a87a14",
+          "title": "距离 TechCrunch Disrupt 2026 取得成功还剩 6 天 / 6 days left to get ahead at TechCrunch Disrupt 2026",
+          "url": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-20T14:00:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "TechCrunch AI"
+      ],
+      "items": [
+        {
+          "id": "ad4ad93a18b7efa456d3b1d3c24e4f443110f8d3",
+          "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
+          "url": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-20T21:41:08Z"
+        },
+        {
+          "id": "147592a8d4261159974ab1de17457b25f9a87a14",
+          "title": "距离 TechCrunch Disrupt 2026 取得成功还剩 6 天 / 6 days left to get ahead at TechCrunch Disrupt 2026",
+          "url": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-20T14:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6462,
+      "importance": 0.6462,
+      "importance_score": 0.6462,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5472,
+        "source_tier": 0.58,
+        "ai_relevance": 0.76,
+        "recency": 0.9856,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-20T14:00:00Z",
+      "latest_at": "2026-09-20T21:41:08Z",
+      "primary_item": {
+        "id": "ad4ad93a18b7efa456d3b1d3c24e4f443110f8d3",
+        "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
+        "url": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026",
+        "source": "TechCrunch AI",
+        "source_name": "Curated Media"
       }
     },
     {
@@ -434,15 +573,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6112,
-      "importance": 0.6112,
-      "importance_score": 0.6112,
+      "score": 0.6057,
+      "importance": 0.6057,
+      "importance_score": 0.6057,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.9763,
+        "recency": 0.9459,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -477,12 +616,12 @@
           "published_at": "2026-09-20T17:03:10.347000Z"
         },
         {
-          "id": "6f3200acfd3b87e98eca1ed6348370841f6346d4",
+          "id": "9522a76c98197316c216bac9e8c541d79e2b3ced",
           "title": "“海盗脸”拯救了大语言模型免遭删除 / Pirate Face Rescues LLM Models from Deletion",
           "url": "https://pirateface.co",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-09-20T15:16:07Z"
         },
         {
@@ -497,7 +636,7 @@
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "hackernews",
         "pirateface.co"
       ],
@@ -512,12 +651,12 @@
           "published_at": "2026-09-20T17:03:10.347000Z"
         },
         {
-          "id": "6f3200acfd3b87e98eca1ed6348370841f6346d4",
+          "id": "9522a76c98197316c216bac9e8c541d79e2b3ced",
           "title": "“海盗脸”拯救了大语言模型免遭删除 / Pirate Face Rescues LLM Models from Deletion",
           "url": "https://pirateface.co",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-09-20T15:16:07Z"
         },
         {
@@ -532,15 +671,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5621,
-      "importance": 0.5621,
-      "importance_score": 0.5621,
+      "score": 0.5567,
+      "importance": 0.5567,
+      "importance_score": 0.5567,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9514,
+        "recency": 0.9218,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -630,15 +769,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5588,
-      "importance": 0.5588,
-      "importance_score": 0.5588,
+      "score": 0.5536,
+      "importance": 0.5536,
+      "importance_score": 0.5536,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9336,
+        "recency": 0.9045,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -728,15 +867,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5519,
-      "importance": 0.5519,
-      "importance_score": 0.5519,
+      "score": 0.5469,
+      "importance": 0.5469,
+      "importance_score": 0.5469,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8952,
+        "recency": 0.8674,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -751,6 +890,85 @@
         "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons",
         "source": "www.chesterwisniewski.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_2da09961cf12",
+      "title": "OpenAI的萨姆·阿尔特曼将于下周向联合国安理会作简报 / OpenAI's Sam Altman to Brief UN Security Council Next Week",
+      "url": "https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18",
+      "primary_url": "https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18",
+      "source": "Hacker News",
+      "source_name": "TechURLs",
+      "sources": [
+        {
+          "id": "372ac4a7ae9fe28bbb4e3231f951d4cb6a0a9f35",
+          "title": "OpenAI的萨姆·阿尔特曼将于下周向联合国安理会作简报 / OpenAI's Sam Altman to Brief UN Security Council Next Week",
+          "url": "https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-20T20:32:43Z"
+        },
+        {
+          "id": "c558f647f87148c7e2c88675443ab7db36998518",
+          "title": "OpenAI的萨姆·阿尔特曼将于下周向联合国安理会作简报",
+          "url": "https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-20T16:00:21.385000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "www.reuters.com"
+      ],
+      "items": [
+        {
+          "id": "372ac4a7ae9fe28bbb4e3231f951d4cb6a0a9f35",
+          "title": "OpenAI的萨姆·阿尔特曼将于下周向联合国安理会作简报 / OpenAI's Sam Altman to Brief UN Security Council Next Week",
+          "url": "https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-20T20:32:43Z"
+        },
+        {
+          "id": "c558f647f87148c7e2c88675443ab7db36998518",
+          "title": "OpenAI的萨姆·阿尔特曼将于下周向联合国安理会作简报",
+          "url": "https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-20T16:00:21.385000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5403,
+      "importance": 0.5403,
+      "importance_score": 0.5403,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9695,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-20T16:00:21.385000Z",
+      "latest_at": "2026-09-20T20:32:43Z",
+      "primary_item": {
+        "id": "372ac4a7ae9fe28bbb4e3231f951d4cb6a0a9f35",
+        "title": "OpenAI的萨姆·阿尔特曼将于下周向联合国安理会作简报 / OpenAI's Sam Altman to Brief UN Security Council Next Week",
+        "url": "https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18",
+        "source": "Hacker News",
+        "source_name": "TechURLs"
       }
     },
     {
@@ -807,15 +1025,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5456,
-      "importance": 0.5456,
-      "importance_score": 0.5456,
+      "score": 0.54,
+      "importance": 0.54,
+      "importance_score": 0.54,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9989,
+        "recency": 0.9678,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -830,85 +1048,6 @@
         "url": "https://github.com/marciob/openmsg",
         "source": "github.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_ef6362531a2e",
-      "title": "为什么 MCP 总是一个坏主意 / Why MCP Was Always a Bad Idea",
-      "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
-      "primary_url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
-      "source": "Hacker News",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "0416f96733a595a1066cc4cd48072b28784e9788",
-          "title": "为什么 MCP 总是一个坏主意 / Why MCP Was Always a Bad Idea",
-          "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-20T19:44:40Z"
-        },
-        {
-          "id": "2149610d8f15e4ea172f60188b1af67746f92c92",
-          "title": "为什么 MCP 总是一个坏主意 / Why MCP Was Always a Bad Idea",
-          "url": "https://news.ycombinator.com/item?id=49779329",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T19:44:40Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "0416f96733a595a1066cc4cd48072b28784e9788",
-          "title": "为什么 MCP 总是一个坏主意 / Why MCP Was Always a Bad Idea",
-          "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-20T19:44:40Z"
-        },
-        {
-          "id": "2149610d8f15e4ea172f60188b1af67746f92c92",
-          "title": "为什么 MCP 总是一个坏主意 / Why MCP Was Always a Bad Idea",
-          "url": "https://news.ycombinator.com/item?id=49779329",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T19:44:40Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5438,
-      "importance": 0.5438,
-      "importance_score": 0.5438,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9891,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-20T19:44:40Z",
-      "latest_at": "2026-09-20T19:44:40Z",
-      "primary_item": {
-        "id": "0416f96733a595a1066cc4cd48072b28784e9788",
-        "title": "为什么 MCP 总是一个坏主意 / Why MCP Was Always a Bad Idea",
-        "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
-        "source": "Hacker News",
-        "source_name": "TechURLs"
       }
     },
     {
@@ -965,15 +1104,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5436,
-      "importance": 0.5436,
-      "importance_score": 0.5436,
+      "score": 0.538,
+      "importance": 0.538,
+      "importance_score": 0.538,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9876,
+        "recency": 0.9569,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1043,15 +1182,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5345,
-      "importance": 0.5345,
-      "importance_score": 0.5345,
+      "score": 0.5292,
+      "importance": 0.5292,
+      "importance_score": 0.5292,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.937,
+        "recency": 0.9078,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1122,15 +1261,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5332,
-      "importance": 0.5332,
-      "importance_score": 0.5332,
+      "score": 0.528,
+      "importance": 0.528,
+      "importance_score": 0.528,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.93,
+        "recency": 0.901,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1200,15 +1339,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5328,
-      "importance": 0.5328,
-      "importance_score": 0.5328,
+      "score": 0.5276,
+      "importance": 0.5276,
+      "importance_score": 0.5276,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9277,
+        "recency": 0.8988,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1278,15 +1417,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5258,
-      "importance": 0.5258,
-      "importance_score": 0.5258,
+      "score": 0.5208,
+      "importance": 0.5208,
+      "importance_score": 0.5208,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8886,
+        "recency": 0.861,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1357,15 +1496,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5181,
-      "importance": 0.5181,
-      "importance_score": 0.5181,
+      "score": 0.5133,
+      "importance": 0.5133,
+      "importance_score": 0.5133,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.846,
+        "recency": 0.8197,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1380,6 +1519,85 @@
         "url": "https://faceanalysisai.com",
         "source": "faceanalysisai.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_ef6362531a2e",
+      "title": "为什么 MCP 总是一个坏主意 / Why MCP Was Always a Bad Idea",
+      "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
+      "primary_url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
+      "source": "Hacker News",
+      "source_name": "TechURLs",
+      "sources": [
+        {
+          "id": "0416f96733a595a1066cc4cd48072b28784e9788",
+          "title": "为什么 MCP 总是一个坏主意 / Why MCP Was Always a Bad Idea",
+          "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-20T19:44:40Z"
+        },
+        {
+          "id": "2149610d8f15e4ea172f60188b1af67746f92c92",
+          "title": "为什么 MCP 总是一个坏主意 / Why MCP Was Always a Bad Idea",
+          "url": "https://news.ycombinator.com/item?id=49779329",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-20T19:44:40Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "0416f96733a595a1066cc4cd48072b28784e9788",
+          "title": "为什么 MCP 总是一个坏主意 / Why MCP Was Always a Bad Idea",
+          "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-20T19:44:40Z"
+        },
+        {
+          "id": "2149610d8f15e4ea172f60188b1af67746f92c92",
+          "title": "为什么 MCP 总是一个坏主意 / Why MCP Was Always a Bad Idea",
+          "url": "https://news.ycombinator.com/item?id=49779329",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-20T19:44:40Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5383,
+      "importance": 0.5383,
+      "importance_score": 0.5383,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9583,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-20T19:44:40Z",
+      "latest_at": "2026-09-20T19:44:40Z",
+      "primary_item": {
+        "id": "0416f96733a595a1066cc4cd48072b28784e9788",
+        "title": "为什么 MCP 总是一个坏主意 / Why MCP Was Always a Bad Idea",
+        "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
+        "source": "Hacker News",
+        "source_name": "TechURLs"
       }
     },
     {
@@ -1436,15 +1654,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.541,
-      "importance": 0.541,
-      "importance_score": 0.541,
+      "score": 0.5355,
+      "importance": 0.5355,
+      "importance_score": 0.5355,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9731,
+        "recency": 0.9428,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1457,243 +1675,6 @@
         "id": "bdd364bf6c98a3c349f976deeffb383ad7a4b316",
         "title": "特朗普的科技顾问对担心自己正在开发不安全模型的人工智能公司提出建议：“干脆别干了”",
         "url": "https://www.businessinsider.com/trump-tech-advisor-ai-slow-down-anthropic-openai-2026-9",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_ef8f2d6389be",
-      "title": "并非所有人工智能从业者都认为这项技术会杀光所有人",
-      "url": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss",
-      "primary_url": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss",
-      "source": "www.bbc.co.uk",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "99ef320373730c06fda5667e3e96624a657efbe3",
-          "title": "并非所有人工智能从业者都认为这项技术会杀光所有人",
-          "url": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss",
-          "source": "www.bbc.co.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-19T23:11:32.379000Z"
-        },
-        {
-          "id": "c9d54d07408385f94c522f9f57541bdf9a55c39b",
-          "title": "并非所有人工智能从业者都认为这项技术会杀光所有人 / Not all AI workers think the tech could kill everyone",
-          "url": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-19T23:01:57Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "BBC News",
-        "www.bbc.co.uk"
-      ],
-      "items": [
-        {
-          "id": "99ef320373730c06fda5667e3e96624a657efbe3",
-          "title": "并非所有人工智能从业者都认为这项技术会杀光所有人",
-          "url": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss",
-          "source": "www.bbc.co.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-19T23:11:32.379000Z"
-        },
-        {
-          "id": "c9d54d07408385f94c522f9f57541bdf9a55c39b",
-          "title": "并非所有人工智能从业者都认为这项技术会杀光所有人 / Not all AI workers think the tech could kill everyone",
-          "url": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-19T23:01:57Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4981,
-      "importance": 0.4981,
-      "importance_score": 0.4981,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7351,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-19T23:01:57Z",
-      "latest_at": "2026-09-19T23:11:32.379000Z",
-      "primary_item": {
-        "id": "99ef320373730c06fda5667e3e96624a657efbe3",
-        "title": "并非所有人工智能从业者都认为这项技术会杀光所有人",
-        "url": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss",
-        "source": "www.bbc.co.uk",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_d9e220dea7b7",
-      "title": "大型科技公司利用担保将 300B 美元的人工智能风险保留在资产负债表之外 / Big Tech uses guarantees to keep $300B AI exposure off balance sheets",
-      "url": "https://www.ft.com/content/7f11afae-c4e3-4054-a65b-873f3647f563",
-      "primary_url": "https://www.ft.com/content/7f11afae-c4e3-4054-a65b-873f3647f563",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "9e4b39fee8e55d307074a3f4e61aee1d9a098bbf",
-          "title": "大型科技公司利用担保将 300B 美元的人工智能风险保留在资产负债表之外 / Big Tech uses guarantees to keep $300B AI exposure off balance sheets",
-          "url": "https://www.ft.com/content/7f11afae-c4e3-4054-a65b-873f3647f563",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-20T12:07:10Z"
-        },
-        {
-          "id": "dffa282ed2d8d47e66e1c469a13e587592d5f48b",
-          "title": "科技巨头利用担保手段，将3000亿美元的人工智能相关风险排除在资产负债表之外",
-          "url": "https://www.ft.com/content/7f11afae-c4e3-4054-a65b-873f3647f563?syn-25a6b1a6=1",
-          "source": "www.ft.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-20T07:19:35.282000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "www.ft.com"
-      ],
-      "items": [
-        {
-          "id": "9e4b39fee8e55d307074a3f4e61aee1d9a098bbf",
-          "title": "大型科技公司利用担保将 300B 美元的人工智能风险保留在资产负债表之外 / Big Tech uses guarantees to keep $300B AI exposure off balance sheets",
-          "url": "https://www.ft.com/content/7f11afae-c4e3-4054-a65b-873f3647f563",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-20T12:07:10Z"
-        },
-        {
-          "id": "dffa282ed2d8d47e66e1c469a13e587592d5f48b",
-          "title": "科技巨头利用担保手段，将3000亿美元的人工智能相关风险排除在资产负债表之外",
-          "url": "https://www.ft.com/content/7f11afae-c4e3-4054-a65b-873f3647f563?syn-25a6b1a6=1",
-          "source": "www.ft.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-20T07:19:35.282000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5253,
-      "importance": 0.5253,
-      "importance_score": 0.5253,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.886,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-20T07:19:35.282000Z",
-      "latest_at": "2026-09-20T12:07:10Z",
-      "primary_item": {
-        "id": "9e4b39fee8e55d307074a3f4e61aee1d9a098bbf",
-        "title": "大型科技公司利用担保将 300B 美元的人工智能风险保留在资产负债表之外 / Big Tech uses guarantees to keep $300B AI exposure off balance sheets",
-        "url": "https://www.ft.com/content/7f11afae-c4e3-4054-a65b-873f3647f563",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_0213236599a1",
-      "title": "Meta的“Muse”电视广告是人工智能代理正走向主流的最新迹象",
-      "url": "https://www.businessinsider.com/meta-muse-personal-ai-agent-mainstream-instinct-2026-9",
-      "primary_url": "https://www.businessinsider.com/meta-muse-personal-ai-agent-mainstream-instinct-2026-9",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "51cd72861bab3439b1e1f2ec997d6c1d30912538",
-          "title": "Meta的“Muse”电视广告是人工智能代理正走向主流的最新迹象",
-          "url": "https://www.businessinsider.com/meta-muse-personal-ai-agent-mainstream-instinct-2026-9",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-20T17:33:38.775000Z"
-        },
-        {
-          "id": "4b623314746989dc6e92e9ac06c07068a4619163",
-          "title": "Meta的“Muse”电视广告是人工智能代理正走向主流的最新迹象 / Meta’s Muse TV ad is the latest sign that AI agents are going mainstream",
-          "url": "https://www.businessinsider.com/meta-muse-personal-ai-agent-mainstream-instinct-2026-9",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-20T17:11:09Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "51cd72861bab3439b1e1f2ec997d6c1d30912538",
-          "title": "Meta的“Muse”电视广告是人工智能代理正走向主流的最新迹象",
-          "url": "https://www.businessinsider.com/meta-muse-personal-ai-agent-mainstream-instinct-2026-9",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-20T17:33:38.775000Z"
-        },
-        {
-          "id": "4b623314746989dc6e92e9ac06c07068a4619163",
-          "title": "Meta的“Muse”电视广告是人工智能代理正走向主流的最新迹象 / Meta’s Muse TV ad is the latest sign that AI agents are going mainstream",
-          "url": "https://www.businessinsider.com/meta-muse-personal-ai-agent-mainstream-instinct-2026-9",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-20T17:11:09Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5383,
-      "importance": 0.5383,
-      "importance_score": 0.5383,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9584,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-20T17:11:09Z",
-      "latest_at": "2026-09-20T17:33:38.775000Z",
-      "primary_item": {
-        "id": "51cd72861bab3439b1e1f2ec997d6c1d30912538",
-        "title": "Meta的“Muse”电视广告是人工智能代理正走向主流的最新迹象",
-        "url": "https://www.businessinsider.com/meta-muse-personal-ai-agent-mainstream-instinct-2026-9",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
