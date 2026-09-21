@@ -1,7 +1,45 @@
 {
-  "generated_at": "2026-09-21T00:58:35.505336Z",
+  "generated_at": "2026-09-21T12:42:39.053895Z",
   "window_hours": 24,
   "items": [
+    {
+      "signal_id": "biz_63fdc069bc98",
+      "title": "Customer Engagement Is Banking’s New Battleground",
+      "url": "https://www.bain.com/insights/customer-engagement-is-bankings-new-battleground-infographic/",
+      "source_id": "bain_insights",
+      "source_name": "Bain Insights",
+      "published_at": "2026-09-21T04:00:00Z",
+      "captured_at": "2026-09-21T12:42:39.053895Z",
+      "lane": "authority",
+      "entities": [
+        "Bain Insights",
+        "Customer Engagement Is",
+        "Banking",
+        "New Battleground"
+      ],
+      "business_model_tags": [
+        "Founder Case",
+        "AI Business Model Innovation"
+      ],
+      "yuanli_tags": [
+        "yuanli_startup"
+      ],
+      "opc_fit_score": 0,
+      "case_concreteness_score": 8,
+      "total_score": 42,
+      "score_breakdown": {
+        "source_authority": 20,
+        "yuanli_relevance": 3,
+        "business_model_value": 3,
+        "case_concreteness": 8,
+        "opc_fit": 0,
+        "freshness": 8,
+        "counter_signal_value": 0
+      },
+      "summary": "Customer Engagement Is Banking’s New Battleground Tags: Founder Case, AI Business Model Innovation.",
+      "timestamp_basis": "feed_published",
+      "transport_mode": "feed"
+    },
     {
       "signal_id": "biz_e9adb17812d2",
       "title": "I have one AI write my code and a second one review it. Yesterday the reviewer failed 2 changes out of 5. When do you stop and drop a change",
@@ -9,7 +47,7 @@
       "source_id": "indie_hackers",
       "source_name": "Indie Hackers",
       "published_at": "2026-09-20T13:09:09.622000Z",
-      "captured_at": "2026-09-21T00:58:35.505336Z",
+      "captured_at": "2026-09-21T12:42:39.053895Z",
       "lane": "opc",
       "entities": [
         "Indie Hackers",
@@ -38,44 +76,6 @@
       "summary": "I have one AI write my code and a second one review it. Yesterday the reviewer failed 2 changes out of 5. When do you stop and drop a change Tags: Counter Signal, OPC.",
       "timestamp_basis": "page_structured_time",
       "transport_mode": "page_detail"
-    },
-    {
-      "signal_id": "biz_64f1dafd7b93",
-      "title": "90 minutes of unfiltered product advice from Snap and Discord’s product chief | Peter Sellis",
-      "url": "https://www.lennysnewsletter.com/p/90-minutes-of-unfiltered-product",
-      "source_id": "lenny",
-      "source_name": "Lenny's Newsletter",
-      "published_at": "2026-09-20T12:32:17Z",
-      "captured_at": "2026-09-21T00:58:35.505336Z",
-      "lane": "startup_vc",
-      "entities": [
-        "Lenny's Newsletter",
-        "Snap",
-        "Discord",
-        "Peter Sellis"
-      ],
-      "business_model_tags": [
-        "Enterprise AI Workflow",
-        "Founder Case"
-      ],
-      "yuanli_tags": [
-        "yuanli_startup"
-      ],
-      "opc_fit_score": 0,
-      "case_concreteness_score": 4,
-      "total_score": 30,
-      "score_breakdown": {
-        "source_authority": 16,
-        "yuanli_relevance": 0,
-        "business_model_value": 3,
-        "case_concreteness": 4,
-        "opc_fit": 0,
-        "freshness": 7,
-        "counter_signal_value": 0
-      },
-      "summary": "Peter Sellis on designing teams like terrorist organizations, riding your best people hard, and the three oxymorons of a truly great PM Tags: Enterprise AI Workflow, Founder Case.",
-      "timestamp_basis": "feed_published",
-      "transport_mode": "feed"
     }
   ]
 }

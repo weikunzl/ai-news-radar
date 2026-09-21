@@ -1,6 +1,26 @@
 {
-  "generated_at": "2026-09-21T00:58:35.505336Z",
+  "generated_at": "2026-09-21T12:42:39.053895Z",
   "cases": [
+    {
+      "case_id": "opc_case_4fc7a2d4634f",
+      "company": "Customer Engagement Is",
+      "founder": "",
+      "source_refs": [
+        "biz_63fdc069bc98"
+      ],
+      "url": "https://www.bain.com/insights/customer-engagement-is-bankings-new-battleground-infographic/",
+      "title": "Customer Engagement Is Banking’s New Battleground",
+      "business_model": "Founder Case, AI Business Model Innovation",
+      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
+      "monetization": "To be extracted from the linked source.",
+      "team_size_signal": "team size not explicit",
+      "distribution_channel": "Bain Insights",
+      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
+      "yuanli_mapping": [
+        "yuanli_startup"
+      ],
+      "score": 42
+    },
     {
       "case_id": "opc_case_6c871c50245c",
       "company": "Yesterday",
@@ -20,26 +40,6 @@
         "yuanli_startup"
       ],
       "score": 35
-    },
-    {
-      "case_id": "opc_case_93571e251024",
-      "company": "Snap",
-      "founder": "",
-      "source_refs": [
-        "biz_64f1dafd7b93"
-      ],
-      "url": "https://www.lennysnewsletter.com/p/90-minutes-of-unfiltered-product",
-      "title": "90 minutes of unfiltered product advice from Snap and Discord’s product chief | Peter Sellis",
-      "business_model": "Enterprise AI Workflow, Founder Case",
-      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
-      "monetization": "To be extracted from the linked source.",
-      "team_size_signal": "team size not explicit",
-      "distribution_channel": "Lenny's Newsletter",
-      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
-      "yuanli_mapping": [
-        "yuanli_startup"
-      ],
-      "score": 30
     }
   ]
 }
