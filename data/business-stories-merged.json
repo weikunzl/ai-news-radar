@@ -1,6 +1,35 @@
 {
-  "generated_at": "2026-09-21T00:58:35.505336Z",
+  "generated_at": "2026-09-21T12:42:39.053895Z",
   "clusters": [
+    {
+      "cluster_id": "biz_cluster_41a8a83315f7",
+      "thesis": "Business-school and consulting evidence strengthens the trust layer behind Yuanli IP claims.",
+      "lane": "authority_trust",
+      "signal_ids": [
+        "biz_63fdc069bc98"
+      ],
+      "source_count": 1,
+      "importance_score": 44,
+      "confidence": "watch",
+      "yuanli_mapping": [
+        "ftf_trust",
+        "yuanli_asset",
+        "yuanli_startup"
+      ],
+      "why_it_matters": "1 English evidence items from 1 sources connect this pattern to Yuanli IP.",
+      "counter_evidence": "See counter_signal cluster for adoption, ROI, and trust risks.",
+      "recommended_action": "Use these authority-backed signals as FTF proof points before making public claims.",
+      "evidence_refs": [
+        "biz_63fdc069bc98"
+      ],
+      "top_sources": [
+        {
+          "source": "Bain Insights",
+          "title": "Customer Engagement Is Banking’s New Battleground",
+          "url": "https://www.bain.com/insights/customer-engagement-is-bankings-new-battleground-infographic/"
+        }
+      ]
+    },
     {
       "cluster_id": "biz_cluster_396696374e5b",
       "thesis": "AI leverage is making one-person and tiny-team companies a credible strategic archetype.",
@@ -27,34 +56,6 @@
           "source": "Indie Hackers",
           "title": "I have one AI write my code and a second one review it. Yesterday the reviewer failed 2 changes out of 5. When do you stop and drop a change",
           "url": "https://www.indiehackers.com/post/i-have-one-ai-write-my-code-and-a-second-one-review-it-yesterday-the-reviewer-failed-2-changes-out-of-5-when-do-you-stop-and-drop-a-change-f999d8f908"
-        }
-      ]
-    },
-    {
-      "cluster_id": "biz_cluster_e4a9be24e0eb",
-      "thesis": "Enterprise AI value is moving toward operating-model redesign rather than isolated copilots.",
-      "lane": "enterprise_workflow",
-      "signal_ids": [
-        "biz_64f1dafd7b93"
-      ],
-      "source_count": 1,
-      "importance_score": 32,
-      "confidence": "watch",
-      "yuanli_mapping": [
-        "yuanli_os",
-        "ftf_trust"
-      ],
-      "why_it_matters": "1 English evidence items from 1 sources connect this pattern to Yuanli IP.",
-      "counter_evidence": "See counter_signal cluster for adoption, ROI, and trust risks.",
-      "recommended_action": "Map each workflow case to the Yuanli OS organs: soul, memory, judgment, hands.",
-      "evidence_refs": [
-        "biz_64f1dafd7b93"
-      ],
-      "top_sources": [
-        {
-          "source": "Lenny's Newsletter",
-          "title": "90 minutes of unfiltered product advice from Snap and Discord’s product chief | Peter Sellis",
-          "url": "https://www.lennysnewsletter.com/p/90-minutes-of-unfiltered-product"
         }
       ]
     }
