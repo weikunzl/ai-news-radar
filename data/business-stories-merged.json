@@ -1,6 +1,92 @@
 {
-  "generated_at": "2026-09-21T12:42:39.053895Z",
+  "generated_at": "2026-09-21T18:40:10.383949Z",
   "clusters": [
+    {
+      "cluster_id": "biz_cluster_18916af6ea8d",
+      "thesis": "AI adoption counter-signals reveal where Yuanli claims need sharper proof and risk language.",
+      "lane": "counter_signal",
+      "signal_ids": [
+        "biz_8bf11ade583a"
+      ],
+      "source_count": 1,
+      "importance_score": 59,
+      "confidence": "watch",
+      "yuanli_mapping": [
+        "ftf_trust",
+        "yuanli_os"
+      ],
+      "why_it_matters": "1 English evidence items from 1 sources connect this pattern to Yuanli IP.",
+      "counter_evidence": "Counter-signals are the evidence, not a rejection of the thesis.",
+      "recommended_action": "Add these counter-signals to sales objections and content credibility checks.",
+      "evidence_refs": [
+        "biz_8bf11ade583a"
+      ],
+      "top_sources": [
+        {
+          "source": "CB Insights",
+          "title": "CEO Interview: Lexor Legal Risk",
+          "url": "https://www.cbinsights.com/research/ceo-interview-lexor-legal-risk/"
+        }
+      ]
+    },
+    {
+      "cluster_id": "biz_cluster_327b3326c742",
+      "thesis": "Founder stories provide the most reusable proof layer for Yuanli IP trust-building.",
+      "lane": "founder_case",
+      "signal_ids": [
+        "biz_2de5f4dd6b66",
+        "biz_2d52149f4632",
+        "biz_67b555fa4004",
+        "biz_e24299f22165",
+        "biz_7f11fd96612d",
+        "biz_6940b63f39c9"
+      ],
+      "source_count": 1,
+      "importance_score": 52,
+      "confidence": "watch",
+      "yuanli_mapping": [
+        "ftf_trust",
+        "yuanli_asset",
+        "wealth_flywheel"
+      ],
+      "why_it_matters": "6 English evidence items from 1 sources connect this pattern to Yuanli IP.",
+      "counter_evidence": "See counter_signal cluster for adoption, ROI, and trust risks.",
+      "recommended_action": "Convert high-score founder cases into FTF credible story assets.",
+      "evidence_refs": [
+        "biz_2de5f4dd6b66",
+        "biz_2d52149f4632",
+        "biz_67b555fa4004",
+        "biz_e24299f22165",
+        "biz_7f11fd96612d"
+      ],
+      "top_sources": [
+        {
+          "source": "CB Insights",
+          "title": "CEO Interview: ForgeVista",
+          "url": "https://www.cbinsights.com/research/ceo-interview-forgevista/"
+        },
+        {
+          "source": "CB Insights",
+          "title": "Executive Interview: Thatch",
+          "url": "https://www.cbinsights.com/research/executive-interview-thatch/"
+        },
+        {
+          "source": "CB Insights",
+          "title": "CEO Interview: QloSport",
+          "url": "https://www.cbinsights.com/research/ceo-interview-qlosport/"
+        },
+        {
+          "source": "CB Insights",
+          "title": "CEO Interview: Intrascope.app",
+          "url": "https://www.cbinsights.com/research/ceo-interview-intrascope-app/"
+        },
+        {
+          "source": "CB Insights",
+          "title": "CEO Interview: Punch Rescue",
+          "url": "https://www.cbinsights.com/research/ceo-interview-punch-rescue/"
+        }
+      ]
+    },
     {
       "cluster_id": "biz_cluster_41a8a83315f7",
       "thesis": "Business-school and consulting evidence strengthens the trust layer behind Yuanli IP claims.",
@@ -9,7 +95,7 @@
         "biz_63fdc069bc98"
       ],
       "source_count": 1,
-      "importance_score": 44,
+      "importance_score": 43,
       "confidence": "watch",
       "yuanli_mapping": [
         "ftf_trust",
@@ -31,31 +117,30 @@
       ]
     },
     {
-      "cluster_id": "biz_cluster_396696374e5b",
-      "thesis": "AI leverage is making one-person and tiny-team companies a credible strategic archetype.",
-      "lane": "opc",
+      "cluster_id": "biz_cluster_ad0264350407",
+      "thesis": "Enterprise AI value is moving toward operating-model redesign rather than isolated copilots.",
+      "lane": "enterprise_workflow",
       "signal_ids": [
-        "biz_e9adb17812d2"
+        "biz_d146537a852e"
       ],
       "source_count": 1,
       "importance_score": 37,
       "confidence": "watch",
       "yuanli_mapping": [
-        "yuanli_asset",
-        "yuanli_startup",
-        "profit_container"
+        "yuanli_os",
+        "ftf_trust"
       ],
       "why_it_matters": "1 English evidence items from 1 sources connect this pattern to Yuanli IP.",
       "counter_evidence": "See counter_signal cluster for adoption, ROI, and trust risks.",
-      "recommended_action": "Turn the strongest case into a Yuanli OPC teaching module with leverage, distribution, and monetization explicitly mapped.",
+      "recommended_action": "Map each workflow case to the Yuanli OS organs: soul, memory, judgment, hands.",
       "evidence_refs": [
-        "biz_e9adb17812d2"
+        "biz_d146537a852e"
       ],
       "top_sources": [
         {
-          "source": "Indie Hackers",
-          "title": "I have one AI write my code and a second one review it. Yesterday the reviewer failed 2 changes out of 5. When do you stop and drop a change",
-          "url": "https://www.indiehackers.com/post/i-have-one-ai-write-my-code-and-a-second-one-review-it-yesterday-the-reviewer-failed-2-changes-out-of-5-when-do-you-stop-and-drop-a-change-f999d8f908"
+          "source": "OpenAI News",
+          "title": "How V7 gives AI agents institutional memory",
+          "url": "https://openai.com/index/v7"
         }
       ]
     }
