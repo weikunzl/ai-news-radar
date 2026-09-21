@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T00:55:52.604236Z",
+  "generated_at": "2026-09-21T06:00:17.570624Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8377,
-      "importance": 0.8377,
-      "importance_score": 0.8377,
+      "score": 0.8262,
+      "importance": 0.8262,
+      "importance_score": 0.8262,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.906,
+        "recency": 0.842,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -213,15 +213,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8119,
-      "importance": 0.8119,
-      "importance_score": 0.8119,
+      "score": 0.8014,
+      "importance": 0.8014,
+      "importance_score": 0.8014,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8297,
+        "recency": 0.7711,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -275,15 +275,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7741,
-      "importance": 0.7741,
-      "importance_score": 0.7741,
+      "score": 0.7622,
+      "importance": 0.7622,
+      "importance_score": 0.7622,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.936,
+        "recency": 0.8698,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -298,6 +298,127 @@
         "title": "Google 确认 Gemini 在 Irregular 安全测试中访问 3 家真实公司系统，与 OpenAI、Anthropic、Meta 属同一评估事故",
         "url": "https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests",
         "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_bb5dceabc7e5",
+      "title": "通义千问发布 Qwen-Image-2.1：7B 单检查点同时支持图像生成与编辑",
+      "url": "https://x.com/Alibaba_Qwen/status/2101866671900401913",
+      "primary_url": "https://x.com/Alibaba_Qwen/status/2101866671900401913",
+      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "4cf683cc7925451046d7ac1a88797d6d30c01c54",
+          "title": "通义千问发布 Qwen-Image-2.1：7B 单检查点同时支持图像生成与编辑",
+          "url": "https://x.com/Alibaba_Qwen/status/2101866671900401913",
+          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T02:50:40Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：通义千问 / Qwen (@Alibaba_Qwen)"
+      ],
+      "items": [
+        {
+          "id": "4cf683cc7925451046d7ac1a88797d6d30c01c54",
+          "title": "通义千问发布 Qwen-Image-2.1：7B 单检查点同时支持图像生成与编辑",
+          "url": "https://x.com/Alibaba_Qwen/status/2101866671900401913",
+          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T02:50:40Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7506,
+      "importance": 0.7506,
+      "importance_score": 0.7506,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.69,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9554,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-21T02:50:40Z",
+      "latest_at": "2026-09-21T02:50:40Z",
+      "primary_item": {
+        "id": "4cf683cc7925451046d7ac1a88797d6d30c01c54",
+        "title": "通义千问发布 Qwen-Image-2.1：7B 单检查点同时支持图像生成与编辑",
+        "url": "https://x.com/Alibaba_Qwen/status/2101866671900401913",
+        "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_6cbde97d8260",
+      "title": "数字生命卡兹克访谈汉化组：AI 时代字幕组与漫画组的真实处境",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686509&idx=1&sn=1b5ee8ab30c5825eaff76083e1f8dbcc",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686509&idx=1&sn=1b5ee8ab30c5825eaff76083e1f8dbcc",
+      "source": "公众号：数字生命卡兹克",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "08ae5b394d67c4d4e851880749e1ebfb5d6bc312",
+          "title": "数字生命卡兹克访谈汉化组：AI 时代字幕组与漫画组的真实处境",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686509&idx=1&sn=1b5ee8ab30c5825eaff76083e1f8dbcc",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T01:52:57Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：数字生命卡兹克"
+      ],
+      "items": [
+        {
+          "id": "08ae5b394d67c4d4e851880749e1ebfb5d6bc312",
+          "title": "数字生命卡兹克访谈汉化组：AI 时代字幕组与漫画组的真实处境",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686509&idx=1&sn=1b5ee8ab30c5825eaff76083e1f8dbcc",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T01:52:57Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7392,
+      "importance": 0.7392,
+      "importance_score": 0.7392,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.66,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9422,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-21T01:52:57Z",
+      "latest_at": "2026-09-21T01:52:57Z",
+      "primary_item": {
+        "id": "08ae5b394d67c4d4e851880749e1ebfb5d6bc312",
+        "title": "数字生命卡兹克访谈汉化组：AI 时代字幕组与漫画组的真实处境",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686509&idx=1&sn=1b5ee8ab30c5825eaff76083e1f8dbcc",
+        "source": "公众号：数字生命卡兹克",
         "source_name": "AI HOT"
       }
     },
@@ -336,15 +457,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.732,
-      "importance": 0.732,
-      "importance_score": 0.732,
+      "score": 0.7212,
+      "importance": 0.7212,
+      "importance_score": 0.7212,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8524,
+        "recency": 0.7922,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -414,15 +535,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6405,
-      "importance": 0.6405,
-      "importance_score": 0.6405,
+      "score": 0.6284,
+      "importance": 0.6284,
+      "importance_score": 0.6284,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.9542,
+        "recency": 0.8868,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -492,15 +613,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6003,
-      "importance": 0.6003,
-      "importance_score": 0.6003,
+      "score": 0.5887,
+      "importance": 0.5887,
+      "importance_score": 0.5887,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.9158,
+        "recency": 0.8511,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -590,15 +711,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5578,
-      "importance": 0.5578,
-      "importance_score": 0.5578,
+      "score": 0.546,
+      "importance": 0.546,
+      "importance_score": 0.546,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9278,
+        "recency": 0.8623,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -688,15 +809,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5514,
-      "importance": 0.5514,
-      "importance_score": 0.5514,
+      "score": 0.5401,
+      "importance": 0.5401,
+      "importance_score": 0.5401,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8925,
+        "recency": 0.8294,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -710,6 +831,104 @@
         "title": "“海盗脸”拯救了大语言模型免遭删除",
         "url": "https://pirateface.co",
         "source": "pirateface.co",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_60f379c3b3ff",
+      "title": "基于对话的大型语言模型复制了通灵师的欺骗手段",
+      "url": "https://softwarecrisis.dev/letters/llmentalist",
+      "primary_url": "https://softwarecrisis.dev/letters/llmentalist",
+      "source": "softwarecrisis.dev",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "28abe9a1d0b0cc9214617d687a52b8e14ea52c7c",
+          "title": "基于对话的大型语言模型复制了通灵师的欺骗手段",
+          "url": "https://softwarecrisis.dev/letters/llmentalist",
+          "source": "softwarecrisis.dev",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-20T15:28:23.669000Z"
+        },
+        {
+          "id": "e833e45361cefdae5e3786311631db75df845e8d",
+          "title": "基于对话的大型语言模型复制了通灵师的欺骗手段 / Chat-based Large Language Models replicate the mechanisms of a psychic's con",
+          "url": "https://softwarecrisis.dev/letters/llmentalist",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-20T12:20:13Z"
+        },
+        {
+          "id": "c826f0fe28dcf37b3e228fc55d2a51f30ec93b53",
+          "title": "基于对话的大型语言模型复制了通灵师的欺骗手段 / The LLMentalist Effect (2023)",
+          "url": "https://softwarecrisis.dev/letters/llmentalist",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-20T12:20:13Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
+        "softwarecrisis.dev"
+      ],
+      "items": [
+        {
+          "id": "28abe9a1d0b0cc9214617d687a52b8e14ea52c7c",
+          "title": "基于对话的大型语言模型复制了通灵师的欺骗手段",
+          "url": "https://softwarecrisis.dev/letters/llmentalist",
+          "source": "softwarecrisis.dev",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-20T15:28:23.669000Z"
+        },
+        {
+          "id": "e833e45361cefdae5e3786311631db75df845e8d",
+          "title": "基于对话的大型语言模型复制了通灵师的欺骗手段 / Chat-based Large Language Models replicate the mechanisms of a psychic's con",
+          "url": "https://softwarecrisis.dev/letters/llmentalist",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-20T12:20:13Z"
+        },
+        {
+          "id": "c826f0fe28dcf37b3e228fc55d2a51f30ec93b53",
+          "title": "基于对话的大型语言模型复制了通灵师的欺骗手段 / The LLMentalist Effect (2023)",
+          "url": "https://softwarecrisis.dev/letters/llmentalist",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-20T12:20:13Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5367,
+      "importance": 0.5367,
+      "importance_score": 0.5367,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8107,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-20T12:20:13Z",
+      "latest_at": "2026-09-20T15:28:23.669000Z",
+      "primary_item": {
+        "id": "28abe9a1d0b0cc9214617d687a52b8e14ea52c7c",
+        "title": "基于对话的大型语言模型复制了通灵师的欺骗手段",
+        "url": "https://softwarecrisis.dev/letters/llmentalist",
+        "source": "softwarecrisis.dev",
         "source_name": "Buzzing"
       }
     },
@@ -786,15 +1005,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.542,
-      "importance": 0.542,
-      "importance_score": 0.542,
+      "score": 0.5313,
+      "importance": 0.5313,
+      "importance_score": 0.5313,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8398,
+        "recency": 0.7804,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -865,15 +1084,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5393,
-      "importance": 0.5393,
-      "importance_score": 0.5393,
+      "score": 0.527,
+      "importance": 0.527,
+      "importance_score": 0.527,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9637,
+        "recency": 0.8956,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -944,15 +1163,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5345,
-      "importance": 0.5345,
-      "importance_score": 0.5345,
+      "score": 0.5225,
+      "importance": 0.5225,
+      "importance_score": 0.5225,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.937,
+        "recency": 0.8708,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1023,15 +1242,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5326,
-      "importance": 0.5326,
-      "importance_score": 0.5326,
+      "score": 0.5208,
+      "importance": 0.5208,
+      "importance_score": 0.5208,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9264,
+        "recency": 0.861,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1046,6 +1265,84 @@
         "url": "https://www.businessinsider.com/nvidia-jensen-huang-ai-regulation-anthropic-amodei-openai-altman-trump-2026-9",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_c000a5e0370b",
+      "title": "Laya（OS Jev）在 Mac M4 CoreML 离线环境下的运行情况（每秒 45 次决策） / Laya (OS Jev) on Mac M4 CoreML Offline (45 decisions per second)",
+      "url": "https://gist.github.com/fordnox/e592d0f68b543fd044be8e6d040863a0",
+      "primary_url": "https://gist.github.com/fordnox/e592d0f68b543fd044be8e6d040863a0",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "6d28746e07bd126946d4b888cd73d147ad5b17e9",
+          "title": "Laya（OS Jev）在 Mac M4 CoreML 离线环境下的运行情况（每秒 45 次决策） / Laya (OS Jev) on Mac M4 CoreML Offline (45 decisions per second)",
+          "url": "https://gist.github.com/fordnox/e592d0f68b543fd044be8e6d040863a0",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-20T15:58:52Z"
+        },
+        {
+          "id": "a164a8e7a2d05d3c568f1a5631101540ca6997fb",
+          "title": "Laya（OS Jev）在 Mac M4 CoreML 离线环境下的运行情况（每秒 45 次决策） / Laya on Mac M4 CoreML Offline",
+          "url": "https://gist.github.com/fordnox/e592d0f68b543fd044be8e6d040863a0",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-20T15:58:52Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "6d28746e07bd126946d4b888cd73d147ad5b17e9",
+          "title": "Laya（OS Jev）在 Mac M4 CoreML 离线环境下的运行情况（每秒 45 次决策） / Laya (OS Jev) on Mac M4 CoreML Offline (45 decisions per second)",
+          "url": "https://gist.github.com/fordnox/e592d0f68b543fd044be8e6d040863a0",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-20T15:58:52Z"
+        },
+        {
+          "id": "a164a8e7a2d05d3c568f1a5631101540ca6997fb",
+          "title": "Laya（OS Jev）在 Mac M4 CoreML 离线环境下的运行情况（每秒 45 次决策） / Laya on Mac M4 CoreML Offline",
+          "url": "https://gist.github.com/fordnox/e592d0f68b543fd044be8e6d040863a0",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-20T15:58:52Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5128,
+      "importance": 0.5128,
+      "importance_score": 0.5128,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8167,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-20T15:58:52Z",
+      "latest_at": "2026-09-20T15:58:52Z",
+      "primary_item": {
+        "id": "6d28746e07bd126946d4b888cd73d147ad5b17e9",
+        "title": "Laya（OS Jev）在 Mac M4 CoreML 离线环境下的运行情况（每秒 45 次决策） / Laya (OS Jev) on Mac M4 CoreML Offline (45 decisions per second)",
+        "url": "https://gist.github.com/fordnox/e592d0f68b543fd044be8e6d040863a0",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -1101,15 +1398,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.524,
-      "importance": 0.524,
-      "importance_score": 0.524,
+      "score": 0.5128,
+      "importance": 0.5128,
+      "importance_score": 0.5128,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8789,
+        "recency": 0.8168,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1127,160 +1424,82 @@
       }
     },
     {
-      "story_id": "story_60f379c3b3ff",
-      "title": "基于对话的大型语言模型复制了通灵师的欺骗手段",
-      "url": "https://softwarecrisis.dev/letters/llmentalist",
-      "primary_url": "https://softwarecrisis.dev/letters/llmentalist",
-      "source": "softwarecrisis.dev",
-      "source_name": "Buzzing",
+      "story_id": "story_f9bfaf173e6c",
+      "title": "AI chatbots give wrong answers to financial queries 'most of the time'",
+      "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
+      "primary_url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
+      "source": "Hacker News",
+      "source_name": "TechURLs",
       "sources": [
         {
-          "id": "28abe9a1d0b0cc9214617d687a52b8e14ea52c7c",
-          "title": "基于对话的大型语言模型复制了通灵师的欺骗手段",
-          "url": "https://softwarecrisis.dev/letters/llmentalist",
-          "source": "softwarecrisis.dev",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-20T15:28:23.669000Z"
+          "id": "cdd0499ca68d385c0c20019c6f4dbb9c9e3eb953",
+          "title": "AI chatbots give wrong answers to financial queries 'most of the time'",
+          "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-21T04:28:44Z"
         },
         {
-          "id": "e833e45361cefdae5e3786311631db75df845e8d",
-          "title": "基于对话的大型语言模型复制了通灵师的欺骗手段 / Chat-based Large Language Models replicate the mechanisms of a psychic's con",
-          "url": "https://softwarecrisis.dev/letters/llmentalist",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-20T12:20:13Z"
+          "id": "9aee337f3dda4dab259e2663211a2da8ac17506b",
+          "title": "AI chatbots give wrong answers to financial queries 'most of the time'",
+          "url": "https://news.ycombinator.com/item?id=49783062",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-21T04:28:44Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
-        "softwarecrisis.dev"
+        "Hacker News",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "28abe9a1d0b0cc9214617d687a52b8e14ea52c7c",
-          "title": "基于对话的大型语言模型复制了通灵师的欺骗手段",
-          "url": "https://softwarecrisis.dev/letters/llmentalist",
-          "source": "softwarecrisis.dev",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-20T15:28:23.669000Z"
+          "id": "cdd0499ca68d385c0c20019c6f4dbb9c9e3eb953",
+          "title": "AI chatbots give wrong answers to financial queries 'most of the time'",
+          "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-21T04:28:44Z"
         },
         {
-          "id": "e833e45361cefdae5e3786311631db75df845e8d",
-          "title": "基于对话的大型语言模型复制了通灵师的欺骗手段 / Chat-based Large Language Models replicate the mechanisms of a psychic's con",
-          "url": "https://softwarecrisis.dev/letters/llmentalist",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-20T12:20:13Z"
+          "id": "9aee337f3dda4dab259e2663211a2da8ac17506b",
+          "title": "AI chatbots give wrong answers to financial queries 'most of the time'",
+          "url": "https://news.ycombinator.com/item?id=49783062",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-21T04:28:44Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5228,
-      "importance": 0.5228,
-      "importance_score": 0.5228,
+      "score": 0.5419,
+      "importance": 0.5419,
+      "importance_score": 0.5419,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8723,
+        "recency": 0.9782,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-20T12:20:13Z",
-      "latest_at": "2026-09-20T15:28:23.669000Z",
+      "earliest_at": "2026-09-21T04:28:44Z",
+      "latest_at": "2026-09-21T04:28:44Z",
       "primary_item": {
-        "id": "28abe9a1d0b0cc9214617d687a52b8e14ea52c7c",
-        "title": "基于对话的大型语言模型复制了通灵师的欺骗手段",
-        "url": "https://softwarecrisis.dev/letters/llmentalist",
-        "source": "softwarecrisis.dev",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_d601f6dc2a99",
-      "title": "新加坡正向民众提供补贴，鼓励他们放下手机、多读书 / Singapore Is Paying People to Put Down Their Phones and Read Books",
-      "url": "https://www.gadgetreview.com/singapore-is-paying-people-to-put-down-their-phones-and-read-books",
-      "primary_url": "https://www.gadgetreview.com/singapore-is-paying-people-to-put-down-their-phones-and-read-books",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "eb5853dabc274d1471c593587c33384915486b5f",
-          "title": "新加坡正向民众提供补贴，鼓励他们放下手机、多读书 / Singapore Is Paying People to Put Down Their Phones and Read Books",
-          "url": "https://www.gadgetreview.com/singapore-is-paying-people-to-put-down-their-phones-and-read-books",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-20T15:18:05Z"
-        },
-        {
-          "id": "ef3aa9742b7840a0af6bf7e7442e739732a4a6dc",
-          "title": "新加坡正向民众提供补贴，鼓励他们放下手机、多读书 / Singapore’s National Library Board offers micropayments to build reading habits",
-          "url": "https://www.gadgetreview.com/singapore-is-paying-people-to-put-down-their-phones-and-read-books",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-20T15:18:05Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "eb5853dabc274d1471c593587c33384915486b5f",
-          "title": "新加坡正向民众提供补贴，鼓励他们放下手机、多读书 / Singapore Is Paying People to Put Down Their Phones and Read Books",
-          "url": "https://www.gadgetreview.com/singapore-is-paying-people-to-put-down-their-phones-and-read-books",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-20T15:18:05Z"
-        },
-        {
-          "id": "ef3aa9742b7840a0af6bf7e7442e739732a4a6dc",
-          "title": "新加坡正向民众提供补贴，鼓励他们放下手机、多读书 / Singapore’s National Library Board offers micropayments to build reading habits",
-          "url": "https://www.gadgetreview.com/singapore-is-paying-people-to-put-down-their-phones-and-read-books",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-20T15:18:05Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5224,
-      "importance": 0.5224,
-      "importance_score": 0.5224,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8702,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-20T15:18:05Z",
-      "latest_at": "2026-09-20T15:18:05Z",
-      "primary_item": {
-        "id": "eb5853dabc274d1471c593587c33384915486b5f",
-        "title": "新加坡正向民众提供补贴，鼓励他们放下手机、多读书 / Singapore Is Paying People to Put Down Their Phones and Read Books",
-        "url": "https://www.gadgetreview.com/singapore-is-paying-people-to-put-down-their-phones-and-read-books",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
+        "id": "cdd0499ca68d385c0c20019c6f4dbb9c9e3eb953",
+        "title": "AI chatbots give wrong answers to financial queries 'most of the time'",
+        "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
+        "source": "Hacker News",
+        "source_name": "TechURLs"
       }
     },
     {
@@ -1336,15 +1555,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5158,
-      "importance": 0.5158,
-      "importance_score": 0.5158,
+      "score": 0.5052,
+      "importance": 0.5052,
+      "importance_score": 0.5052,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8336,
+        "recency": 0.7747,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1415,15 +1634,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5086,
-      "importance": 0.5086,
-      "importance_score": 0.5086,
+      "score": 0.4986,
+      "importance": 0.4986,
+      "importance_score": 0.4986,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7936,
+        "recency": 0.7375,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1438,243 +1657,6 @@
         "url": "https://faceanalysisai.com",
         "source": "faceanalysisai.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_2da09961cf12",
-      "title": "OpenAI的萨姆·阿尔特曼将于下周向联合国安理会作简报 / OpenAI's Sam Altman to Brief UN Security Council Next Week",
-      "url": "https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18",
-      "primary_url": "https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18",
-      "source": "Hacker News",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "372ac4a7ae9fe28bbb4e3231f951d4cb6a0a9f35",
-          "title": "OpenAI的萨姆·阿尔特曼将于下周向联合国安理会作简报 / OpenAI's Sam Altman to Brief UN Security Council Next Week",
-          "url": "https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-20T20:32:43Z"
-        },
-        {
-          "id": "c558f647f87148c7e2c88675443ab7db36998518",
-          "title": "OpenAI的萨姆·阿尔特曼将于下周向联合国安理会作简报",
-          "url": "https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-20T16:00:21.385000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "www.reuters.com"
-      ],
-      "items": [
-        {
-          "id": "372ac4a7ae9fe28bbb4e3231f951d4cb6a0a9f35",
-          "title": "OpenAI的萨姆·阿尔特曼将于下周向联合国安理会作简报 / OpenAI's Sam Altman to Brief UN Security Council Next Week",
-          "url": "https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-20T20:32:43Z"
-        },
-        {
-          "id": "c558f647f87148c7e2c88675443ab7db36998518",
-          "title": "OpenAI的萨姆·阿尔特曼将于下周向联合国安理会作简报",
-          "url": "https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-20T16:00:21.385000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5348,
-      "importance": 0.5348,
-      "importance_score": 0.5348,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9386,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-20T16:00:21.385000Z",
-      "latest_at": "2026-09-20T20:32:43Z",
-      "primary_item": {
-        "id": "372ac4a7ae9fe28bbb4e3231f951d4cb6a0a9f35",
-        "title": "OpenAI的萨姆·阿尔特曼将于下周向联合国安理会作简报 / OpenAI's Sam Altman to Brief UN Security Council Next Week",
-        "url": "https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18",
-        "source": "Hacker News",
-        "source_name": "TechURLs"
-      }
-    },
-    {
-      "story_id": "story_d9a5924bfec1",
-      "title": "特朗普的科技顾问对担心自己正在开发不安全模型的人工智能公司提出建议：“干脆别干了”",
-      "url": "https://www.businessinsider.com/trump-tech-advisor-ai-slow-down-anthropic-openai-2026-9",
-      "primary_url": "https://www.businessinsider.com/trump-tech-advisor-ai-slow-down-anthropic-openai-2026-9",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "bdd364bf6c98a3c349f976deeffb383ad7a4b316",
-          "title": "特朗普的科技顾问对担心自己正在开发不安全模型的人工智能公司提出建议：“干脆别干了”",
-          "url": "https://www.businessinsider.com/trump-tech-advisor-ai-slow-down-anthropic-openai-2026-9",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-20T18:36:33.670000Z"
-        },
-        {
-          "id": "6eac3472b53be86cf335eea0d6130081f6f94bb3",
-          "title": "特朗普的科技顾问对担心自己正在开发不安全模型的人工智能公司提出建议：“干脆别干了” / Trump's tech advisor has advice for AI companies worried they're building unsafe models: 'Just stop'",
-          "url": "https://www.businessinsider.com/trump-tech-advisor-ai-slow-down-anthropic-openai-2026-9",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-20T17:47:57Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "bdd364bf6c98a3c349f976deeffb383ad7a4b316",
-          "title": "特朗普的科技顾问对担心自己正在开发不安全模型的人工智能公司提出建议：“干脆别干了”",
-          "url": "https://www.businessinsider.com/trump-tech-advisor-ai-slow-down-anthropic-openai-2026-9",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-20T18:36:33.670000Z"
-        },
-        {
-          "id": "6eac3472b53be86cf335eea0d6130081f6f94bb3",
-          "title": "特朗普的科技顾问对担心自己正在开发不安全模型的人工智能公司提出建议：“干脆别干了” / Trump's tech advisor has advice for AI companies worried they're building unsafe models: 'Just stop'",
-          "url": "https://www.businessinsider.com/trump-tech-advisor-ai-slow-down-anthropic-openai-2026-9",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-20T17:47:57Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5301,
-      "importance": 0.5301,
-      "importance_score": 0.5301,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9128,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-20T17:47:57Z",
-      "latest_at": "2026-09-20T18:36:33.670000Z",
-      "primary_item": {
-        "id": "bdd364bf6c98a3c349f976deeffb383ad7a4b316",
-        "title": "特朗普的科技顾问对担心自己正在开发不安全模型的人工智能公司提出建议：“干脆别干了”",
-        "url": "https://www.businessinsider.com/trump-tech-advisor-ai-slow-down-anthropic-openai-2026-9",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_d9e220dea7b7",
-      "title": "大型科技公司利用担保将 300B 美元的人工智能风险保留在资产负债表之外 / Big Tech uses guarantees to keep $300B AI exposure off balance sheets",
-      "url": "https://www.ft.com/content/7f11afae-c4e3-4054-a65b-873f3647f563",
-      "primary_url": "https://www.ft.com/content/7f11afae-c4e3-4054-a65b-873f3647f563",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "9e4b39fee8e55d307074a3f4e61aee1d9a098bbf",
-          "title": "大型科技公司利用担保将 300B 美元的人工智能风险保留在资产负债表之外 / Big Tech uses guarantees to keep $300B AI exposure off balance sheets",
-          "url": "https://www.ft.com/content/7f11afae-c4e3-4054-a65b-873f3647f563",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-20T12:07:10Z"
-        },
-        {
-          "id": "dffa282ed2d8d47e66e1c469a13e587592d5f48b",
-          "title": "科技巨头利用担保手段，将3000亿美元的人工智能相关风险排除在资产负债表之外",
-          "url": "https://www.ft.com/content/7f11afae-c4e3-4054-a65b-873f3647f563?syn-25a6b1a6=1",
-          "source": "www.ft.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-20T07:19:35.282000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "www.ft.com"
-      ],
-      "items": [
-        {
-          "id": "9e4b39fee8e55d307074a3f4e61aee1d9a098bbf",
-          "title": "大型科技公司利用担保将 300B 美元的人工智能风险保留在资产负债表之外 / Big Tech uses guarantees to keep $300B AI exposure off balance sheets",
-          "url": "https://www.ft.com/content/7f11afae-c4e3-4054-a65b-873f3647f563",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-20T12:07:10Z"
-        },
-        {
-          "id": "dffa282ed2d8d47e66e1c469a13e587592d5f48b",
-          "title": "科技巨头利用担保手段，将3000亿美元的人工智能相关风险排除在资产负债表之外",
-          "url": "https://www.ft.com/content/7f11afae-c4e3-4054-a65b-873f3647f563?syn-25a6b1a6=1",
-          "source": "www.ft.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-20T07:19:35.282000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5154,
-      "importance": 0.5154,
-      "importance_score": 0.5154,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8311,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-20T07:19:35.282000Z",
-      "latest_at": "2026-09-20T12:07:10Z",
-      "primary_item": {
-        "id": "9e4b39fee8e55d307074a3f4e61aee1d9a098bbf",
-        "title": "大型科技公司利用担保将 300B 美元的人工智能风险保留在资产负债表之外 / Big Tech uses guarantees to keep $300B AI exposure off balance sheets",
-        "url": "https://www.ft.com/content/7f11afae-c4e3-4054-a65b-873f3647f563",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
       }
     }
   ]
