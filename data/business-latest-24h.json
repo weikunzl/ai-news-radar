@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T18:40:10.383949Z",
+  "generated_at": "2026-09-21T22:41:00.805219Z",
   "window_hours": 24,
   "items": [
     {
@@ -9,7 +9,7 @@
       "source_id": "cbinsights",
       "source_name": "CB Insights",
       "published_at": "2026-09-21T15:52:44Z",
-      "captured_at": "2026-09-21T18:40:10.383949Z",
+      "captured_at": "2026-09-21T22:41:00.805219Z",
       "lane": "startup_vc",
       "entities": [
         "CB Insights",
@@ -41,13 +41,49 @@
       "transport_mode": "feed"
     },
     {
+      "signal_id": "biz_db150de84611",
+      "title": "CEO Interview : axiTrust",
+      "url": "https://www.cbinsights.com/research/ceo-interview-axitrust/",
+      "source_id": "cbinsights",
+      "source_name": "CB Insights",
+      "published_at": "2026-09-21T19:42:59Z",
+      "captured_at": "2026-09-21T22:41:00.805219Z",
+      "lane": "startup_vc",
+      "entities": [
+        "CB Insights",
+        "CEO Interview"
+      ],
+      "business_model_tags": [
+        "Founder Case"
+      ],
+      "yuanli_tags": [
+        "yuanli_startup",
+        "ftf_trust"
+      ],
+      "opc_fit_score": 0,
+      "case_concreteness_score": 15,
+      "total_score": 50,
+      "score_breakdown": {
+        "source_authority": 16,
+        "yuanli_relevance": 6,
+        "business_model_value": 5,
+        "case_concreteness": 15,
+        "opc_fit": 0,
+        "freshness": 8,
+        "counter_signal_value": 0
+      },
+      "summary": "Aditya Tulsian,CEO of axiTrust tells CB Insights how they view the market, customer needs, and their company. How do you define your market and where does your company fit into that space? When a business wins a contract... Tags: Founder Case.",
+      "timestamp_basis": "feed_published",
+      "transport_mode": "feed"
+    },
+    {
       "signal_id": "biz_2de5f4dd6b66",
       "title": "CEO Interview: ForgeVista",
       "url": "https://www.cbinsights.com/research/ceo-interview-forgevista/",
       "source_id": "cbinsights",
       "source_name": "CB Insights",
       "published_at": "2026-09-21T15:48:04Z",
-      "captured_at": "2026-09-21T18:40:10.383949Z",
+      "captured_at": "2026-09-21T22:41:00.805219Z",
       "lane": "startup_vc",
       "entities": [
         "CB Insights",
@@ -84,7 +120,7 @@
       "source_id": "cbinsights",
       "source_name": "CB Insights",
       "published_at": "2026-09-21T15:39:12Z",
-      "captured_at": "2026-09-21T18:40:10.383949Z",
+      "captured_at": "2026-09-21T22:41:00.805219Z",
       "lane": "startup_vc",
       "entities": [
         "CB Insights",
@@ -121,7 +157,7 @@
       "source_id": "cbinsights",
       "source_name": "CB Insights",
       "published_at": "2026-09-21T15:35:05Z",
-      "captured_at": "2026-09-21T18:40:10.383949Z",
+      "captured_at": "2026-09-21T22:41:00.805219Z",
       "lane": "startup_vc",
       "entities": [
         "CB Insights",
@@ -158,7 +194,7 @@
       "source_id": "cbinsights",
       "source_name": "CB Insights",
       "published_at": "2026-09-21T15:28:57Z",
-      "captured_at": "2026-09-21T18:40:10.383949Z",
+      "captured_at": "2026-09-21T22:41:00.805219Z",
       "lane": "startup_vc",
       "entities": [
         "CB Insights",
@@ -195,7 +231,7 @@
       "source_id": "cbinsights",
       "source_name": "CB Insights",
       "published_at": "2026-09-21T14:56:43Z",
-      "captured_at": "2026-09-21T18:40:10.383949Z",
+      "captured_at": "2026-09-21T22:41:00.805219Z",
       "lane": "startup_vc",
       "entities": [
         "CB Insights",
@@ -232,7 +268,7 @@
       "source_id": "cbinsights",
       "source_name": "CB Insights",
       "published_at": "2026-09-21T14:53:57Z",
-      "captured_at": "2026-09-21T18:40:10.383949Z",
+      "captured_at": "2026-09-21T22:41:00.805219Z",
       "lane": "startup_vc",
       "entities": [
         "CB Insights",
@@ -269,7 +305,7 @@
       "source_id": "bain_insights",
       "source_name": "Bain Insights",
       "published_at": "2026-09-21T04:00:00Z",
-      "captured_at": "2026-09-21T18:40:10.383949Z",
+      "captured_at": "2026-09-21T22:41:00.805219Z",
       "lane": "authority",
       "entities": [
         "Bain Insights",
@@ -307,7 +343,7 @@
       "source_id": "openai_news",
       "source_name": "OpenAI News",
       "published_at": "2026-09-21T00:00:00Z",
-      "captured_at": "2026-09-21T18:40:10.383949Z",
+      "captured_at": "2026-09-21T22:41:00.805219Z",
       "lane": "ai_commercialization",
       "entities": [
         "OpenAI News",
@@ -333,6 +369,46 @@
         "counter_signal_value": 0
       },
       "summary": "How V7 gives AI agents institutional memory Tags: AI Business Model Innovation, Enterprise AI Workflow.",
+      "timestamp_basis": "feed_published",
+      "transport_mode": "feed"
+    },
+    {
+      "signal_id": "biz_0ea478f8c74d",
+      "title": "Jev: System One models for Prod, not God — with Diogo Almeida, CEO, TypeSafe AI",
+      "url": "https://www.latent.space/p/jev",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "published_at": "2026-09-21T22:13:49Z",
+      "captured_at": "2026-09-21T22:41:00.805219Z",
+      "lane": "ai_commercialization",
+      "entities": [
+        "Latent Space",
+        "Jev",
+        "System One",
+        "Prod",
+        "God",
+        "Diogo Almeida"
+      ],
+      "business_model_tags": [
+        "OPC",
+        "Enterprise AI Workflow"
+      ],
+      "yuanli_tags": [
+        "yuanli_os"
+      ],
+      "opc_fit_score": 6,
+      "case_concreteness_score": 0,
+      "total_score": 33,
+      "score_breakdown": {
+        "source_authority": 16,
+        "yuanli_relevance": 3,
+        "business_model_value": 0,
+        "case_concreteness": 0,
+        "opc_fit": 6,
+        "freshness": 8,
+        "counter_signal_value": 0
+      },
+      "summary": "The definitive Jev podcast with its lead creator. Tags: OPC, Enterprise AI Workflow.",
       "timestamp_basis": "feed_published",
       "transport_mode": "feed"
     }

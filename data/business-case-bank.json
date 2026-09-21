@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T18:40:10.383949Z",
+  "generated_at": "2026-09-21T22:41:00.805219Z",
   "cases": [
     {
       "case_id": "opc_case_7b46f285f97c",
@@ -21,6 +21,27 @@
         "ftf_trust"
       ],
       "score": 57
+    },
+    {
+      "case_id": "opc_case_a8b3c1f52ffa",
+      "company": "CEO Interview",
+      "founder": "",
+      "source_refs": [
+        "biz_db150de84611"
+      ],
+      "url": "https://www.cbinsights.com/research/ceo-interview-axitrust/",
+      "title": "CEO Interview : axiTrust",
+      "business_model": "Founder Case",
+      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
+      "monetization": "To be extracted from the linked source.",
+      "team_size_signal": "team size not explicit",
+      "distribution_channel": "CB Insights",
+      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
+      "yuanli_mapping": [
+        "yuanli_startup",
+        "ftf_trust"
+      ],
+      "score": 50
     },
     {
       "case_id": "opc_case_568392621729",
@@ -167,6 +188,26 @@
         "yuanli_startup"
       ],
       "score": 41
+    },
+    {
+      "case_id": "opc_case_db3702d6e398",
+      "company": "Jev",
+      "founder": "",
+      "source_refs": [
+        "biz_0ea478f8c74d"
+      ],
+      "url": "https://www.latent.space/p/jev",
+      "title": "Jev: System One models for Prod, not God — with Diogo Almeida, CEO, TypeSafe AI",
+      "business_model": "OPC, Enterprise AI Workflow",
+      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
+      "monetization": "To be extracted from the linked source.",
+      "team_size_signal": "one-person/tiny-team fit",
+      "distribution_channel": "Latent Space",
+      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
+      "yuanli_mapping": [
+        "yuanli_os"
+      ],
+      "score": 33
     }
   ]
 }
