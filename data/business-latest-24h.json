@@ -1,7 +1,44 @@
 {
-  "generated_at": "2026-09-20T22:43:24.142171Z",
+  "generated_at": "2026-09-21T00:58:35.505336Z",
   "window_hours": 24,
   "items": [
+    {
+      "signal_id": "biz_e9adb17812d2",
+      "title": "I have one AI write my code and a second one review it. Yesterday the reviewer failed 2 changes out of 5. When do you stop and drop a change",
+      "url": "https://www.indiehackers.com/post/i-have-one-ai-write-my-code-and-a-second-one-review-it-yesterday-the-reviewer-failed-2-changes-out-of-5-when-do-you-stop-and-drop-a-change-f999d8f908",
+      "source_id": "indie_hackers",
+      "source_name": "Indie Hackers",
+      "published_at": "2026-09-20T13:09:09.622000Z",
+      "captured_at": "2026-09-21T00:58:35.505336Z",
+      "lane": "opc",
+      "entities": [
+        "Indie Hackers",
+        "Yesterday",
+        "When"
+      ],
+      "business_model_tags": [
+        "Counter Signal",
+        "OPC"
+      ],
+      "yuanli_tags": [
+        "yuanli_startup"
+      ],
+      "opc_fit_score": 5,
+      "case_concreteness_score": 0,
+      "total_score": 35,
+      "score_breakdown": {
+        "source_authority": 16,
+        "yuanli_relevance": 0,
+        "business_model_value": 3,
+        "case_concreteness": 0,
+        "opc_fit": 5,
+        "freshness": 7,
+        "counter_signal_value": 4
+      },
+      "summary": "I have one AI write my code and a second one review it. Yesterday the reviewer failed 2 changes out of 5. When do you stop and drop a change Tags: Counter Signal, OPC.",
+      "timestamp_basis": "page_structured_time",
+      "transport_mode": "page_detail"
+    },
     {
       "signal_id": "biz_64f1dafd7b93",
       "title": "90 minutes of unfiltered product advice from Snap and Discord’s product chief | Peter Sellis",
@@ -9,7 +46,7 @@
       "source_id": "lenny",
       "source_name": "Lenny's Newsletter",
       "published_at": "2026-09-20T12:32:17Z",
-      "captured_at": "2026-09-20T22:43:24.142171Z",
+      "captured_at": "2026-09-21T00:58:35.505336Z",
       "lane": "startup_vc",
       "entities": [
         "Lenny's Newsletter",
@@ -26,14 +63,14 @@
       ],
       "opc_fit_score": 0,
       "case_concreteness_score": 4,
-      "total_score": 31,
+      "total_score": 30,
       "score_breakdown": {
         "source_authority": 16,
         "yuanli_relevance": 0,
         "business_model_value": 3,
         "case_concreteness": 4,
         "opc_fit": 0,
-        "freshness": 8,
+        "freshness": 7,
         "counter_signal_value": 0
       },
       "summary": "Peter Sellis on designing teams like terrorist organizations, riding your best people hard, and the three oxymorons of a truly great PM Tags: Enterprise AI Workflow, Founder Case.",
