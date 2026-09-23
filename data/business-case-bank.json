@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-09-23T07:38:20.979370Z",
+  "generated_at": "2026-09-23T13:03:11.756777Z",
   "cases": [
+    {
+      "case_id": "opc_case_b307c7b636dc",
+      "company": "SaaS",
+      "founder": "",
+      "source_refs": [
+        "biz_c1e6c0804d57"
+      ],
+      "url": "https://www.indiehackers.com/post/i-built-a-saas-revenue-risk-workflow-looking-for-2-founders-to-test-it-on-real-data-632ea180f6",
+      "title": "I built a SaaS revenue-risk workflow. Looking for 2 founders to test it on real data",
+      "business_model": "AI Business Model Innovation, Founder Case, Enterprise AI Workflow",
+      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
+      "monetization": "To be extracted from the linked source.",
+      "team_size_signal": "team size not explicit",
+      "distribution_channel": "Indie Hackers",
+      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
+      "yuanli_mapping": [
+        "yuanli_asset",
+        "yuanli_startup",
+        "yuanli_os",
+        "ftf_trust",
+        "profit_container"
+      ],
+      "score": 81
+    },
     {
       "case_id": "opc_case_a354c287c767",
       "company": "Executive Interview",
@@ -42,7 +66,7 @@
         "yuanli_startup",
         "ftf_trust"
       ],
-      "score": 50
+      "score": 49
     },
     {
       "case_id": "opc_case_3f6cd3f3b226",
@@ -63,7 +87,7 @@
         "yuanli_startup",
         "ftf_trust"
       ],
-      "score": 50
+      "score": 49
     },
     {
       "case_id": "opc_case_503a351fc724",
@@ -213,6 +237,46 @@
       "score": 49
     },
     {
+      "case_id": "opc_case_2d43f6961a68",
+      "company": "Healthcare IT Investment",
+      "founder": "",
+      "source_refs": [
+        "biz_492b74d8ba57"
+      ],
+      "url": "https://www.bain.com/insights/healthcare-it-investment-stability-and-growth-in-the-face-of-saaspocalypse-fears/",
+      "title": "Healthcare IT Investment: Stability and Growth in the Face of “SaaSpocalypse” Fears",
+      "business_model": "Founder Case, AI Business Model Innovation",
+      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
+      "monetization": "To be extracted from the linked source.",
+      "team_size_signal": "team size not explicit",
+      "distribution_channel": "Bain Insights",
+      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
+      "yuanli_mapping": [
+        "wealth_flywheel"
+      ],
+      "score": 42
+    },
+    {
+      "case_id": "opc_case_fa9abe5ceb7a",
+      "company": "The Resilience-to-Growth Circularity",
+      "founder": "",
+      "source_refs": [
+        "biz_6b5919db7bc5"
+      ],
+      "url": "https://www.bain.com/insights/the-resilience-to-growth-circularity-playbook-for-industrial-solutions-and-manufacturing-weforum/",
+      "title": "The Resilience-to-Growth Circularity Playbook for Industrial Solutions and Manufacturing",
+      "business_model": "Founder Case, AI Business Model Innovation",
+      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
+      "monetization": "To be extracted from the linked source.",
+      "team_size_signal": "team size not explicit",
+      "distribution_channel": "Bain Insights",
+      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
+      "yuanli_mapping": [
+        "wealth_flywheel"
+      ],
+      "score": 42
+    },
+    {
       "case_id": "opc_case_80ebdf2e5618",
       "company": "Opus",
       "founder": "",
@@ -230,7 +294,7 @@
       "yuanli_mapping": [
         "yuanli_os"
       ],
-      "score": 36
+      "score": 35
     },
     {
       "case_id": "opc_case_7dc929e059b0",
@@ -251,26 +315,6 @@
         "yuanli_os"
       ],
       "score": 35
-    },
-    {
-      "case_id": "opc_case_19ab617138eb",
-      "company": "Advanced",
-      "founder": "",
-      "source_refs": [
-        "biz_f93751ebc700"
-      ],
-      "url": "https://www.lennysnewsletter.com/p/advanced-evals-how-to-find-and-fix",
-      "title": "Advanced evals: How to find (and fix) hidden AI failures in your product",
-      "business_model": "Counter Signal, Founder Case",
-      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
-      "monetization": "To be extracted from the linked source.",
-      "team_size_signal": "team size not explicit",
-      "distribution_channel": "Lenny's Newsletter",
-      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
-      "yuanli_mapping": [
-        "yuanli_startup"
-      ],
-      "score": 30
     }
   ]
 }
