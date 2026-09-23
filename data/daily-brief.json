@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T01:42:32.428153Z",
+  "generated_at": "2026-09-23T07:30:51.903626Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.916,
-      "importance": 0.916,
-      "importance_score": 0.916,
+      "score": 0.9031,
+      "importance": 0.9031,
+      "importance_score": 0.9031,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8947,
+        "recency": 0.8227,
         "story_heat": 0.75
       },
       "category": "official",
@@ -215,15 +215,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8681,
-      "importance": 0.8681,
-      "importance_score": 0.8681,
+      "score": 0.855,
+      "importance": 0.855,
+      "importance_score": 0.855,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9085,
+        "recency": 0.8354,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -240,6 +240,130 @@
         "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack",
         "source": "Hacker News：AI 热帖",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_91992ed9f82d",
+      "title": "Codex CLI 0.156.1",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "1673cf098377ad515b7921904f29c746b731cb0a",
+          "title": "Codex CLI 0.156.1",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-23T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "1673cf098377ad515b7921904f29c746b731cb0a",
+          "title": "Codex CLI 0.156.1",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-23T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8475,
+      "importance": 0.8475,
+      "importance_score": 0.8475,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.8972,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-23T00:00:00Z",
+      "latest_at": "2026-09-23T00:00:00Z",
+      "primary_item": {
+        "id": "1673cf098377ad515b7921904f29c746b731cb0a",
+        "title": "Codex CLI 0.156.1",
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_0ad4c8ab9866",
+      "title": "OpenTelemetry in the GitHub Copilot app",
+      "url": "https://github.blog/changelog/2026-09-22-opentelemetry-in-the-github-copilot-app",
+      "primary_url": "https://github.blog/changelog/2026-09-22-opentelemetry-in-the-github-copilot-app",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "ae1c58aa20e4c2df326c547da2de59d09a850f04",
+          "title": "OpenTelemetry in the GitHub Copilot app",
+          "url": "https://github.blog/changelog/2026-09-22-opentelemetry-in-the-github-copilot-app",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-23T02:14:54Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "ae1c58aa20e4c2df326c547da2de59d09a850f04",
+          "title": "OpenTelemetry in the GitHub Copilot app",
+          "url": "https://github.blog/changelog/2026-09-22-opentelemetry-in-the-github-copilot-app",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-23T02:14:54Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8388,
+      "importance": 0.8388,
+      "importance_score": 0.8388,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9268,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-23T02:14:54Z",
+      "latest_at": "2026-09-23T02:14:54Z",
+      "primary_item": {
+        "id": "ae1c58aa20e4c2df326c547da2de59d09a850f04",
+        "title": "OpenTelemetry in the GitHub Copilot app",
+        "url": "https://github.blog/changelog/2026-09-22-opentelemetry-in-the-github-copilot-app",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -296,15 +420,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8812,
-      "importance": 0.8812,
-      "importance_score": 0.8812,
+      "score": 0.8676,
+      "importance": 0.8676,
+      "importance_score": 0.8676,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.9343,
+        "recency": 0.8591,
         "story_heat": 0.25
       },
       "category": "official",
@@ -321,68 +445,6 @@
         "title": "OpenAI 为 GPT-6 推出改进的提示词缓存系统与诊断工具 / Better prompt caching for GPT-6",
         "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
         "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_907491f6b86b",
-      "title": "Copilot for JetBrains 的新功能和改进 / New features and improvements in Copilot for JetBrains",
-      "url": "https://github.blog/changelog/2026-09-22-new-features-and-improvements-in-copilot-for-jetbrains",
-      "primary_url": "https://github.blog/changelog/2026-09-22-new-features-and-improvements-in-copilot-for-jetbrains",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "1b42bc87cecf6157669d6957a2452c4f102295c0",
-          "title": "Copilot for JetBrains 的新功能和改进 / New features and improvements in Copilot for JetBrains",
-          "url": "https://github.blog/changelog/2026-09-22-new-features-and-improvements-in-copilot-for-jetbrains",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-23T00:34:18Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "1b42bc87cecf6157669d6957a2452c4f102295c0",
-          "title": "Copilot for JetBrains 的新功能和改进 / New features and improvements in Copilot for JetBrains",
-          "url": "https://github.blog/changelog/2026-09-22-new-features-and-improvements-in-copilot-for-jetbrains",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-23T00:34:18Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8491,
-      "importance": 0.8491,
-      "importance_score": 0.8491,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9837,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-23T00:34:18Z",
-      "latest_at": "2026-09-23T00:34:18Z",
-      "primary_item": {
-        "id": "1b42bc87cecf6157669d6957a2452c4f102295c0",
-        "title": "Copilot for JetBrains 的新功能和改进 / New features and improvements in Copilot for JetBrains",
-        "url": "https://github.blog/changelog/2026-09-22-new-features-and-improvements-in-copilot-for-jetbrains",
-        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -478,15 +540,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8482,
-      "importance": 0.8482,
-      "importance_score": 0.8482,
+      "score": 0.8349,
+      "importance": 0.8349,
+      "importance_score": 0.8349,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9142,
+        "recency": 0.8407,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -532,19 +594,19 @@
           "published_at": "2026-09-22T16:51:25.134000Z"
         },
         {
-          "id": "7a1fbce1ee059d26946f834e682e7bce779b1eb6",
+          "id": "cd5547068fd6105b5559404bf52b81bb857f3b81",
           "title": "克劳德 作品5.5 / Claude Opus 5.5",
           "url": "https://www.anthropic.com/claude-opus-5-5",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-09-22T16:29:05Z"
         }
       ],
       "source_count": 3,
       "source_names": [
         "Anthropic：Newsroom（网页）",
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "www.anthropic.com"
       ],
       "items": [
@@ -567,26 +629,26 @@
           "published_at": "2026-09-22T16:51:25.134000Z"
         },
         {
-          "id": "7a1fbce1ee059d26946f834e682e7bce779b1eb6",
+          "id": "cd5547068fd6105b5559404bf52b81bb857f3b81",
           "title": "克劳德 作品5.5 / Claude Opus 5.5",
           "url": "https://www.anthropic.com/claude-opus-5-5",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-09-22T16:29:05Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8381,
-      "importance": 0.8381,
-      "importance_score": 0.8381,
+      "score": 0.8253,
+      "importance": 0.8253,
+      "importance_score": 0.8253,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8804,
+        "recency": 0.8096,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -603,6 +665,68 @@
         "url": "https://www.anthropic.com/claude-opus-5-5",
         "source": "Anthropic：Newsroom（网页）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_907491f6b86b",
+      "title": "Copilot for JetBrains 的新功能和改进 / New features and improvements in Copilot for JetBrains",
+      "url": "https://github.blog/changelog/2026-09-22-new-features-and-improvements-in-copilot-for-jetbrains",
+      "primary_url": "https://github.blog/changelog/2026-09-22-new-features-and-improvements-in-copilot-for-jetbrains",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "1b42bc87cecf6157669d6957a2452c4f102295c0",
+          "title": "Copilot for JetBrains 的新功能和改进 / New features and improvements in Copilot for JetBrains",
+          "url": "https://github.blog/changelog/2026-09-22-new-features-and-improvements-in-copilot-for-jetbrains",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-23T00:34:18Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "1b42bc87cecf6157669d6957a2452c4f102295c0",
+          "title": "Copilot for JetBrains 的新功能和改进 / New features and improvements in Copilot for JetBrains",
+          "url": "https://github.blog/changelog/2026-09-22-new-features-and-improvements-in-copilot-for-jetbrains",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-23T00:34:18Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8348,
+      "importance": 0.8348,
+      "importance_score": 0.8348,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9046,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-23T00:34:18Z",
+      "latest_at": "2026-09-23T00:34:18Z",
+      "primary_item": {
+        "id": "1b42bc87cecf6157669d6957a2452c4f102295c0",
+        "title": "Copilot for JetBrains 的新功能和改进 / New features and improvements in Copilot for JetBrains",
+        "url": "https://github.blog/changelog/2026-09-22-new-features-and-improvements-in-copilot-for-jetbrains",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -659,15 +783,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8147,
-      "importance": 0.8147,
-      "importance_score": 0.8147,
+      "score": 0.8006,
+      "importance": 0.8006,
+      "importance_score": 0.8006,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9725,
+        "recency": 0.8943,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -687,65 +811,64 @@
       }
     },
     {
-      "story_id": "story_da8711b734f6",
-      "title": "Claude Opus 5.5 现已在 GitHub Copilot 中提供 / Claude Opus 5.5 is now available in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-09-22-claude-opus-5-5-is-now-available-in-github-copilot",
-      "primary_url": "https://github.blog/changelog/2026-09-22-claude-opus-5-5-is-now-available-in-github-copilot",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_c1760eb14503",
+      "title": "OpenAI 发布 GPT-6 Sol 与 Luna，API 定价降至五折并公布基准成绩",
+      "url": "https://www.marktechpost.com/2026/09/22/openai-releases-gpt-6-sol-and-luna-50-cheaper-api-pricing-and-benchmarks",
+      "primary_url": "https://www.marktechpost.com/2026/09/22/openai-releases-gpt-6-sol-and-luna-50-cheaper-api-pricing-and-benchmarks",
+      "source": "MarkTechPost（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "061f1fc50aeba385d91a82797281fa7d29c40ee6",
-          "title": "Claude Opus 5.5 现已在 GitHub Copilot 中提供 / Claude Opus 5.5 is now available in GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-09-22-claude-opus-5-5-is-now-available-in-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-22T17:10:23Z"
+          "id": "46ab56f051cd2fb216ac50b26897f251f6a547d6",
+          "title": "OpenAI 发布 GPT-6 Sol 与 Luna，API 定价降至五折并公布基准成绩",
+          "url": "https://www.marktechpost.com/2026/09/22/openai-releases-gpt-6-sol-and-luna-50-cheaper-api-pricing-and-benchmarks",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-23T05:18:36Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "MarkTechPost（RSS）"
       ],
       "items": [
         {
-          "id": "061f1fc50aeba385d91a82797281fa7d29c40ee6",
-          "title": "Claude Opus 5.5 现已在 GitHub Copilot 中提供 / Claude Opus 5.5 is now available in GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-09-22-claude-opus-5-5-is-now-available-in-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-22T17:10:23Z"
+          "id": "46ab56f051cd2fb216ac50b26897f251f6a547d6",
+          "title": "OpenAI 发布 GPT-6 Sol 与 Luna，API 定价降至五折并公布基准成绩",
+          "url": "https://www.marktechpost.com/2026/09/22/openai-releases-gpt-6-sol-and-luna-50-cheaper-api-pricing-and-benchmarks",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-23T05:18:36Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8391,
-      "importance": 0.8391,
-      "importance_score": 0.8391,
-      "importance_label": "官方更新",
+      "score": 0.789,
+      "importance": 0.789,
+      "importance_score": 0.789,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.884,
+        "editorial": 0.81,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9687,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-22T17:10:23Z",
-      "latest_at": "2026-09-22T17:10:23Z",
+      "earliest_at": "2026-09-23T05:18:36Z",
+      "latest_at": "2026-09-23T05:18:36Z",
       "primary_item": {
-        "id": "061f1fc50aeba385d91a82797281fa7d29c40ee6",
-        "title": "Claude Opus 5.5 现已在 GitHub Copilot 中提供 / Claude Opus 5.5 is now available in GitHub Copilot",
-        "url": "https://github.blog/changelog/2026-09-22-claude-opus-5-5-is-now-available-in-github-copilot",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "id": "46ab56f051cd2fb216ac50b26897f251f6a547d6",
+        "title": "OpenAI 发布 GPT-6 Sol 与 Luna，API 定价降至五折并公布基准成绩",
+        "url": "https://www.marktechpost.com/2026/09/22/openai-releases-gpt-6-sol-and-luna-50-cheaper-api-pricing-and-benchmarks",
+        "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -783,15 +906,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7869,
-      "importance": 0.7869,
-      "importance_score": 0.7869,
+      "score": 0.774,
+      "importance": 0.774,
+      "importance_score": 0.774,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8907,
+        "recency": 0.8191,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -844,15 +967,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7854,
-      "importance": 0.7854,
-      "importance_score": 0.7854,
+      "score": 0.7724,
+      "importance": 0.7724,
+      "importance_score": 0.7724,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.899,
+        "recency": 0.8267,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -871,21 +994,21 @@
       }
     },
     {
-      "story_id": "story_9b1fa73218f4",
-      "title": "OpenAI 的 GPT-6 Sol 和 GPT-6 Luna 现已上市 / OpenAI’s GPT-6 Sol and GPT-6 Luna now available",
-      "url": "https://github.blog/changelog/2026-09-22-openais-gpt-6-sol-and-gpt-6-luna-now-available",
-      "primary_url": "https://github.blog/changelog/2026-09-22-openais-gpt-6-sol-and-gpt-6-luna-now-available",
+      "story_id": "story_da8711b734f6",
+      "title": "Claude Opus 5.5 现已在 GitHub Copilot 中提供 / Claude Opus 5.5 is now available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-09-22-claude-opus-5-5-is-now-available-in-github-copilot",
+      "primary_url": "https://github.blog/changelog/2026-09-22-claude-opus-5-5-is-now-available-in-github-copilot",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "6618d310ad4a80bde18060bf0f9772360a6176e3",
-          "title": "OpenAI 的 GPT-6 Sol 和 GPT-6 Luna 现已上市 / OpenAI’s GPT-6 Sol and GPT-6 Luna now available",
-          "url": "https://github.blog/changelog/2026-09-22-openais-gpt-6-sol-and-gpt-6-luna-now-available",
+          "id": "061f1fc50aeba385d91a82797281fa7d29c40ee6",
+          "title": "Claude Opus 5.5 现已在 GitHub Copilot 中提供 / Claude Opus 5.5 is now available in GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-09-22-claude-opus-5-5-is-now-available-in-github-copilot",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-22T17:00:14Z"
+          "published_at": "2026-09-22T17:10:23Z"
         }
       ],
       "source_count": 1,
@@ -894,26 +1017,26 @@
       ],
       "items": [
         {
-          "id": "6618d310ad4a80bde18060bf0f9772360a6176e3",
-          "title": "OpenAI 的 GPT-6 Sol 和 GPT-6 Luna 现已上市 / OpenAI’s GPT-6 Sol and GPT-6 Luna now available",
-          "url": "https://github.blog/changelog/2026-09-22-openais-gpt-6-sol-and-gpt-6-luna-now-available",
+          "id": "061f1fc50aeba385d91a82797281fa7d29c40ee6",
+          "title": "Claude Opus 5.5 现已在 GitHub Copilot 中提供 / Claude Opus 5.5 is now available in GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-09-22-claude-opus-5-5-is-now-available-in-github-copilot",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-22T17:00:14Z"
+          "published_at": "2026-09-22T17:10:23Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8387,
-      "importance": 0.8387,
-      "importance_score": 0.8387,
+      "score": 0.8263,
+      "importance": 0.8263,
+      "importance_score": 0.8263,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8819,
+        "recency": 0.8129,
         "story_heat": 0.0
       },
       "category": "official",
@@ -922,12 +1045,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-22T17:00:14Z",
-      "latest_at": "2026-09-22T17:00:14Z",
+      "earliest_at": "2026-09-22T17:10:23Z",
+      "latest_at": "2026-09-22T17:10:23Z",
       "primary_item": {
-        "id": "6618d310ad4a80bde18060bf0f9772360a6176e3",
-        "title": "OpenAI 的 GPT-6 Sol 和 GPT-6 Luna 现已上市 / OpenAI’s GPT-6 Sol and GPT-6 Luna now available",
-        "url": "https://github.blog/changelog/2026-09-22-openais-gpt-6-sol-and-gpt-6-luna-now-available",
+        "id": "061f1fc50aeba385d91a82797281fa7d29c40ee6",
+        "title": "Claude Opus 5.5 现已在 GitHub Copilot 中提供 / Claude Opus 5.5 is now available in GitHub Copilot",
+        "url": "https://github.blog/changelog/2026-09-22-claude-opus-5-5-is-now-available-in-github-copilot",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
@@ -967,15 +1090,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7785,
-      "importance": 0.7785,
-      "importance_score": 0.7785,
+      "score": 0.7658,
+      "importance": 0.7658,
+      "importance_score": 0.7658,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8774,
+        "recency": 0.8068,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -990,67 +1113,6 @@
         "title": "Anthropic 发布 Claude Opus 5.5，成本降低 40% 且速度提升 30%",
         "url": "https://x.com/mark_k/status/2102437510731219218",
         "source": "@mark_k",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_06f2bc780d55",
-      "title": "Claude Opus 5.5 发布：较 Opus 5 降价提速，系统卡披露安全演习中约半数运行或有危害行为",
-      "url": "https://x.com/rohanpaul_ai/status/2102491250515681384",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2102491250515681384",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c19fc09a5e5d15914f5c59ee0ad1fc9a20595681",
-          "title": "Claude Opus 5.5 发布：较 Opus 5 降价提速，系统卡披露安全演习中约半数运行或有危害行为",
-          "url": "https://x.com/rohanpaul_ai/status/2102491250515681384",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-22T20:12:31Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "items": [
-        {
-          "id": "c19fc09a5e5d15914f5c59ee0ad1fc9a20595681",
-          "title": "Claude Opus 5.5 发布：较 Opus 5 降价提速，系统卡披露安全演习中约半数运行或有危害行为",
-          "url": "https://x.com/rohanpaul_ai/status/2102491250515681384",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-22T20:12:31Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7689,
-      "importance": 0.7689,
-      "importance_score": 0.7689,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9236,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-22T20:12:31Z",
-      "latest_at": "2026-09-22T20:12:31Z",
-      "primary_item": {
-        "id": "c19fc09a5e5d15914f5c59ee0ad1fc9a20595681",
-        "title": "Claude Opus 5.5 发布：较 Opus 5 降价提速，系统卡披露安全演习中约半数运行或有危害行为",
-        "url": "https://x.com/rohanpaul_ai/status/2102491250515681384",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
         "source_name": "AI HOT"
       }
     },
@@ -1089,15 +1151,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8277,
-      "importance": 0.8277,
-      "importance_score": 0.8277,
+      "score": 0.8158,
+      "importance": 0.8158,
+      "importance_score": 0.8158,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8204,
+        "recency": 0.7544,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1114,6 +1176,67 @@
         "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_06f2bc780d55",
+      "title": "Claude Opus 5.5 发布：较 Opus 5 降价提速，系统卡披露安全演习中约半数运行或有危害行为",
+      "url": "https://x.com/rohanpaul_ai/status/2102491250515681384",
+      "primary_url": "https://x.com/rohanpaul_ai/status/2102491250515681384",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c19fc09a5e5d15914f5c59ee0ad1fc9a20595681",
+          "title": "Claude Opus 5.5 发布：较 Opus 5 降价提速，系统卡披露安全演习中约半数运行或有危害行为",
+          "url": "https://x.com/rohanpaul_ai/status/2102491250515681384",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T20:12:31Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Rohan Paul (@rohanpaul_ai)"
+      ],
+      "items": [
+        {
+          "id": "c19fc09a5e5d15914f5c59ee0ad1fc9a20595681",
+          "title": "Claude Opus 5.5 发布：较 Opus 5 降价提速，系统卡披露安全演习中约半数运行或有危害行为",
+          "url": "https://x.com/rohanpaul_ai/status/2102491250515681384",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T20:12:31Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7555,
+      "importance": 0.7555,
+      "importance_score": 0.7555,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8494,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-22T20:12:31Z",
+      "latest_at": "2026-09-22T20:12:31Z",
+      "primary_item": {
+        "id": "c19fc09a5e5d15914f5c59ee0ad1fc9a20595681",
+        "title": "Claude Opus 5.5 发布：较 Opus 5 降价提速，系统卡披露安全演习中约半数运行或有危害行为",
+        "url": "https://x.com/rohanpaul_ai/status/2102491250515681384",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -1151,15 +1274,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7646,
-      "importance": 0.7646,
-      "importance_score": 0.7646,
+      "score": 0.7515,
+      "importance": 0.7515,
+      "importance_score": 0.7515,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8997,
+        "recency": 0.8274,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1212,15 +1335,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7644,
-      "importance": 0.7644,
-      "importance_score": 0.7644,
+      "score": 0.7514,
+      "importance": 0.7514,
+      "importance_score": 0.7514,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8988,
+        "recency": 0.8266,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1273,15 +1396,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7643,
-      "importance": 0.7643,
-      "importance_score": 0.7643,
+      "score": 0.7513,
+      "importance": 0.7513,
+      "importance_score": 0.7513,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8982,
+        "recency": 0.826,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1334,15 +1457,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7931,
-      "importance": 0.7931,
-      "importance_score": 0.7931,
+      "score": 0.78,
+      "importance": 0.78,
+      "importance_score": 0.78,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9085,
+        "recency": 0.8354,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1357,148 +1480,6 @@
         "title": "五角大楼内部审查：过度依赖 Palantir Maven AI 系统导致误击伊朗学校、123 名儿童死亡",
         "url": "https://gizmodo.com/pentagon-investigators-say-overreliance-on-palantir-ai-tech-contributed-to-u-s-strike-that-killed-123-iranian-children-2000814477",
         "source": "Hacker News：AI 热帖",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_11e6cde07112",
-      "title": "Claude Code v2.1.280 发布，新增 Claude Opus 5.5 为默认 Opus 模型",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.280",
-      "primary_url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.280",
-      "source": "Claude Code：GitHub Releases（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "49af8e4a3e60816623ce83b00bca263c43131f79",
-          "title": "Claude Code v2.1.280 发布，新增 Claude Opus 5.5 为默认 Opus 模型",
-          "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.280",
-          "source": "Claude Code：GitHub Releases（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-22T16:38:14Z"
-        },
-        {
-          "id": "a4de480d5f72865969ff27da32d2f90ad5dfadf1",
-          "title": "v2.1.280",
-          "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.280",
-          "source": "Claude Code Releases",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-22T16:38:14Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Claude Code Releases",
-        "Claude Code：GitHub Releases（RSS）"
-      ],
-      "items": [
-        {
-          "id": "49af8e4a3e60816623ce83b00bca263c43131f79",
-          "title": "Claude Code v2.1.280 发布，新增 Claude Opus 5.5 为默认 Opus 模型",
-          "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.280",
-          "source": "Claude Code：GitHub Releases（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-22T16:38:14Z"
-        },
-        {
-          "id": "a4de480d5f72865969ff27da32d2f90ad5dfadf1",
-          "title": "v2.1.280",
-          "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.280",
-          "source": "Claude Code Releases",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-22T16:38:14Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7585,
-      "importance": 0.7585,
-      "importance_score": 0.7585,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.68,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8772,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-22T16:38:14Z",
-      "latest_at": "2026-09-22T16:38:14Z",
-      "primary_item": {
-        "id": "49af8e4a3e60816623ce83b00bca263c43131f79",
-        "title": "Claude Code v2.1.280 发布，新增 Claude Opus 5.5 为默认 Opus 模型",
-        "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.280",
-        "source": "Claude Code：GitHub Releases（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_47e282dcbada",
-      "title": "Artificial Analysis 评测 GPT-6 Sol 和 Luna：成本减半但各评测有升有降",
-      "url": "https://artificialanalysis.ai/articles/gpt-6-sol-and-luna-push-the-cost-efficiency-frontier",
-      "primary_url": "https://artificialanalysis.ai/articles/gpt-6-sol-and-luna-push-the-cost-efficiency-frontier",
-      "source": "Artificial Analysis 完整文章（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "33185a5093da65164f7e9f903f5d8a83628b7089",
-          "title": "Artificial Analysis 评测 GPT-6 Sol 和 Luna：成本减半但各评测有升有降",
-          "url": "https://artificialanalysis.ai/articles/gpt-6-sol-and-luna-push-the-cost-efficiency-frontier",
-          "source": "Artificial Analysis 完整文章（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-22T19:41:37.417000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Artificial Analysis 完整文章（网页）"
-      ],
-      "items": [
-        {
-          "id": "33185a5093da65164f7e9f903f5d8a83628b7089",
-          "title": "Artificial Analysis 评测 GPT-6 Sol 和 Luna：成本减半但各评测有升有降",
-          "url": "https://artificialanalysis.ai/articles/gpt-6-sol-and-luna-push-the-cost-efficiency-frontier",
-          "source": "Artificial Analysis 完整文章（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-22T19:41:37.417000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7796,
-      "importance": 0.7796,
-      "importance_score": 0.7796,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.81,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9168,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-22T19:41:37.417000Z",
-      "latest_at": "2026-09-22T19:41:37.417000Z",
-      "primary_item": {
-        "id": "33185a5093da65164f7e9f903f5d8a83628b7089",
-        "title": "Artificial Analysis 评测 GPT-6 Sol 和 Luna：成本减半但各评测有升有降",
-        "url": "https://artificialanalysis.ai/articles/gpt-6-sol-and-luna-push-the-cost-efficiency-frontier",
-        "source": "Artificial Analysis 完整文章（网页）",
         "source_name": "AI HOT"
       }
     }
