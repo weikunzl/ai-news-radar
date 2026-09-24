@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T14:22:55.623410Z",
+  "generated_at": "2026-09-24T18:46:33.414424Z",
   "window_hours": 24,
   "items": [
     {
@@ -9,7 +9,7 @@
       "source_id": "cbinsights",
       "source_name": "CB Insights",
       "published_at": "2026-09-23T20:55:19Z",
-      "captured_at": "2026-09-24T14:22:55.623410Z",
+      "captured_at": "2026-09-24T18:46:33.414424Z",
       "lane": "startup_vc",
       "entities": [
         "CB Insights",
@@ -42,57 +42,18 @@
       "transport_mode": "feed"
     },
     {
-      "signal_id": "biz_37fa86f3dc3b",
-      "title": "Executive Interview: Voltaire",
-      "url": "https://www.cbinsights.com/research/executive-interview-voltaire/",
+      "signal_id": "biz_ee7fcfe93352",
+      "title": "CEO Interview: Shepherd",
+      "url": "https://www.cbinsights.com/research/ceo-interview-shepherd/",
       "source_id": "cbinsights",
       "source_name": "CB Insights",
-      "published_at": "2026-09-23T15:03:58Z",
-      "captured_at": "2026-09-24T14:22:55.623410Z",
+      "published_at": "2026-09-24T15:58:38Z",
+      "captured_at": "2026-09-24T18:46:33.414424Z",
       "lane": "startup_vc",
       "entities": [
         "CB Insights",
-        "Executive Interview",
-        "Voltaire"
-      ],
-      "business_model_tags": [
-        "AI Business Model Innovation",
-        "Founder Case"
-      ],
-      "yuanli_tags": [
-        "yuanli_startup",
-        "ftf_trust",
-        "profit_container"
-      ],
-      "opc_fit_score": 0,
-      "case_concreteness_score": 15,
-      "total_score": 56,
-      "score_breakdown": {
-        "source_authority": 16,
-        "yuanli_relevance": 11,
-        "business_model_value": 7,
-        "case_concreteness": 15,
-        "opc_fit": 0,
-        "freshness": 7,
-        "counter_signal_value": 0
-      },
-      "summary": "Mitchel Forney, Chief Revenue Officer of Voltaire, tells CB Insights how they view the market, customer needs, and their company. How do you define your market and where does your company fit into that space? Voltaire’s... Tags: AI Business Model Innovation, Founder Case.",
-      "timestamp_basis": "feed_published",
-      "transport_mode": "feed"
-    },
-    {
-      "signal_id": "biz_56a0863b84bd",
-      "title": "Executive Interview: MarvelX AI",
-      "url": "https://www.cbinsights.com/research/executive-interview-marvelx-ai/",
-      "source_id": "cbinsights",
-      "source_name": "CB Insights",
-      "published_at": "2026-09-23T14:58:06Z",
-      "captured_at": "2026-09-24T14:22:55.623410Z",
-      "lane": "startup_vc",
-      "entities": [
-        "CB Insights",
-        "Executive Interview",
-        "MarvelX AI"
+        "CEO Interview",
+        "Shepherd"
       ],
       "business_model_tags": [
         "Founder Case"
@@ -103,17 +64,54 @@
       ],
       "opc_fit_score": 0,
       "case_concreteness_score": 15,
-      "total_score": 51,
+      "total_score": 50,
       "score_breakdown": {
         "source_authority": 16,
-        "yuanli_relevance": 8,
+        "yuanli_relevance": 6,
         "business_model_value": 5,
         "case_concreteness": 15,
         "opc_fit": 0,
-        "freshness": 7,
+        "freshness": 8,
         "counter_signal_value": 0
       },
-      "summary": "Mark Pannekoek, VP of Sales at MarvelX AI, tells CB Insights how they view the market, customer needs, and their company. How do you define your market and where does your company fit into that space? In terms of … The p... Tags: Founder Case.",
+      "summary": "Justin Levine, Chief Executive Officer (CEO) at Shepherd, tells CB Insights how they view the market, customer needs, and his company. How do you define your market and where does your company fit into that space? Shephe... Tags: Founder Case.",
+      "timestamp_basis": "feed_published",
+      "transport_mode": "feed"
+    },
+    {
+      "signal_id": "biz_ede88c673ef8",
+      "title": "CEO Interview: Flora Fertility",
+      "url": "https://www.cbinsights.com/research/ceo-interview-flora-fertility/",
+      "source_id": "cbinsights",
+      "source_name": "CB Insights",
+      "published_at": "2026-09-24T14:41:31Z",
+      "captured_at": "2026-09-24T18:46:33.414424Z",
+      "lane": "startup_vc",
+      "entities": [
+        "CB Insights",
+        "CEO Interview",
+        "Flora Fertility"
+      ],
+      "business_model_tags": [
+        "Founder Case"
+      ],
+      "yuanli_tags": [
+        "yuanli_startup",
+        "ftf_trust"
+      ],
+      "opc_fit_score": 0,
+      "case_concreteness_score": 15,
+      "total_score": 50,
+      "score_breakdown": {
+        "source_authority": 16,
+        "yuanli_relevance": 6,
+        "business_model_value": 5,
+        "case_concreteness": 15,
+        "opc_fit": 0,
+        "freshness": 8,
+        "counter_signal_value": 0
+      },
+      "summary": "Christy Tomkins-Lane, Chief Executive Officer (CEO) at Flora Fertility, tells CB Insights how she views the market, customer needs, and her company. How do you define your market and where does your company fit into that... Tags: Founder Case.",
       "timestamp_basis": "feed_published",
       "transport_mode": "feed"
     },
@@ -124,7 +122,7 @@
       "source_id": "cbinsights",
       "source_name": "CB Insights",
       "published_at": "2026-09-23T21:12:00Z",
-      "captured_at": "2026-09-24T14:22:55.623410Z",
+      "captured_at": "2026-09-24T18:46:33.414424Z",
       "lane": "startup_vc",
       "entities": [
         "CB Insights",
@@ -155,264 +153,39 @@
       "transport_mode": "feed"
     },
     {
-      "signal_id": "biz_05e53da7860c",
-      "title": "Executive Interview: Ennabl",
-      "url": "https://www.cbinsights.com/research/executive-interview-ennabl/",
-      "source_id": "cbinsights",
-      "source_name": "CB Insights",
-      "published_at": "2026-09-23T15:08:07Z",
-      "captured_at": "2026-09-24T14:22:55.623410Z",
-      "lane": "startup_vc",
-      "entities": [
-        "CB Insights",
-        "Executive Interview",
-        "Ennabl"
-      ],
-      "business_model_tags": [
-        "Founder Case"
-      ],
-      "yuanli_tags": [
-        "yuanli_startup",
-        "ftf_trust"
-      ],
-      "opc_fit_score": 0,
-      "case_concreteness_score": 15,
-      "total_score": 49,
-      "score_breakdown": {
-        "source_authority": 16,
-        "yuanli_relevance": 6,
-        "business_model_value": 5,
-        "case_concreteness": 15,
-        "opc_fit": 0,
-        "freshness": 7,
-        "counter_signal_value": 0
-      },
-      "summary": "Chris Nelson, Chief Operating Officer (COO) of Ennabl, tells CB Insights how they view the market, customer needs, and their company. How do you define your market and where does your company fit into that space? Ennabl... Tags: Founder Case.",
-      "timestamp_basis": "feed_published",
-      "transport_mode": "feed"
-    },
-    {
-      "signal_id": "biz_aa972051a717",
-      "title": "Executive Interview: Maximizer AI",
-      "url": "https://www.cbinsights.com/research/executive-interview-maximizer-ai/",
-      "source_id": "cbinsights",
-      "source_name": "CB Insights",
-      "published_at": "2026-09-23T14:55:54Z",
-      "captured_at": "2026-09-24T14:22:55.623410Z",
-      "lane": "startup_vc",
-      "entities": [
-        "CB Insights",
-        "Executive Interview",
-        "Maximizer AI"
-      ],
-      "business_model_tags": [
-        "Founder Case"
-      ],
-      "yuanli_tags": [
-        "yuanli_startup",
-        "ftf_trust"
-      ],
-      "opc_fit_score": 0,
-      "case_concreteness_score": 15,
-      "total_score": 49,
-      "score_breakdown": {
-        "source_authority": 16,
-        "yuanli_relevance": 6,
-        "business_model_value": 5,
-        "case_concreteness": 15,
-        "opc_fit": 0,
-        "freshness": 7,
-        "counter_signal_value": 0
-      },
-      "summary": "Thomas Brosnan, Vice President and Director of US Strategy and Partnerships of Maximizer AI, tells CB Insights how they view the market, customer needs, and their company. How do you define your market and where does you... Tags: Founder Case.",
-      "timestamp_basis": "feed_published",
-      "transport_mode": "feed"
-    },
-    {
-      "signal_id": "biz_736841f8ac97",
-      "title": "CEO Interview: Pathwork",
-      "url": "https://www.cbinsights.com/research/ceo-interview-pathwork/",
-      "source_id": "cbinsights",
-      "source_name": "CB Insights",
-      "published_at": "2026-09-23T14:51:43Z",
-      "captured_at": "2026-09-24T14:22:55.623410Z",
-      "lane": "startup_vc",
-      "entities": [
-        "CB Insights",
-        "CEO Interview",
-        "Pathwork"
-      ],
-      "business_model_tags": [
-        "Founder Case"
-      ],
-      "yuanli_tags": [
-        "yuanli_startup",
-        "ftf_trust"
-      ],
-      "opc_fit_score": 0,
-      "case_concreteness_score": 15,
-      "total_score": 49,
-      "score_breakdown": {
-        "source_authority": 16,
-        "yuanli_relevance": 6,
-        "business_model_value": 5,
-        "case_concreteness": 15,
-        "opc_fit": 0,
-        "freshness": 7,
-        "counter_signal_value": 0
-      },
-      "summary": "Ian Levinsky, Chief Executive Officer (CEO) of Pathwork, tells CB Insights how they view the market, customer needs, and their company. How do you define your market and where does your company fit into that space? Pathw... Tags: Founder Case.",
-      "timestamp_basis": "feed_published",
-      "transport_mode": "feed"
-    },
-    {
-      "signal_id": "biz_7e55493d9eca",
-      "title": "Executive Interview: Sureify",
-      "url": "https://www.cbinsights.com/research/executive-interview-sureify/",
-      "source_id": "cbinsights",
-      "source_name": "CB Insights",
-      "published_at": "2026-09-23T14:47:30Z",
-      "captured_at": "2026-09-24T14:22:55.623410Z",
-      "lane": "startup_vc",
-      "entities": [
-        "CB Insights",
-        "Executive Interview",
-        "Sureify"
-      ],
-      "business_model_tags": [
-        "Founder Case"
-      ],
-      "yuanli_tags": [
-        "yuanli_startup",
-        "ftf_trust"
-      ],
-      "opc_fit_score": 0,
-      "case_concreteness_score": 15,
-      "total_score": 49,
-      "score_breakdown": {
-        "source_authority": 16,
-        "yuanli_relevance": 6,
-        "business_model_value": 5,
-        "case_concreteness": 15,
-        "opc_fit": 0,
-        "freshness": 7,
-        "counter_signal_value": 0
-      },
-      "summary": "Travis Van Dyke , Head of Solution Consulting at Sureify, tells CB Insights how they view the market, customer needs, and their company. How do you define your market and where does your company fit into that space? At …... Tags: Founder Case.",
-      "timestamp_basis": "feed_published",
-      "transport_mode": "feed"
-    },
-    {
-      "signal_id": "biz_a7d5cedc5b02",
-      "title": "Executive Interview: Elysian",
-      "url": "https://www.cbinsights.com/research/executive-interview-elysian/",
-      "source_id": "cbinsights",
-      "source_name": "CB Insights",
-      "published_at": "2026-09-23T14:41:27Z",
-      "captured_at": "2026-09-24T14:22:55.623410Z",
-      "lane": "startup_vc",
-      "entities": [
-        "CB Insights",
-        "Executive Interview",
-        "Elysian"
-      ],
-      "business_model_tags": [
-        "Founder Case"
-      ],
-      "yuanli_tags": [
-        "yuanli_startup",
-        "ftf_trust"
-      ],
-      "opc_fit_score": 0,
-      "case_concreteness_score": 15,
-      "total_score": 49,
-      "score_breakdown": {
-        "source_authority": 16,
-        "yuanli_relevance": 6,
-        "business_model_value": 5,
-        "case_concreteness": 15,
-        "opc_fit": 0,
-        "freshness": 7,
-        "counter_signal_value": 0
-      },
-      "summary": "Dylan Hanson, Founding Engineer of Elysian, tells CB Insights how they view the market, customer needs, and their company. How do you define your market and where does your company fit into that space? Elysian is a tech... Tags: Founder Case.",
-      "timestamp_basis": "feed_published",
-      "transport_mode": "feed"
-    },
-    {
-      "signal_id": "biz_3c01219f2590",
-      "title": "Rendering huge pull requests in the GitHub Copilot app",
-      "url": "https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app/",
+      "signal_id": "biz_4ff34b667812",
+      "title": "AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
+      "url": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent/",
       "source_id": "github_blog",
       "source_name": "GitHub Blog",
-      "published_at": "2026-09-23T18:29:49Z",
-      "captured_at": "2026-09-24T14:22:55.623410Z",
+      "published_at": "2026-09-24T18:26:12Z",
+      "captured_at": "2026-09-24T18:46:33.414424Z",
       "lane": "ai_commercialization",
       "entities": [
         "GitHub Blog",
-        "Rendering",
-        "GitHub Copilot"
+        "AI-powered",
+        "GitHub Security Lab",
+        "Taskflow Agent"
       ],
       "business_model_tags": [
-        "Founder Case",
         "Enterprise AI Workflow"
       ],
       "yuanli_tags": [
-        "yuanli_os"
-      ],
-      "opc_fit_score": 0,
-      "case_concreteness_score": 8,
-      "total_score": 44,
-      "score_breakdown": {
-        "source_authority": 20,
-        "yuanli_relevance": 3,
-        "business_model_value": 6,
-        "case_concreteness": 8,
-        "opc_fit": 0,
-        "freshness": 7,
-        "counter_signal_value": 0
-      },
-      "summary": "How we rebuilt the diff surface in the GitHub Copilot app to open a million-line pull request with hundreds of inline review comments. The post Rendering huge pull requests in the GitHub Copilot app appeared first on The... Tags: Founder Case, Enterprise AI Workflow.",
-      "timestamp_basis": "feed_published",
-      "transport_mode": "feed"
-    },
-    {
-      "signal_id": "biz_c56c6e0c614a",
-      "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-      "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
-      "source_id": "huggingface_blog",
-      "source_name": "Hugging Face Blog",
-      "published_at": "2026-09-23T18:41:40Z",
-      "captured_at": "2026-09-24T14:22:55.623410Z",
-      "lane": "ai_commercialization",
-      "entities": [
-        "Hugging Face Blog",
-        "Use NVIDIA Warp",
-        "MjWarp",
-        "Accelerate Robotics Simulation",
-        "Learning Workflows"
-      ],
-      "business_model_tags": [
-        "AI Business Model Innovation",
-        "Enterprise AI Workflow"
-      ],
-      "yuanli_tags": [
-        "yuanli_asset",
         "yuanli_os"
       ],
       "opc_fit_score": 0,
       "case_concreteness_score": 0,
       "total_score": 34,
       "score_breakdown": {
-        "source_authority": 16,
-        "yuanli_relevance": 6,
-        "business_model_value": 5,
+        "source_authority": 20,
+        "yuanli_relevance": 3,
+        "business_model_value": 3,
         "case_concreteness": 0,
         "opc_fit": 0,
-        "freshness": 7,
+        "freshness": 8,
         "counter_signal_value": 0
       },
-      "summary": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows Tags: AI Business Model Innovation, Enterprise AI Workflow.",
+      "summary": "In this blog post, I explain how to use the new fuzzing taskflow based on the GitHub Security Lab Taskflow Agent AI framework. The post AI-powered fuzzing with the GitHub Security Lab Taskflow Agent appeared first on The... Tags: Enterprise AI Workflow.",
       "timestamp_basis": "feed_published",
       "transport_mode": "feed"
     }

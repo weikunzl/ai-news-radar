@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T14:21:34.994734Z",
+  "generated_at": "2026-09-24T18:37:36.360932Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8655,
-      "importance": 0.8655,
-      "importance_score": 0.8655,
+      "score": 0.8547,
+      "importance": 0.8547,
+      "importance_score": 0.8547,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.997,
+        "recency": 0.9374,
         "story_heat": 0.0
       },
       "category": "official",
@@ -62,6 +62,249 @@
         "title": "使用 LFM2.5-VL-DSpark 加速视觉语言模型 / Accelerating vision-language models with LFM2.5-VL-DSpark",
         "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
         "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_225478237654",
+      "title": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
+      "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
+      "primary_url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c74455d54f10d39149f3f83e221935d572452878",
+          "title": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
+          "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-24T17:19:34.716000Z"
+        },
+        {
+          "id": "3bf6208b9d7758cd2cf65ce688ae780a2e6efd26",
+          "title": "黑客操纵ChatGPT和Gemini，将用户引导至诈骗平台",
+          "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
+          "source": "medium.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-24T17:19:34.716000Z"
+        },
+        {
+          "id": "82506eaf6ec3db3ea609874cc59b84545d325102",
+          "title": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式 / Hackers influence ChatGPT and Gemini to direct users to scam centers",
+          "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-24T11:54:38Z"
+        },
+        {
+          "id": "59ebb6f742a1a8c61bbe40f87d28cb1e3cdfaf7f",
+          "title": "黑客影响 ChatGPT 和 Gemini 将用户引导至诈骗中心 / Hackers influence ChatGPT and Gemini to direct users to scam centers",
+          "url": "https://news.ycombinator.com/item?id=49829387",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-24T11:54:38Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "hackernews",
+        "medium.com"
+      ],
+      "items": [
+        {
+          "id": "c74455d54f10d39149f3f83e221935d572452878",
+          "title": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
+          "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-24T17:19:34.716000Z"
+        },
+        {
+          "id": "3bf6208b9d7758cd2cf65ce688ae780a2e6efd26",
+          "title": "黑客操纵ChatGPT和Gemini，将用户引导至诈骗平台",
+          "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
+          "source": "medium.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-24T17:19:34.716000Z"
+        },
+        {
+          "id": "82506eaf6ec3db3ea609874cc59b84545d325102",
+          "title": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式 / Hackers influence ChatGPT and Gemini to direct users to scam centers",
+          "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-24T11:54:38Z"
+        },
+        {
+          "id": "59ebb6f742a1a8c61bbe40f87d28cb1e3cdfaf7f",
+          "title": "黑客影响 ChatGPT 和 Gemini 将用户引导至诈骗中心 / Hackers influence ChatGPT and Gemini to direct users to scam centers",
+          "url": "https://news.ycombinator.com/item?id=49829387",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-24T11:54:38Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.8513,
+      "importance": 0.8513,
+      "importance_score": 0.8513,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9814,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-24T11:54:38Z",
+      "latest_at": "2026-09-24T17:19:34.716000Z",
+      "primary_item": {
+        "id": "c74455d54f10d39149f3f83e221935d572452878",
+        "title": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
+        "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_91625e27c986",
+      "title": "Introducing Gemini 3.8 Live with Live Avatar",
+      "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar",
+      "primary_url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar",
+      "source": "Google DeepMind",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "7bea9587fedc502c2776c404f3405dcc913a7b5c",
+          "title": "Introducing Gemini 3.8 Live with Live Avatar",
+          "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-24T16:20:39Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google DeepMind"
+      ],
+      "items": [
+        {
+          "id": "7bea9587fedc502c2776c404f3405dcc913a7b5c",
+          "title": "Introducing Gemini 3.8 Live with Live Avatar",
+          "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-24T16:20:39Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8462,
+      "importance": 0.8462,
+      "importance_score": 0.8462,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9676,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-24T16:20:39Z",
+      "latest_at": "2026-09-24T16:20:39Z",
+      "primary_item": {
+        "id": "7bea9587fedc502c2776c404f3405dcc913a7b5c",
+        "title": "Introducing Gemini 3.8 Live with Live Avatar",
+        "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar",
+        "source": "Google DeepMind",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_ca5f208a03f2",
+      "title": "AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
+      "url": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent",
+      "primary_url": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "a5fc1c85525e4315776fcd9e8d968cdd61cedfa4",
+          "title": "AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
+          "url": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-24T18:26:12Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub AI & ML"
+      ],
+      "items": [
+        {
+          "id": "a5fc1c85525e4315776fcd9e8d968cdd61cedfa4",
+          "title": "AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
+          "url": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-24T18:26:12Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8435,
+      "importance": 0.8435,
+      "importance_score": 0.8435,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9973,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-24T18:26:12Z",
+      "latest_at": "2026-09-24T18:26:12Z",
+      "primary_item": {
+        "id": "a5fc1c85525e4315776fcd9e8d968cdd61cedfa4",
+        "title": "AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
+        "url": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent",
+        "source": "GitHub AI & ML",
         "source_name": "Official AI Updates"
       }
     },
@@ -100,15 +343,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.846,
-      "importance": 0.846,
-      "importance_score": 0.846,
+      "score": 0.8356,
+      "importance": 0.8356,
+      "importance_score": 0.8356,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9665,
+        "recency": 0.9087,
         "story_heat": 0.0
       },
       "category": "official",
@@ -181,15 +424,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8399,
-      "importance": 0.8399,
-      "importance_score": 0.8399,
+      "score": 0.8293,
+      "importance": 0.8293,
+      "importance_score": 0.8293,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.89,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9792,
+        "recency": 0.9207,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -209,85 +452,269 @@
       }
     },
     {
-      "story_id": "story_914ed32ad555",
-      "title": "Google DeepMind 发布 Gemini 3.8 Flash TTS 与 Flash-Lite TTS 语音生成模型 / Gemini 3.8 text-to-speech says hello",
-      "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech",
-      "primary_url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech",
-      "source": "Google DeepMind",
-      "source_name": "Official AI Updates",
+      "story_id": "story_f657eabc9e15",
+      "title": "OpenAI 智能体在 Hugging Face 事件前数月已尝试入侵政府和大学网站",
+      "url": "https://the-decoder.com/openais-agents-went-after-government-and-university-sites-months-before-hugging-face",
+      "primary_url": "https://the-decoder.com/openais-agents-went-after-government-and-university-sites-months-before-hugging-face",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "893ea26945a167f32462040ced977e07c6e6fb19",
-          "title": "Google DeepMind 发布 Gemini 3.8 Flash TTS 与 Flash-Lite TTS 语音生成模型 / Gemini 3.8 text-to-speech says hello",
-          "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-23T15:25:14Z"
-        },
-        {
-          "id": "4242b71e4e81bb1714db5411d123d5793c7b372f",
-          "title": "Google DeepMind 发布 Gemini 3.8 Flash TTS 与 Flash-Lite TTS 语音生成模型",
-          "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech",
-          "source": "Google DeepMind：Blog（RSS）",
+          "id": "ea527f7eb01577cf22ec2e49181b440eb8bd773b",
+          "title": "OpenAI 智能体在 Hugging Face 事件前数月已尝试入侵政府和大学网站",
+          "url": "https://the-decoder.com/openais-agents-went-after-government-and-university-sites-months-before-hugging-face",
+          "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-23T15:25:14Z"
+          "published_at": "2026-09-24T14:01:05Z"
+        },
+        {
+          "id": "e82a00875039d8245b76b4217b097d9210097e34",
+          "title": "OpenAI 智能体在 Hugging Face 事件前数月已尝试入侵政府和大学网站 / OpenAI's agents went after government and university sites months before Hugging Face",
+          "url": "https://the-decoder.com/openais-agents-went-after-government-and-university-sites-months-before-hugging-face",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-24T14:01:05Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Google DeepMind",
-        "Google DeepMind：Blog（RSS）"
+        "The Decoder AI News",
+        "The Decoder：AI News（RSS）"
       ],
       "items": [
         {
-          "id": "893ea26945a167f32462040ced977e07c6e6fb19",
-          "title": "Google DeepMind 发布 Gemini 3.8 Flash TTS 与 Flash-Lite TTS 语音生成模型 / Gemini 3.8 text-to-speech says hello",
-          "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-23T15:25:14Z"
-        },
-        {
-          "id": "4242b71e4e81bb1714db5411d123d5793c7b372f",
-          "title": "Google DeepMind 发布 Gemini 3.8 Flash TTS 与 Flash-Lite TTS 语音生成模型",
-          "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech",
-          "source": "Google DeepMind：Blog（RSS）",
+          "id": "ea527f7eb01577cf22ec2e49181b440eb8bd773b",
+          "title": "OpenAI 智能体在 Hugging Face 事件前数月已尝试入侵政府和大学网站",
+          "url": "https://the-decoder.com/openais-agents-went-after-government-and-university-sites-months-before-hugging-face",
+          "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-23T15:25:14Z"
+          "published_at": "2026-09-24T14:01:05Z"
+        },
+        {
+          "id": "e82a00875039d8245b76b4217b097d9210097e34",
+          "title": "OpenAI 智能体在 Hugging Face 事件前数月已尝试入侵政府和大学网站 / OpenAI's agents went after government and university sites months before Hugging Face",
+          "url": "https://the-decoder.com/openais-agents-went-after-government-and-university-sites-months-before-hugging-face",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-24T14:01:05Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8262,
-      "importance": 0.8262,
-      "importance_score": 0.8262,
+      "score": 0.829,
+      "importance": 0.829,
+      "importance_score": 0.829,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.88,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9356,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-24T14:01:05Z",
+      "latest_at": "2026-09-24T14:01:05Z",
+      "primary_item": {
+        "id": "ea527f7eb01577cf22ec2e49181b440eb8bd773b",
+        "title": "OpenAI 智能体在 Hugging Face 事件前数月已尝试入侵政府和大学网站",
+        "url": "https://the-decoder.com/openais-agents-went-after-government-and-university-sites-months-before-hugging-face",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_095547e38966",
+      "title": "请求和配置 Copilot 代码审查的更多方法 / More ways to request and configure Copilot code reviews",
+      "url": "https://github.blog/changelog/2026-09-23-copilot-code-review-more-ways-to-request-and-configure-reviews",
+      "primary_url": "https://github.blog/changelog/2026-09-23-copilot-code-review-more-ways-to-request-and-configure-reviews",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "1d2307fb38e0ac455dec578ef2b8ab1ca5ce8b15",
+          "title": "请求和配置 Copilot 代码审查的更多方法 / More ways to request and configure Copilot code reviews",
+          "url": "https://github.blog/changelog/2026-09-23-copilot-code-review-more-ways-to-request-and-configure-reviews",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-23T21:25:58Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "1d2307fb38e0ac455dec578ef2b8ab1ca5ce8b15",
+          "title": "请求和配置 Copilot 代码审查的更多方法 / More ways to request and configure Copilot code reviews",
+          "url": "https://github.blog/changelog/2026-09-23-copilot-code-review-more-ways-to-request-and-configure-reviews",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-23T21:25:58Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8045,
+      "importance": 0.8045,
+      "importance_score": 0.8045,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.718,
-        "story_heat": 0.25
+        "recency": 0.7363,
+        "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-23T15:25:14Z",
-      "latest_at": "2026-09-23T15:25:14Z",
+      "earliest_at": "2026-09-23T21:25:58Z",
+      "latest_at": "2026-09-23T21:25:58Z",
       "primary_item": {
-        "id": "893ea26945a167f32462040ced977e07c6e6fb19",
-        "title": "Google DeepMind 发布 Gemini 3.8 Flash TTS 与 Flash-Lite TTS 语音生成模型 / Gemini 3.8 text-to-speech says hello",
-        "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech",
-        "source": "Google DeepMind",
+        "id": "1d2307fb38e0ac455dec578ef2b8ab1ca5ce8b15",
+        "title": "请求和配置 Copilot 代码审查的更多方法 / More ways to request and configure Copilot code reviews",
+        "url": "https://github.blog/changelog/2026-09-23-copilot-code-review-more-ways-to-request-and-configure-reviews",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_a70f8ac64edf",
+      "title": "如何使用 NVIDIA Warp 和 MjWarp 加速机器人模拟和学习工作流程 / How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+      "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+      "primary_url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "fa1a1032abd968ef29f2bcbad9ef16b802c9ea8a",
+          "title": "如何使用 NVIDIA Warp 和 MjWarp 加速机器人模拟和学习工作流程 / How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+          "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-23T18:41:40Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "fa1a1032abd968ef29f2bcbad9ef16b802c9ea8a",
+          "title": "如何使用 NVIDIA Warp 和 MjWarp 加速机器人模拟和学习工作流程 / How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+          "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-23T18:41:40Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8174,
+      "importance": 0.8174,
+      "importance_score": 0.8174,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.7078,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-23T18:41:40Z",
+      "latest_at": "2026-09-23T18:41:40Z",
+      "primary_item": {
+        "id": "fa1a1032abd968ef29f2bcbad9ef16b802c9ea8a",
+        "title": "如何使用 NVIDIA Warp 和 MjWarp 加速机器人模拟和学习工作流程 / How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+        "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_bc135f55b670",
+      "title": "Thomas Wolf 转评 Transluce 披露：发布 3 万余条日志，称涉及 OpenAI 攻击澳大利亚政府及更早的智能体活动",
+      "url": "https://x.com/Thom_Wolf/status/2103054896438136973",
+      "primary_url": "https://x.com/Thom_Wolf/status/2103054896438136973",
+      "source": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b6e2d3c6cf9cd670c817ab277ea3a4f2d9c9d235",
+          "title": "Thomas Wolf 转评 Transluce 披露：发布 3 万余条日志，称涉及 OpenAI 攻击澳大利亚政府及更早的智能体活动",
+          "url": "https://x.com/Thom_Wolf/status/2103054896438136973",
+          "source": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-24T09:32:14Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)"
+      ],
+      "items": [
+        {
+          "id": "b6e2d3c6cf9cd670c817ab277ea3a4f2d9c9d235",
+          "title": "Thomas Wolf 转评 Transluce 披露：发布 3 万余条日志，称涉及 OpenAI 攻击澳大利亚政府及更早的智能体活动",
+          "url": "https://x.com/Thom_Wolf/status/2103054896438136973",
+          "source": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-24T09:32:14Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7845,
+      "importance": 0.7845,
+      "importance_score": 0.7845,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.85,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.877,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-24T09:32:14Z",
+      "latest_at": "2026-09-24T09:32:14Z",
+      "primary_item": {
+        "id": "b6e2d3c6cf9cd670c817ab277ea3a4f2d9c9d235",
+        "title": "Thomas Wolf 转评 Transluce 披露：发布 3 万余条日志，称涉及 OpenAI 攻击澳大利亚政府及更早的智能体活动",
+        "url": "https://x.com/Thom_Wolf/status/2103054896438136973",
+        "source": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -363,15 +790,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8176,
-      "importance": 0.8176,
-      "importance_score": 0.8176,
+      "score": 0.809,
+      "importance": 0.809,
+      "importance_score": 0.809,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8,
+        "recency": 0.7522,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -391,21 +818,21 @@
       }
     },
     {
-      "story_id": "story_095547e38966",
-      "title": "More ways to request and configure Copilot code reviews",
-      "url": "https://github.blog/changelog/2026-09-23-copilot-code-review-more-ways-to-request-and-configure-reviews",
-      "primary_url": "https://github.blog/changelog/2026-09-23-copilot-code-review-more-ways-to-request-and-configure-reviews",
+      "story_id": "story_47d211000a4d",
+      "title": "Node 20 在 GitHub Actions 中不再可用 / Node 20 is no longer available in GitHub Actions",
+      "url": "https://github.blog/changelog/2026-09-23-node-20-is-no-longer-available-in-github-actions",
+      "primary_url": "https://github.blog/changelog/2026-09-23-node-20-is-no-longer-available-in-github-actions",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "1d2307fb38e0ac455dec578ef2b8ab1ca5ce8b15",
-          "title": "More ways to request and configure Copilot code reviews",
-          "url": "https://github.blog/changelog/2026-09-23-copilot-code-review-more-ways-to-request-and-configure-reviews",
+          "id": "ccaf1e0ce4a4bf18912deed0c4fb6e55e2a3c23b",
+          "title": "Node 20 在 GitHub Actions 中不再可用 / Node 20 is no longer available in GitHub Actions",
+          "url": "https://github.blog/changelog/2026-09-23-node-20-is-no-longer-available-in-github-actions",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-23T21:25:58Z"
+          "published_at": "2026-09-23T20:46:07Z"
         }
       ],
       "source_count": 1,
@@ -414,150 +841,26 @@
       ],
       "items": [
         {
-          "id": "1d2307fb38e0ac455dec578ef2b8ab1ca5ce8b15",
-          "title": "More ways to request and configure Copilot code reviews",
-          "url": "https://github.blog/changelog/2026-09-23-copilot-code-review-more-ways-to-request-and-configure-reviews",
+          "id": "ccaf1e0ce4a4bf18912deed0c4fb6e55e2a3c23b",
+          "title": "Node 20 在 GitHub Actions 中不再可用 / Node 20 is no longer available in GitHub Actions",
+          "url": "https://github.blog/changelog/2026-09-23-node-20-is-no-longer-available-in-github-actions",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-23T21:25:58Z"
+          "published_at": "2026-09-23T20:46:07Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.813,
-      "importance": 0.813,
-      "importance_score": 0.813,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7831,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-23T21:25:58Z",
-      "latest_at": "2026-09-23T21:25:58Z",
-      "primary_item": {
-        "id": "1d2307fb38e0ac455dec578ef2b8ab1ca5ce8b15",
-        "title": "More ways to request and configure Copilot code reviews",
-        "url": "https://github.blog/changelog/2026-09-23-copilot-code-review-more-ways-to-request-and-configure-reviews",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_f629750b18d1",
-      "title": "Rendering huge pull requests in the GitHub Copilot app",
-      "url": "https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app",
-      "primary_url": "https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "59f0c9db98c7052e955a993862c622cb6e606454",
-          "title": "Rendering huge pull requests in the GitHub Copilot app",
-          "url": "https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-23T18:29:49Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub AI & ML"
-      ],
-      "items": [
-        {
-          "id": "59f0c9db98c7052e955a993862c622cb6e606454",
-          "title": "Rendering huge pull requests in the GitHub Copilot app",
-          "url": "https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-23T18:29:49Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8071,
-      "importance": 0.8071,
-      "importance_score": 0.8071,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7506,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-23T18:29:49Z",
-      "latest_at": "2026-09-23T18:29:49Z",
-      "primary_item": {
-        "id": "59f0c9db98c7052e955a993862c622cb6e606454",
-        "title": "Rendering huge pull requests in the GitHub Copilot app",
-        "url": "https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app",
-        "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_e896566878a9",
-      "title": "Google Beam expands with new regions, partners, and customers",
-      "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "23eea2ed4b9bcffb5d6058b5e87da02bab68869b",
-          "title": "Google Beam expands with new regions, partners, and customers",
-          "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-23T18:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "23eea2ed4b9bcffb5d6058b5e87da02bab68869b",
-          "title": "Google Beam expands with new regions, partners, and customers",
-          "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-23T18:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7981,
-      "importance": 0.7981,
-      "importance_score": 0.7981,
+      "score": 0.7953,
+      "importance": 0.7953,
+      "importance_score": 0.7953,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7453,
+        "recency": 0.7293,
         "story_heat": 0.0
       },
       "category": "official",
@@ -566,122 +869,60 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-23T18:00:00Z",
-      "latest_at": "2026-09-23T18:00:00Z",
+      "earliest_at": "2026-09-23T20:46:07Z",
+      "latest_at": "2026-09-23T20:46:07Z",
       "primary_item": {
-        "id": "23eea2ed4b9bcffb5d6058b5e87da02bab68869b",
-        "title": "Google Beam expands with new regions, partners, and customers",
-        "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion",
-        "source": "Google AI Blog",
+        "id": "ccaf1e0ce4a4bf18912deed0c4fb6e55e2a3c23b",
+        "title": "Node 20 在 GitHub Actions 中不再可用 / Node 20 is no longer available in GitHub Actions",
+        "url": "https://github.blog/changelog/2026-09-23-node-20-is-no-longer-available-in-github-actions",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_a70f8ac64edf",
-      "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-      "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
-      "primary_url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "fa1a1032abd968ef29f2bcbad9ef16b802c9ea8a",
-          "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-          "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-23T18:41:40Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "fa1a1032abd968ef29f2bcbad9ef16b802c9ea8a",
-          "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-          "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-23T18:41:40Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8255,
-      "importance": 0.8255,
-      "importance_score": 0.8255,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7528,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-23T18:41:40Z",
-      "latest_at": "2026-09-23T18:41:40Z",
-      "primary_item": {
-        "id": "fa1a1032abd968ef29f2bcbad9ef16b802c9ea8a",
-        "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-        "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_bc135f55b670",
-      "title": "Thomas Wolf 转评 Transluce 披露：发布 3 万余条日志，称涉及 OpenAI 攻击澳大利亚政府及更早的智能体活动",
-      "url": "https://x.com/Thom_Wolf/status/2103054896438136973",
-      "primary_url": "https://x.com/Thom_Wolf/status/2103054896438136973",
-      "source": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
+      "story_id": "story_b09f0ad26be3",
+      "title": "Anthropic 发布 Claude Opus 5.5，面向更长、上下文更重的编码会话优化成本",
+      "url": "https://claude.com/blog/claude-opus-5-5-built-for-coding-sessions-that-use-more-context",
+      "primary_url": "https://claude.com/blog/claude-opus-5-5-built-for-coding-sessions-that-use-more-context",
+      "source": "Claude：Blog（网页）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "b6e2d3c6cf9cd670c817ab277ea3a4f2d9c9d235",
-          "title": "Thomas Wolf 转评 Transluce 披露：发布 3 万余条日志，称涉及 OpenAI 攻击澳大利亚政府及更早的智能体活动",
-          "url": "https://x.com/Thom_Wolf/status/2103054896438136973",
-          "source": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
+          "id": "fd9b0953f48aa9689a065bfc51f8ad76c62d8432",
+          "title": "Anthropic 发布 Claude Opus 5.5，面向更长、上下文更重的编码会话优化成本",
+          "url": "https://claude.com/blog/claude-opus-5-5-built-for-coding-sessions-that-use-more-context",
+          "source": "Claude：Blog（网页）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-24T09:32:14Z"
+          "published_at": "2026-09-24T16:38:37.757000Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)"
+        "Claude：Blog（网页）"
       ],
       "items": [
         {
-          "id": "b6e2d3c6cf9cd670c817ab277ea3a4f2d9c9d235",
-          "title": "Thomas Wolf 转评 Transluce 披露：发布 3 万余条日志，称涉及 OpenAI 攻击澳大利亚政府及更早的智能体活动",
-          "url": "https://x.com/Thom_Wolf/status/2103054896438136973",
-          "source": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
+          "id": "fd9b0953f48aa9689a065bfc51f8ad76c62d8432",
+          "title": "Anthropic 发布 Claude Opus 5.5，面向更长、上下文更重的编码会话优化成本",
+          "url": "https://claude.com/blog/claude-opus-5-5-built-for-coding-sessions-that-use-more-context",
+          "source": "Claude：Blog（网页）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-24T09:32:14Z"
+          "published_at": "2026-09-24T16:38:37.757000Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7945,
-      "importance": 0.7945,
-      "importance_score": 0.7945,
+      "score": 0.7625,
+      "importance": 0.7625,
+      "importance_score": 0.7625,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.85,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9327,
+        "recency": 0.9718,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -689,238 +930,14 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-24T09:32:14Z",
-      "latest_at": "2026-09-24T09:32:14Z",
+      "earliest_at": "2026-09-24T16:38:37.757000Z",
+      "latest_at": "2026-09-24T16:38:37.757000Z",
       "primary_item": {
-        "id": "b6e2d3c6cf9cd670c817ab277ea3a4f2d9c9d235",
-        "title": "Thomas Wolf 转评 Transluce 披露：发布 3 万余条日志，称涉及 OpenAI 攻击澳大利亚政府及更早的智能体活动",
-        "url": "https://x.com/Thom_Wolf/status/2103054896438136973",
-        "source": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
+        "id": "fd9b0953f48aa9689a065bfc51f8ad76c62d8432",
+        "title": "Anthropic 发布 Claude Opus 5.5，面向更长、上下文更重的编码会话优化成本",
+        "url": "https://claude.com/blog/claude-opus-5-5-built-for-coding-sessions-that-use-more-context",
+        "source": "Claude：Blog（网页）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_f82afb648776",
-      "title": "Anthropic 宣布 Claude 自主发现类 CRISPR 的新型酶系统 ART",
-      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-      "primary_url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-      "source": "Anthropic：Newsroom（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "03eab593bf7beec778b286861141f10a5c7253f9",
-          "title": "Anthropic 宣布 Claude 自主发现类 CRISPR 的新型酶系统 ART",
-          "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-          "source": "Anthropic：Newsroom（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-23T18:27:25.203000Z"
-        },
-        {
-          "id": "3739bf45b04c884f31346010ae391280b6bfd1e0",
-          "title": "Anthropic 宣布 Claude 自主发现类 CRISPR 的新型酶系统 ART / Claude discovers a novel enzyme system with CRISPR-like repeats",
-          "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-23T18:06:47Z"
-        },
-        {
-          "id": "6862ceede8befef86c8d6fb7ddfcb4b00f35e85a",
-          "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-          "url": "https://news.ycombinator.com/item?id=49820134",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-23T18:06:47Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Anthropic：Newsroom（网页）",
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "03eab593bf7beec778b286861141f10a5c7253f9",
-          "title": "Anthropic 宣布 Claude 自主发现类 CRISPR 的新型酶系统 ART",
-          "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-          "source": "Anthropic：Newsroom（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-23T18:27:25.203000Z"
-        },
-        {
-          "id": "3739bf45b04c884f31346010ae391280b6bfd1e0",
-          "title": "Anthropic 宣布 Claude 自主发现类 CRISPR 的新型酶系统 ART / Claude discovers a novel enzyme system with CRISPR-like repeats",
-          "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-23T18:06:47Z"
-        },
-        {
-          "id": "6862ceede8befef86c8d6fb7ddfcb4b00f35e85a",
-          "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-          "url": "https://news.ycombinator.com/item?id=49820134",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-23T18:06:47Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.7936,
-      "importance": 0.7936,
-      "importance_score": 0.7936,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7502,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-23T18:06:47Z",
-      "latest_at": "2026-09-23T18:27:25.203000Z",
-      "primary_item": {
-        "id": "03eab593bf7beec778b286861141f10a5c7253f9",
-        "title": "Anthropic 宣布 Claude 自主发现类 CRISPR 的新型酶系统 ART",
-        "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-        "source": "Anthropic：Newsroom（网页）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_59f94707bb71",
-      "title": "Local sandboxing in the GitHub Copilot app",
-      "url": "https://github.blog/changelog/2026-09-23-local-sandboxing-in-the-github-copilot-app",
-      "primary_url": "https://github.blog/changelog/2026-09-23-local-sandboxing-in-the-github-copilot-app",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "0121837d0ed77c1ea34f904c3968f1538e274816",
-          "title": "Local sandboxing in the GitHub Copilot app",
-          "url": "https://github.blog/changelog/2026-09-23-local-sandboxing-in-the-github-copilot-app",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-23T15:00:57Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "0121837d0ed77c1ea34f904c3968f1538e274816",
-          "title": "Local sandboxing in the GitHub Copilot app",
-          "url": "https://github.blog/changelog/2026-09-23-local-sandboxing-in-the-github-copilot-app",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-23T15:00:57Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8065,
-      "importance": 0.8065,
-      "importance_score": 0.8065,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.94,
-        "recency": 0.7138,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-23T15:00:57Z",
-      "latest_at": "2026-09-23T15:00:57Z",
-      "primary_item": {
-        "id": "0121837d0ed77c1ea34f904c3968f1538e274816",
-        "title": "Local sandboxing in the GitHub Copilot app",
-        "url": "https://github.blog/changelog/2026-09-23-local-sandboxing-in-the-github-copilot-app",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_9d02eeb8cef1",
-      "title": "Two years of OpenAI Academy",
-      "url": "https://openai.com/index/two-years-of-openai-academy",
-      "primary_url": "https://openai.com/index/two-years-of-openai-academy",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "2ceac4a6f0349b18c44d863adb2b63a09f9e9cbb",
-          "title": "Two years of OpenAI Academy",
-          "url": "https://openai.com/index/two-years-of-openai-academy",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-23T16:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "2ceac4a6f0349b18c44d863adb2b63a09f9e9cbb",
-          "title": "Two years of OpenAI Academy",
-          "url": "https://openai.com/index/two-years-of-openai-academy",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-23T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8023,
-      "importance": 0.8023,
-      "importance_score": 0.8023,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7241,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-23T16:00:00Z",
-      "latest_at": "2026-09-23T16:00:00Z",
-      "primary_item": {
-        "id": "2ceac4a6f0349b18c44d863adb2b63a09f9e9cbb",
-        "title": "Two years of OpenAI Academy",
-        "url": "https://openai.com/index/two-years-of-openai-academy",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -958,15 +975,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7568,
+      "importance": 0.7568,
+      "importance_score": 0.7568,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9998,
+        "recency": 0.94,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -982,68 +999,6 @@
         "url": "https://www.aibase.com/news/31343",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_cd8117c6d35f",
-      "title": "Advancing Private AI Compute with secure, server-side memory",
-      "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory",
-      "primary_url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory",
-      "source": "Google DeepMind",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "1076f771e7361676a84c00d4d0f97e44d0ab979e",
-          "title": "Advancing Private AI Compute with secure, server-side memory",
-          "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-23T16:00:57Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google DeepMind"
-      ],
-      "items": [
-        {
-          "id": "1076f771e7361676a84c00d4d0f97e44d0ab979e",
-          "title": "Advancing Private AI Compute with secure, server-side memory",
-          "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-23T16:00:57Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7944,
-      "importance": 0.7944,
-      "importance_score": 0.7944,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7242,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-23T16:00:57Z",
-      "latest_at": "2026-09-23T16:00:57Z",
-      "primary_item": {
-        "id": "1076f771e7361676a84c00d4d0f97e44d0ab979e",
-        "title": "Advancing Private AI Compute with secure, server-side memory",
-        "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory",
-        "source": "Google DeepMind",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1081,15 +1036,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7609,
-      "importance": 0.7609,
-      "importance_score": 0.7609,
+      "score": 0.7518,
+      "importance": 0.7518,
+      "importance_score": 0.7518,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8459,
+        "recency": 0.7954,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1142,21 +1097,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7545,
-      "importance": 0.7545,
-      "importance_score": 0.7545,
+      "score": 0.7456,
+      "importance": 0.7456,
+      "importance_score": 0.7456,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.827,
+        "recency": 0.7776,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-24T01:12:13Z",
       "latest_at": "2026-09-24T01:12:13Z",
@@ -1165,6 +1119,86 @@
         "title": "OpenAI 称与苹果的 ChatGPT 合作表现远低于预期",
         "url": "https://www.ithome.com/1/006/548.htm",
         "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_0df3201badbc",
+      "title": "Claude Marketplace 上线，可发现工具、智能体与服务伙伴",
+      "url": "https://x.com/claudeai/status/2102840851538080172",
+      "primary_url": "https://x.com/claudeai/status/2102840851538080172",
+      "source": "X：Claude (@claudeai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "11d8064e6d7fe4114f4b8b3094b30221510fa5e3",
+          "title": "Claude Marketplace 上线，可发现工具、智能体与服务伙伴",
+          "url": "https://x.com/claudeai/status/2102840851538080172",
+          "source": "X：Claude (@claudeai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-23T19:21:42Z"
+        },
+        {
+          "id": "238fd9b5e1e924fa0b2de64d7c793697845395ae",
+          "title": "Claude Marketplace 上线，可发现工具、智能体与服务伙伴 / You can now discover tools, agents and expert partners on Claude Marketplace. Use it to: - Add connectors and plugins like Slack and Notion - Buy agents and products from companies like Cursor and CrowdStrike - Scale...",
+          "url": "https://x.com/claudeai/status/2102840851538080172",
+          "source": "Follow Builders · X · Claude",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-09-23T19:21:42Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Follow Builders · X · Claude",
+        "X：Claude (@claudeai)"
+      ],
+      "items": [
+        {
+          "id": "11d8064e6d7fe4114f4b8b3094b30221510fa5e3",
+          "title": "Claude Marketplace 上线，可发现工具、智能体与服务伙伴",
+          "url": "https://x.com/claudeai/status/2102840851538080172",
+          "source": "X：Claude (@claudeai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-23T19:21:42Z"
+        },
+        {
+          "id": "238fd9b5e1e924fa0b2de64d7c793697845395ae",
+          "title": "Claude Marketplace 上线，可发现工具、智能体与服务伙伴 / You can now discover tools, agents and expert partners on Claude Marketplace. Use it to: - Add connectors and plugins like Slack and Notion - Buy agents and products from companies like Cursor and CrowdStrike - Scale...",
+          "url": "https://x.com/claudeai/status/2102840851538080172",
+          "source": "Follow Builders · X · Claude",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-09-23T19:21:42Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7442,
+      "importance": 0.7442,
+      "importance_score": 0.7442,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7147,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-23T19:21:42Z",
+      "latest_at": "2026-09-23T19:21:42Z",
+      "primary_item": {
+        "id": "11d8064e6d7fe4114f4b8b3094b30221510fa5e3",
+        "title": "Claude Marketplace 上线，可发现工具、智能体与服务伙伴",
+        "url": "https://x.com/claudeai/status/2102840851538080172",
+        "source": "X：Claude (@claudeai)",
         "source_name": "AI HOT"
       }
     },
@@ -1203,21 +1237,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7537,
-      "importance": 0.7537,
-      "importance_score": 0.7537,
+      "score": 0.7433,
+      "importance": 0.7433,
+      "importance_score": 0.7433,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.973,
+        "recency": 0.9148,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-24T12:27:50Z",
       "latest_at": "2026-09-24T12:27:50Z",
@@ -1264,21 +1297,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
+      "score": 0.7422,
+      "importance": 0.7422,
+      "importance_score": 0.7422,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7537,
+        "recency": 0.7087,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-23T18:46:48Z",
       "latest_at": "2026-09-23T18:46:48Z",
@@ -1325,15 +1357,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7489,
-      "importance": 0.7489,
-      "importance_score": 0.7489,
+      "score": 0.7401,
+      "importance": 0.7401,
+      "importance_score": 0.7401,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8127,
+        "recency": 0.7642,
         "story_heat": 0.0
       },
       "category": "industry",
