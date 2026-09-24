@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T14:22:55.623410Z",
+  "generated_at": "2026-09-24T18:46:33.414424Z",
   "cases": [
     {
       "case_id": "opc_case_4a92478b7663",
@@ -24,36 +24,14 @@
       "score": 56
     },
     {
-      "case_id": "opc_case_81678f08d251",
-      "company": "Executive Interview",
+      "case_id": "opc_case_84bba3336e97",
+      "company": "CEO Interview",
       "founder": "",
       "source_refs": [
-        "biz_37fa86f3dc3b"
+        "biz_ee7fcfe93352"
       ],
-      "url": "https://www.cbinsights.com/research/executive-interview-voltaire/",
-      "title": "Executive Interview: Voltaire",
-      "business_model": "AI Business Model Innovation, Founder Case",
-      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
-      "monetization": "To be extracted from the linked source.",
-      "team_size_signal": "team size not explicit",
-      "distribution_channel": "CB Insights",
-      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
-      "yuanli_mapping": [
-        "yuanli_startup",
-        "ftf_trust",
-        "profit_container"
-      ],
-      "score": 56
-    },
-    {
-      "case_id": "opc_case_1eb2effe9e06",
-      "company": "Executive Interview",
-      "founder": "",
-      "source_refs": [
-        "biz_56a0863b84bd"
-      ],
-      "url": "https://www.cbinsights.com/research/executive-interview-marvelx-ai/",
-      "title": "Executive Interview: MarvelX AI",
+      "url": "https://www.cbinsights.com/research/ceo-interview-shepherd/",
+      "title": "CEO Interview: Shepherd",
       "business_model": "Founder Case",
       "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
       "monetization": "To be extracted from the linked source.",
@@ -64,7 +42,28 @@
         "yuanli_startup",
         "ftf_trust"
       ],
-      "score": 51
+      "score": 50
+    },
+    {
+      "case_id": "opc_case_542542d18f1b",
+      "company": "CEO Interview",
+      "founder": "",
+      "source_refs": [
+        "biz_ede88c673ef8"
+      ],
+      "url": "https://www.cbinsights.com/research/ceo-interview-flora-fertility/",
+      "title": "CEO Interview: Flora Fertility",
+      "business_model": "Founder Case",
+      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
+      "monetization": "To be extracted from the linked source.",
+      "team_size_signal": "team size not explicit",
+      "distribution_channel": "CB Insights",
+      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
+      "yuanli_mapping": [
+        "yuanli_startup",
+        "ftf_trust"
+      ],
+      "score": 50
     },
     {
       "case_id": "opc_case_a290be7c48a1",
@@ -86,131 +85,6 @@
         "ftf_trust"
       ],
       "score": 49
-    },
-    {
-      "case_id": "opc_case_6e11469c947d",
-      "company": "Executive Interview",
-      "founder": "",
-      "source_refs": [
-        "biz_05e53da7860c"
-      ],
-      "url": "https://www.cbinsights.com/research/executive-interview-ennabl/",
-      "title": "Executive Interview: Ennabl",
-      "business_model": "Founder Case",
-      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
-      "monetization": "To be extracted from the linked source.",
-      "team_size_signal": "team size not explicit",
-      "distribution_channel": "CB Insights",
-      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
-      "yuanli_mapping": [
-        "yuanli_startup",
-        "ftf_trust"
-      ],
-      "score": 49
-    },
-    {
-      "case_id": "opc_case_db695bd7aea9",
-      "company": "Executive Interview",
-      "founder": "",
-      "source_refs": [
-        "biz_aa972051a717"
-      ],
-      "url": "https://www.cbinsights.com/research/executive-interview-maximizer-ai/",
-      "title": "Executive Interview: Maximizer AI",
-      "business_model": "Founder Case",
-      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
-      "monetization": "To be extracted from the linked source.",
-      "team_size_signal": "team size not explicit",
-      "distribution_channel": "CB Insights",
-      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
-      "yuanli_mapping": [
-        "yuanli_startup",
-        "ftf_trust"
-      ],
-      "score": 49
-    },
-    {
-      "case_id": "opc_case_f0b424d15f5a",
-      "company": "CEO Interview",
-      "founder": "",
-      "source_refs": [
-        "biz_736841f8ac97"
-      ],
-      "url": "https://www.cbinsights.com/research/ceo-interview-pathwork/",
-      "title": "CEO Interview: Pathwork",
-      "business_model": "Founder Case",
-      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
-      "monetization": "To be extracted from the linked source.",
-      "team_size_signal": "team size not explicit",
-      "distribution_channel": "CB Insights",
-      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
-      "yuanli_mapping": [
-        "yuanli_startup",
-        "ftf_trust"
-      ],
-      "score": 49
-    },
-    {
-      "case_id": "opc_case_7f8eb19d3bb4",
-      "company": "Executive Interview",
-      "founder": "",
-      "source_refs": [
-        "biz_7e55493d9eca"
-      ],
-      "url": "https://www.cbinsights.com/research/executive-interview-sureify/",
-      "title": "Executive Interview: Sureify",
-      "business_model": "Founder Case",
-      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
-      "monetization": "To be extracted from the linked source.",
-      "team_size_signal": "team size not explicit",
-      "distribution_channel": "CB Insights",
-      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
-      "yuanli_mapping": [
-        "yuanli_startup",
-        "ftf_trust"
-      ],
-      "score": 49
-    },
-    {
-      "case_id": "opc_case_dd6efe3cc957",
-      "company": "Executive Interview",
-      "founder": "",
-      "source_refs": [
-        "biz_a7d5cedc5b02"
-      ],
-      "url": "https://www.cbinsights.com/research/executive-interview-elysian/",
-      "title": "Executive Interview: Elysian",
-      "business_model": "Founder Case",
-      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
-      "monetization": "To be extracted from the linked source.",
-      "team_size_signal": "team size not explicit",
-      "distribution_channel": "CB Insights",
-      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
-      "yuanli_mapping": [
-        "yuanli_startup",
-        "ftf_trust"
-      ],
-      "score": 49
-    },
-    {
-      "case_id": "opc_case_5650c781738f",
-      "company": "Rendering",
-      "founder": "",
-      "source_refs": [
-        "biz_3c01219f2590"
-      ],
-      "url": "https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app/",
-      "title": "Rendering huge pull requests in the GitHub Copilot app",
-      "business_model": "Founder Case, Enterprise AI Workflow",
-      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
-      "monetization": "To be extracted from the linked source.",
-      "team_size_signal": "team size not explicit",
-      "distribution_channel": "GitHub Blog",
-      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
-      "yuanli_mapping": [
-        "yuanli_os"
-      ],
-      "score": 44
     }
   ]
 }
