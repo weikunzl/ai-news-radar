@@ -1,21 +1,20 @@
 {
-  "generated_at": "2026-09-23T18:01:22.520911Z",
+  "generated_at": "2026-09-24T14:22:55.623410Z",
   "clusters": [
     {
-      "cluster_id": "biz_cluster_b8bdbc308cd9",
+      "cluster_id": "biz_cluster_7e75b26b599e",
       "thesis": "Founder stories provide the most reusable proof layer for Yuanli IP trust-building.",
       "lane": "founder_case",
       "signal_ids": [
+        "biz_4438e2183161",
         "biz_37fa86f3dc3b",
         "biz_56a0863b84bd",
+        "biz_11084d6516c7",
         "biz_05e53da7860c",
         "biz_aa972051a717",
         "biz_736841f8ac97",
         "biz_7e55493d9eca",
-        "biz_a7d5cedc5b02",
-        "biz_4c1423e4f040",
-        "biz_d5cb9aedb2d6",
-        "biz_9347d2a6998c"
+        "biz_a7d5cedc5b02"
       ],
       "source_count": 1,
       "importance_score": 54,
@@ -25,17 +24,22 @@
         "yuanli_asset",
         "wealth_flywheel"
       ],
-      "why_it_matters": "10 English evidence items from 1 sources connect this pattern to Yuanli IP.",
+      "why_it_matters": "9 English evidence items from 1 sources connect this pattern to Yuanli IP.",
       "counter_evidence": "See counter_signal cluster for adoption, ROI, and trust risks.",
       "recommended_action": "Convert high-score founder cases into FTF credible story assets.",
       "evidence_refs": [
+        "biz_4438e2183161",
         "biz_37fa86f3dc3b",
         "biz_56a0863b84bd",
-        "biz_05e53da7860c",
-        "biz_aa972051a717",
-        "biz_736841f8ac97"
+        "biz_11084d6516c7",
+        "biz_05e53da7860c"
       ],
       "top_sources": [
+        {
+          "source": "CB Insights",
+          "title": "Executive Interview: Camber",
+          "url": "https://www.cbinsights.com/research/executive-interview-camber/"
+        },
         {
           "source": "CB Insights",
           "title": "Executive Interview: Voltaire",
@@ -48,153 +52,48 @@
         },
         {
           "source": "CB Insights",
+          "title": "CEO Interview: Relevant Search",
+          "url": "https://www.cbinsights.com/research/ceo-interview-relevant-search/"
+        },
+        {
+          "source": "CB Insights",
           "title": "Executive Interview: Ennabl",
           "url": "https://www.cbinsights.com/research/executive-interview-ennabl/"
-        },
-        {
-          "source": "CB Insights",
-          "title": "Executive Interview: Maximizer AI",
-          "url": "https://www.cbinsights.com/research/executive-interview-maximizer-ai/"
-        },
-        {
-          "source": "CB Insights",
-          "title": "CEO Interview: Pathwork",
-          "url": "https://www.cbinsights.com/research/ceo-interview-pathwork/"
         }
       ]
     },
     {
-      "cluster_id": "biz_cluster_e66e67902b2c",
-      "thesis": "AI leverage is making one-person and tiny-team companies a credible strategic archetype.",
-      "lane": "opc",
-      "signal_ids": [
-        "biz_2ade5d71f45f",
-        "biz_f3bb8f519807"
-      ],
-      "source_count": 2,
-      "importance_score": 45,
-      "confidence": "medium",
-      "yuanli_mapping": [
-        "yuanli_asset",
-        "yuanli_startup",
-        "profit_container"
-      ],
-      "why_it_matters": "2 English evidence items from 2 sources connect this pattern to Yuanli IP.",
-      "counter_evidence": "See counter_signal cluster for adoption, ROI, and trust risks.",
-      "recommended_action": "Turn the strongest case into a Yuanli OPC teaching module with leverage, distribution, and monetization explicitly mapped.",
-      "evidence_refs": [
-        "biz_2ade5d71f45f",
-        "biz_f3bb8f519807"
-      ],
-      "top_sources": [
-        {
-          "source": "levels.io",
-          "title": "I passed $10M/y in revenue and investment gains with a 94.5% profit margin",
-          "url": "https://levels.io/passed-10m-revenue-investment-gains"
-        },
-        {
-          "source": "Indie Hackers",
-          "title": "From weekend project to $1M MRR in two years",
-          "url": "https://www.indiehackers.com/post/tech/from-weekend-project-to-1m-mrr-in-two-years-YRaa1QlGTjaqh0XgzWkc"
-        }
-      ]
-    },
-    {
-      "cluster_id": "biz_cluster_b4c4b706e5ac",
-      "thesis": "Business-school and consulting evidence strengthens the trust layer behind Yuanli IP claims.",
-      "lane": "authority_trust",
-      "signal_ids": [
-        "biz_492b74d8ba57",
-        "biz_6b5919db7bc5"
-      ],
-      "source_count": 1,
-      "importance_score": 44,
-      "confidence": "watch",
-      "yuanli_mapping": [
-        "ftf_trust",
-        "yuanli_asset",
-        "yuanli_startup"
-      ],
-      "why_it_matters": "2 English evidence items from 1 sources connect this pattern to Yuanli IP.",
-      "counter_evidence": "See counter_signal cluster for adoption, ROI, and trust risks.",
-      "recommended_action": "Use these authority-backed signals as FTF proof points before making public claims.",
-      "evidence_refs": [
-        "biz_492b74d8ba57",
-        "biz_6b5919db7bc5"
-      ],
-      "top_sources": [
-        {
-          "source": "Bain Insights",
-          "title": "Healthcare IT Investment: Stability and Growth in the Face of “SaaSpocalypse” Fears",
-          "url": "https://www.bain.com/insights/healthcare-it-investment-stability-and-growth-in-the-face-of-saaspocalypse-fears/"
-        },
-        {
-          "source": "Bain Insights",
-          "title": "The Resilience-to-Growth Circularity Playbook for Industrial Solutions and Manufacturing",
-          "url": "https://www.bain.com/insights/the-resilience-to-growth-circularity-playbook-for-industrial-solutions-and-manufacturing-weforum/"
-        }
-      ]
-    },
-    {
-      "cluster_id": "biz_cluster_34753a32ba22",
+      "cluster_id": "biz_cluster_330543fb6c4c",
       "thesis": "Enterprise AI value is moving toward operating-model redesign rather than isolated copilots.",
       "lane": "enterprise_workflow",
       "signal_ids": [
-        "biz_9b0eb7d2b787",
-        "biz_3fb9bcc51a03"
+        "biz_3c01219f2590",
+        "biz_c56c6e0c614a"
       ],
-      "source_count": 1,
-      "importance_score": 37,
-      "confidence": "watch",
+      "source_count": 2,
+      "importance_score": 43,
+      "confidence": "medium",
       "yuanli_mapping": [
         "yuanli_os",
         "ftf_trust"
       ],
-      "why_it_matters": "2 English evidence items from 1 sources connect this pattern to Yuanli IP.",
+      "why_it_matters": "2 English evidence items from 2 sources connect this pattern to Yuanli IP.",
       "counter_evidence": "See counter_signal cluster for adoption, ROI, and trust risks.",
       "recommended_action": "Map each workflow case to the Yuanli OS organs: soul, memory, judgment, hands.",
       "evidence_refs": [
-        "biz_9b0eb7d2b787",
-        "biz_3fb9bcc51a03"
+        "biz_3c01219f2590",
+        "biz_c56c6e0c614a"
       ],
       "top_sources": [
         {
-          "source": "Lenny's Newsletter",
-          "title": "Opus 5.5 vs. GPT-6 Sol: which model won my blind taste test?",
-          "url": "https://www.lennysnewsletter.com/p/opus-55-vs-gpt-6-sol-which-model"
+          "source": "GitHub Blog",
+          "title": "Rendering huge pull requests in the GitHub Copilot app",
+          "url": "https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app/"
         },
         {
-          "source": "Lenny's Newsletter",
-          "title": "I left Claude for months. Opus 5.5 is why I'm back",
-          "url": "https://www.lennysnewsletter.com/p/i-left-claude-for-months-opus-55"
-        }
-      ]
-    },
-    {
-      "cluster_id": "biz_cluster_c24787e6ee45",
-      "thesis": "AI adoption counter-signals reveal where Yuanli claims need sharper proof and risk language.",
-      "lane": "counter_signal",
-      "signal_ids": [
-        "biz_3cc2fd3eba6a"
-      ],
-      "source_count": 1,
-      "importance_score": 32,
-      "confidence": "watch",
-      "yuanli_mapping": [
-        "ftf_trust",
-        "yuanli_os"
-      ],
-      "why_it_matters": "1 English evidence items from 1 sources connect this pattern to Yuanli IP.",
-      "counter_evidence": "Counter-signals are the evidence, not a rejection of the thesis.",
-      "recommended_action": "Add these counter-signals to sales objections and content credibility checks.",
-      "evidence_refs": [
-        "biz_3cc2fd3eba6a"
-      ],
-      "top_sources": [
-        {
-          "source": "Latent Space",
-          "title": "🔬 An Oscar, Two Asteroids, and the Algorithm in Your sklearn: John Platt on AI for Science",
-          "url": "https://www.latent.space/p/john-platt"
+          "source": "Hugging Face Blog",
+          "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+          "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp"
         }
       ]
     }

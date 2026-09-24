@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-09-23T18:01:22.520911Z",
+  "generated_at": "2026-09-24T14:22:55.623410Z",
   "cases": [
+    {
+      "case_id": "opc_case_4a92478b7663",
+      "company": "Executive Interview",
+      "founder": "",
+      "source_refs": [
+        "biz_4438e2183161"
+      ],
+      "url": "https://www.cbinsights.com/research/executive-interview-camber/",
+      "title": "Executive Interview: Camber",
+      "business_model": "AI Business Model Innovation, Founder Case",
+      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
+      "monetization": "To be extracted from the linked source.",
+      "team_size_signal": "team size not explicit",
+      "distribution_channel": "CB Insights",
+      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
+      "yuanli_mapping": [
+        "yuanli_startup",
+        "ftf_trust",
+        "profit_container"
+      ],
+      "score": 56
+    },
     {
       "case_id": "opc_case_81678f08d251",
       "company": "Executive Interview",
@@ -21,7 +43,7 @@
         "ftf_trust",
         "profit_container"
       ],
-      "score": 57
+      "score": 56
     },
     {
       "case_id": "opc_case_1eb2effe9e06",
@@ -42,7 +64,28 @@
         "yuanli_startup",
         "ftf_trust"
       ],
-      "score": 52
+      "score": 51
+    },
+    {
+      "case_id": "opc_case_a290be7c48a1",
+      "company": "CEO Interview",
+      "founder": "",
+      "source_refs": [
+        "biz_11084d6516c7"
+      ],
+      "url": "https://www.cbinsights.com/research/ceo-interview-relevant-search/",
+      "title": "CEO Interview: Relevant Search",
+      "business_model": "Founder Case",
+      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
+      "monetization": "To be extracted from the linked source.",
+      "team_size_signal": "team size not explicit",
+      "distribution_channel": "CB Insights",
+      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
+      "yuanli_mapping": [
+        "yuanli_startup",
+        "ftf_trust"
+      ],
+      "score": 49
     },
     {
       "case_id": "opc_case_6e11469c947d",
@@ -63,7 +106,7 @@
         "yuanli_startup",
         "ftf_trust"
       ],
-      "score": 50
+      "score": 49
     },
     {
       "case_id": "opc_case_db695bd7aea9",
@@ -84,7 +127,7 @@
         "yuanli_startup",
         "ftf_trust"
       ],
-      "score": 50
+      "score": 49
     },
     {
       "case_id": "opc_case_f0b424d15f5a",
@@ -105,7 +148,7 @@
         "yuanli_startup",
         "ftf_trust"
       ],
-      "score": 50
+      "score": 49
     },
     {
       "case_id": "opc_case_7f8eb19d3bb4",
@@ -126,7 +169,7 @@
         "yuanli_startup",
         "ftf_trust"
       ],
-      "score": 50
+      "score": 49
     },
     {
       "case_id": "opc_case_dd6efe3cc957",
@@ -147,191 +190,27 @@
         "yuanli_startup",
         "ftf_trust"
       ],
-      "score": 50
-    },
-    {
-      "case_id": "opc_case_e438edea4cc4",
-      "company": "CEO Interview",
-      "founder": "",
-      "source_refs": [
-        "biz_4c1423e4f040"
-      ],
-      "url": "https://www.cbinsights.com/research/ceo-interview-elysian/",
-      "title": "CEO Interview: Elysian",
-      "business_model": "Founder Case",
-      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
-      "monetization": "To be extracted from the linked source.",
-      "team_size_signal": "team size not explicit",
-      "distribution_channel": "CB Insights",
-      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
-      "yuanli_mapping": [
-        "yuanli_startup",
-        "ftf_trust"
-      ],
-      "score": 50
-    },
-    {
-      "case_id": "opc_case_ea2066d21520",
-      "company": "CEO Interview",
-      "founder": "",
-      "source_refs": [
-        "biz_d5cb9aedb2d6"
-      ],
-      "url": "https://www.cbinsights.com/research/ceo-interview-sola/",
-      "title": "CEO Interview: Sola",
-      "business_model": "Founder Case",
-      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
-      "monetization": "To be extracted from the linked source.",
-      "team_size_signal": "team size not explicit",
-      "distribution_channel": "CB Insights",
-      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
-      "yuanli_mapping": [
-        "yuanli_startup",
-        "ftf_trust"
-      ],
-      "score": 50
-    },
-    {
-      "case_id": "opc_case_b4a17aacf20e",
-      "company": "Executive Interview",
-      "founder": "",
-      "source_refs": [
-        "biz_9347d2a6998c"
-      ],
-      "url": "https://www.cbinsights.com/research/executive-interview-federato/",
-      "title": "Executive Interview: Federato",
-      "business_model": "Founder Case",
-      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
-      "monetization": "To be extracted from the linked source.",
-      "team_size_signal": "team size not explicit",
-      "distribution_channel": "CB Insights",
-      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
-      "yuanli_mapping": [
-        "yuanli_startup",
-        "ftf_trust"
-      ],
-      "score": 50
-    },
-    {
-      "case_id": "opc_case_2c70eac3986d",
-      "company": "levels.io",
-      "founder": "",
-      "source_refs": [
-        "biz_2ade5d71f45f"
-      ],
-      "url": "https://levels.io/passed-10m-revenue-investment-gains",
-      "title": "I passed $10M/y in revenue and investment gains with a 94.5% profit margin",
-      "business_model": "AI Business Model Innovation, Counter Signal, OPC",
-      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
-      "monetization": "To be extracted from the linked source.",
-      "team_size_signal": "team size not explicit",
-      "distribution_channel": "levels.io",
-      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
-      "yuanli_mapping": [
-        "yuanli_startup",
-        "profit_container"
-      ],
       "score": 49
     },
     {
-      "case_id": "opc_case_8f4124442d71",
-      "company": "From",
+      "case_id": "opc_case_5650c781738f",
+      "company": "Rendering",
       "founder": "",
       "source_refs": [
-        "biz_f3bb8f519807"
+        "biz_3c01219f2590"
       ],
-      "url": "https://www.indiehackers.com/post/tech/from-weekend-project-to-1m-mrr-in-two-years-YRaa1QlGTjaqh0XgzWkc",
-      "title": "From weekend project to $1M MRR in two years",
-      "business_model": "OPC",
+      "url": "https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app/",
+      "title": "Rendering huge pull requests in the GitHub Copilot app",
+      "business_model": "Founder Case, Enterprise AI Workflow",
       "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
       "monetization": "To be extracted from the linked source.",
       "team_size_signal": "team size not explicit",
-      "distribution_channel": "Indie Hackers",
-      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
-      "yuanli_mapping": [
-        "yuanli_startup"
-      ],
-      "score": 33
-    },
-    {
-      "case_id": "opc_case_2d43f6961a68",
-      "company": "Healthcare IT Investment",
-      "founder": "",
-      "source_refs": [
-        "biz_492b74d8ba57"
-      ],
-      "url": "https://www.bain.com/insights/healthcare-it-investment-stability-and-growth-in-the-face-of-saaspocalypse-fears/",
-      "title": "Healthcare IT Investment: Stability and Growth in the Face of “SaaSpocalypse” Fears",
-      "business_model": "Founder Case, AI Business Model Innovation",
-      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
-      "monetization": "To be extracted from the linked source.",
-      "team_size_signal": "team size not explicit",
-      "distribution_channel": "Bain Insights",
-      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
-      "yuanli_mapping": [
-        "wealth_flywheel"
-      ],
-      "score": 42
-    },
-    {
-      "case_id": "opc_case_fa9abe5ceb7a",
-      "company": "The Resilience-to-Growth Circularity",
-      "founder": "",
-      "source_refs": [
-        "biz_6b5919db7bc5"
-      ],
-      "url": "https://www.bain.com/insights/the-resilience-to-growth-circularity-playbook-for-industrial-solutions-and-manufacturing-weforum/",
-      "title": "The Resilience-to-Growth Circularity Playbook for Industrial Solutions and Manufacturing",
-      "business_model": "Founder Case, AI Business Model Innovation",
-      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
-      "monetization": "To be extracted from the linked source.",
-      "team_size_signal": "team size not explicit",
-      "distribution_channel": "Bain Insights",
-      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
-      "yuanli_mapping": [
-        "wealth_flywheel"
-      ],
-      "score": 42
-    },
-    {
-      "case_id": "opc_case_80ebdf2e5618",
-      "company": "Opus",
-      "founder": "",
-      "source_refs": [
-        "biz_9b0eb7d2b787"
-      ],
-      "url": "https://www.lennysnewsletter.com/p/opus-55-vs-gpt-6-sol-which-model",
-      "title": "Opus 5.5 vs. GPT-6 Sol: which model won my blind taste test?",
-      "business_model": "AI Business Model Innovation, Enterprise AI Workflow, Founder Case",
-      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
-      "monetization": "To be extracted from the linked source.",
-      "team_size_signal": "team size not explicit",
-      "distribution_channel": "Lenny's Newsletter",
+      "distribution_channel": "GitHub Blog",
       "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
       "yuanli_mapping": [
         "yuanli_os"
       ],
-      "score": 35
-    },
-    {
-      "case_id": "opc_case_7dc929e059b0",
-      "company": "Claude",
-      "founder": "",
-      "source_refs": [
-        "biz_3fb9bcc51a03"
-      ],
-      "url": "https://www.lennysnewsletter.com/p/i-left-claude-for-months-opus-55",
-      "title": "I left Claude for months. Opus 5.5 is why I'm back",
-      "business_model": "AI Business Model Innovation, Enterprise AI Workflow, Founder Case",
-      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
-      "monetization": "To be extracted from the linked source.",
-      "team_size_signal": "team size not explicit",
-      "distribution_channel": "Lenny's Newsletter",
-      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
-      "yuanli_mapping": [
-        "yuanli_os"
-      ],
-      "score": 35
+      "score": 44
     }
   ]
 }
