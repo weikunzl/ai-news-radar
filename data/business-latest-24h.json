@@ -1,59 +1,21 @@
 {
-  "generated_at": "2026-09-25T11:29:19.219353Z",
+  "generated_at": "2026-09-25T16:02:51.554598Z",
   "window_hours": 24,
   "items": [
     {
-      "signal_id": "biz_7d75bd6ff8cd",
-      "title": "These startups are building the security layer for AI agents",
-      "url": "https://www.cbinsights.com/research/newsletter-september-24/",
+      "signal_id": "biz_b0bd4dfc93e1",
+      "title": "CEO Interview: Trust & Will",
+      "url": "https://www.cbinsights.com/research/ceo-interview-trust-will/",
       "source_id": "cbinsights",
       "source_name": "CB Insights",
-      "published_at": "2026-09-24T22:30:08Z",
-      "captured_at": "2026-09-25T11:29:19.219353Z",
-      "lane": "startup_vc",
-      "entities": [
-        "CB Insights",
-        "These"
-      ],
-      "business_model_tags": [
-        "AI Business Model Innovation",
-        "Founder Case",
-        "Enterprise AI Workflow"
-      ],
-      "yuanli_tags": [
-        "yuanli_startup",
-        "yuanli_os",
-        "ftf_trust"
-      ],
-      "opc_fit_score": 0,
-      "case_concreteness_score": 8,
-      "total_score": 52,
-      "score_breakdown": {
-        "source_authority": 16,
-        "yuanli_relevance": 11,
-        "business_model_value": 10,
-        "case_concreteness": 8,
-        "opc_fit": 0,
-        "freshness": 7,
-        "counter_signal_value": 0
-      },
-      "summary": "This month, the pressure to secure enterprise AI agents has dialed up. A few notable moves from the last few weeks: Companies are setting limits. JPMorgan is restricting Claude’s system access, while Okta expanded its co... Tags: AI Business Model Innovation, Founder Case, Enterprise AI Workflow.",
-      "timestamp_basis": "feed_published",
-      "transport_mode": "feed"
-    },
-    {
-      "signal_id": "biz_2308730666b3",
-      "title": "CEO Interview: Deuterium Energetics",
-      "url": "https://www.cbinsights.com/research/ceo-interview-deuterium-energetics/",
-      "source_id": "cbinsights",
-      "source_name": "CB Insights",
-      "published_at": "2026-09-24T19:39:27Z",
-      "captured_at": "2026-09-25T11:29:19.219353Z",
+      "published_at": "2026-09-25T13:03:08Z",
+      "captured_at": "2026-09-25T16:02:51.554598Z",
       "lane": "startup_vc",
       "entities": [
         "CB Insights",
         "CEO Interview",
-        "Deuterium Energetics"
+        "Trust",
+        "Will"
       ],
       "business_model_tags": [
         "Founder Case"
@@ -64,33 +26,70 @@
       ],
       "opc_fit_score": 0,
       "case_concreteness_score": 15,
-      "total_score": 49,
+      "total_score": 52,
+      "score_breakdown": {
+        "source_authority": 16,
+        "yuanli_relevance": 8,
+        "business_model_value": 5,
+        "case_concreteness": 15,
+        "opc_fit": 0,
+        "freshness": 8,
+        "counter_signal_value": 0
+      },
+      "summary": "Cody Barbo, Co-Founder & CEO of Trust & Will, tells CB Insights how they view the market, customer needs, and their company. How do you define your market and where does your company fit into that space? In our … The pos... Tags: Founder Case.",
+      "timestamp_basis": "feed_published",
+      "transport_mode": "feed"
+    },
+    {
+      "signal_id": "biz_a92e9fdef15d",
+      "title": "CEO Interview: Smart Bricks",
+      "url": "https://www.cbinsights.com/research/ceo-interview-smart-bricks/",
+      "source_id": "cbinsights",
+      "source_name": "CB Insights",
+      "published_at": "2026-09-25T15:45:47Z",
+      "captured_at": "2026-09-25T16:02:51.554598Z",
+      "lane": "startup_vc",
+      "entities": [
+        "CB Insights",
+        "CEO Interview",
+        "Smart Bricks"
+      ],
+      "business_model_tags": [
+        "Founder Case"
+      ],
+      "yuanli_tags": [
+        "yuanli_startup",
+        "ftf_trust"
+      ],
+      "opc_fit_score": 0,
+      "case_concreteness_score": 15,
+      "total_score": 50,
       "score_breakdown": {
         "source_authority": 16,
         "yuanli_relevance": 6,
         "business_model_value": 5,
         "case_concreteness": 15,
         "opc_fit": 0,
-        "freshness": 7,
+        "freshness": 8,
         "counter_signal_value": 0
       },
-      "summary": "Steve Peterson, Chief Executive Officer (CEO) of Deuterium Energetics, tells CB Insights how they view the market, customer needs, and their company. Tell us about your reactor design. Our reactor design is based on the... Tags: Founder Case.",
+      "summary": "Mohamed Mohamed, Chief Executive Officer (CEO) of Smart Bricks, tells CB Insights how they view the market, customer needs, and their company. How do you define your market and where does your company fit into that space... Tags: Founder Case.",
       "timestamp_basis": "feed_published",
       "transport_mode": "feed"
     },
     {
-      "signal_id": "biz_1da2ae3a241c",
-      "title": "Executive Interview: CycloTech",
-      "url": "https://www.cbinsights.com/research/executive-interview-cyclotech/",
+      "signal_id": "biz_98d1d4cbd08c",
+      "title": "Executive Interview: Stuut",
+      "url": "https://www.cbinsights.com/research/executive-interview-stuut/",
       "source_id": "cbinsights",
       "source_name": "CB Insights",
-      "published_at": "2026-09-24T19:35:48Z",
-      "captured_at": "2026-09-25T11:29:19.219353Z",
+      "published_at": "2026-09-25T15:40:43Z",
+      "captured_at": "2026-09-25T16:02:51.554598Z",
       "lane": "startup_vc",
       "entities": [
         "CB Insights",
         "Executive Interview",
-        "CycloTech"
+        "Stuut"
       ],
       "business_model_tags": [
         "Founder Case"
@@ -101,33 +100,70 @@
       ],
       "opc_fit_score": 0,
       "case_concreteness_score": 15,
-      "total_score": 49,
+      "total_score": 50,
       "score_breakdown": {
         "source_authority": 16,
         "yuanli_relevance": 6,
         "business_model_value": 5,
         "case_concreteness": 15,
         "opc_fit": 0,
-        "freshness": 7,
+        "freshness": 8,
         "counter_signal_value": 0
       },
-      "summary": "Markus Kampitsch, Chief Commercial Officer (CCO) of CycloTech, tells CB Insights how they view the market, customer needs, and their company. How do you define your market and where does your company fit into that space?... Tags: Founder Case.",
+      "summary": "Benjamin G. Winter, Chief Operating Officer (COO) of Stuut, tells CB Insights how they view the market, customer needs, and their company. How do you define your market and where does your company fit into that space? We... Tags: Founder Case.",
       "timestamp_basis": "feed_published",
       "transport_mode": "feed"
     },
     {
-      "signal_id": "biz_d55b737a51b0",
-      "title": "CEO Interview: The Beans",
-      "url": "https://www.cbinsights.com/research/ceo-interview-the-beans/",
+      "signal_id": "biz_ccfde5dda1c0",
+      "title": "Executive Interview: ANRA Technologies",
+      "url": "https://www.cbinsights.com/research/executive-interview-anra-technologies/",
       "source_id": "cbinsights",
       "source_name": "CB Insights",
-      "published_at": "2026-09-24T19:28:46Z",
-      "captured_at": "2026-09-25T11:29:19.219353Z",
+      "published_at": "2026-09-25T15:38:46Z",
+      "captured_at": "2026-09-25T16:02:51.554598Z",
+      "lane": "startup_vc",
+      "entities": [
+        "CB Insights",
+        "Executive Interview",
+        "ANRA Technologies"
+      ],
+      "business_model_tags": [
+        "Founder Case"
+      ],
+      "yuanli_tags": [
+        "yuanli_startup",
+        "ftf_trust"
+      ],
+      "opc_fit_score": 0,
+      "case_concreteness_score": 15,
+      "total_score": 50,
+      "score_breakdown": {
+        "source_authority": 16,
+        "yuanli_relevance": 6,
+        "business_model_value": 5,
+        "case_concreteness": 15,
+        "opc_fit": 0,
+        "freshness": 8,
+        "counter_signal_value": 0
+      },
+      "summary": "Brent Klavon, Chief Strategy Officer (CSO) of ANRA Technologies, Inc, tells CB Insights how they view the market, customer needs, and their company. How do you define your market and where does your company fit into that... Tags: Founder Case.",
+      "timestamp_basis": "feed_published",
+      "transport_mode": "feed"
+    },
+    {
+      "signal_id": "biz_84cb916dd196",
+      "title": "CEO Interview: Patero",
+      "url": "https://www.cbinsights.com/research/ceo-interview-patero/",
+      "source_id": "cbinsights",
+      "source_name": "CB Insights",
+      "published_at": "2026-09-25T15:24:08Z",
+      "captured_at": "2026-09-25T16:02:51.554598Z",
       "lane": "startup_vc",
       "entities": [
         "CB Insights",
         "CEO Interview",
-        "The Beans"
+        "Patero"
       ],
       "business_model_tags": [
         "Founder Case"
@@ -138,33 +174,70 @@
       ],
       "opc_fit_score": 0,
       "case_concreteness_score": 15,
-      "total_score": 49,
+      "total_score": 50,
       "score_breakdown": {
         "source_authority": 16,
         "yuanli_relevance": 6,
         "business_model_value": 5,
         "case_concreteness": 15,
         "opc_fit": 0,
-        "freshness": 7,
+        "freshness": 8,
         "counter_signal_value": 0
       },
-      "summary": "Melissa Gail Pancoast, Chief Executive Officer (CEO) of The Beans, tells CB Insights how they view the market, customer needs, and their company. How do you define your market and where does your company fit into that sp... Tags: Founder Case.",
+      "summary": "Peter Bentley, Chief Executive Officer (CEO) of Patero tells CB Insights how they view the market, customer needs, and their company. How do you define your market and where does your company fit into that space? We defi... Tags: Founder Case.",
       "timestamp_basis": "feed_published",
       "transport_mode": "feed"
     },
     {
-      "signal_id": "biz_605e00612f76",
-      "title": "CEO Interview: LARX",
-      "url": "https://www.cbinsights.com/research/ceo-interview-larx/",
+      "signal_id": "biz_f9eb475c7eaa",
+      "title": "Executive Interview: AeroSentinel",
+      "url": "https://www.cbinsights.com/research/executive-interview-aerosentinel/",
       "source_id": "cbinsights",
       "source_name": "CB Insights",
-      "published_at": "2026-09-24T19:26:26Z",
-      "captured_at": "2026-09-25T11:29:19.219353Z",
+      "published_at": "2026-09-25T13:50:28Z",
+      "captured_at": "2026-09-25T16:02:51.554598Z",
+      "lane": "startup_vc",
+      "entities": [
+        "CB Insights",
+        "Executive Interview",
+        "AeroSentinel"
+      ],
+      "business_model_tags": [
+        "Founder Case"
+      ],
+      "yuanli_tags": [
+        "yuanli_startup",
+        "ftf_trust"
+      ],
+      "opc_fit_score": 0,
+      "case_concreteness_score": 15,
+      "total_score": 50,
+      "score_breakdown": {
+        "source_authority": 16,
+        "yuanli_relevance": 6,
+        "business_model_value": 5,
+        "case_concreteness": 15,
+        "opc_fit": 0,
+        "freshness": 8,
+        "counter_signal_value": 0
+      },
+      "summary": "Ofir Avram, CMO of AeroSentinel, tells CB Insights how they view the market, customer needs, and their company. How do you define your market and where does your company fit into that space? We’re a defense and aerospace... Tags: Founder Case.",
+      "timestamp_basis": "feed_published",
+      "transport_mode": "feed"
+    },
+    {
+      "signal_id": "biz_88f1556ba80f",
+      "title": "CEO Interview: Xflow",
+      "url": "https://www.cbinsights.com/research/ceo-interview-xflow-2/",
+      "source_id": "cbinsights",
+      "source_name": "CB Insights",
+      "published_at": "2026-09-25T13:36:35Z",
+      "captured_at": "2026-09-25T16:02:51.554598Z",
       "lane": "startup_vc",
       "entities": [
         "CB Insights",
         "CEO Interview",
-        "LARX"
+        "Xflow"
       ],
       "business_model_tags": [
         "Founder Case"
@@ -175,69 +248,33 @@
       ],
       "opc_fit_score": 0,
       "case_concreteness_score": 15,
-      "total_score": 49,
+      "total_score": 50,
       "score_breakdown": {
         "source_authority": 16,
         "yuanli_relevance": 6,
         "business_model_value": 5,
         "case_concreteness": 15,
         "opc_fit": 0,
-        "freshness": 7,
+        "freshness": 8,
         "counter_signal_value": 0
       },
-      "summary": "Tad Mielnicki, Chief Executive Officer (CEO) of LARX, tells CB Insights how they view the market, customer needs, and their company. How do you define your market and where does your company fit into that space? At LARX,... Tags: Founder Case.",
+      "summary": "Ashwin Bhatnagar, Chief Executive Officer (CEO) of Xflow, tells CB Insights how they view the market, customer needs, and their company. How do you define your market and where does your company fit into that space? We o... Tags: Founder Case.",
       "timestamp_basis": "feed_published",
       "transport_mode": "feed"
     },
     {
-      "signal_id": "biz_16f14bc93fc7",
-      "title": "Executive Interview: 4MIK",
-      "url": "https://www.cbinsights.com/research/executive-interview-4mik/",
+      "signal_id": "biz_7b1b66881e4c",
+      "title": "CEO Interview: Chari",
+      "url": "https://www.cbinsights.com/research/ceo-interview-chari/",
       "source_id": "cbinsights",
       "source_name": "CB Insights",
-      "published_at": "2026-09-24T19:20:12Z",
-      "captured_at": "2026-09-25T11:29:19.219353Z",
-      "lane": "startup_vc",
-      "entities": [
-        "CB Insights",
-        "Executive Interview"
-      ],
-      "business_model_tags": [
-        "Founder Case"
-      ],
-      "yuanli_tags": [
-        "yuanli_startup",
-        "ftf_trust"
-      ],
-      "opc_fit_score": 0,
-      "case_concreteness_score": 15,
-      "total_score": 49,
-      "score_breakdown": {
-        "source_authority": 16,
-        "yuanli_relevance": 6,
-        "business_model_value": 5,
-        "case_concreteness": 15,
-        "opc_fit": 0,
-        "freshness": 7,
-        "counter_signal_value": 0
-      },
-      "summary": "Justin Hooker, Chief Technology Officer (CTO) of 4MIK, tells CB Insights how they view the market, customer needs, and their company. How do you define your market and where does your company fit into that space? 4MIK op... Tags: Founder Case.",
-      "timestamp_basis": "feed_published",
-      "transport_mode": "feed"
-    },
-    {
-      "signal_id": "biz_7bedf03e7ddc",
-      "title": "CEO Interview: Rapid Venture Group",
-      "url": "https://www.cbinsights.com/research/ceo-interview-rapid-venture-group/",
-      "source_id": "cbinsights",
-      "source_name": "CB Insights",
-      "published_at": "2026-09-24T19:10:34Z",
-      "captured_at": "2026-09-25T11:29:19.219353Z",
+      "published_at": "2026-09-25T13:33:24Z",
+      "captured_at": "2026-09-25T16:02:51.554598Z",
       "lane": "startup_vc",
       "entities": [
         "CB Insights",
         "CEO Interview",
-        "Rapid Venture Group"
+        "Chari"
       ],
       "business_model_tags": [
         "Founder Case"
@@ -248,33 +285,33 @@
       ],
       "opc_fit_score": 0,
       "case_concreteness_score": 15,
-      "total_score": 49,
+      "total_score": 50,
       "score_breakdown": {
         "source_authority": 16,
         "yuanli_relevance": 6,
         "business_model_value": 5,
         "case_concreteness": 15,
         "opc_fit": 0,
-        "freshness": 7,
+        "freshness": 8,
         "counter_signal_value": 0
       },
-      "summary": "Alex Hijab, Chief Executive Officer (CEO) of Rapid Venture Group (Knowz AI), tells CB Insights how they view the market, customer needs, and their company. How do you define your market and where does your company fit in... Tags: Founder Case.",
+      "summary": "Ismael Belkhayat, Chief Executive Officer (CEO) of Chari, tells CB Insights how they view the market, customer needs, and their company. How do you define your market and where does your company fit into that space? Our... Tags: Founder Case.",
       "timestamp_basis": "feed_published",
       "transport_mode": "feed"
     },
     {
-      "signal_id": "biz_b7e6ea7f873c",
-      "title": "CEO Interview: Call2 Global",
-      "url": "https://www.cbinsights.com/research/ceo-interview-call2-global/",
+      "signal_id": "biz_c1f086b537e4",
+      "title": "Executive Interview: EdgeRunner AI",
+      "url": "https://www.cbinsights.com/research/executive-interview-edgerunner-ai/",
       "source_id": "cbinsights",
       "source_name": "CB Insights",
-      "published_at": "2026-09-24T18:58:34Z",
-      "captured_at": "2026-09-25T11:29:19.219353Z",
+      "published_at": "2026-09-25T13:20:05Z",
+      "captured_at": "2026-09-25T16:02:51.554598Z",
       "lane": "startup_vc",
       "entities": [
         "CB Insights",
-        "CEO Interview",
-        "Call2 Global"
+        "Executive Interview",
+        "EdgeRunner AI"
       ],
       "business_model_tags": [
         "Founder Case"
@@ -285,33 +322,33 @@
       ],
       "opc_fit_score": 0,
       "case_concreteness_score": 15,
-      "total_score": 49,
+      "total_score": 50,
       "score_breakdown": {
         "source_authority": 16,
         "yuanli_relevance": 6,
         "business_model_value": 5,
         "case_concreteness": 15,
         "opc_fit": 0,
-        "freshness": 7,
+        "freshness": 8,
         "counter_signal_value": 0
       },
-      "summary": "Martin Nygate, Chief Executive Officer (CEO) of Call2 Global , tells CB Insights how they view the market, customer needs, and their company. How do you define your market and where does your company fit into that space?... Tags: Founder Case.",
+      "summary": "Colton Malkerson, COO of EdgeRunner AI, tells CB Insights how they view the market, customer needs, and their company. How do you define your market and where does your company fit into that space? We define our Total Ad... Tags: Founder Case.",
       "timestamp_basis": "feed_published",
       "transport_mode": "feed"
     },
     {
-      "signal_id": "biz_130f2be42098",
-      "title": "CEO Interview: Signal87 AI",
-      "url": "https://www.cbinsights.com/research/ceo-interview-signal87-ai/",
+      "signal_id": "biz_01bf72721d15",
+      "title": "Executive Interview: CX2",
+      "url": "https://www.cbinsights.com/research/executive-interview-cx2/",
       "source_id": "cbinsights",
       "source_name": "CB Insights",
-      "published_at": "2026-09-24T18:53:54Z",
-      "captured_at": "2026-09-25T11:29:19.219353Z",
+      "published_at": "2026-09-25T13:17:17Z",
+      "captured_at": "2026-09-25T16:02:51.554598Z",
       "lane": "startup_vc",
       "entities": [
         "CB Insights",
-        "CEO Interview",
-        "Signal87 AI"
+        "Executive Interview",
+        "CX2"
       ],
       "business_model_tags": [
         "Founder Case"
@@ -322,131 +359,19 @@
       ],
       "opc_fit_score": 0,
       "case_concreteness_score": 15,
-      "total_score": 49,
+      "total_score": 50,
       "score_breakdown": {
         "source_authority": 16,
         "yuanli_relevance": 6,
         "business_model_value": 5,
         "case_concreteness": 15,
         "opc_fit": 0,
-        "freshness": 7,
+        "freshness": 8,
         "counter_signal_value": 0
       },
-      "summary": "Michael R. Benezra, Chief Executive Officer (CEO) of Signal87 AI, tells CB Insights how they view the market, customer needs, and their company. How do you define your market and where does your company fit into that spa... Tags: Founder Case.",
+      "summary": "Milena Triana, Head of Marketing of CX2, tells CB Insights how they view the market, customer needs, and their company. How do you define your market and where does your company fit into that space? CX2 is a defense … Th... Tags: Founder Case.",
       "timestamp_basis": "feed_published",
       "transport_mode": "feed"
-    },
-    {
-      "signal_id": "biz_54c858d4c37d",
-      "title": "CEO Interview: Pack",
-      "url": "https://www.cbinsights.com/research/ceo-interview-pack/",
-      "source_id": "cbinsights",
-      "source_name": "CB Insights",
-      "published_at": "2026-09-24T18:49:47Z",
-      "captured_at": "2026-09-25T11:29:19.219353Z",
-      "lane": "startup_vc",
-      "entities": [
-        "CB Insights",
-        "CEO Interview",
-        "Pack"
-      ],
-      "business_model_tags": [
-        "Founder Case"
-      ],
-      "yuanli_tags": [
-        "yuanli_startup",
-        "ftf_trust"
-      ],
-      "opc_fit_score": 0,
-      "case_concreteness_score": 15,
-      "total_score": 49,
-      "score_breakdown": {
-        "source_authority": 16,
-        "yuanli_relevance": 6,
-        "business_model_value": 5,
-        "case_concreteness": 15,
-        "opc_fit": 0,
-        "freshness": 7,
-        "counter_signal_value": 0
-      },
-      "summary": "Noah Mitsuhashi, Chief Executive Officer (CEO) of Pack, tells CB Insights how they view the market, customer needs, and their company. How do you define your market and where does your company fit into that space? We are... Tags: Founder Case.",
-      "timestamp_basis": "feed_published",
-      "transport_mode": "feed"
-    },
-    {
-      "signal_id": "biz_9a6343e26276",
-      "title": "What I'm learning while building an evidence-to-action workflow",
-      "url": "https://www.indiehackers.com/post/what-im-learning-while-building-an-evidence-to-action-workflow-1ed982fb13",
-      "source_id": "indie_hackers",
-      "source_name": "Indie Hackers",
-      "published_at": "2026-09-24T15:33:56.836000Z",
-      "captured_at": "2026-09-25T11:29:19.219353Z",
-      "lane": "opc",
-      "entities": [
-        "Indie Hackers",
-        "What I"
-      ],
-      "business_model_tags": [
-        "AI Business Model Innovation",
-        "Enterprise AI Workflow",
-        "OPC"
-      ],
-      "yuanli_tags": [
-        "yuanli_asset",
-        "yuanli_os",
-        "ftf_trust"
-      ],
-      "opc_fit_score": 5,
-      "case_concreteness_score": 0,
-      "total_score": 42,
-      "score_breakdown": {
-        "source_authority": 16,
-        "yuanli_relevance": 9,
-        "business_model_value": 5,
-        "case_concreteness": 0,
-        "opc_fit": 5,
-        "freshness": 7,
-        "counter_signal_value": 0
-      },
-      "summary": "What I'm learning while building an evidence-to-action workflow Tags: AI Business Model Innovation, Enterprise AI Workflow, OPC.",
-      "timestamp_basis": "page_structured_time",
-      "transport_mode": "page_detail"
-    },
-    {
-      "signal_id": "biz_52f4cc5c1c64",
-      "title": "3 sales, 2 countries: The reality of building a \"sell-once\" logo marketplace solo",
-      "url": "https://www.indiehackers.com/post/3-sales-2-countries-the-reality-of-building-a-sell-once-logo-marketplace-solo-80240c570d",
-      "source_id": "indie_hackers",
-      "source_name": "Indie Hackers",
-      "published_at": "2026-09-24T15:18:18.263000Z",
-      "captured_at": "2026-09-25T11:29:19.219353Z",
-      "lane": "opc",
-      "entities": [
-        "Indie Hackers"
-      ],
-      "business_model_tags": [
-        "AI Business Model Innovation",
-        "OPC"
-      ],
-      "yuanli_tags": [
-        "yuanli_startup",
-        "profit_container"
-      ],
-      "opc_fit_score": 5,
-      "case_concreteness_score": 0,
-      "total_score": 36,
-      "score_breakdown": {
-        "source_authority": 16,
-        "yuanli_relevance": 6,
-        "business_model_value": 2,
-        "case_concreteness": 0,
-        "opc_fit": 5,
-        "freshness": 7,
-        "counter_signal_value": 0
-      },
-      "summary": "3 sales, 2 countries: The reality of building a \"sell-once\" logo marketplace solo Tags: AI Business Model Innovation, OPC.",
-      "timestamp_basis": "page_structured_time",
-      "transport_mode": "page_detail"
     },
     {
       "signal_id": "biz_4ff34b667812",
@@ -455,7 +380,7 @@
       "source_id": "github_blog",
       "source_name": "GitHub Blog",
       "published_at": "2026-09-24T18:26:12Z",
-      "captured_at": "2026-09-25T11:29:19.219353Z",
+      "captured_at": "2026-09-25T16:02:51.554598Z",
       "lane": "ai_commercialization",
       "entities": [
         "GitHub Blog",
