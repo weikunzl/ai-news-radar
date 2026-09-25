@@ -1,37 +1,36 @@
 {
-  "generated_at": "2026-09-24T18:46:33.414424Z",
+  "generated_at": "2026-09-25T05:59:26.374322Z",
   "cases": [
     {
-      "case_id": "opc_case_4a92478b7663",
+      "case_id": "opc_case_2e0659539691",
+      "company": "CEO Interview",
+      "founder": "",
+      "source_refs": [
+        "biz_2308730666b3"
+      ],
+      "url": "https://www.cbinsights.com/research/ceo-interview-deuterium-energetics/",
+      "title": "CEO Interview: Deuterium Energetics",
+      "business_model": "Founder Case",
+      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
+      "monetization": "To be extracted from the linked source.",
+      "team_size_signal": "team size not explicit",
+      "distribution_channel": "CB Insights",
+      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
+      "yuanli_mapping": [
+        "yuanli_startup",
+        "ftf_trust"
+      ],
+      "score": 50
+    },
+    {
+      "case_id": "opc_case_cd21ec954065",
       "company": "Executive Interview",
       "founder": "",
       "source_refs": [
-        "biz_4438e2183161"
+        "biz_1da2ae3a241c"
       ],
-      "url": "https://www.cbinsights.com/research/executive-interview-camber/",
-      "title": "Executive Interview: Camber",
-      "business_model": "AI Business Model Innovation, Founder Case",
-      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
-      "monetization": "To be extracted from the linked source.",
-      "team_size_signal": "team size not explicit",
-      "distribution_channel": "CB Insights",
-      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
-      "yuanli_mapping": [
-        "yuanli_startup",
-        "ftf_trust",
-        "profit_container"
-      ],
-      "score": 56
-    },
-    {
-      "case_id": "opc_case_84bba3336e97",
-      "company": "CEO Interview",
-      "founder": "",
-      "source_refs": [
-        "biz_ee7fcfe93352"
-      ],
-      "url": "https://www.cbinsights.com/research/ceo-interview-shepherd/",
-      "title": "CEO Interview: Shepherd",
+      "url": "https://www.cbinsights.com/research/executive-interview-cyclotech/",
+      "title": "Executive Interview: CycloTech",
       "business_model": "Founder Case",
       "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
       "monetization": "To be extracted from the linked source.",
@@ -45,14 +44,14 @@
       "score": 50
     },
     {
-      "case_id": "opc_case_542542d18f1b",
+      "case_id": "opc_case_8558f82241be",
       "company": "CEO Interview",
       "founder": "",
       "source_refs": [
-        "biz_ede88c673ef8"
+        "biz_d55b737a51b0"
       ],
-      "url": "https://www.cbinsights.com/research/ceo-interview-flora-fertility/",
-      "title": "CEO Interview: Flora Fertility",
+      "url": "https://www.cbinsights.com/research/ceo-interview-the-beans/",
+      "title": "CEO Interview: The Beans",
       "business_model": "Founder Case",
       "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
       "monetization": "To be extracted from the linked source.",
@@ -66,14 +65,77 @@
       "score": 50
     },
     {
-      "case_id": "opc_case_a290be7c48a1",
+      "case_id": "opc_case_b134edac143d",
       "company": "CEO Interview",
       "founder": "",
       "source_refs": [
-        "biz_11084d6516c7"
+        "biz_605e00612f76"
       ],
-      "url": "https://www.cbinsights.com/research/ceo-interview-relevant-search/",
-      "title": "CEO Interview: Relevant Search",
+      "url": "https://www.cbinsights.com/research/ceo-interview-larx/",
+      "title": "CEO Interview: LARX",
+      "business_model": "Founder Case",
+      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
+      "monetization": "To be extracted from the linked source.",
+      "team_size_signal": "team size not explicit",
+      "distribution_channel": "CB Insights",
+      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
+      "yuanli_mapping": [
+        "yuanli_startup",
+        "ftf_trust"
+      ],
+      "score": 50
+    },
+    {
+      "case_id": "opc_case_57cc689095cf",
+      "company": "Executive Interview",
+      "founder": "",
+      "source_refs": [
+        "biz_16f14bc93fc7"
+      ],
+      "url": "https://www.cbinsights.com/research/executive-interview-4mik/",
+      "title": "Executive Interview: 4MIK",
+      "business_model": "Founder Case",
+      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
+      "monetization": "To be extracted from the linked source.",
+      "team_size_signal": "team size not explicit",
+      "distribution_channel": "CB Insights",
+      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
+      "yuanli_mapping": [
+        "yuanli_startup",
+        "ftf_trust"
+      ],
+      "score": 50
+    },
+    {
+      "case_id": "opc_case_49fcf9ef34fe",
+      "company": "CEO Interview",
+      "founder": "",
+      "source_refs": [
+        "biz_7bedf03e7ddc"
+      ],
+      "url": "https://www.cbinsights.com/research/ceo-interview-rapid-venture-group/",
+      "title": "CEO Interview: Rapid Venture Group",
+      "business_model": "Founder Case",
+      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
+      "monetization": "To be extracted from the linked source.",
+      "team_size_signal": "team size not explicit",
+      "distribution_channel": "CB Insights",
+      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
+      "yuanli_mapping": [
+        "yuanli_startup",
+        "ftf_trust"
+      ],
+      "score": 50
+    },
+    {
+      "case_id": "opc_case_30e9242ebc8a",
+      "company": "CEO Interview",
+      "founder": "",
+      "source_refs": [
+        "biz_b7e6ea7f873c"
+      ],
+      "url": "https://www.cbinsights.com/research/ceo-interview-call2-global/",
+      "title": "CEO Interview: Call2 Global",
       "business_model": "Founder Case",
       "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
       "monetization": "To be extracted from the linked source.",
@@ -85,6 +147,113 @@
         "ftf_trust"
       ],
       "score": 49
+    },
+    {
+      "case_id": "opc_case_0076a9c6627c",
+      "company": "CEO Interview",
+      "founder": "",
+      "source_refs": [
+        "biz_130f2be42098"
+      ],
+      "url": "https://www.cbinsights.com/research/ceo-interview-signal87-ai/",
+      "title": "CEO Interview: Signal87 AI",
+      "business_model": "Founder Case",
+      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
+      "monetization": "To be extracted from the linked source.",
+      "team_size_signal": "team size not explicit",
+      "distribution_channel": "CB Insights",
+      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
+      "yuanli_mapping": [
+        "yuanli_startup",
+        "ftf_trust"
+      ],
+      "score": 49
+    },
+    {
+      "case_id": "opc_case_4ea1a83e5c03",
+      "company": "CEO Interview",
+      "founder": "",
+      "source_refs": [
+        "biz_54c858d4c37d"
+      ],
+      "url": "https://www.cbinsights.com/research/ceo-interview-pack/",
+      "title": "CEO Interview: Pack",
+      "business_model": "Founder Case",
+      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
+      "monetization": "To be extracted from the linked source.",
+      "team_size_signal": "team size not explicit",
+      "distribution_channel": "CB Insights",
+      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
+      "yuanli_mapping": [
+        "yuanli_startup",
+        "ftf_trust"
+      ],
+      "score": 49
+    },
+    {
+      "case_id": "opc_case_63c6d4053072",
+      "company": "These",
+      "founder": "",
+      "source_refs": [
+        "biz_7d75bd6ff8cd"
+      ],
+      "url": "https://www.cbinsights.com/research/newsletter-september-24/",
+      "title": "These startups are building the security layer for AI agents",
+      "business_model": "AI Business Model Innovation, Founder Case, Enterprise AI Workflow",
+      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
+      "monetization": "To be extracted from the linked source.",
+      "team_size_signal": "team size not explicit",
+      "distribution_channel": "CB Insights",
+      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
+      "yuanli_mapping": [
+        "yuanli_startup",
+        "yuanli_os",
+        "ftf_trust"
+      ],
+      "score": 53
+    },
+    {
+      "case_id": "opc_case_6e8ee7db7fef",
+      "company": "What I",
+      "founder": "",
+      "source_refs": [
+        "biz_9a6343e26276"
+      ],
+      "url": "https://www.indiehackers.com/post/what-im-learning-while-building-an-evidence-to-action-workflow-1ed982fb13",
+      "title": "What I'm learning while building an evidence-to-action workflow",
+      "business_model": "AI Business Model Innovation, Enterprise AI Workflow, OPC",
+      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
+      "monetization": "To be extracted from the linked source.",
+      "team_size_signal": "team size not explicit",
+      "distribution_channel": "Indie Hackers",
+      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
+      "yuanli_mapping": [
+        "yuanli_asset",
+        "yuanli_os",
+        "ftf_trust"
+      ],
+      "score": 42
+    },
+    {
+      "case_id": "opc_case_dcb2c4c368d3",
+      "company": "Indie Hackers",
+      "founder": "",
+      "source_refs": [
+        "biz_52f4cc5c1c64"
+      ],
+      "url": "https://www.indiehackers.com/post/3-sales-2-countries-the-reality-of-building-a-sell-once-logo-marketplace-solo-80240c570d",
+      "title": "3 sales, 2 countries: The reality of building a \"sell-once\" logo marketplace solo",
+      "business_model": "AI Business Model Innovation, OPC",
+      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
+      "monetization": "To be extracted from the linked source.",
+      "team_size_signal": "team size not explicit",
+      "distribution_channel": "Indie Hackers",
+      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
+      "yuanli_mapping": [
+        "yuanli_startup",
+        "profit_container"
+      ],
+      "score": 36
     }
   ]
 }
