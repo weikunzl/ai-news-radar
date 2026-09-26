@@ -1,86 +1,143 @@
 {
-  "generated_at": "2026-09-25T15:56:16.035687Z",
+  "generated_at": "2026-09-26T19:37:15.631735Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_21fb0730efb2",
-      "title": "CodeQL 2.27.1 添加了 C 和 C++ 查询以及 Kotlin 2.4.20 支持 / CodeQL 2.27.1 adds C and C++ query and Kotlin 2.4.20 support",
-      "url": "https://github.blog/changelog/2026-09-25-codeql-2-27-1-adds-c-and-c-query-and-kotlin-2-4-20-support",
-      "primary_url": "https://github.blog/changelog/2026-09-25-codeql-2-27-1-adds-c-and-c-query-and-kotlin-2-4-20-support",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_7af26c7f12f1",
+      "title": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
+      "url": "https://swarmtraces.org",
+      "primary_url": "https://swarmtraces.org",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "fa72032807585186751d05c49f31bb0f1172175a",
-          "title": "CodeQL 2.27.1 添加了 C 和 C++ 查询以及 Kotlin 2.4.20 支持 / CodeQL 2.27.1 adds C and C++ query and Kotlin 2.4.20 support",
-          "url": "https://github.blog/changelog/2026-09-25-codeql-2-27-1-adds-c-and-c-query-and-kotlin-2-4-20-support",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-25T09:55:23Z"
+          "id": "484e30cd74d96a5802d76ed47a571237e2d22fc0",
+          "title": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
+          "url": "https://swarmtraces.org",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T23:59:47.248000Z"
+        },
+        {
+          "id": "7b157f5e8e1dda48bc497b89db4274809b8cbbc3",
+          "title": "揭秘OpenAI代理如何入侵Hugging Face的细节",
+          "url": "https://swarmtraces.org",
+          "source": "swarmtraces.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-25T23:59:47.248000Z"
+        },
+        {
+          "id": "ef0ee82d9438820e1607189ce9c19e9fa103346f",
+          "title": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节 / Revealing the details of how OpenAI agents hacked Hugging Face",
+          "url": "https://swarmtraces.org",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-25T21:09:27Z"
+        },
+        {
+          "id": "f5b7e831c7f6fe4d375dacbef0abf403bb826cf4",
+          "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+          "url": "https://news.ycombinator.com/item?id=49849985",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-25T21:09:27Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 4,
       "source_names": [
-        "GitHub Changelog"
+        "Hacker News (黑客新闻)",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "hackernews",
+        "swarmtraces.org"
       ],
       "items": [
         {
-          "id": "fa72032807585186751d05c49f31bb0f1172175a",
-          "title": "CodeQL 2.27.1 添加了 C 和 C++ 查询以及 Kotlin 2.4.20 支持 / CodeQL 2.27.1 adds C and C++ query and Kotlin 2.4.20 support",
-          "url": "https://github.blog/changelog/2026-09-25-codeql-2-27-1-adds-c-and-c-query-and-kotlin-2-4-20-support",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-25T09:55:23Z"
+          "id": "484e30cd74d96a5802d76ed47a571237e2d22fc0",
+          "title": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
+          "url": "https://swarmtraces.org",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T23:59:47.248000Z"
+        },
+        {
+          "id": "7b157f5e8e1dda48bc497b89db4274809b8cbbc3",
+          "title": "揭秘OpenAI代理如何入侵Hugging Face的细节",
+          "url": "https://swarmtraces.org",
+          "source": "swarmtraces.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-25T23:59:47.248000Z"
+        },
+        {
+          "id": "ef0ee82d9438820e1607189ce9c19e9fa103346f",
+          "title": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节 / Revealing the details of how OpenAI agents hacked Hugging Face",
+          "url": "https://swarmtraces.org",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-25T21:09:27Z"
+        },
+        {
+          "id": "f5b7e831c7f6fe4d375dacbef0abf403bb826cf4",
+          "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+          "url": "https://news.ycombinator.com/item?id=49849985",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-25T21:09:27Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.829,
-      "importance": 0.829,
-      "importance_score": 0.829,
-      "importance_label": "官方更新",
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.8282,
+      "importance": 0.8282,
+      "importance_score": 0.8282,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9168,
-        "story_heat": 0.0
+        "editorial": 0.82,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7532,
+        "story_heat": 0.75
       },
-      "category": "official",
+      "category": "multi_source",
       "reasons": [
-        "official_source",
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-25T09:55:23Z",
-      "latest_at": "2026-09-25T09:55:23Z",
+      "earliest_at": "2026-09-25T21:09:27Z",
+      "latest_at": "2026-09-25T23:59:47.248000Z",
       "primary_item": {
-        "id": "fa72032807585186751d05c49f31bb0f1172175a",
-        "title": "CodeQL 2.27.1 添加了 C 和 C++ 查询以及 Kotlin 2.4.20 支持 / CodeQL 2.27.1 adds C and C++ query and Kotlin 2.4.20 support",
-        "url": "https://github.blog/changelog/2026-09-25-codeql-2-27-1-adds-c-and-c-query-and-kotlin-2-4-20-support",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "id": "484e30cd74d96a5802d76ed47a571237e2d22fc0",
+        "title": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
+        "url": "https://swarmtraces.org",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       }
     },
     {
       "story_id": "story_91992ed9f82d",
-      "title": "法典 CLI 0.157.0 / Codex CLI 0.157.0",
+      "title": "Codex CLI 0.157.1",
       "url": "https://developers.openai.com/codex/changelog",
       "primary_url": "https://developers.openai.com/codex/changelog",
       "source": "OpenAI Codex Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "03f6765e2422958d939948d066b98dc7e30a82c4",
-          "title": "法典 CLI 0.157.0 / Codex CLI 0.157.0",
+          "id": "39548bb78c040e0bfe8c437e8dc64a994c49eb73",
+          "title": "Codex CLI 0.157.1",
           "url": "https://developers.openai.com/codex/changelog",
           "source": "OpenAI Codex Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-25T00:00:00Z"
+          "published_at": "2026-09-26T00:00:00Z"
         }
       ],
       "source_count": 1,
@@ -89,26 +146,26 @@
       ],
       "items": [
         {
-          "id": "03f6765e2422958d939948d066b98dc7e30a82c4",
-          "title": "法典 CLI 0.157.0 / Codex CLI 0.157.0",
+          "id": "39548bb78c040e0bfe8c437e8dc64a994c49eb73",
+          "title": "Codex CLI 0.157.1",
           "url": "https://developers.openai.com/codex/changelog",
           "source": "OpenAI Codex Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-25T00:00:00Z"
+          "published_at": "2026-09-26T00:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.829,
-      "importance": 0.829,
-      "importance_score": 0.829,
+      "score": 0.8216,
+      "importance": 0.8216,
+      "importance_score": 0.8216,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7944,
+        "recency": 0.7533,
         "story_heat": 0.0
       },
       "category": "official",
@@ -117,266 +174,41 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-25T00:00:00Z",
-      "latest_at": "2026-09-25T00:00:00Z",
+      "earliest_at": "2026-09-26T00:00:00Z",
+      "latest_at": "2026-09-26T00:00:00Z",
       "primary_item": {
-        "id": "03f6765e2422958d939948d066b98dc7e30a82c4",
-        "title": "法典 CLI 0.157.0 / Codex CLI 0.157.0",
+        "id": "39548bb78c040e0bfe8c437e8dc64a994c49eb73",
+        "title": "Codex CLI 0.157.1",
         "url": "https://developers.openai.com/codex/changelog",
         "source": "OpenAI Codex Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_6fe8ff823f55",
-      "title": "Trump 政府 WISeR 项目用 AI 审批 Medicare 预授权，拒批率与激励结构引发争议",
-      "url": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment",
-      "primary_url": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment",
-      "source": "Ars Technica：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e67ed0f2f068fd681444b04f5fe17eda5b30c4b5",
-          "title": "Trump 政府 WISeR 项目用 AI 审批 Medicare 预授权，拒批率与激励结构引发争议",
-          "url": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment",
-          "source": "Ars Technica：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-25T11:00:28Z"
-        },
-        {
-          "id": "8fe4e05018b398d0cfbf21c44fb0045e2a6b70ce",
-          "title": "Trump 政府 WISeR 项目用 AI 审批 Medicare 预授权，拒批率与激励结构引发争议 / Trump admin using AI to deny medical care for seniors in disastrous experiment",
-          "url": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment",
-          "source": "Ars Technica",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-25T11:00:28Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Ars Technica",
-        "Ars Technica：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "e67ed0f2f068fd681444b04f5fe17eda5b30c4b5",
-          "title": "Trump 政府 WISeR 项目用 AI 审批 Medicare 预授权，拒批率与激励结构引发争议",
-          "url": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment",
-          "source": "Ars Technica：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-25T11:00:28Z"
-        },
-        {
-          "id": "8fe4e05018b398d0cfbf21c44fb0045e2a6b70ce",
-          "title": "Trump 政府 WISeR 项目用 AI 审批 Medicare 预授权，拒批率与激励结构引发争议 / Trump admin using AI to deny medical care for seniors in disastrous experiment",
-          "url": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment",
-          "source": "Ars Technica",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-25T11:00:28Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8222,
-      "importance": 0.8222,
-      "importance_score": 0.8222,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.86,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9313,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-25T11:00:28Z",
-      "latest_at": "2026-09-25T11:00:28Z",
-      "primary_item": {
-        "id": "e67ed0f2f068fd681444b04f5fe17eda5b30c4b5",
-        "title": "Trump 政府 WISeR 项目用 AI 审批 Medicare 预授权，拒批率与激励结构引发争议",
-        "url": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment",
-        "source": "Ars Technica：AI（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_ca5f208a03f2",
-      "title": "GitHub Security Lab 发布 LLM 驱动的 Fuzzing Taskflow，自动完成 C/C++ 项目模糊测试全流程 / AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
-      "url": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent",
-      "primary_url": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "a5fc1c85525e4315776fcd9e8d968cdd61cedfa4",
-          "title": "GitHub Security Lab 发布 LLM 驱动的 Fuzzing Taskflow，自动完成 C/C++ 项目模糊测试全流程 / AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
-          "url": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-24T18:26:12Z"
-        },
-        {
-          "id": "d7c5c4c3190cf0232528c99fde8659513f90918b",
-          "title": "GitHub Security Lab 发布 LLM 驱动的 Fuzzing Taskflow，自动完成 C/C++ 项目模糊测试全流程",
-          "url": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent",
-          "source": "GitHub Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-24T18:26:12Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub AI & ML",
-        "GitHub Blog"
-      ],
-      "items": [
-        {
-          "id": "a5fc1c85525e4315776fcd9e8d968cdd61cedfa4",
-          "title": "GitHub Security Lab 发布 LLM 驱动的 Fuzzing Taskflow，自动完成 C/C++ 项目模糊测试全流程 / AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
-          "url": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-24T18:26:12Z"
-        },
-        {
-          "id": "d7c5c4c3190cf0232528c99fde8659513f90918b",
-          "title": "GitHub Security Lab 发布 LLM 驱动的 Fuzzing Taskflow，自动完成 C/C++ 项目模糊测试全流程",
-          "url": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent",
-          "source": "GitHub Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-24T18:26:12Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.821,
-      "importance": 0.821,
-      "importance_score": 0.821,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7331,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-24T18:26:12Z",
-      "latest_at": "2026-09-24T18:26:12Z",
-      "primary_item": {
-        "id": "a5fc1c85525e4315776fcd9e8d968cdd61cedfa4",
-        "title": "GitHub Security Lab 发布 LLM 驱动的 Fuzzing Taskflow，自动完成 C/C++ 项目模糊测试全流程 / AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
-        "url": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent",
-        "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_91625e27c986",
-      "title": "隆重推出 Gemini 3.8 Live with Live Avatar / Introducing Gemini 3.8 Live with Live Avatar",
-      "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar",
-      "primary_url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar",
-      "source": "Google DeepMind",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "7bea9587fedc502c2776c404f3405dcc913a7b5c",
-          "title": "隆重推出 Gemini 3.8 Live with Live Avatar / Introducing Gemini 3.8 Live with Live Avatar",
-          "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-24T16:20:39Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google DeepMind"
-      ],
-      "items": [
-        {
-          "id": "7bea9587fedc502c2776c404f3405dcc913a7b5c",
-          "title": "隆重推出 Gemini 3.8 Live with Live Avatar / Introducing Gemini 3.8 Live with Live Avatar",
-          "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-24T16:20:39Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8,
-      "importance": 0.8,
-      "importance_score": 0.8,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7113,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-24T16:20:39Z",
-      "latest_at": "2026-09-24T16:20:39Z",
-      "primary_item": {
-        "id": "7bea9587fedc502c2776c404f3405dcc913a7b5c",
-        "title": "隆重推出 Gemini 3.8 Live with Live Avatar / Introducing Gemini 3.8 Live with Live Avatar",
-        "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar",
-        "source": "Google DeepMind",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_442c7a3ebd3e",
-      "title": "OpenAI 智能体被曝今年至少 4 次未经指示闯入政府和学校网站",
-      "url": "https://www.ithome.com/1/007/144.htm",
-      "primary_url": "https://www.ithome.com/1/007/144.htm",
+      "story_id": "story_eb055a4409b6",
+      "title": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
+      "url": "https://www.ithome.com/1/007/444.htm",
+      "primary_url": "https://www.ithome.com/1/007/444.htm",
       "source": "IT之家（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "41e642860049bd23ad4db3d154d31b4810d1f97c",
-          "title": "OpenAI 智能体被曝今年至少 4 次未经指示闯入政府和学校网站",
-          "url": "https://www.ithome.com/1/007/144.htm",
+          "id": "9279fb40dd812920f93b7be74e145079d81085ab",
+          "title": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
+          "url": "https://www.ithome.com/1/007/444.htm",
           "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-25T07:02:05Z"
+          "published_at": "2026-09-26T15:44:10Z"
         },
         {
-          "id": "a6bf2010d20c39b1cf6434f709d0a8bc13ae4508",
-          "title": "试图闯入政府或学校网站，OpenAI 智能体四次“失控”细节曝光",
-          "url": "https://www.ithome.com/1/007/144.htm",
+          "id": "1ebd21dbee1c41c2053f39d65a1cf59ce4b444c4",
+          "title": "Anthropic Claude 刷新物理学世界纪录：单挑基于杨振宁理论 9 圈难题",
+          "url": "https://www.ithome.com/1/007/444.htm",
           "source": "IT之家 (ITHome)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-09-25T07:02:05Z"
+          "published_at": "2026-09-26T15:44:10Z"
         }
       ],
       "source_count": 2,
@@ -386,35 +218,35 @@
       ],
       "items": [
         {
-          "id": "41e642860049bd23ad4db3d154d31b4810d1f97c",
-          "title": "OpenAI 智能体被曝今年至少 4 次未经指示闯入政府和学校网站",
-          "url": "https://www.ithome.com/1/007/144.htm",
+          "id": "9279fb40dd812920f93b7be74e145079d81085ab",
+          "title": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
+          "url": "https://www.ithome.com/1/007/444.htm",
           "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-25T07:02:05Z"
+          "published_at": "2026-09-26T15:44:10Z"
         },
         {
-          "id": "a6bf2010d20c39b1cf6434f709d0a8bc13ae4508",
-          "title": "试图闯入政府或学校网站，OpenAI 智能体四次“失控”细节曝光",
-          "url": "https://www.ithome.com/1/007/144.htm",
+          "id": "1ebd21dbee1c41c2053f39d65a1cf59ce4b444c4",
+          "title": "Anthropic Claude 刷新物理学世界纪录：单挑基于杨振宁理论 9 圈难题",
+          "url": "https://www.ithome.com/1/007/444.htm",
           "source": "IT之家 (ITHome)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-09-25T07:02:05Z"
+          "published_at": "2026-09-26T15:44:10Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7919,
-      "importance": 0.7919,
-      "importance_score": 0.7919,
+      "score": 0.8068,
+      "importance": 0.8068,
+      "importance_score": 0.8068,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.79,
+        "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8794,
+        "recency": 0.9454,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -423,264 +255,79 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-25T07:02:05Z",
-      "latest_at": "2026-09-25T07:02:05Z",
+      "earliest_at": "2026-09-26T15:44:10Z",
+      "latest_at": "2026-09-26T15:44:10Z",
       "primary_item": {
-        "id": "41e642860049bd23ad4db3d154d31b4810d1f97c",
-        "title": "OpenAI 智能体被曝今年至少 4 次未经指示闯入政府和学校网站",
-        "url": "https://www.ithome.com/1/007/144.htm",
+        "id": "9279fb40dd812920f93b7be74e145079d81085ab",
+        "title": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
+        "url": "https://www.ithome.com/1/007/444.htm",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_648837e3af7f",
-      "title": "默认启用 Copilot Business 和 Enterprise 的 Copilot 功能 / Default Enablement of Copilot Features for Copilot Business and Enterprise",
-      "url": "https://github.blog/changelog/2026-09-24-default-enablement-of-copilot-features-for-copilot-business-and-enterprise",
-      "primary_url": "https://github.blog/changelog/2026-09-24-default-enablement-of-copilot-features-for-copilot-business-and-enterprise",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "3bb00bc2b9a93424c1ae41c89d2df35757dfff12",
-          "title": "默认启用 Copilot Business 和 Enterprise 的 Copilot 功能 / Default Enablement of Copilot Features for Copilot Business and Enterprise",
-          "url": "https://github.blog/changelog/2026-09-24-default-enablement-of-copilot-features-for-copilot-business-and-enterprise",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-25T03:13:23Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "3bb00bc2b9a93424c1ae41c89d2df35757dfff12",
-          "title": "默认启用 Copilot Business 和 Enterprise 的 Copilot 功能 / Default Enablement of Copilot Features for Copilot Business and Enterprise",
-          "url": "https://github.blog/changelog/2026-09-24-default-enablement-of-copilot-features-for-copilot-business-and-enterprise",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-25T03:13:23Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8218,
-      "importance": 0.8218,
-      "importance_score": 0.8218,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8323,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-25T03:13:23Z",
-      "latest_at": "2026-09-25T03:13:23Z",
-      "primary_item": {
-        "id": "3bb00bc2b9a93424c1ae41c89d2df35757dfff12",
-        "title": "默认启用 Copilot Business 和 Enterprise 的 Copilot 功能 / Default Enablement of Copilot Features for Copilot Business and Enterprise",
-        "url": "https://github.blog/changelog/2026-09-24-default-enablement-of-copilot-features-for-copilot-business-and-enterprise",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_07953dd296df",
-      "title": "当聊天是错误的 UI 时 / When chat is the wrong UI",
-      "url": "https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui",
-      "primary_url": "https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "837cc6784160556ad3c690a5cae13513a9f4066f",
-          "title": "当聊天是错误的 UI 时 / When chat is the wrong UI",
-          "url": "https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-24T20:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub AI & ML"
-      ],
-      "items": [
-        {
-          "id": "837cc6784160556ad3c690a5cae13513a9f4066f",
-          "title": "当聊天是错误的 UI 时 / When chat is the wrong UI",
-          "url": "https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-24T20:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.799,
-      "importance": 0.799,
-      "importance_score": 0.799,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7498,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-24T20:00:00Z",
-      "latest_at": "2026-09-24T20:00:00Z",
-      "primary_item": {
-        "id": "837cc6784160556ad3c690a5cae13513a9f4066f",
-        "title": "当聊天是错误的 UI 时 / When chat is the wrong UI",
-        "url": "https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui",
-        "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_6220572852da",
-      "title": "Cognition 宣布年化收入运行率突破 10 亿美元",
-      "url": "https://cognition.com/blog/1b-run-rate",
-      "primary_url": "https://cognition.com/blog/1b-run-rate",
-      "source": "Cognition 模型 / Devin 博客（网页）",
+      "story_id": "story_788f6e5fb511",
+      "title": "OpenAI 暂停最强模型的训练与工具使用，披露智能体利用 DNS 漏洞联网及泄露 GitHub token 等安全事件",
+      "url": "https://the-decoder.com/openai-pauses-its-most-capable-models-after-agents-exploit-loopholes-and-leak-data",
+      "primary_url": "https://the-decoder.com/openai-pauses-its-most-capable-models-after-agents-exploit-loopholes-and-leak-data",
+      "source": "The Decoder：AI News（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "610696a3bff4d2e722260fd295531b17af651ebc",
-          "title": "Cognition 宣布年化收入运行率突破 10 亿美元",
-          "url": "https://cognition.com/blog/1b-run-rate",
-          "source": "Cognition 模型 / Devin 博客（网页）",
+          "id": "8bb42d704dc1b44b3f39331a484bce344dac7e1b",
+          "title": "OpenAI 暂停最强模型的训练与工具使用，披露智能体利用 DNS 漏洞联网及泄露 GitHub token 等安全事件",
+          "url": "https://the-decoder.com/openai-pauses-its-most-capable-models-after-agents-exploit-loopholes-and-leak-data",
+          "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-25T15:42:15.643000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Cognition 模型 / Devin 博客（网页）"
-      ],
-      "items": [
-        {
-          "id": "610696a3bff4d2e722260fd295531b17af651ebc",
-          "title": "Cognition 宣布年化收入运行率突破 10 亿美元",
-          "url": "https://cognition.com/blog/1b-run-rate",
-          "source": "Cognition 模型 / Devin 博客（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-25T15:42:15.643000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.767,
-      "importance": 0.767,
-      "importance_score": 0.767,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9966,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-25T15:42:15.643000Z",
-      "latest_at": "2026-09-25T15:42:15.643000Z",
-      "primary_item": {
-        "id": "610696a3bff4d2e722260fd295531b17af651ebc",
-        "title": "Cognition 宣布年化收入运行率突破 10 亿美元",
-        "url": "https://cognition.com/blog/1b-run-rate",
-        "source": "Cognition 模型 / Devin 博客（网页）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_225478237654",
-      "title": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
-      "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
-      "primary_url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c74455d54f10d39149f3f83e221935d572452878",
-          "title": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
-          "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-24T17:19:34.716000Z"
+          "published_at": "2026-09-26T09:06:36Z"
         },
         {
-          "id": "3bf6208b9d7758cd2cf65ce688ae780a2e6efd26",
-          "title": "黑客操纵ChatGPT和Gemini，将用户引导至诈骗平台",
-          "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
-          "source": "medium.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-24T17:19:34.716000Z"
+          "id": "fa17f9e122e7f4560ff849f5aa88d0b92afb7c93",
+          "title": "OpenAI 暂停最强模型的训练与工具使用，披露智能体利用 DNS 漏洞联网及泄露 GitHub token 等安全事件 / OpenAI pauses its \"most capable models\" after agents exploit loopholes and leak data",
+          "url": "https://the-decoder.com/openai-pauses-its-most-capable-models-after-agents-exploit-loopholes-and-leak-data",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-26T09:06:36Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "medium.com"
+        "The Decoder AI News",
+        "The Decoder：AI News（RSS）"
       ],
       "items": [
         {
-          "id": "c74455d54f10d39149f3f83e221935d572452878",
-          "title": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
-          "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "id": "8bb42d704dc1b44b3f39331a484bce344dac7e1b",
+          "title": "OpenAI 暂停最强模型的训练与工具使用，披露智能体利用 DNS 漏洞联网及泄露 GitHub token 等安全事件",
+          "url": "https://the-decoder.com/openai-pauses-its-most-capable-models-after-agents-exploit-loopholes-and-leak-data",
+          "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-24T17:19:34.716000Z"
+          "published_at": "2026-09-26T09:06:36Z"
         },
         {
-          "id": "3bf6208b9d7758cd2cf65ce688ae780a2e6efd26",
-          "title": "黑客操纵ChatGPT和Gemini，将用户引导至诈骗平台",
-          "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
-          "source": "medium.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-24T17:19:34.716000Z"
+          "id": "fa17f9e122e7f4560ff849f5aa88d0b92afb7c93",
+          "title": "OpenAI 暂停最强模型的训练与工具使用，披露智能体利用 DNS 漏洞联网及泄露 GitHub token 等安全事件 / OpenAI pauses its \"most capable models\" after agents exploit loopholes and leak data",
+          "url": "https://the-decoder.com/openai-pauses-its-most-capable-models-after-agents-exploit-loopholes-and-leak-data",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-26T09:06:36Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7545,
-      "importance": 0.7545,
-      "importance_score": 0.7545,
+      "score": 0.8063,
+      "importance": 0.8063,
+      "importance_score": 0.8063,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.76,
+        "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7214,
+        "recency": 0.8592,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -689,152 +336,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-24T17:19:34.716000Z",
-      "latest_at": "2026-09-24T17:19:34.716000Z",
+      "earliest_at": "2026-09-26T09:06:36Z",
+      "latest_at": "2026-09-26T09:06:36Z",
       "primary_item": {
-        "id": "c74455d54f10d39149f3f83e221935d572452878",
-        "title": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
-        "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "id": "8bb42d704dc1b44b3f39331a484bce344dac7e1b",
+        "title": "OpenAI 暂停最强模型的训练与工具使用，披露智能体利用 DNS 漏洞联网及泄露 GitHub token 等安全事件",
+        "url": "https://the-decoder.com/openai-pauses-its-most-capable-models-after-agents-exploit-loopholes-and-leak-data",
+        "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_bc2324148dc1",
-      "title": "Satya Nadella 宣布 Copilot 迄今最大更新，定位为工作新 OS",
-      "url": "https://x.com/satyanadella/status/2103455884366188544",
-      "primary_url": "https://x.com/satyanadella/status/2103455884366188544",
-      "source": "X：Satya Nadella (@satyanadella)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "aaaa5a0af320fe8603a96f2c2297d2315b39b9df",
-          "title": "Satya Nadella 宣布 Copilot 迄今最大更新，定位为工作新 OS",
-          "url": "https://x.com/satyanadella/status/2103455884366188544",
-          "source": "X：Satya Nadella (@satyanadella)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-25T12:05:37Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Satya Nadella (@satyanadella)"
-      ],
-      "items": [
-        {
-          "id": "aaaa5a0af320fe8603a96f2c2297d2315b39b9df",
-          "title": "Satya Nadella 宣布 Copilot 迄今最大更新，定位为工作新 OS",
-          "url": "https://x.com/satyanadella/status/2103455884366188544",
-          "source": "X：Satya Nadella (@satyanadella)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-25T12:05:37Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7429,
-      "importance": 0.7429,
-      "importance_score": 0.7429,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.67,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.946,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-25T12:05:37Z",
-      "latest_at": "2026-09-25T12:05:37Z",
-      "primary_item": {
-        "id": "aaaa5a0af320fe8603a96f2c2297d2315b39b9df",
-        "title": "Satya Nadella 宣布 Copilot 迄今最大更新，定位为工作新 OS",
-        "url": "https://x.com/satyanadella/status/2103455884366188544",
-        "source": "X：Satya Nadella (@satyanadella)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_651aa80e0d5f",
-      "title": "GitHub 如何通过迁移 CSS Modules 将 SSR 时间降低 55%",
-      "url": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css",
-      "primary_url": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css",
-      "source": "GitHub Blog",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5b57d663729fc131b07cadf6fb35f68bb1caee34",
-          "title": "GitHub 如何通过迁移 CSS Modules 将 SSR 时间降低 55%",
-          "url": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css",
-          "source": "GitHub Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-25T15:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Blog"
-      ],
-      "items": [
-        {
-          "id": "5b57d663729fc131b07cadf6fb35f68bb1caee34",
-          "title": "GitHub 如何通过迁移 CSS Modules 将 SSR 时间降低 55%",
-          "url": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css",
-          "source": "GitHub Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-25T15:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7412,
-      "importance": 0.7412,
-      "importance_score": 0.7412,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.64,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9865,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-25T15:00:00Z",
-      "latest_at": "2026-09-25T15:00:00Z",
-      "primary_item": {
-        "id": "5b57d663729fc131b07cadf6fb35f68bb1caee34",
-        "title": "GitHub 如何通过迁移 CSS Modules 将 SSR 时间降低 55%",
-        "url": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css",
-        "source": "GitHub Blog",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_453a53292195",
-      "title": "需要提供存在证明才能进行高影响力的行动 / Require proof of presence for high-impact actions",
-      "url": "https://github.blog/changelog/2026-09-24-require-proof-of-presence-for-high-impact-actions",
-      "primary_url": "https://github.blog/changelog/2026-09-24-require-proof-of-presence-for-high-impact-actions",
+      "story_id": "story_123d8dcecccf",
+      "title": "Enterprise managed settings in-product validator",
+      "url": "https://github.blog/changelog/2026-09-25-enterprise-managed-settings-in-product-validator",
+      "primary_url": "https://github.blog/changelog/2026-09-25-enterprise-managed-settings-in-product-validator",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "54dc75ab42e07df0638b6f7f918a48ea6cba27cf",
-          "title": "需要提供存在证明才能进行高影响力的行动 / Require proof of presence for high-impact actions",
-          "url": "https://github.blog/changelog/2026-09-24-require-proof-of-presence-for-high-impact-actions",
+          "id": "dd059b79660393da2ac0c82f4ed19cc35a008a33",
+          "title": "Enterprise managed settings in-product validator",
+          "url": "https://github.blog/changelog/2026-09-25-enterprise-managed-settings-in-product-validator",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-24T20:28:33Z"
+          "published_at": "2026-09-25T23:24:57Z"
         }
       ],
       "source_count": 1,
@@ -843,26 +370,26 @@
       ],
       "items": [
         {
-          "id": "54dc75ab42e07df0638b6f7f918a48ea6cba27cf",
-          "title": "需要提供存在证明才能进行高影响力的行动 / Require proof of presence for high-impact actions",
-          "url": "https://github.blog/changelog/2026-09-24-require-proof-of-presence-for-high-impact-actions",
+          "id": "dd059b79660393da2ac0c82f4ed19cc35a008a33",
+          "title": "Enterprise managed settings in-product validator",
+          "url": "https://github.blog/changelog/2026-09-25-enterprise-managed-settings-in-product-validator",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-24T20:28:33Z"
+          "published_at": "2026-09-25T23:24:57Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7999,
-      "importance": 0.7999,
-      "importance_score": 0.7999,
+      "score": 0.7984,
+      "importance": 0.7984,
+      "importance_score": 0.7984,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.755,
+        "recency": 0.7469,
         "story_heat": 0.0
       },
       "category": "official",
@@ -871,32 +398,93 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-24T20:28:33Z",
-      "latest_at": "2026-09-24T20:28:33Z",
+      "earliest_at": "2026-09-25T23:24:57Z",
+      "latest_at": "2026-09-25T23:24:57Z",
       "primary_item": {
-        "id": "54dc75ab42e07df0638b6f7f918a48ea6cba27cf",
-        "title": "需要提供存在证明才能进行高影响力的行动 / Require proof of presence for high-impact actions",
-        "url": "https://github.blog/changelog/2026-09-24-require-proof-of-presence-for-high-impact-actions",
+        "id": "dd059b79660393da2ac0c82f4ed19cc35a008a33",
+        "title": "Enterprise managed settings in-product validator",
+        "url": "https://github.blog/changelog/2026-09-25-enterprise-managed-settings-in-product-validator",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_6dc1dca414bd",
-      "title": "Expired GitHub Actions artifacts no longer shown in UI and API",
-      "url": "https://github.blog/changelog/2026-09-24-expired-github-actions-artifacts-no-longer-shown-in-ui-and-api",
-      "primary_url": "https://github.blog/changelog/2026-09-24-expired-github-actions-artifacts-no-longer-shown-in-ui-and-api",
+      "story_id": "story_5e312e5a8d40",
+      "title": "Claude Opus 5.5 （High） 以 1509 分登顶 Arena Text Arena 榜首",
+      "url": "https://x.com/arena/status/2103893011164017018",
+      "primary_url": "https://x.com/arena/status/2103893011164017018",
+      "source": "X：Arena (@arena)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "1640607f31c4a14cd3b66072a037aa8b68ba650e",
+          "title": "Claude Opus 5.5 （High） 以 1509 分登顶 Arena Text Arena 榜首",
+          "url": "https://x.com/arena/status/2103893011164017018",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-26T17:02:36Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Arena (@arena)"
+      ],
+      "items": [
+        {
+          "id": "1640607f31c4a14cd3b66072a037aa8b68ba650e",
+          "title": "Claude Opus 5.5 （High） 以 1509 分登顶 Arena Text Arena 榜首",
+          "url": "https://x.com/arena/status/2103893011164017018",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-26T17:02:36Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.779,
+      "importance": 0.779,
+      "importance_score": 0.779,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9635,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-26T17:02:36Z",
+      "latest_at": "2026-09-26T17:02:36Z",
+      "primary_item": {
+        "id": "1640607f31c4a14cd3b66072a037aa8b68ba650e",
+        "title": "Claude Opus 5.5 （High） 以 1509 分登顶 Arena Text Arena 榜首",
+        "url": "https://x.com/arena/status/2103893011164017018",
+        "source": "X：Arena (@arena)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_0447a6245098",
+      "title": "Usage metrics API adds pull request review stages",
+      "url": "https://github.blog/changelog/2026-09-25-usage-metrics-api-adds-pull-request-review-stages",
+      "primary_url": "https://github.blog/changelog/2026-09-25-usage-metrics-api-adds-pull-request-review-stages",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "41f4214536296d34935804568add0a62edde6edf",
-          "title": "Expired GitHub Actions artifacts no longer shown in UI and API",
-          "url": "https://github.blog/changelog/2026-09-24-expired-github-actions-artifacts-no-longer-shown-in-ui-and-api",
+          "id": "b5d60959143a435db72e4dd644346f25cfc49e27",
+          "title": "Usage metrics API adds pull request review stages",
+          "url": "https://github.blog/changelog/2026-09-25-usage-metrics-api-adds-pull-request-review-stages",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-24T19:13:02Z"
+          "published_at": "2026-09-25T21:09:40Z"
         }
       ],
       "source_count": 1,
@@ -905,26 +493,26 @@
       ],
       "items": [
         {
-          "id": "41f4214536296d34935804568add0a62edde6edf",
-          "title": "Expired GitHub Actions artifacts no longer shown in UI and API",
-          "url": "https://github.blog/changelog/2026-09-24-expired-github-actions-artifacts-no-longer-shown-in-ui-and-api",
+          "id": "b5d60959143a435db72e4dd644346f25cfc49e27",
+          "title": "Usage metrics API adds pull request review stages",
+          "url": "https://github.blog/changelog/2026-09-25-usage-metrics-api-adds-pull-request-review-stages",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-24T19:13:02Z"
+          "published_at": "2026-09-25T21:09:40Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7975,
-      "importance": 0.7975,
-      "importance_score": 0.7975,
+      "score": 0.7941,
+      "importance": 0.7941,
+      "importance_score": 0.7941,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7414,
+        "recency": 0.723,
         "story_heat": 0.0
       },
       "category": "official",
@@ -933,453 +521,614 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-24T19:13:02Z",
-      "latest_at": "2026-09-24T19:13:02Z",
+      "earliest_at": "2026-09-25T21:09:40Z",
+      "latest_at": "2026-09-25T21:09:40Z",
       "primary_item": {
-        "id": "41f4214536296d34935804568add0a62edde6edf",
-        "title": "Expired GitHub Actions artifacts no longer shown in UI and API",
-        "url": "https://github.blog/changelog/2026-09-24-expired-github-actions-artifacts-no-longer-shown-in-ui-and-api",
+        "id": "b5d60959143a435db72e4dd644346f25cfc49e27",
+        "title": "Usage metrics API adds pull request review stages",
+        "url": "https://github.blog/changelog/2026-09-25-usage-metrics-api-adds-pull-request-review-stages",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_128bc514045b",
-      "title": "与 ElevenLabs 首席执行官交谈 20 分钟，据报道目前估值为 $22B / 20 minutes with the CEO of ElevenLabs, now reportedly valued at $22B",
-      "url": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion",
-      "primary_url": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion",
-      "source": "TechCrunch AI",
-      "source_name": "Curated Media",
+      "story_id": "story_26f8af68d957",
+      "title": "Ethan Mollick 评 OpenAI 披露多起新的对齐事件",
+      "url": "https://x.com/emollick/status/2103709671865602100",
+      "primary_url": "https://x.com/emollick/status/2103709671865602100",
+      "source": "X：Ethan Mollick (@emollick)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "f78fa179a48a4cc45bbdeaf038cbfc1025e53ba8",
-          "title": "与 ElevenLabs 首席执行官交谈 20 分钟，据报道目前估值为 $22B / 20 minutes with the CEO of ElevenLabs, now reportedly valued at $22B",
-          "url": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-24T16:35:13Z"
-        },
-        {
-          "id": "7d153061e4299ada6086f4d6bd90114b291fdf77",
-          "title": "ElevenLabs 首席执行官谈利润、IPO 时机以及告诉客户他们正在与机器人交谈 / ElevenLabs’ CEO on margins, IPO timing, and telling customers they’re talking to a bot",
-          "url": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-24T16:35:13Z"
+          "id": "df2eba3d064bf632a84420af8aa62989c9498848",
+          "title": "Ethan Mollick 评 OpenAI 披露多起新的对齐事件",
+          "url": "https://x.com/emollick/status/2103709671865602100",
+          "source": "X：Ethan Mollick (@emollick)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-26T04:54:05Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "TechCrunch AI"
+        "X：Ethan Mollick (@emollick)"
       ],
       "items": [
         {
-          "id": "f78fa179a48a4cc45bbdeaf038cbfc1025e53ba8",
-          "title": "与 ElevenLabs 首席执行官交谈 20 分钟，据报道目前估值为 $22B / 20 minutes with the CEO of ElevenLabs, now reportedly valued at $22B",
-          "url": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-24T16:35:13Z"
-        },
-        {
-          "id": "7d153061e4299ada6086f4d6bd90114b291fdf77",
-          "title": "ElevenLabs 首席执行官谈利润、IPO 时机以及告诉客户他们正在与机器人交谈 / ElevenLabs’ CEO on margins, IPO timing, and telling customers they’re talking to a bot",
-          "url": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-24T16:35:13Z"
+          "id": "df2eba3d064bf632a84420af8aa62989c9498848",
+          "title": "Ethan Mollick 评 OpenAI 披露多起新的对齐事件",
+          "url": "https://x.com/emollick/status/2103709671865602100",
+          "source": "X：Ethan Mollick (@emollick)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-26T04:54:05Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5972,
-      "importance": 0.5972,
-      "importance_score": 0.5972,
-      "importance_label": "值得关注",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7511,
+      "importance": 0.7511,
+      "importance_score": 0.7511,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.5472,
-        "source_tier": 0.58,
-        "ai_relevance": 0.76,
-        "recency": 0.7138,
-        "story_heat": 0.25
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8085,
+        "story_heat": 0.0
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
-        "multi_source"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-09-24T16:35:13Z",
-      "latest_at": "2026-09-24T16:35:13Z",
+      "earliest_at": "2026-09-26T04:54:05Z",
+      "latest_at": "2026-09-26T04:54:05Z",
       "primary_item": {
-        "id": "f78fa179a48a4cc45bbdeaf038cbfc1025e53ba8",
-        "title": "与 ElevenLabs 首席执行官交谈 20 分钟，据报道目前估值为 $22B / 20 minutes with the CEO of ElevenLabs, now reportedly valued at $22B",
-        "url": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion",
-        "source": "TechCrunch AI",
-        "source_name": "Curated Media"
+        "id": "df2eba3d064bf632a84420af8aa62989c9498848",
+        "title": "Ethan Mollick 评 OpenAI 披露多起新的对齐事件",
+        "url": "https://x.com/emollick/status/2103709671865602100",
+        "source": "X：Ethan Mollick (@emollick)",
+        "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_ee9698a7fdb9",
-      "title": "Gemini 3.8 Live with Live Avatar 为谷歌人工智能提供了面孔 / Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
-      "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
-      "primary_url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
-      "source": "The Verge",
-      "source_name": "Curated Media",
+      "story_id": "story_e24b2ed6e53f",
+      "title": "Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链",
+      "url": "https://x.com/Yuchenj_UW/status/2103589198427193593",
+      "primary_url": "https://x.com/Yuchenj_UW/status/2103589198427193593",
+      "source": "X：Yuchen Jin (@Yuchenj_UW)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "fe3c5566bff3ecac5b32de5d0283895ee6358a8d",
-          "title": "Gemini 3.8 Live with Live Avatar 为谷歌人工智能提供了面孔 / Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
-          "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-24T19:59:26Z"
-        },
-        {
-          "id": "14a9d0c85fa15f7df6862683dd1a27fa4876522f",
-          "title": "Gemini 3.8 Live with Live Avatar 为谷歌人工智能提供了面孔 / Gemini 3.8 Live with Live Avatar gives Google’s AI a face",
-          "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-24T19:59:26Z"
+          "id": "b2755019347db8d310898ae0261ef557c5468804",
+          "title": "Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链",
+          "url": "https://x.com/Yuchenj_UW/status/2103589198427193593",
+          "source": "X：Yuchen Jin (@Yuchenj_UW)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T20:55:22Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "The Verge"
+        "X：Yuchen Jin (@Yuchenj_UW)"
       ],
       "items": [
         {
-          "id": "fe3c5566bff3ecac5b32de5d0283895ee6358a8d",
-          "title": "Gemini 3.8 Live with Live Avatar 为谷歌人工智能提供了面孔 / Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
-          "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-24T19:59:26Z"
-        },
-        {
-          "id": "14a9d0c85fa15f7df6862683dd1a27fa4876522f",
-          "title": "Gemini 3.8 Live with Live Avatar 为谷歌人工智能提供了面孔 / Gemini 3.8 Live with Live Avatar gives Google’s AI a face",
-          "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-24T19:59:26Z"
+          "id": "b2755019347db8d310898ae0261ef557c5468804",
+          "title": "Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链",
+          "url": "https://x.com/Yuchenj_UW/status/2103589198427193593",
+          "source": "X：Yuchen Jin (@Yuchenj_UW)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T20:55:22Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5829,
-      "importance": 0.5829,
-      "importance_score": 0.5829,
-      "importance_label": "值得关注",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7503,
+      "importance": 0.7503,
+      "importance_score": 0.7503,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.5112,
-        "source_tier": 0.58,
-        "ai_relevance": 0.71,
-        "recency": 0.7497,
-        "story_heat": 0.25
+        "editorial": 0.83,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7205,
+        "story_heat": 0.0
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
-        "multi_source"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-09-24T19:59:26Z",
-      "latest_at": "2026-09-24T19:59:26Z",
+      "earliest_at": "2026-09-25T20:55:22Z",
+      "latest_at": "2026-09-25T20:55:22Z",
       "primary_item": {
-        "id": "fe3c5566bff3ecac5b32de5d0283895ee6358a8d",
-        "title": "Gemini 3.8 Live with Live Avatar 为谷歌人工智能提供了面孔 / Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
-        "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
-        "source": "The Verge",
-        "source_name": "Curated Media"
+        "id": "b2755019347db8d310898ae0261ef557c5468804",
+        "title": "Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链",
+        "url": "https://x.com/Yuchenj_UW/status/2103589198427193593",
+        "source": "X：Yuchen Jin (@Yuchenj_UW)",
+        "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_31c366282409",
-      "title": "Classified Estimates Show the NSA Is Paying Billions to Test AI Models",
-      "url": "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models",
-      "primary_url": "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "05729cbc1f252321aa28a3708086c8697c51e5c5",
-          "title": "Classified Estimates Show the NSA Is Paying Billions to Test AI Models",
-          "url": "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-25T15:27:35Z"
-        },
-        {
-          "id": "dc3baa03c30471390dfd7ee7e0d862a9bad8c51b",
-          "title": "Classified Estimates Show the NSA Is Paying Billions to Test AI Models",
-          "url": "https://news.ycombinator.com/item?id=49845952",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-25T15:27:35Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "05729cbc1f252321aa28a3708086c8697c51e5c5",
-          "title": "Classified Estimates Show the NSA Is Paying Billions to Test AI Models",
-          "url": "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-25T15:27:35Z"
-        },
-        {
-          "id": "dc3baa03c30471390dfd7ee7e0d862a9bad8c51b",
-          "title": "Classified Estimates Show the NSA Is Paying Billions to Test AI Models",
-          "url": "https://news.ycombinator.com/item?id=49845952",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-25T15:27:35Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5446,
-      "importance": 0.5446,
-      "importance_score": 0.5446,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9931,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-25T15:27:35Z",
-      "latest_at": "2026-09-25T15:27:35Z",
-      "primary_item": {
-        "id": "05729cbc1f252321aa28a3708086c8697c51e5c5",
-        "title": "Classified Estimates Show the NSA Is Paying Billions to Test AI Models",
-        "url": "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_b28faeb337e6",
-      "title": "利用大型语言模型追溯炼金术知识并破译17世纪的信件",
-      "url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
-      "primary_url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
-      "source": "resobscura.substack.com",
+      "story_id": "story_48a4a9c4535a",
+      "title": "Show HN: 一项用于分析你的国际象棋对局的Claude Code技能",
+      "url": "https://github.com/brumar/chess-postmortem-skills",
+      "primary_url": "https://github.com/brumar/chess-postmortem-skills",
+      "source": "github.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "291aee02d708cf20cf415f64342ca18541b89481",
-          "title": "利用大型语言模型追溯炼金术知识并破译17世纪的信件",
-          "url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
-          "source": "resobscura.substack.com",
+          "id": "84068edbb928ff851882d1d0fc8d76bf6a5ba0c1",
+          "title": "Show HN: 一项用于分析你的国际象棋对局的Claude Code技能",
+          "url": "https://github.com/brumar/chess-postmortem-skills",
+          "source": "github.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-25T04:25:45.760000Z"
+          "published_at": "2026-09-26T15:39:14.339000Z"
         },
         {
-          "id": "6c71966d2c48dbadbae19d0198a6a3dd15ab728e",
-          "title": "利用大型语言模型追溯炼金术知识并破译17世纪的信件 / Using LLMs to trace alchemical knowledge and decode 17th century letters",
-          "url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-24T19:14:27Z"
+          "id": "16c4c0284c18939d4099ba4b412a3dc10aac3cdd",
+          "title": "Show HN: 一项用于分析你的国际象棋对局的Claude Code技能 / Show HN: A Claude Code skill to analyze your chess games",
+          "url": "https://github.com/brumar/chess-postmortem-skills",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-26T15:34:53Z"
         },
         {
-          "id": "ca655e766a001f650d294a4a0b296d3e3a0084d0",
-          "title": "使用法学硕士追踪炼金知识并解码 17 世纪的字母 / Using LLMs to trace alchemical knowledge and decode 17th century letters",
-          "url": "https://news.ycombinator.com/item?id=49835531",
+          "id": "b14caf83539ea0c8369daaca126ef50de116d2ca",
+          "title": "Show HN: A Claude Code skill to analyze your chess games",
+          "url": "https://news.ycombinator.com/item?id=49857528",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-09-24T19:14:27Z"
+          "published_at": "2026-09-26T15:34:53Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "resobscura.substack.com"
+        "Hacker News",
+        "github.com",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "291aee02d708cf20cf415f64342ca18541b89481",
-          "title": "利用大型语言模型追溯炼金术知识并破译17世纪的信件",
-          "url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
-          "source": "resobscura.substack.com",
+          "id": "84068edbb928ff851882d1d0fc8d76bf6a5ba0c1",
+          "title": "Show HN: 一项用于分析你的国际象棋对局的Claude Code技能",
+          "url": "https://github.com/brumar/chess-postmortem-skills",
+          "source": "github.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-25T04:25:45.760000Z"
+          "published_at": "2026-09-26T15:39:14.339000Z"
         },
         {
-          "id": "6c71966d2c48dbadbae19d0198a6a3dd15ab728e",
-          "title": "利用大型语言模型追溯炼金术知识并破译17世纪的信件 / Using LLMs to trace alchemical knowledge and decode 17th century letters",
-          "url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-24T19:14:27Z"
+          "id": "16c4c0284c18939d4099ba4b412a3dc10aac3cdd",
+          "title": "Show HN: 一项用于分析你的国际象棋对局的Claude Code技能 / Show HN: A Claude Code skill to analyze your chess games",
+          "url": "https://github.com/brumar/chess-postmortem-skills",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-26T15:34:53Z"
         },
         {
-          "id": "ca655e766a001f650d294a4a0b296d3e3a0084d0",
-          "title": "使用法学硕士追踪炼金知识并解码 17 世纪的字母 / Using LLMs to trace alchemical knowledge and decode 17th century letters",
-          "url": "https://news.ycombinator.com/item?id=49835531",
+          "id": "b14caf83539ea0c8369daaca126ef50de116d2ca",
+          "title": "Show HN: A Claude Code skill to analyze your chess games",
+          "url": "https://news.ycombinator.com/item?id=49857528",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-09-24T19:14:27Z"
+          "published_at": "2026-09-26T15:34:53Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5432,
-      "importance": 0.5432,
-      "importance_score": 0.5432,
+      "score": 0.5608,
+      "importance": 0.5608,
+      "importance_score": 0.5608,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8469,
+        "recency": 0.9443,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-24T19:14:27Z",
-      "latest_at": "2026-09-25T04:25:45.760000Z",
+      "earliest_at": "2026-09-26T15:34:53Z",
+      "latest_at": "2026-09-26T15:39:14.339000Z",
       "primary_item": {
-        "id": "291aee02d708cf20cf415f64342ca18541b89481",
-        "title": "利用大型语言模型追溯炼金术知识并破译17世纪的信件",
-        "url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
-        "source": "resobscura.substack.com",
+        "id": "84068edbb928ff851882d1d0fc8d76bf6a5ba0c1",
+        "title": "Show HN: 一项用于分析你的国际象棋对局的Claude Code技能",
+        "url": "https://github.com/brumar/chess-postmortem-skills",
+        "source": "github.com",
         "source_name": "Buzzing"
       }
     },
     {
-      "story_id": "story_ed884f6647e5",
-      "title": "人工智能并非“仅仅是一种工具”",
-      "url": "https://brettcodes.com/ai-is-not-just-a-tool",
-      "primary_url": "https://brettcodes.com/ai-is-not-just-a-tool",
-      "source": "brettcodes.com",
+      "story_id": "story_413244550b59",
+      "title": "一个用于大型语言模型（LLM）的单函数Jev样式封装器，包括视觉模型",
+      "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
+      "primary_url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
+      "source": "allanrbo.blogspot.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "0645efb90c8cb39788a8f87e602dd7628d7ae137",
-          "title": "人工智能并非“仅仅是一种工具”",
-          "url": "https://brettcodes.com/ai-is-not-just-a-tool",
-          "source": "brettcodes.com",
+          "id": "aac1d2fcce712e6f12ccb9c0524fed328c118409",
+          "title": "一个用于大型语言模型（LLM）的单函数Jev样式封装器，包括视觉模型",
+          "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
+          "source": "allanrbo.blogspot.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-25T11:17:29.893000Z"
+          "published_at": "2026-09-26T13:01:20.496000Z"
         },
         {
-          "id": "79d6e948c0fdb39981edcc07aad7a7edb7b6ded3",
-          "title": "人工智能并非“仅仅是一种工具” / AI is not “just a tool”",
-          "url": "https://brettcodes.com/ai-is-not-just-a-tool",
-          "source": "Lobsters (技术社区)",
+          "id": "bb8b7db89d1bcf77fb8d697b1c8a4086bb5166f7",
+          "title": "一个用于大型语言模型（LLM）的单函数Jev样式封装器，包括视觉模型 / A single function Jev-like wrapper for LLMs, including vision models",
+          "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
+          "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-09-25T11:12:22Z"
+          "published_at": "2026-09-26T04:20:58Z"
+        },
+        {
+          "id": "0ff1d5b361396424bbca051eb5f698ba72535892",
+          "title": "A single function Jev-like wrapper for LLMs, including vision models",
+          "url": "https://news.ycombinator.com/item?id=49853175",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-26T04:20:58Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "allanrbo.blogspot.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "aac1d2fcce712e6f12ccb9c0524fed328c118409",
+          "title": "一个用于大型语言模型（LLM）的单函数Jev样式封装器，包括视觉模型",
+          "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
+          "source": "allanrbo.blogspot.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-26T13:01:20.496000Z"
+        },
+        {
+          "id": "bb8b7db89d1bcf77fb8d697b1c8a4086bb5166f7",
+          "title": "一个用于大型语言模型（LLM）的单函数Jev样式封装器，包括视觉模型 / A single function Jev-like wrapper for LLMs, including vision models",
+          "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-26T04:20:58Z"
+        },
+        {
+          "id": "0ff1d5b361396424bbca051eb5f698ba72535892",
+          "title": "A single function Jev-like wrapper for LLMs, including vision models",
+          "url": "https://news.ycombinator.com/item?id=49853175",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-26T04:20:58Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5544,
+      "importance": 0.5544,
+      "importance_score": 0.5544,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9091,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-26T04:20:58Z",
+      "latest_at": "2026-09-26T13:01:20.496000Z",
+      "primary_item": {
+        "id": "aac1d2fcce712e6f12ccb9c0524fed328c118409",
+        "title": "一个用于大型语言模型（LLM）的单函数Jev样式封装器，包括视觉模型",
+        "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
+        "source": "allanrbo.blogspot.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_774f7412d1a3",
+      "title": "关于使用 Common Lisp 进行深度学习的简要展望",
+      "url": "https://www.youtube.com/watch?v=Yo4eqoRC1o0",
+      "primary_url": "https://www.youtube.com/watch?v=Yo4eqoRC1o0",
+      "source": "www.youtube.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "00a0786ace29ff22ae310c8179a3ff66ed15f685",
+          "title": "关于使用 Common Lisp 进行深度学习的简要展望",
+          "url": "https://www.youtube.com/watch?v=Yo4eqoRC1o0",
+          "source": "www.youtube.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-26T17:45:16.403000Z"
+        },
+        {
+          "id": "8c4f3ae2fbbc77a24fc1d326bc6dd6e7884ea961",
+          "title": "Homa：AI 集群中 TCP 的终结——约翰·奥斯特豪特",
+          "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
+          "source": "www.youtube.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-26T00:15:40.253000Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Lobsters (技术社区)",
-        "brettcodes.com"
+        "www.youtube.com"
       ],
       "items": [
         {
-          "id": "0645efb90c8cb39788a8f87e602dd7628d7ae137",
-          "title": "人工智能并非“仅仅是一种工具”",
-          "url": "https://brettcodes.com/ai-is-not-just-a-tool",
-          "source": "brettcodes.com",
+          "id": "00a0786ace29ff22ae310c8179a3ff66ed15f685",
+          "title": "关于使用 Common Lisp 进行深度学习的简要展望",
+          "url": "https://www.youtube.com/watch?v=Yo4eqoRC1o0",
+          "source": "www.youtube.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-25T11:17:29.893000Z"
+          "published_at": "2026-09-26T17:45:16.403000Z"
         },
         {
-          "id": "79d6e948c0fdb39981edcc07aad7a7edb7b6ded3",
-          "title": "人工智能并非“仅仅是一种工具” / AI is not “just a tool”",
-          "url": "https://brettcodes.com/ai-is-not-just-a-tool",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-25T11:12:22Z"
+          "id": "8c4f3ae2fbbc77a24fc1d326bc6dd6e7884ea961",
+          "title": "Homa：AI 集群中 TCP 的终结——约翰·奥斯特豪特",
+          "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
+          "source": "www.youtube.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-26T00:15:40.253000Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5341,
-      "importance": 0.5341,
-      "importance_score": 0.5341,
+      "score": 0.541,
+      "importance": 0.541,
+      "importance_score": 0.541,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9351,
+        "recency": 0.9734,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-25T11:12:22Z",
-      "latest_at": "2026-09-25T11:17:29.893000Z",
+      "earliest_at": "2026-09-26T00:15:40.253000Z",
+      "latest_at": "2026-09-26T17:45:16.403000Z",
       "primary_item": {
-        "id": "0645efb90c8cb39788a8f87e602dd7628d7ae137",
-        "title": "人工智能并非“仅仅是一种工具”",
-        "url": "https://brettcodes.com/ai-is-not-just-a-tool",
-        "source": "brettcodes.com",
+        "id": "00a0786ace29ff22ae310c8179a3ff66ed15f685",
+        "title": "关于使用 Common Lisp 进行深度学习的简要展望",
+        "url": "https://www.youtube.com/watch?v=Yo4eqoRC1o0",
+        "source": "www.youtube.com",
         "source_name": "Buzzing"
       }
     },
     {
-      "story_id": "story_2d767ec90dc0",
-      "title": "法国获奖作家被指控使用人工智能引发轩然大波 / Uproar in France over award-winning author accused of using AI",
-      "url": "https://www.bbc.com/news/articles/ck7v4y45893go",
-      "primary_url": "https://www.bbc.com/news/articles/ck7v4y45893go",
+      "story_id": "story_fc201052ac82",
+      "title": "Drawgent: Coding agent on a live Excalidraw canvas",
+      "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+      "primary_url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "f4792ebf48addf9095de2f5e6ae36f978f2980df",
+          "title": "Drawgent: Coding agent on a live Excalidraw canvas",
+          "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-26T15:56:34Z"
+        },
+        {
+          "id": "bfab012ef044fb1c921c4ff8933eb12f1fab02b4",
+          "title": "Make Claude your assistant in excalidraw",
+          "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-26T15:56:34Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "f4792ebf48addf9095de2f5e6ae36f978f2980df",
+          "title": "Drawgent: Coding agent on a live Excalidraw canvas",
+          "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-26T15:56:34Z"
+        },
+        {
+          "id": "bfab012ef044fb1c921c4ff8933eb12f1fab02b4",
+          "title": "Make Claude your assistant in excalidraw",
+          "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-26T15:56:34Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5365,
+      "importance": 0.5365,
+      "importance_score": 0.5365,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9483,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-26T15:56:34Z",
+      "latest_at": "2026-09-26T15:56:34Z",
+      "primary_item": {
+        "id": "f4792ebf48addf9095de2f5e6ae36f978f2980df",
+        "title": "Drawgent: Coding agent on a live Excalidraw canvas",
+        "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_6c7096ff6fb5",
+      "title": "OpenAI正在调查“数十起”智能体行为不当的案例 / OpenAI bots meddled with multiple US government agency sites",
+      "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
+      "primary_url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News (世界新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "1152ae70e3450cbcf1b1f58a9d550aa7d29cbe30",
+          "title": "OpenAI正在调查“数十起”智能体行为不当的案例 / OpenAI bots meddled with multiple US government agency sites",
+          "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News (世界新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-26T02:50:56Z"
+        },
+        {
+          "id": "515cd752b110050b05c6fc5233f285cae46bf4c5",
+          "title": "OpenAI正在调查“数十起”智能体行为不当的案例",
+          "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
+          "source": "www.bbc.co.uk",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-25T23:59:48.291000Z"
+        },
+        {
+          "id": "c55f22cab2eb44a640e9cc75a52c9562c91dc684",
+          "title": "OpenAI正在调查“数十起”智能体行为不当的案例 / OpenAI investigating 'dozens' of instances of agents acting improperly",
+          "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-25T22:43:54Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "BBC News",
+        "BBC News (世界新闻)",
+        "www.bbc.co.uk"
+      ],
+      "items": [
+        {
+          "id": "1152ae70e3450cbcf1b1f58a9d550aa7d29cbe30",
+          "title": "OpenAI正在调查“数十起”智能体行为不当的案例 / OpenAI bots meddled with multiple US government agency sites",
+          "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News (世界新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-26T02:50:56Z"
+        },
+        {
+          "id": "515cd752b110050b05c6fc5233f285cae46bf4c5",
+          "title": "OpenAI正在调查“数十起”智能体行为不当的案例",
+          "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
+          "source": "www.bbc.co.uk",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-25T23:59:48.291000Z"
+        },
+        {
+          "id": "c55f22cab2eb44a640e9cc75a52c9562c91dc684",
+          "title": "OpenAI正在调查“数十起”智能体行为不当的案例 / OpenAI investigating 'dozens' of instances of agents acting improperly",
+          "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-25T22:43:54Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5321,
+      "importance": 0.5321,
+      "importance_score": 0.5321,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7849,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-25T22:43:54Z",
+      "latest_at": "2026-09-26T02:50:56Z",
+      "primary_item": {
+        "id": "1152ae70e3450cbcf1b1f58a9d550aa7d29cbe30",
+        "title": "OpenAI正在调查“数十起”智能体行为不当的案例 / OpenAI bots meddled with multiple US government agency sites",
+        "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News (世界新闻)",
+        "source_name": "Info Flow"
+      }
+    },
+    {
+      "story_id": "story_592647d55324",
+      "title": "OpenAI bots meddled with multiple US Government agency sites",
+      "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
+      "primary_url": "https://www.bbc.com/news/articles/cw62jje658dlo",
       "source": "Hacker News",
       "source_name": "TechURLs",
       "sources": [
         {
-          "id": "bb87503021a6ee1e27da3b997f92cc26873666c4",
-          "title": "法国获奖作家被指控使用人工智能引发轩然大波 / Uproar in France over award-winning author accused of using AI",
-          "url": "https://www.bbc.com/news/articles/ck7v4y45893go",
+          "id": "1fe2b38dabee28f269b22e28bc369ae025fa1db0",
+          "title": "OpenAI bots meddled with multiple US Government agency sites",
+          "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-25T10:48:32Z"
+          "published_at": "2026-09-26T14:03:54Z"
         },
         {
-          "id": "828bf870095b1812e103c84fcb595f495e04c64c",
-          "title": "法国获奖作家被指控使用人工智能引发轩然大波 / Uproar in France over award-winning author accused of using AI",
-          "url": "https://news.ycombinator.com/item?id=49842707",
+          "id": "cfc6391f72c2395e39131a46f6507c155b387b40",
+          "title": "OpenAI bots meddled with multiple US Government agency sites",
+          "url": "https://news.ycombinator.com/item?id=49856665",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-09-25T10:48:32Z"
+          "published_at": "2026-09-26T14:03:54Z"
         }
       ],
       "source_count": 2,
@@ -1389,49 +1138,463 @@
       ],
       "items": [
         {
-          "id": "bb87503021a6ee1e27da3b997f92cc26873666c4",
-          "title": "法国获奖作家被指控使用人工智能引发轩然大波 / Uproar in France over award-winning author accused of using AI",
-          "url": "https://www.bbc.com/news/articles/ck7v4y45893go",
+          "id": "1fe2b38dabee28f269b22e28bc369ae025fa1db0",
+          "title": "OpenAI bots meddled with multiple US Government agency sites",
+          "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-25T10:48:32Z"
+          "published_at": "2026-09-26T14:03:54Z"
         },
         {
-          "id": "828bf870095b1812e103c84fcb595f495e04c64c",
-          "title": "法国获奖作家被指控使用人工智能引发轩然大波 / Uproar in France over award-winning author accused of using AI",
-          "url": "https://news.ycombinator.com/item?id=49842707",
+          "id": "cfc6391f72c2395e39131a46f6507c155b387b40",
+          "title": "OpenAI bots meddled with multiple US Government agency sites",
+          "url": "https://news.ycombinator.com/item?id=49856665",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-09-25T10:48:32Z"
+          "published_at": "2026-09-26T14:03:54Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.533,
-      "importance": 0.533,
-      "importance_score": 0.533,
+      "score": 0.5319,
+      "importance": 0.5319,
+      "importance_score": 0.5319,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9286,
+        "recency": 0.9229,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-25T10:48:32Z",
-      "latest_at": "2026-09-25T10:48:32Z",
+      "earliest_at": "2026-09-26T14:03:54Z",
+      "latest_at": "2026-09-26T14:03:54Z",
       "primary_item": {
-        "id": "bb87503021a6ee1e27da3b997f92cc26873666c4",
-        "title": "法国获奖作家被指控使用人工智能引发轩然大波 / Uproar in France over award-winning author accused of using AI",
-        "url": "https://www.bbc.com/news/articles/ck7v4y45893go",
+        "id": "1fe2b38dabee28f269b22e28bc369ae025fa1db0",
+        "title": "OpenAI bots meddled with multiple US Government agency sites",
+        "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
         "source": "Hacker News",
         "source_name": "TechURLs"
+      }
+    },
+    {
+      "story_id": "story_37a987416051",
+      "title": "OpenAI 揭示了人工智能时代最重要的职场技能",
+      "url": "https://www.businessinsider.com/openai-reveals-workplace-skills-ai-cant-automate-easily-2026-9",
+      "primary_url": "https://www.businessinsider.com/openai-reveals-workplace-skills-ai-cant-automate-easily-2026-9",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "94d6dce1cce0fe0e75e907c94db4fc2d77bfa8a7",
+          "title": "OpenAI 揭示了人工智能时代最重要的职场技能",
+          "url": "https://www.businessinsider.com/openai-reveals-workplace-skills-ai-cant-automate-easily-2026-9",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-26T13:48:04.254000Z"
+        },
+        {
+          "id": "03e6221c1b9d1ac4e169fd0e19de22bfe0b0c675",
+          "title": "OpenAI 揭示了人工智能时代最重要的职场技能 / OpenAI reveals the AI-era workplace skills that matter most",
+          "url": "https://www.businessinsider.com/openai-reveals-workplace-skills-ai-cant-automate-easily-2026-9",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-26T13:00:02Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "94d6dce1cce0fe0e75e907c94db4fc2d77bfa8a7",
+          "title": "OpenAI 揭示了人工智能时代最重要的职场技能",
+          "url": "https://www.businessinsider.com/openai-reveals-workplace-skills-ai-cant-automate-easily-2026-9",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-26T13:48:04.254000Z"
+        },
+        {
+          "id": "03e6221c1b9d1ac4e169fd0e19de22bfe0b0c675",
+          "title": "OpenAI 揭示了人工智能时代最重要的职场技能 / OpenAI reveals the AI-era workplace skills that matter most",
+          "url": "https://www.businessinsider.com/openai-reveals-workplace-skills-ai-cant-automate-easily-2026-9",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-26T13:00:02Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5313,
+      "importance": 0.5313,
+      "importance_score": 0.5313,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9194,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-26T13:00:02Z",
+      "latest_at": "2026-09-26T13:48:04.254000Z",
+      "primary_item": {
+        "id": "94d6dce1cce0fe0e75e907c94db4fc2d77bfa8a7",
+        "title": "OpenAI 揭示了人工智能时代最重要的职场技能",
+        "url": "https://www.businessinsider.com/openai-reveals-workplace-skills-ai-cant-automate-easily-2026-9",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_ab6a90f5d123",
+      "title": "没有AI的一个月",
+      "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
+      "primary_url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
+      "source": "blog.bustikiller.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "0a783f5d61490437f8eaf4f51e6e12bd884e35f6",
+          "title": "没有AI的一个月",
+          "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
+          "source": "blog.bustikiller.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-26T13:48:03.398000Z"
+        },
+        {
+          "id": "0f1257162bc0c26c7be23e75058a925a814839cb",
+          "title": "没有AI的一个月 / One Month Without AI",
+          "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-26T10:08:21Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "blog.bustikiller.com"
+      ],
+      "items": [
+        {
+          "id": "0a783f5d61490437f8eaf4f51e6e12bd884e35f6",
+          "title": "没有AI的一个月",
+          "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
+          "source": "blog.bustikiller.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-26T13:48:03.398000Z"
+        },
+        {
+          "id": "0f1257162bc0c26c7be23e75058a925a814839cb",
+          "title": "没有AI的一个月 / One Month Without AI",
+          "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-26T10:08:21Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5313,
+      "importance": 0.5313,
+      "importance_score": 0.5313,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9194,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-26T10:08:21Z",
+      "latest_at": "2026-09-26T13:48:03.398000Z",
+      "primary_item": {
+        "id": "0a783f5d61490437f8eaf4f51e6e12bd884e35f6",
+        "title": "没有AI的一个月",
+        "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
+        "source": "blog.bustikiller.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_26c3af843986",
+      "title": "法院裁定，特朗普可因Anthropic拒绝启用Claude功能而将其列入黑名单",
+      "url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features",
+      "primary_url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features",
+      "source": "arstechnica.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "cb52982fcc590ff32dca4a0b842e7b60c57666d5",
+          "title": "法院裁定，特朗普可因Anthropic拒绝启用Claude功能而将其列入黑名单",
+          "url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-26T02:21:16.404000Z"
+        },
+        {
+          "id": "154b9f1b54fd15ccd9ab39ed949331bdcccf485d",
+          "title": "法院裁定，特朗普可因Anthropic拒绝启用Claude功能而将其列入黑名单 / Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features",
+          "url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features",
+          "source": "Ars Technica (科技媒体)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-25T21:36:20Z"
+        },
+        {
+          "id": "730e2304431ba197021dae19c1c02fff35af96fd",
+          "title": "法院裁定，特朗普可因Anthropic拒绝启用Claude功能而将其列入黑名单 / Court rules Trump can blacklist Anthropic for refusing to enable Claude features",
+          "url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features",
+          "source": "Ars Technica",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-25T21:36:20Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Ars Technica",
+        "Ars Technica (科技媒体)",
+        "arstechnica.com"
+      ],
+      "items": [
+        {
+          "id": "cb52982fcc590ff32dca4a0b842e7b60c57666d5",
+          "title": "法院裁定，特朗普可因Anthropic拒绝启用Claude功能而将其列入黑名单",
+          "url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-26T02:21:16.404000Z"
+        },
+        {
+          "id": "154b9f1b54fd15ccd9ab39ed949331bdcccf485d",
+          "title": "法院裁定，特朗普可因Anthropic拒绝启用Claude功能而将其列入黑名单 / Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features",
+          "url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features",
+          "source": "Ars Technica (科技媒体)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-25T21:36:20Z"
+        },
+        {
+          "id": "730e2304431ba197021dae19c1c02fff35af96fd",
+          "title": "法院裁定，特朗普可因Anthropic拒绝启用Claude功能而将其列入黑名单 / Court rules Trump can blacklist Anthropic for refusing to enable Claude features",
+          "url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features",
+          "source": "Ars Technica",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-25T21:36:20Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5311,
+      "importance": 0.5311,
+      "importance_score": 0.5311,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7793,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-25T21:36:20Z",
+      "latest_at": "2026-09-26T02:21:16.404000Z",
+      "primary_item": {
+        "id": "cb52982fcc590ff32dca4a0b842e7b60c57666d5",
+        "title": "法院裁定，特朗普可因Anthropic拒绝启用Claude功能而将其列入黑名单",
+        "url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features",
+        "source": "arstechnica.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_acfc96639e2e",
+      "title": "在人工智能紧张局势下，中美双方同意开展“超级智能”对话",
+      "url": "https://www.axios.com/2026/09/26/us-china-ai-si-deal",
+      "primary_url": "https://www.axios.com/2026/09/26/us-china-ai-si-deal",
+      "source": "www.axios.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "3b9bcba83df54ba66685a9c78387a9238e1ac502",
+          "title": "在人工智能紧张局势下，中美双方同意开展“超级智能”对话",
+          "url": "https://www.axios.com/2026/09/26/us-china-ai-si-deal",
+          "source": "www.axios.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-26T11:28:03.444000Z"
+        },
+        {
+          "id": "f604cfd3bcdd7b71693fa66f13f7e8f2a4aa580c",
+          "title": "在人工智能紧张局势下，中美双方同意开展“超级智能”对话 - Axios",
+          "url": "https://news.google.com/read/CBMiYkFVX3lxTFBGNEZLMlBlMDlkamtycGhtQS1obGR1WUxFWVhIdVdqYjNqX2JTRmN0bjd3MFVobEhMdWtaRjdmV1VMX1hSbTVaUVZzRVdIcUpraXpRUmN0d0t2aVdScElDZGZ3?hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-26T11:21:12Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "news.google.com",
+        "www.axios.com"
+      ],
+      "items": [
+        {
+          "id": "3b9bcba83df54ba66685a9c78387a9238e1ac502",
+          "title": "在人工智能紧张局势下，中美双方同意开展“超级智能”对话",
+          "url": "https://www.axios.com/2026/09/26/us-china-ai-si-deal",
+          "source": "www.axios.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-26T11:28:03.444000Z"
+        },
+        {
+          "id": "f604cfd3bcdd7b71693fa66f13f7e8f2a4aa580c",
+          "title": "在人工智能紧张局势下，中美双方同意开展“超级智能”对话 - Axios",
+          "url": "https://news.google.com/read/CBMiYkFVX3lxTFBGNEZLMlBlMDlkamtycGhtQS1obGR1WUxFWVhIdVdqYjNqX2JTRmN0bjd3MFVobEhMdWtaRjdmV1VMX1hSbTVaUVZzRVdIcUpraXpRUmN0d0t2aVdScElDZGZ3?hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-26T11:21:12Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5258,
+      "importance": 0.5258,
+      "importance_score": 0.5258,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8889,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-26T11:21:12Z",
+      "latest_at": "2026-09-26T11:28:03.444000Z",
+      "primary_item": {
+        "id": "3b9bcba83df54ba66685a9c78387a9238e1ac502",
+        "title": "在人工智能紧张局势下，中美双方同意开展“超级智能”对话",
+        "url": "https://www.axios.com/2026/09/26/us-china-ai-si-deal",
+        "source": "www.axios.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_53c6959c1870",
+      "title": "How to keep enjoying programming in a world of LLMs",
+      "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+      "primary_url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "fddb3519635d9d28ba5cd4e1b0c1c545096d41b2",
+          "title": "How to keep enjoying programming in a world of LLMs",
+          "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-26T09:41:58Z"
+        },
+        {
+          "id": "a930782ee90bb6dcb0e88a39ed0039db7883b922",
+          "title": "How to keep enjoying programming in a world of LLMs",
+          "url": "https://news.ycombinator.com/item?id=49854875",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-26T09:41:58Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "fddb3519635d9d28ba5cd4e1b0c1c545096d41b2",
+          "title": "How to keep enjoying programming in a world of LLMs",
+          "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-26T09:41:58Z"
+        },
+        {
+          "id": "a930782ee90bb6dcb0e88a39ed0039db7883b922",
+          "title": "How to keep enjoying programming in a world of LLMs",
+          "url": "https://news.ycombinator.com/item?id=49854875",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-26T09:41:58Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5218,
+      "importance": 0.5218,
+      "importance_score": 0.5218,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8665,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-26T09:41:58Z",
+      "latest_at": "2026-09-26T09:41:58Z",
+      "primary_item": {
+        "id": "fddb3519635d9d28ba5cd4e1b0c1c545096d41b2",
+        "title": "How to keep enjoying programming in a world of LLMs",
+        "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       }
     }
   ]
