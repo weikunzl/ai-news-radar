@@ -1,46 +1,25 @@
 {
-  "generated_at": "2026-09-27T12:33:28.365761Z",
+  "generated_at": "2026-09-27T17:22:21.368299Z",
   "cases": [
     {
-      "case_id": "opc_case_861cce76cfd7",
-      "company": "Indie Hackers",
+      "case_id": "opc_case_bc2501c66b42",
+      "company": "Here",
       "founder": "",
       "source_refs": [
-        "biz_33d726a26ce7"
+        "biz_3bf2ea6d7a75"
       ],
-      "url": "https://www.indiehackers.com/post/how-you-can-save-2-3-of-revenue-on-fx-fees-the-story-behind-my-first-product-713528b1c6",
-      "title": "How you can save 2-3% of revenue on FX fees (the story behind my first product)",
-      "business_model": "AI Business Model Innovation, OPC",
+      "url": "https://www.indiehackers.com/post/a-creator-refused-to-endorse-my-product-heres-what-i-fixed-because-of-it-7b68ced7f3",
+      "title": "A creator refused to endorse my product. Here's what I fixed because of it.",
+      "business_model": "OPC",
       "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
       "monetization": "To be extracted from the linked source.",
-      "team_size_signal": "team size not explicit",
+      "team_size_signal": "one-person/tiny-team fit",
       "distribution_channel": "Indie Hackers",
       "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
       "yuanli_mapping": [
-        "yuanli_startup",
-        "profit_container"
+        "yuanli_startup"
       ],
-      "score": 40
-    },
-    {
-      "case_id": "opc_case_9fae36be4658",
-      "company": "One",
-      "founder": "",
-      "source_refs": [
-        "biz_d26aa29ff1c7"
-      ],
-      "url": "https://www.indiehackers.com/post/one-week-into-a-10-day-1-000-coding-agent-experiment-0-earned-b4d827a982",
-      "title": "One week into a 10-day, $1,000 coding-agent experiment: $0 earned",
-      "business_model": "Enterprise AI Workflow, OPC",
-      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
-      "monetization": "To be extracted from the linked source.",
-      "team_size_signal": "team size not explicit",
-      "distribution_channel": "Indie Hackers",
-      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
-      "yuanli_mapping": [
-        "yuanli_os"
-      ],
-      "score": 38
+      "score": 34
     }
   ]
 }
