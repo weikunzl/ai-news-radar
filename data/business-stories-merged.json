@@ -1,4 +1,41 @@
 {
-  "generated_at": "2026-09-27T06:35:04.630515Z",
-  "clusters": []
+  "generated_at": "2026-09-27T12:33:28.365761Z",
+  "clusters": [
+    {
+      "cluster_id": "biz_cluster_02e0eabcefe7",
+      "thesis": "AI leverage is making one-person and tiny-team companies a credible strategic archetype.",
+      "lane": "opc",
+      "signal_ids": [
+        "biz_33d726a26ce7",
+        "biz_d26aa29ff1c7"
+      ],
+      "source_count": 1,
+      "importance_score": 41,
+      "confidence": "watch",
+      "yuanli_mapping": [
+        "yuanli_asset",
+        "yuanli_startup",
+        "profit_container"
+      ],
+      "why_it_matters": "2 English evidence items from 1 sources connect this pattern to Yuanli IP.",
+      "counter_evidence": "See counter_signal cluster for adoption, ROI, and trust risks.",
+      "recommended_action": "Turn the strongest case into a Yuanli OPC teaching module with leverage, distribution, and monetization explicitly mapped.",
+      "evidence_refs": [
+        "biz_33d726a26ce7",
+        "biz_d26aa29ff1c7"
+      ],
+      "top_sources": [
+        {
+          "source": "Indie Hackers",
+          "title": "How you can save 2-3% of revenue on FX fees (the story behind my first product)",
+          "url": "https://www.indiehackers.com/post/how-you-can-save-2-3-of-revenue-on-fx-fees-the-story-behind-my-first-product-713528b1c6"
+        },
+        {
+          "source": "Indie Hackers",
+          "title": "One week into a 10-day, $1,000 coding-agent experiment: $0 earned",
+          "url": "https://www.indiehackers.com/post/one-week-into-a-10-day-1-000-coding-agent-experiment-0-earned-b4d827a982"
+        }
+      ]
+    }
+  ]
 }
