@@ -1,4 +1,220 @@
 {
-  "generated_at": "2026-09-28T08:24:52.018398Z",
-  "clusters": []
+  "generated_at": "2026-09-29T15:30:23.334528Z",
+  "clusters": [
+    {
+      "cluster_id": "biz_cluster_a163f50ebafa",
+      "thesis": "Founder stories provide the most reusable proof layer for Yuanli IP trust-building.",
+      "lane": "founder_case",
+      "signal_ids": [
+        "biz_62f36897c87a",
+        "biz_98a29027b981",
+        "biz_982ecbff5951",
+        "biz_f7a051e00c15",
+        "biz_712264a7594a",
+        "biz_a724b69a6501",
+        "biz_6745a70312c0",
+        "biz_ad22bc9a6a06",
+        "biz_bfd98dc96656",
+        "biz_50c61553d095"
+      ],
+      "source_count": 1,
+      "importance_score": 52,
+      "confidence": "watch",
+      "yuanli_mapping": [
+        "ftf_trust",
+        "yuanli_asset",
+        "wealth_flywheel"
+      ],
+      "why_it_matters": "10 English evidence items from 1 sources connect this pattern to Yuanli IP.",
+      "counter_evidence": "See counter_signal cluster for adoption, ROI, and trust risks.",
+      "recommended_action": "Convert high-score founder cases into FTF credible story assets.",
+      "evidence_refs": [
+        "biz_62f36897c87a",
+        "biz_98a29027b981",
+        "biz_982ecbff5951",
+        "biz_f7a051e00c15",
+        "biz_712264a7594a"
+      ],
+      "top_sources": [
+        {
+          "source": "CB Insights",
+          "title": "Executive Interview: Anchor",
+          "url": "https://www.cbinsights.com/research/executive-interview-anchor-2/"
+        },
+        {
+          "source": "CB Insights",
+          "title": "CEO Interview: Rexi",
+          "url": "https://www.cbinsights.com/research/ceo-interview-rexi/"
+        },
+        {
+          "source": "CB Insights",
+          "title": "Executive Interview: Dots",
+          "url": "https://www.cbinsights.com/research/executive-interview-dots/"
+        },
+        {
+          "source": "CB Insights",
+          "title": "Executive Interview: Assort Health",
+          "url": "https://www.cbinsights.com/research/executive-interview-assort-health/"
+        },
+        {
+          "source": "CB Insights",
+          "title": "CEO Interview: Parsewise",
+          "url": "https://www.cbinsights.com/research/ceo-interview-parsewise/"
+        }
+      ]
+    },
+    {
+      "cluster_id": "biz_cluster_32c2bc1d78f9",
+      "thesis": "AI adoption counter-signals reveal where Yuanli claims need sharper proof and risk language.",
+      "lane": "counter_signal",
+      "signal_ids": [
+        "biz_acea1d0c90a9",
+        "biz_e1b3d35c5af4"
+      ],
+      "source_count": 2,
+      "importance_score": 42,
+      "confidence": "medium",
+      "yuanli_mapping": [
+        "ftf_trust",
+        "yuanli_os"
+      ],
+      "why_it_matters": "2 English evidence items from 2 sources connect this pattern to Yuanli IP.",
+      "counter_evidence": "Counter-signals are the evidence, not a rejection of the thesis.",
+      "recommended_action": "Add these counter-signals to sales objections and content credibility checks.",
+      "evidence_refs": [
+        "biz_acea1d0c90a9",
+        "biz_e1b3d35c5af4"
+      ],
+      "top_sources": [
+        {
+          "source": "GitHub Blog",
+          "title": "How we found 24 Android vulnerabilities using our open source AI security agent",
+          "url": "https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent/"
+        },
+        {
+          "source": "Harvard Business Review",
+          "title": "What Retail Legend Ron Johnson Learned from Apple’s Success and JCPenney’s Failure",
+          "url": "https://hbr.org/podcast/2026/09/what-retail-legend-ron-johnson-learned-from-apples-success-and-jcpenneys-failure"
+        }
+      ]
+    },
+    {
+      "cluster_id": "biz_cluster_05199a309e71",
+      "thesis": "Business-school and consulting evidence strengthens the trust layer behind Yuanli IP claims.",
+      "lane": "authority_trust",
+      "signal_ids": [
+        "biz_b1b0ce12dbea",
+        "biz_5b585a6bc619",
+        "biz_ba6c9175b3d8",
+        "biz_4a07f12f8a11",
+        "biz_5876968b8763",
+        "biz_f1d4dbe05ed6",
+        "biz_bc5403c0a4cf",
+        "biz_1c1d87522d9a",
+        "biz_0290115d8761"
+      ],
+      "source_count": 1,
+      "importance_score": 41,
+      "confidence": "watch",
+      "yuanli_mapping": [
+        "ftf_trust",
+        "yuanli_asset",
+        "yuanli_startup"
+      ],
+      "why_it_matters": "9 English evidence items from 1 sources connect this pattern to Yuanli IP.",
+      "counter_evidence": "See counter_signal cluster for adoption, ROI, and trust risks.",
+      "recommended_action": "Use these authority-backed signals as FTF proof points before making public claims.",
+      "evidence_refs": [
+        "biz_b1b0ce12dbea",
+        "biz_5b585a6bc619",
+        "biz_ba6c9175b3d8",
+        "biz_4a07f12f8a11",
+        "biz_5876968b8763"
+      ],
+      "top_sources": [
+        {
+          "source": "Bain Insights",
+          "title": "Tech Services: Cracking the Code on AI-led Growth",
+          "url": "https://www.bain.com/insights/tech-services-cracking-the-code-on-ai-led-growth-technology-report-2026/"
+        },
+        {
+          "source": "Bain Insights",
+          "title": "Software Investing in the Age of AI and Slower Growth",
+          "url": "https://www.bain.com/insights/software-investing-in-the-age-of-ai-and-slower-growth-technology-report-2026/"
+        },
+        {
+          "source": "Bain Insights",
+          "title": "The $100-Billion SaaS Opportunity Hiding in Cross-System Labor",
+          "url": "https://www.bain.com/insights/100-billion-saas-opportunity-hiding-in-cross-system-labor100-billion-saas-opportunity-hiding-in-cross-system-labor-technology-report-2026/"
+        },
+        {
+          "source": "Bain Insights",
+          "title": "The Missing Architecture for Agentic Software Development",
+          "url": "https://www.bain.com/insights/the-missing-architecture-for-agentic-software-development-technology-report-2026/"
+        },
+        {
+          "source": "Bain Insights",
+          "title": "How AI Is Changing Data Monetization",
+          "url": "https://www.bain.com/insights/how-ai-is-changing-data-monetization-technology-report-2026/"
+        }
+      ]
+    },
+    {
+      "cluster_id": "biz_cluster_c6b4a235111e",
+      "thesis": "AI leverage is making one-person and tiny-team companies a credible strategic archetype.",
+      "lane": "opc",
+      "signal_ids": [
+        "biz_f34a299e2fd8"
+      ],
+      "source_count": 1,
+      "importance_score": 38,
+      "confidence": "watch",
+      "yuanli_mapping": [
+        "yuanli_asset",
+        "yuanli_startup",
+        "profit_container"
+      ],
+      "why_it_matters": "1 English evidence items from 1 sources connect this pattern to Yuanli IP.",
+      "counter_evidence": "See counter_signal cluster for adoption, ROI, and trust risks.",
+      "recommended_action": "Turn the strongest case into a Yuanli OPC teaching module with leverage, distribution, and monetization explicitly mapped.",
+      "evidence_refs": [
+        "biz_f34a299e2fd8"
+      ],
+      "top_sources": [
+        {
+          "source": "Indie Hackers",
+          "title": "Day 1 of building a harness for long-running AI agents",
+          "url": "https://www.indiehackers.com/post/day-1-of-building-a-harness-for-long-running-ai-agents-13d2f95382"
+        }
+      ]
+    },
+    {
+      "cluster_id": "biz_cluster_d74b44dc898d",
+      "thesis": "Enterprise AI value is moving toward operating-model redesign rather than isolated copilots.",
+      "lane": "enterprise_workflow",
+      "signal_ids": [
+        "biz_8de5be6de7cf"
+      ],
+      "source_count": 1,
+      "importance_score": 36,
+      "confidence": "watch",
+      "yuanli_mapping": [
+        "yuanli_os",
+        "ftf_trust"
+      ],
+      "why_it_matters": "1 English evidence items from 1 sources connect this pattern to Yuanli IP.",
+      "counter_evidence": "See counter_signal cluster for adoption, ROI, and trust risks.",
+      "recommended_action": "Map each workflow case to the Yuanli OS organs: soul, memory, judgment, hands.",
+      "evidence_refs": [
+        "biz_8de5be6de7cf"
+      ],
+      "top_sources": [
+        {
+          "source": "GitHub Blog",
+          "title": "Developer policy update: Transparency, state policy, and what’s ahead",
+          "url": "https://github.blog/news-insights/policy-news-and-insights/developer-policy-update-transparency-state-policy-and-whats-ahead/"
+        }
+      ]
+    }
+  ]
 }
