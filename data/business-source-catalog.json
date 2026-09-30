@@ -10,7 +10,7 @@
     "capture_method": "rss_or_public_page",
     "cadence": "30m",
     "health_status": "manual_review_required",
-    "last_checked_at": "2026-09-30T10:44:21.418115Z",
+    "last_checked_at": "2026-09-30T16:55:07.410634Z",
     "capture_mode": "manual",
     "feed_candidates": [],
     "sitemap_urls": [],
@@ -40,7 +40,7 @@
     "capture_method": "rss_or_public_page",
     "cadence": "30m",
     "health_status": "stale_source",
-    "last_checked_at": "2026-09-30T10:44:21.418115Z",
+    "last_checked_at": "2026-09-30T16:55:07.410634Z",
     "capture_mode": "sitemap",
     "feed_candidates": [],
     "sitemap_urls": [
@@ -62,7 +62,7 @@
     "fresh": false,
     "current": false,
     "latest_verified_published_at": "2026-07-10T07:40:47.400000Z",
-    "latest_error": "latest_verified_item_exceeds_source_sla; https://www.bcg.com/publications/2026/how-ai-rewrites-cpg-marketing-economics: publication_page_timestamp_conflict | https://www.bcg.com/publications/2026/ai-personalizes-change-management-scale: publication_page_timestamp_conflict | https://www.bcg.com/publications/2025/what-ceos-should-look-for-in-an-ai-first-cmo: publication_page_timestamp_conflict | https://www.bcg.com/publications/2026/why-most-change-programs-fail: publication_page_timestamp_conflict"
+    "latest_error": "latest_verified_item_exceeds_source_sla; https://www.bcg.com/publications/2026/how-ai-rewrites-cpg-marketing-economics: publication_page_timestamp_conflict | https://www.bcg.com/publications/2026/ai-personalizes-change-management-scale: HTTP 404 for https://www.bcg.com/publications/2026/ai-personalizes-change-management-scale | https://www.bcg.com/publications/2026/the-formula-for-agentic-ai-value: publication_page_timestamp_conflict | https://www.bcg.com/publications/2025/what-ceos-should-look-for-in-an-ai-first-cmo: publication_page_timestamp_conflict"
   },
   {
     "source_id": "bain_insights",
@@ -75,7 +75,7 @@
     "capture_method": "rss_or_public_page",
     "cadence": "30m",
     "health_status": "verified_timestamp",
-    "last_checked_at": "2026-09-30T10:44:21.418115Z",
+    "last_checked_at": "2026-09-30T16:55:07.410634Z",
     "capture_mode": "feed",
     "feed_candidates": [
       "https://www.bain.com/rss-feed/",
@@ -97,7 +97,7 @@
     "verified": true,
     "fresh": true,
     "current": true,
-    "latest_verified_published_at": "2026-09-29T13:00:00Z",
+    "latest_verified_published_at": "2026-09-30T16:00:00Z",
     "latest_error": ""
   },
   {
@@ -110,8 +110,8 @@
     "access_method": "public",
     "capture_method": "rss_or_public_page",
     "cadence": "30m",
-    "health_status": "verified_timestamp",
-    "last_checked_at": "2026-09-30T10:44:21.418115Z",
+    "health_status": "no_current_items",
+    "last_checked_at": "2026-09-30T16:55:07.410634Z",
     "capture_mode": "feed",
     "feed_candidates": [
       "http://feeds.hbr.org/harvardbusiness",
@@ -132,7 +132,7 @@
     "reachable": true,
     "verified": true,
     "fresh": true,
-    "current": true,
+    "current": false,
     "latest_verified_published_at": "2026-09-29T15:35:16Z",
     "latest_error": ""
   },
@@ -147,7 +147,7 @@
     "capture_method": "rss_or_public_page",
     "cadence": "30m",
     "health_status": "verified_timestamp",
-    "last_checked_at": "2026-09-30T10:44:21.418115Z",
+    "last_checked_at": "2026-09-30T16:55:07.410634Z",
     "capture_mode": "feed",
     "feed_candidates": [],
     "sitemap_urls": [],
@@ -163,7 +163,7 @@
     "verified": true,
     "fresh": true,
     "current": true,
-    "latest_verified_published_at": "2026-09-29T11:00:55Z",
+    "latest_verified_published_at": "2026-09-30T11:00:08Z",
     "latest_error": ""
   },
   {
@@ -177,7 +177,7 @@
     "capture_method": "rss_or_public_page",
     "cadence": "30m",
     "health_status": "empty_feed",
-    "last_checked_at": "2026-09-30T10:44:21.418115Z",
+    "last_checked_at": "2026-09-30T16:55:07.410634Z",
     "capture_mode": "feed",
     "feed_candidates": [],
     "sitemap_urls": [],
@@ -207,7 +207,7 @@
     "capture_method": "rss_or_public_page",
     "cadence": "30m",
     "health_status": "stale_source",
-    "last_checked_at": "2026-09-30T10:44:21.418115Z",
+    "last_checked_at": "2026-09-30T16:55:07.410634Z",
     "capture_mode": "feed",
     "feed_candidates": [],
     "sitemap_urls": [],
@@ -237,7 +237,7 @@
     "capture_method": "rss_or_public_page",
     "cadence": "30m",
     "health_status": "verified_timestamp",
-    "last_checked_at": "2026-09-30T10:44:21.418115Z",
+    "last_checked_at": "2026-09-30T16:55:07.410634Z",
     "capture_mode": "sitemap",
     "feed_candidates": [],
     "sitemap_urls": [
@@ -259,7 +259,7 @@
     "verified": true,
     "fresh": true,
     "current": true,
-    "latest_verified_published_at": "2026-09-30T01:46:39Z",
+    "latest_verified_published_at": "2026-09-30T11:55:58Z",
     "latest_error": ""
   },
   {
@@ -273,7 +273,7 @@
     "capture_method": "rss_or_public_page",
     "cadence": "30m",
     "health_status": "no_current_items",
-    "last_checked_at": "2026-09-30T10:44:21.418115Z",
+    "last_checked_at": "2026-09-30T16:55:07.410634Z",
     "capture_mode": "sitemap",
     "feed_candidates": [],
     "sitemap_urls": [
@@ -307,7 +307,7 @@
     "capture_method": "rss_or_public_page",
     "cadence": "30m",
     "health_status": "verified_timestamp",
-    "last_checked_at": "2026-09-30T10:44:21.418115Z",
+    "last_checked_at": "2026-09-30T16:55:07.410634Z",
     "capture_mode": "feed",
     "feed_candidates": [],
     "sitemap_urls": [],
@@ -323,7 +323,7 @@
     "verified": true,
     "fresh": true,
     "current": true,
-    "latest_verified_published_at": "2026-09-29T13:15:57Z",
+    "latest_verified_published_at": "2026-09-30T14:45:15Z",
     "latest_error": ""
   },
   {
@@ -336,8 +336,8 @@
     "access_method": "public",
     "capture_method": "rss_or_public_page",
     "cadence": "30m",
-    "health_status": "verified_timestamp",
-    "last_checked_at": "2026-09-30T10:44:21.418115Z",
+    "health_status": "no_current_items",
+    "last_checked_at": "2026-09-30T16:55:07.410634Z",
     "capture_mode": "feed",
     "feed_candidates": [],
     "sitemap_urls": [],
@@ -352,7 +352,7 @@
     "reachable": true,
     "verified": true,
     "fresh": true,
-    "current": true,
+    "current": false,
     "latest_verified_published_at": "2026-09-29T12:04:23Z",
     "latest_error": ""
   },
@@ -367,7 +367,7 @@
     "capture_method": "rss_or_public_page",
     "cadence": "30m",
     "health_status": "no_current_items",
-    "last_checked_at": "2026-09-30T10:44:21.418115Z",
+    "last_checked_at": "2026-09-30T16:55:07.410634Z",
     "capture_mode": "feed",
     "feed_candidates": [],
     "sitemap_urls": [],
@@ -397,7 +397,7 @@
     "capture_method": "rss_or_public_page",
     "cadence": "30m",
     "health_status": "verified_timestamp",
-    "last_checked_at": "2026-09-30T10:44:21.418115Z",
+    "last_checked_at": "2026-09-30T16:55:07.410634Z",
     "capture_mode": "feed",
     "feed_candidates": [],
     "sitemap_urls": [],
@@ -427,7 +427,7 @@
     "capture_method": "rss_or_public_page",
     "cadence": "30m",
     "health_status": "no_current_items",
-    "last_checked_at": "2026-09-30T10:44:21.418115Z",
+    "last_checked_at": "2026-09-30T16:55:07.410634Z",
     "capture_mode": "page_detail",
     "feed_candidates": [],
     "sitemap_urls": [],
@@ -446,7 +446,7 @@
     "verified": true,
     "fresh": true,
     "current": false,
-    "latest_verified_published_at": "2026-09-29T05:41:50.401000Z",
+    "latest_verified_published_at": "2026-09-29T14:52:39.951000Z",
     "latest_error": ""
   },
   {
@@ -460,7 +460,7 @@
     "capture_method": "rss_or_public_page",
     "cadence": "30m",
     "health_status": "stale_source",
-    "last_checked_at": "2026-09-30T10:44:21.418115Z",
+    "last_checked_at": "2026-09-30T16:55:07.410634Z",
     "capture_mode": "sitemap",
     "feed_candidates": [],
     "sitemap_urls": [
@@ -497,7 +497,7 @@
     "capture_method": "rss_or_public_page",
     "cadence": "30m",
     "health_status": "stale_source",
-    "last_checked_at": "2026-09-30T10:44:21.418115Z",
+    "last_checked_at": "2026-09-30T16:55:07.410634Z",
     "capture_mode": "feed",
     "feed_candidates": [
       "https://microconf.com/latest?format=rss",
@@ -533,7 +533,7 @@
     "capture_method": "rss_or_public_page",
     "cadence": "30m",
     "health_status": "stale_source",
-    "last_checked_at": "2026-09-30T10:44:21.418115Z",
+    "last_checked_at": "2026-09-30T16:55:07.410634Z",
     "capture_mode": "sitemap",
     "feed_candidates": [],
     "sitemap_urls": [
@@ -568,7 +568,7 @@
     "capture_method": "rss_or_public_page",
     "cadence": "30m",
     "health_status": "stale_source",
-    "last_checked_at": "2026-09-30T10:44:21.418115Z",
+    "last_checked_at": "2026-09-30T16:55:07.410634Z",
     "capture_mode": "feed",
     "feed_candidates": [
       "https://thebootstrappedfounder.com/feed/",
@@ -604,7 +604,7 @@
     "capture_method": "rss_or_public_page",
     "cadence": "30m",
     "health_status": "no_current_items",
-    "last_checked_at": "2026-09-30T10:44:21.418115Z",
+    "last_checked_at": "2026-09-30T16:55:07.410634Z",
     "capture_mode": "feed",
     "feed_candidates": [],
     "sitemap_urls": [],
@@ -634,7 +634,7 @@
     "capture_method": "rss_or_public_page",
     "cadence": "30m",
     "health_status": "verified_timestamp",
-    "last_checked_at": "2026-09-30T10:44:21.418115Z",
+    "last_checked_at": "2026-09-30T16:55:07.410634Z",
     "capture_mode": "feed",
     "feed_candidates": [],
     "sitemap_urls": [],
@@ -664,7 +664,7 @@
     "capture_method": "rss_or_public_page",
     "cadence": "30m",
     "health_status": "manual_review_required",
-    "last_checked_at": "2026-09-30T10:44:21.418115Z",
+    "last_checked_at": "2026-09-30T16:55:07.410634Z",
     "capture_mode": "manual",
     "feed_candidates": [],
     "sitemap_urls": [],
@@ -694,7 +694,7 @@
     "capture_method": "rss_or_public_page",
     "cadence": "30m",
     "health_status": "empty_feed",
-    "last_checked_at": "2026-09-30T10:44:21.418115Z",
+    "last_checked_at": "2026-09-30T16:55:07.410634Z",
     "capture_mode": "feed",
     "feed_candidates": [
       "https://charonhub.deeplearning.ai/rss/",
@@ -728,8 +728,8 @@
     "access_method": "public",
     "capture_method": "rss_or_public_page",
     "cadence": "30m",
-    "health_status": "no_current_items",
-    "last_checked_at": "2026-09-30T10:44:21.418115Z",
+    "health_status": "verified_timestamp",
+    "last_checked_at": "2026-09-30T16:55:07.410634Z",
     "capture_mode": "feed",
     "feed_candidates": [],
     "sitemap_urls": [],
@@ -744,8 +744,8 @@
     "reachable": true,
     "verified": true,
     "fresh": true,
-    "current": false,
-    "latest_verified_published_at": "2026-09-29T10:00:00Z",
+    "current": true,
+    "latest_verified_published_at": "2026-09-30T10:00:00Z",
     "latest_error": ""
   },
   {
@@ -759,7 +759,7 @@
     "capture_method": "rss_or_public_page",
     "cadence": "30m",
     "health_status": "no_current_items",
-    "last_checked_at": "2026-09-30T10:44:21.418115Z",
+    "last_checked_at": "2026-09-30T16:55:07.410634Z",
     "capture_mode": "sitemap",
     "feed_candidates": [],
     "sitemap_urls": [
@@ -793,8 +793,8 @@
     "access_method": "public",
     "capture_method": "rss_or_public_page",
     "cadence": "30m",
-    "health_status": "verified_timestamp",
-    "last_checked_at": "2026-09-30T10:44:21.418115Z",
+    "health_status": "no_current_items",
+    "last_checked_at": "2026-09-30T16:55:07.410634Z",
     "capture_mode": "feed",
     "feed_candidates": [],
     "sitemap_urls": [],
@@ -809,7 +809,7 @@
     "reachable": true,
     "verified": true,
     "fresh": true,
-    "current": true,
+    "current": false,
     "latest_verified_published_at": "2026-09-29T15:00:00Z",
     "latest_error": ""
   },
@@ -824,7 +824,7 @@
     "capture_method": "rss_or_public_page",
     "cadence": "30m",
     "health_status": "verified_timestamp",
-    "last_checked_at": "2026-09-30T10:44:21.418115Z",
+    "last_checked_at": "2026-09-30T16:55:07.410634Z",
     "capture_mode": "feed",
     "feed_candidates": [],
     "sitemap_urls": [],
@@ -840,7 +840,7 @@
     "verified": true,
     "fresh": true,
     "current": true,
-    "latest_verified_published_at": "2026-09-29T15:30:38Z",
+    "latest_verified_published_at": "2026-09-30T00:00:00Z",
     "latest_error": ""
   }
 ]
