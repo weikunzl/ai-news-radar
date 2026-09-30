@@ -1,28 +1,6 @@
 {
-  "generated_at": "2026-09-30T10:44:21.418115Z",
+  "generated_at": "2026-09-30T16:55:07.410634Z",
   "cases": [
-    {
-      "case_id": "opc_case_79805c5aeb5f",
-      "company": "CEO Interview",
-      "founder": "",
-      "source_refs": [
-        "biz_4cbeec7100a8"
-      ],
-      "url": "https://www.cbinsights.com/research/ceo-interview-sunlight/",
-      "title": "CEO Interview: Sunlight",
-      "business_model": "AI Business Model Innovation, Founder Case, Enterprise AI Workflow",
-      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
-      "monetization": "To be extracted from the linked source.",
-      "team_size_signal": "team size not explicit",
-      "distribution_channel": "CB Insights",
-      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
-      "yuanli_mapping": [
-        "yuanli_startup",
-        "yuanli_os",
-        "ftf_trust"
-      ],
-      "score": 57
-    },
     {
       "case_id": "opc_case_af195ffb9826",
       "company": "Executive Interview",
@@ -192,45 +170,65 @@
       "score": 49
     },
     {
-      "case_id": "opc_case_1ce0ad4b8f78",
-      "company": "CEO Interview",
+      "case_id": "opc_case_4158c78a1ef2",
+      "company": "Turn Energy Efficiency",
       "founder": "",
       "source_refs": [
-        "biz_98a29027b981"
+        "biz_48258dbd6c29"
       ],
-      "url": "https://www.cbinsights.com/research/ceo-interview-rexi/",
-      "title": "CEO Interview: Rexi",
-      "business_model": "Founder Case",
+      "url": "https://sloanreview.mit.edu/article/turn-energy-efficiency-into-strategic-advantage/",
+      "title": "Turn Energy Efficiency Into Strategic Advantage",
+      "business_model": "Founder Case, Enterprise AI Workflow, Counter Signal",
       "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
       "monetization": "To be extracted from the linked source.",
       "team_size_signal": "team size not explicit",
-      "distribution_channel": "CB Insights",
+      "distribution_channel": "MIT Sloan Management Review",
       "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
       "yuanli_mapping": [
-        "yuanli_startup",
+        "yuanli_asset",
         "ftf_trust"
       ],
-      "score": 49
+      "score": 57
     },
     {
-      "case_id": "opc_case_5a5d754ea25c",
-      "company": "How Chewy Is",
+      "case_id": "opc_case_484df1c41fef",
+      "company": "Travel Operators Can",
       "founder": "",
       "source_refs": [
-        "biz_b7187c02b08b"
+        "biz_0328dddd79f1"
       ],
-      "url": "https://hbr.org/2026/09/how-chewy-is-evolving-customer-obsession-for-the-digital-era",
-      "title": "How Chewy Is Evolving Customer Obsession for the Digital Era",
+      "url": "https://www.bain.com/insights/travel-operators-cant-just-watch-as-ai-reroutes-the-customer-journey/",
+      "title": "Travel Operators Can’t Just Watch as AI Reroutes the Customer Journey",
       "business_model": "Founder Case, AI Business Model Innovation",
       "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
       "monetization": "To be extracted from the linked source.",
       "team_size_signal": "team size not explicit",
-      "distribution_channel": "Harvard Business Review",
+      "distribution_channel": "Bain Insights",
       "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
       "yuanli_mapping": [
         "yuanli_startup"
       ],
-      "score": 41
+      "score": 42
+    },
+    {
+      "case_id": "opc_case_8b6feec9b9f3",
+      "company": "Jev",
+      "founder": "",
+      "source_refs": [
+        "biz_351f72546965"
+      ],
+      "url": "https://www.lennysnewsletter.com/p/jev-8-real-use-cases-for-the-fastest",
+      "title": "Jev: 8 real use cases for the fastest, cheapest model I’ve ever used | John Lindquist",
+      "business_model": "Enterprise AI Workflow, Founder Case",
+      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
+      "monetization": "To be extracted from the linked source.",
+      "team_size_signal": "team size not explicit",
+      "distribution_channel": "Lenny's Newsletter",
+      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
+      "yuanli_mapping": [
+        "yuanli_os"
+      ],
+      "score": 34
     }
   ]
 }

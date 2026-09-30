@@ -1,6 +1,34 @@
 {
-  "generated_at": "2026-09-30T10:44:21.418115Z",
+  "generated_at": "2026-09-30T16:55:07.410634Z",
   "clusters": [
+    {
+      "cluster_id": "biz_cluster_58a160a6c384",
+      "thesis": "AI adoption counter-signals reveal where Yuanli claims need sharper proof and risk language.",
+      "lane": "counter_signal",
+      "signal_ids": [
+        "biz_48258dbd6c29"
+      ],
+      "source_count": 1,
+      "importance_score": 59,
+      "confidence": "watch",
+      "yuanli_mapping": [
+        "ftf_trust",
+        "yuanli_os"
+      ],
+      "why_it_matters": "1 English evidence items from 1 sources connect this pattern to Yuanli IP.",
+      "counter_evidence": "Counter-signals are the evidence, not a rejection of the thesis.",
+      "recommended_action": "Add these counter-signals to sales objections and content credibility checks.",
+      "evidence_refs": [
+        "biz_48258dbd6c29"
+      ],
+      "top_sources": [
+        {
+          "source": "MIT Sloan Management Review",
+          "title": "Turn Energy Efficiency Into Strategic Advantage",
+          "url": "https://sloanreview.mit.edu/article/turn-energy-efficiency-into-strategic-advantage/"
+        }
+      ]
+    },
     {
       "cluster_id": "biz_cluster_ded8ff28f759",
       "thesis": "Founder stories provide the most reusable proof layer for Yuanli IP trust-building.",
@@ -13,8 +41,7 @@
         "biz_8159b9844e35",
         "biz_83666815565a",
         "biz_724fa0f24951",
-        "biz_017e34afafb4",
-        "biz_98a29027b981"
+        "biz_017e34afafb4"
       ],
       "source_count": 1,
       "importance_score": 51,
@@ -24,7 +51,7 @@
         "yuanli_asset",
         "wealth_flywheel"
       ],
-      "why_it_matters": "9 English evidence items from 1 sources connect this pattern to Yuanli IP.",
+      "why_it_matters": "8 English evidence items from 1 sources connect this pattern to Yuanli IP.",
       "counter_evidence": "See counter_signal cluster for adoption, ROI, and trust risks.",
       "recommended_action": "Convert high-score founder cases into FTF credible story assets.",
       "evidence_refs": [
@@ -63,73 +90,73 @@
       ]
     },
     {
-      "cluster_id": "biz_cluster_0b820d579242",
-      "thesis": "Enterprise AI value is moving toward operating-model redesign rather than isolated copilots.",
-      "lane": "enterprise_workflow",
-      "signal_ids": [
-        "biz_4cbeec7100a8",
-        "biz_12d865040f25",
-        "biz_8de5be6de7cf"
-      ],
-      "source_count": 3,
-      "importance_score": 49,
-      "confidence": "medium",
-      "yuanli_mapping": [
-        "yuanli_os",
-        "ftf_trust"
-      ],
-      "why_it_matters": "3 English evidence items from 3 sources connect this pattern to Yuanli IP.",
-      "counter_evidence": "See counter_signal cluster for adoption, ROI, and trust risks.",
-      "recommended_action": "Map each workflow case to the Yuanli OS organs: soul, memory, judgment, hands.",
-      "evidence_refs": [
-        "biz_4cbeec7100a8",
-        "biz_12d865040f25",
-        "biz_8de5be6de7cf"
-      ],
-      "top_sources": [
-        {
-          "source": "CB Insights",
-          "title": "CEO Interview: Sunlight",
-          "url": "https://www.cbinsights.com/research/ceo-interview-sunlight/"
-        },
-        {
-          "source": "Latent Space",
-          "title": "[AINews] OpenAI DevDay 2026: Dots, 6.1 Sol, Ultrafast, Decisions API, Agents API, Spaces, Marketplace, and 1.2 Billion ChatGPT WAU",
-          "url": "https://www.latent.space/p/ainews-openai-devday-2026-dots-61"
-        },
-        {
-          "source": "GitHub Blog",
-          "title": "Developer policy update: Transparency, state policy, and what’s ahead",
-          "url": "https://github.blog/news-insights/policy-news-and-insights/developer-policy-update-transparency-state-policy-and-whats-ahead/"
-        }
-      ]
-    },
-    {
-      "cluster_id": "biz_cluster_29950a547ef1",
+      "cluster_id": "biz_cluster_0202376adf08",
       "thesis": "Business-school and consulting evidence strengthens the trust layer behind Yuanli IP claims.",
       "lane": "authority_trust",
       "signal_ids": [
-        "biz_b7187c02b08b"
+        "biz_0328dddd79f1",
+        "biz_9217f89fe5eb"
       ],
       "source_count": 1,
-      "importance_score": 43,
+      "importance_score": 41,
       "confidence": "watch",
       "yuanli_mapping": [
         "ftf_trust",
         "yuanli_asset",
         "yuanli_startup"
       ],
-      "why_it_matters": "1 English evidence items from 1 sources connect this pattern to Yuanli IP.",
+      "why_it_matters": "2 English evidence items from 1 sources connect this pattern to Yuanli IP.",
       "counter_evidence": "See counter_signal cluster for adoption, ROI, and trust risks.",
       "recommended_action": "Use these authority-backed signals as FTF proof points before making public claims.",
       "evidence_refs": [
-        "biz_b7187c02b08b"
+        "biz_0328dddd79f1",
+        "biz_9217f89fe5eb"
       ],
       "top_sources": [
         {
-          "source": "Harvard Business Review",
-          "title": "How Chewy Is Evolving Customer Obsession for the Digital Era",
-          "url": "https://hbr.org/2026/09/how-chewy-is-evolving-customer-obsession-for-the-digital-era"
+          "source": "Bain Insights",
+          "title": "Travel Operators Can’t Just Watch as AI Reroutes the Customer Journey",
+          "url": "https://www.bain.com/insights/travel-operators-cant-just-watch-as-ai-reroutes-the-customer-journey/"
+        },
+        {
+          "source": "Bain Insights",
+          "title": "AI in Marketing: How Leaders Achieve Double the Revenue Impact",
+          "url": "https://www.bain.com/insights/ai-in-marketing-how-leaders-achieve-double-the-revenue-impact/"
+        }
+      ]
+    },
+    {
+      "cluster_id": "biz_cluster_838c0b1d7191",
+      "thesis": "Enterprise AI value is moving toward operating-model redesign rather than isolated copilots.",
+      "lane": "enterprise_workflow",
+      "signal_ids": [
+        "biz_12d865040f25",
+        "biz_351f72546965"
+      ],
+      "source_count": 2,
+      "importance_score": 40,
+      "confidence": "medium",
+      "yuanli_mapping": [
+        "yuanli_os",
+        "ftf_trust"
+      ],
+      "why_it_matters": "2 English evidence items from 2 sources connect this pattern to Yuanli IP.",
+      "counter_evidence": "See counter_signal cluster for adoption, ROI, and trust risks.",
+      "recommended_action": "Map each workflow case to the Yuanli OS organs: soul, memory, judgment, hands.",
+      "evidence_refs": [
+        "biz_12d865040f25",
+        "biz_351f72546965"
+      ],
+      "top_sources": [
+        {
+          "source": "Latent Space",
+          "title": "[AINews] OpenAI DevDay 2026: Dots, 6.1 Sol, Ultrafast, Decisions API, Agents API, Spaces, Marketplace, and 1.2 Billion ChatGPT WAU",
+          "url": "https://www.latent.space/p/ainews-openai-devday-2026-dots-61"
+        },
+        {
+          "source": "Lenny's Newsletter",
+          "title": "Jev: 8 real use cases for the fastest, cheapest model I’ve ever used | John Lindquist",
+          "url": "https://www.lennysnewsletter.com/p/jev-8-real-use-cases-for-the-fastest"
         }
       ]
     }
