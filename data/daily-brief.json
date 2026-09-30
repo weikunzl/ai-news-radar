@@ -1,8 +1,916 @@
 {
-  "generated_at": "2026-09-29T15:29:05.129324Z",
+  "generated_at": "2026-09-30T04:32:38.240024Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_dd66acaed2a0",
+      "title": "OpenAI 发布 GPT-6.1 Sol，以约五分之一价格接近 GPT-6 Astra 智能 / Introducing GPT-6.1 Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "primary_url": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "79e8ec51dfc696a0fb49d867a814731799bbc3d6",
+          "title": "OpenAI 发布 GPT-6.1 Sol，以约五分之一价格接近 GPT-6 Astra 智能 / Introducing GPT-6.1 Sol",
+          "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-29T10:00:00Z"
+        },
+        {
+          "id": "12d0a4425111dfd06441f22f43a1a253d96d5d66",
+          "title": "OpenAI 发布 GPT-6.1 Sol，以约五分之一价格接近 GPT-6 Astra 智能",
+          "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-29T17:20:30.075000Z"
+        },
+        {
+          "id": "476791ea672f7f5d5323dc1c86416a98c0375b53",
+          "title": "OpenAI 发布 GPT-6.1 Sol，以约五分之一价格接近 GPT-6 Astra 智能 / GPT 6.1 Sol",
+          "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-29T17:20:30.075000Z"
+        },
+        {
+          "id": "38962e864ad8b46571505649290c8d777c5cbc56",
+          "title": "OpenAI 发布 GPT-6.1 Sol，以约五分之一价格接近 GPT-6 Astra 智能 / GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+          "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-29T17:06:45Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "OpenAI News",
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "openai.com"
+      ],
+      "items": [
+        {
+          "id": "79e8ec51dfc696a0fb49d867a814731799bbc3d6",
+          "title": "OpenAI 发布 GPT-6.1 Sol，以约五分之一价格接近 GPT-6 Astra 智能 / Introducing GPT-6.1 Sol",
+          "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-29T10:00:00Z"
+        },
+        {
+          "id": "12d0a4425111dfd06441f22f43a1a253d96d5d66",
+          "title": "OpenAI 发布 GPT-6.1 Sol，以约五分之一价格接近 GPT-6 Astra 智能",
+          "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-29T17:20:30.075000Z"
+        },
+        {
+          "id": "476791ea672f7f5d5323dc1c86416a98c0375b53",
+          "title": "OpenAI 发布 GPT-6.1 Sol，以约五分之一价格接近 GPT-6 Astra 智能 / GPT 6.1 Sol",
+          "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-29T17:20:30.075000Z"
+        },
+        {
+          "id": "38962e864ad8b46571505649290c8d777c5cbc56",
+          "title": "OpenAI 发布 GPT-6.1 Sol，以约五分之一价格接近 GPT-6 Astra 智能 / GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+          "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-29T17:06:45Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.8927,
+      "importance": 0.8927,
+      "importance_score": 0.8927,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7651,
+        "story_heat": 0.75
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-29T10:00:00Z",
+      "latest_at": "2026-09-29T17:20:30.075000Z",
+      "primary_item": {
+        "id": "79e8ec51dfc696a0fb49d867a814731799bbc3d6",
+        "title": "OpenAI 发布 GPT-6.1 Sol，以约五分之一价格接近 GPT-6 Astra 智能 / Introducing GPT-6.1 Sol",
+        "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_493cf3fce1b8",
+      "title": "NVIDIA 发布开源表格基础模型 Kumo Tabular，在 TabArena 等四项基准排名第一 / NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+      "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
+      "primary_url": "https://huggingface.co/blog/nvidia/kumo-tabular",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "3764f310b38ccbc112606e16cd32a15f32cfeef7",
+          "title": "NVIDIA 发布开源表格基础模型 Kumo Tabular，在 TabArena 等四项基准排名第一 / NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+          "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-29T15:30:38Z"
+        },
+        {
+          "id": "9f9033a506e5eeb96cc674f22edaa8b3a9d048a8",
+          "title": "NVIDIA 发布开源表格基础模型 Kumo Tabular，在 TabArena 等四项基准排名第一",
+          "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
+          "source": "Hugging Face：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-29T15:30:38Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hugging Face Blog",
+        "Hugging Face：Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "3764f310b38ccbc112606e16cd32a15f32cfeef7",
+          "title": "NVIDIA 发布开源表格基础模型 Kumo Tabular，在 TabArena 等四项基准排名第一 / NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+          "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-29T15:30:38Z"
+        },
+        {
+          "id": "9f9033a506e5eeb96cc674f22edaa8b3a9d048a8",
+          "title": "NVIDIA 发布开源表格基础模型 Kumo Tabular，在 TabArena 等四项基准排名第一",
+          "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
+          "source": "Hugging Face：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-29T15:30:38Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8541,
+      "importance": 0.8541,
+      "importance_score": 0.8541,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8284,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-29T15:30:38Z",
+      "latest_at": "2026-09-29T15:30:38Z",
+      "primary_item": {
+        "id": "3764f310b38ccbc112606e16cd32a15f32cfeef7",
+        "title": "NVIDIA 发布开源表格基础模型 Kumo Tabular，在 TabArena 等四项基准排名第一 / NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+        "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_9be84db4b5c5",
+      "title": "GPT-6.1 Sol in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-09-29-gpt-6-1-sol-in-github-copilot",
+      "primary_url": "https://github.blog/changelog/2026-09-29-gpt-6-1-sol-in-github-copilot",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "af29f025c5ac0129cadde6356b7889b9b5fb7a32",
+          "title": "GPT-6.1 Sol in GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-09-29-gpt-6-1-sol-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-29T17:02:27Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "af29f025c5ac0129cadde6356b7889b9b5fb7a32",
+          "title": "GPT-6.1 Sol in GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-09-29-gpt-6-1-sol-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-29T17:02:27Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8325,
+      "importance": 0.8325,
+      "importance_score": 0.8325,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.847,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-29T17:02:27Z",
+      "latest_at": "2026-09-29T17:02:27Z",
+      "primary_item": {
+        "id": "af29f025c5ac0129cadde6356b7889b9b5fb7a32",
+        "title": "GPT-6.1 Sol in GitHub Copilot",
+        "url": "https://github.blog/changelog/2026-09-29-gpt-6-1-sol-in-github-copilot",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_527de07bcab2",
+      "title": "纽约时报报道 OpenAI 在 AI 失控前已接到员工安全警告但被无视",
+      "url": "https://www.ithome.com/1/008/592.htm",
+      "primary_url": "https://www.ithome.com/1/008/592.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6637be9e422b35701ff8ab7b2883c8bf52904838",
+          "title": "纽约时报报道 OpenAI 在 AI 失控前已接到员工安全警告但被无视",
+          "url": "https://www.ithome.com/1/008/592.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-30T01:48:21Z"
+        },
+        {
+          "id": "352a17fc59a5cdb4eaa5df3355c22245f6d03581",
+          "title": "消息称 AI 失控前 OpenAI 已接到员工警告，但高层选择无视",
+          "url": "https://www.ithome.com/1/008/592.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-30T01:48:21Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "6637be9e422b35701ff8ab7b2883c8bf52904838",
+          "title": "纽约时报报道 OpenAI 在 AI 失控前已接到员工安全警告但被无视",
+          "url": "https://www.ithome.com/1/008/592.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-30T01:48:21Z"
+        },
+        {
+          "id": "352a17fc59a5cdb4eaa5df3355c22245f6d03581",
+          "title": "消息称 AI 失控前 OpenAI 已接到员工警告，但高层选择无视",
+          "url": "https://www.ithome.com/1/008/592.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-30T01:48:21Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8306,
+      "importance": 0.8306,
+      "importance_score": 0.8306,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.87,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9612,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-30T01:48:21Z",
+      "latest_at": "2026-09-30T01:48:21Z",
+      "primary_item": {
+        "id": "6637be9e422b35701ff8ab7b2883c8bf52904838",
+        "title": "纽约时报报道 OpenAI 在 AI 失控前已接到员工安全警告但被无视",
+        "url": "https://www.ithome.com/1/008/592.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_482046899a06",
+      "title": "OpenAI 取消 GPT-6.1 下月发布计划，称其安全性未达标",
+      "url": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release",
+      "primary_url": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release",
+      "source": "Ars Technica：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9fce97be58f60d72003de8d3bdff78542ef4d6c2",
+          "title": "OpenAI 取消 GPT-6.1 下月发布计划，称其安全性未达标",
+          "url": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release",
+          "source": "Ars Technica：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-29T14:22:31Z"
+        },
+        {
+          "id": "afc87fd38c1f88e9cf7daedecbc97ecf311a4223",
+          "title": "OpenAI表示，计划中的GPT-6.1因安全性不足而无法发布",
+          "url": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-29T14:42:17.593000Z"
+        },
+        {
+          "id": "e053e18184fdc043c5dd7994d7f751c1a1746ed7",
+          "title": "OpenAI 取消 GPT-6.1 下月发布计划，称其安全性未达标 / OpenAI says planned GPT-6.1 is too insecure to release",
+          "url": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release",
+          "source": "Ars Technica",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-29T14:22:31Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Ars Technica",
+        "Ars Technica：AI（RSS）",
+        "arstechnica.com"
+      ],
+      "items": [
+        {
+          "id": "9fce97be58f60d72003de8d3bdff78542ef4d6c2",
+          "title": "OpenAI 取消 GPT-6.1 下月发布计划，称其安全性未达标",
+          "url": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release",
+          "source": "Ars Technica：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-29T14:22:31Z"
+        },
+        {
+          "id": "afc87fd38c1f88e9cf7daedecbc97ecf311a4223",
+          "title": "OpenAI表示，计划中的GPT-6.1因安全性不足而无法发布",
+          "url": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-29T14:42:17.593000Z"
+        },
+        {
+          "id": "e053e18184fdc043c5dd7994d7f751c1a1746ed7",
+          "title": "OpenAI 取消 GPT-6.1 下月发布计划，称其安全性未达标 / OpenAI says planned GPT-6.1 is too insecure to release",
+          "url": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release",
+          "source": "Ars Technica",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-29T14:22:31Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8293,
+      "importance": 0.8293,
+      "importance_score": 0.8293,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.87,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.815,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-29T14:22:31Z",
+      "latest_at": "2026-09-29T14:42:17.593000Z",
+      "primary_item": {
+        "id": "9fce97be58f60d72003de8d3bdff78542ef4d6c2",
+        "title": "OpenAI 取消 GPT-6.1 下月发布计划，称其安全性未达标",
+        "url": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release",
+        "source": "Ars Technica：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_884977ecb800",
+      "title": "OpenAI 发布常驻智能体 dots，由 GPT-6 Astra 驱动",
+      "url": "https://openai.com/index/introducing-dots",
+      "primary_url": "https://openai.com/index/introducing-dots",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "058bb9eef35cccc5cd53e7c8748b2fa91d574ab2",
+          "title": "OpenAI 发布常驻智能体 dots，由 GPT-6 Astra 驱动",
+          "url": "https://openai.com/index/introducing-dots",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-29T17:36:13.593000Z"
+        },
+        {
+          "id": "1c68c3e1f1673d60618000416d29305baeffb172",
+          "title": "圆点",
+          "url": "https://openai.com/index/introducing-dots",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-29T17:36:13.593000Z"
+        },
+        {
+          "id": "f5800fcde9d1657f69a08421b120dda90d3395db",
+          "title": "OpenAI 发布常驻智能体 dots，由 GPT-6 Astra 驱动 / Dots: Always-on agents",
+          "url": "https://openai.com/index/introducing-dots",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-29T17:07:57Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "openai.com"
+      ],
+      "items": [
+        {
+          "id": "058bb9eef35cccc5cd53e7c8748b2fa91d574ab2",
+          "title": "OpenAI 发布常驻智能体 dots，由 GPT-6 Astra 驱动",
+          "url": "https://openai.com/index/introducing-dots",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-29T17:36:13.593000Z"
+        },
+        {
+          "id": "1c68c3e1f1673d60618000416d29305baeffb172",
+          "title": "圆点",
+          "url": "https://openai.com/index/introducing-dots",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-29T17:36:13.593000Z"
+        },
+        {
+          "id": "f5800fcde9d1657f69a08421b120dda90d3395db",
+          "title": "OpenAI 发布常驻智能体 dots，由 GPT-6 Astra 驱动 / Dots: Always-on agents",
+          "url": "https://openai.com/index/introducing-dots",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-29T17:07:57Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8183,
+      "importance": 0.8183,
+      "importance_score": 0.8183,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.81,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8539,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-29T17:07:57Z",
+      "latest_at": "2026-09-29T17:36:13.593000Z",
+      "primary_item": {
+        "id": "058bb9eef35cccc5cd53e7c8748b2fa91d574ab2",
+        "title": "OpenAI 发布常驻智能体 dots，由 GPT-6 Astra 驱动",
+        "url": "https://openai.com/index/introducing-dots",
+        "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_c92e39202c4c",
+      "title": "IMDEA Networks 论文：九款对话式 AI 服务向第三方泄露对话标题、提示词与截图",
+      "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+      "primary_url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+      "source": "Hacker News：AI 热帖",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "88391ae44bf63c40d50021f02a4e5a84f6a43b73",
+          "title": "IMDEA Networks 论文：九款对话式 AI 服务向第三方泄露对话标题、提示词与截图",
+          "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-29T09:03:41Z"
+        },
+        {
+          "id": "d3b39233e64c02e402639ed208e37dde93ae87a7",
+          "title": "人工智能公司向广告商泄露数据 [pdf]",
+          "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+          "source": "jorgegarciaherrero.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-29T11:32:02.125000Z"
+        },
+        {
+          "id": "21b2e8bce375c925ab34d59be5c66d3cad06deb7",
+          "title": "IMDEA Networks 论文：九款对话式 AI 服务向第三方泄露对话标题、提示词与截图 / A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
+          "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-29T09:03:41Z"
+        },
+        {
+          "id": "2f76a1ac550bd01fb701587b82d2c79b45d1e3ce",
+          "title": "IMDEA Networks 论文：九款对话式 AI 服务向第三方泄露对话标题、提示词与截图 / AI companies leak data to advertisers [pdf]",
+          "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-29T09:03:41Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
+        "Hacker News：AI 热帖",
+        "jorgegarciaherrero.com"
+      ],
+      "items": [
+        {
+          "id": "88391ae44bf63c40d50021f02a4e5a84f6a43b73",
+          "title": "IMDEA Networks 论文：九款对话式 AI 服务向第三方泄露对话标题、提示词与截图",
+          "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-29T09:03:41Z"
+        },
+        {
+          "id": "d3b39233e64c02e402639ed208e37dde93ae87a7",
+          "title": "人工智能公司向广告商泄露数据 [pdf]",
+          "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+          "source": "jorgegarciaherrero.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-29T11:32:02.125000Z"
+        },
+        {
+          "id": "21b2e8bce375c925ab34d59be5c66d3cad06deb7",
+          "title": "IMDEA Networks 论文：九款对话式 AI 服务向第三方泄露对话标题、提示词与截图 / A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
+          "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-29T09:03:41Z"
+        },
+        {
+          "id": "2f76a1ac550bd01fb701587b82d2c79b45d1e3ce",
+          "title": "IMDEA Networks 论文：九款对话式 AI 服务向第三方泄露对话标题、提示词与截图 / AI companies leak data to advertisers [pdf]",
+          "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-29T09:03:41Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.8135,
+      "importance": 0.8135,
+      "importance_score": 0.8135,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7548,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-29T09:03:41Z",
+      "latest_at": "2026-09-29T11:32:02.125000Z",
+      "primary_item": {
+        "id": "88391ae44bf63c40d50021f02a4e5a84f6a43b73",
+        "title": "IMDEA Networks 论文：九款对话式 AI 服务向第三方泄露对话标题、提示词与截图",
+        "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+        "source": "Hacker News：AI 热帖",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_b5c0f035b149",
+      "title": "GamersNexus 分析内存厂商以长期协议锁定产能，消费级 RAM 与 SSD 价格一年大涨",
+      "url": "https://gamersnexus.net/news-features/memory-companies-have-destroyed-consumer-market",
+      "primary_url": "https://gamersnexus.net/news-features/memory-companies-have-destroyed-consumer-market",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "74bf172644458eba8c5f0c60486b2674b46ae594",
+          "title": "GamersNexus 分析内存厂商以长期协议锁定产能，消费级 RAM 与 SSD 价格一年大涨",
+          "url": "https://gamersnexus.net/news-features/memory-companies-have-destroyed-consumer-market",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-30T01:40:59.989000Z"
+        },
+        {
+          "id": "adc0baa84ffe11290911db2d5659b5e7612cd5fe",
+          "title": "GamersNexus 分析内存厂商以长期协议锁定产能，消费级 RAM 与 SSD 价格一年大涨 / Memory Companies Have Destroyed the Consumer Market",
+          "url": "https://gamersnexus.net/news-features/memory-companies-have-destroyed-consumer-market",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-29T19:27:41Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "74bf172644458eba8c5f0c60486b2674b46ae594",
+          "title": "GamersNexus 分析内存厂商以长期协议锁定产能，消费级 RAM 与 SSD 价格一年大涨",
+          "url": "https://gamersnexus.net/news-features/memory-companies-have-destroyed-consumer-market",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-30T01:40:59.989000Z"
+        },
+        {
+          "id": "adc0baa84ffe11290911db2d5659b5e7612cd5fe",
+          "title": "GamersNexus 分析内存厂商以长期协议锁定产能，消费级 RAM 与 SSD 价格一年大涨 / Memory Companies Have Destroyed the Consumer Market",
+          "url": "https://gamersnexus.net/news-features/memory-companies-have-destroyed-consumer-market",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-29T19:27:41Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8093,
+      "importance": 0.8093,
+      "importance_score": 0.8093,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.8,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9595,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-29T19:27:41Z",
+      "latest_at": "2026-09-30T01:40:59.989000Z",
+      "primary_item": {
+        "id": "74bf172644458eba8c5f0c60486b2674b46ae594",
+        "title": "GamersNexus 分析内存厂商以长期协议锁定产能，消费级 RAM 与 SSD 价格一年大涨",
+        "url": "https://gamersnexus.net/news-features/memory-companies-have-destroyed-consumer-market",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_19db7cc5ca5c",
+      "title": "OpenAI DevDay 2026 发布 GPT-6.1 Sol、常驻智能体 Dots 等 20 余项更新 / DevDay 2026 Recap",
+      "url": "https://openai.com/index/devday-2026-recap",
+      "primary_url": "https://openai.com/index/devday-2026-recap",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "fe865f29c90443fb346190f239a0c160b5988efa",
+          "title": "OpenAI DevDay 2026 发布 GPT-6.1 Sol、常驻智能体 Dots 等 20 余项更新 / DevDay 2026 Recap",
+          "url": "https://openai.com/index/devday-2026-recap",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-29T10:00:00Z"
+        },
+        {
+          "id": "ba34b98778e97a19a9c917b6433bc1dad5a30fa8",
+          "title": "OpenAI DevDay 2026 发布 GPT-6.1 Sol、常驻智能体 Dots 等 20 余项更新",
+          "url": "https://openai.com/index/devday-2026-recap",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-29T10:00:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "OpenAI News",
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+      ],
+      "items": [
+        {
+          "id": "fe865f29c90443fb346190f239a0c160b5988efa",
+          "title": "OpenAI DevDay 2026 发布 GPT-6.1 Sol、常驻智能体 Dots 等 20 余项更新 / DevDay 2026 Recap",
+          "url": "https://openai.com/index/devday-2026-recap",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-29T10:00:00Z"
+        },
+        {
+          "id": "ba34b98778e97a19a9c917b6433bc1dad5a30fa8",
+          "title": "OpenAI DevDay 2026 发布 GPT-6.1 Sol、常驻智能体 Dots 等 20 余项更新",
+          "url": "https://openai.com/index/devday-2026-recap",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-29T10:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8347,
+      "importance": 0.8347,
+      "importance_score": 0.8347,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7651,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-29T10:00:00Z",
+      "latest_at": "2026-09-29T10:00:00Z",
+      "primary_item": {
+        "id": "fe865f29c90443fb346190f239a0c160b5988efa",
+        "title": "OpenAI DevDay 2026 发布 GPT-6.1 Sol、常驻智能体 Dots 等 20 余项更新 / DevDay 2026 Recap",
+        "url": "https://openai.com/index/devday-2026-recap",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_9ce258e5a60b",
+      "title": "OpenAI 据报道洽谈以约 1.4 万亿美元估值融资至少 300 亿美元",
+      "url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation",
+      "primary_url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "498dc000c78d24ef9003ed81482127745fdc4a1b",
+          "title": "OpenAI 据报道洽谈以约 1.4 万亿美元估值融资至少 300 亿美元",
+          "url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-29T19:52:37Z"
+        },
+        {
+          "id": "af181df44bbe710a92ebed7d12d6b13437f1b8dd",
+          "title": "OpenAI 据报道洽谈以约 1.4 万亿美元估值融资至少 300 亿美元 / OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
+          "url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-29T19:52:37Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "TechCrunch AI",
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "498dc000c78d24ef9003ed81482127745fdc4a1b",
+          "title": "OpenAI 据报道洽谈以约 1.4 万亿美元估值融资至少 300 亿美元",
+          "url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-29T19:52:37Z"
+        },
+        {
+          "id": "af181df44bbe710a92ebed7d12d6b13437f1b8dd",
+          "title": "OpenAI 据报道洽谈以约 1.4 万亿美元估值融资至少 300 亿美元 / OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
+          "url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-29T19:52:37Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8044,
+      "importance": 0.8044,
+      "importance_score": 0.8044,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.83,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8824,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-29T19:52:37Z",
+      "latest_at": "2026-09-29T19:52:37Z",
+      "primary_item": {
+        "id": "498dc000c78d24ef9003ed81482127745fdc4a1b",
+        "title": "OpenAI 据报道洽谈以约 1.4 万亿美元估值融资至少 300 亿美元",
+        "url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
     {
       "story_id": "story_984223f109f3",
       "title": "获取正确的源代码，而不仅仅是事实：MCP 代理的源感知验证 / Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
@@ -38,15 +946,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8619,
-      "importance": 0.8619,
-      "importance_score": 0.8619,
+      "score": 0.8321,
+      "importance": 0.8321,
+      "importance_score": 0.8321,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.9664,
+        "recency": 0.8003,
         "story_heat": 0.0
       },
       "category": "official",
@@ -66,203 +974,102 @@
       }
     },
     {
-      "story_id": "story_cfe8e900401f",
-      "title": "OpenAI 披露模型在训练评估中未经授权访问澳大利亚政府网站事件及整改措施 / How we will do better for Australia",
-      "url": "https://openai.com/index/how-we-will-do-better-for-australia",
-      "primary_url": "https://openai.com/index/how-we-will-do-better-for-australia",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_6cbde97d8260",
+      "title": "OpenAI DevDay 2026 发布 Dots、GPT-6.1 Sol、500美元订阅等一揽子更新",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686841&idx=1&sn=630c0dc22de47c9c2f58bd5253a91a9a&chksm=f1e33576f80f214c7290b1545cc8bfbb32ac24c3144cd141b7c2dd7cdaaf71f44d3cf319db8b&scene=126&sessionid=1790722837",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686841&idx=1&sn=630c0dc22de47c9c2f58bd5253a91a9a&chksm=f1e33576f80f214c7290b1545cc8bfbb32ac24c3144cd141b7c2dd7cdaaf71f44d3cf319db8b&scene=126&sessionid=1790722837",
+      "source": "公众号：数字生命卡兹克",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "fe0a8a71338d71eb6a8ab393365bb8993319c9b3",
-          "title": "OpenAI 披露模型在训练评估中未经授权访问澳大利亚政府网站事件及整改措施 / How we will do better for Australia",
-          "url": "https://openai.com/index/how-we-will-do-better-for-australia",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-28T19:00:00Z"
-        },
-        {
-          "id": "b4460e4623f48639fbd8bd2364e8b15ab5fd0cae",
-          "title": "OpenAI 披露模型在训练评估中未经授权访问澳大利亚政府网站事件及整改措施",
-          "url": "https://openai.com/index/how-we-will-do-better-for-australia",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "id": "74231800615e7af33f93162bbce316b685871dd5",
+          "title": "DeepSeek 开源面向华为昇腾平台的基础设施组件",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ%3D%3D&mid=2247485843&idx=1&sn=565102c3642d88e814331390bf62d276&chksm=c2b41a7a4ae29752ec9555ae3de574d2c8f60b42aaf1db0aaf4511c38f174d7abc860a8ee56c&scene=126&sessionid=1790739034",
+          "source": "公众号：DeepSeek（深度求索）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-29T01:00:00Z"
+          "published_at": "2026-09-30T02:01:00Z"
+        },
+        {
+          "id": "411faf8e50045571da0e4d2971e617fe3c7601ea",
+          "title": "OpenAI DevDay 2026 发布 Dots、GPT-6.1 Sol、500美元订阅等一揽子更新",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686841&idx=1&sn=630c0dc22de47c9c2f58bd5253a91a9a&chksm=f1e33576f80f214c7290b1545cc8bfbb32ac24c3144cd141b7c2dd7cdaaf71f44d3cf319db8b&scene=126&sessionid=1790722837",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-29T21:47:43Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "OpenAI News",
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+        "公众号：DeepSeek（深度求索）",
+        "公众号：数字生命卡兹克"
       ],
       "items": [
         {
-          "id": "fe0a8a71338d71eb6a8ab393365bb8993319c9b3",
-          "title": "OpenAI 披露模型在训练评估中未经授权访问澳大利亚政府网站事件及整改措施 / How we will do better for Australia",
-          "url": "https://openai.com/index/how-we-will-do-better-for-australia",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-28T19:00:00Z"
-        },
-        {
-          "id": "b4460e4623f48639fbd8bd2364e8b15ab5fd0cae",
-          "title": "OpenAI 披露模型在训练评估中未经授权访问澳大利亚政府网站事件及整改措施",
-          "url": "https://openai.com/index/how-we-will-do-better-for-australia",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "id": "74231800615e7af33f93162bbce316b685871dd5",
+          "title": "DeepSeek 开源面向华为昇腾平台的基础设施组件",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ%3D%3D&mid=2247485843&idx=1&sn=565102c3642d88e814331390bf62d276&chksm=c2b41a7a4ae29752ec9555ae3de574d2c8f60b42aaf1db0aaf4511c38f174d7abc860a8ee56c&scene=126&sessionid=1790739034",
+          "source": "公众号：DeepSeek（深度求索）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-29T01:00:00Z"
+          "published_at": "2026-09-30T02:01:00Z"
+        },
+        {
+          "id": "411faf8e50045571da0e4d2971e617fe3c7601ea",
+          "title": "OpenAI DevDay 2026 发布 Dots、GPT-6.1 Sol、500美元订阅等一揽子更新",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686841&idx=1&sn=630c0dc22de47c9c2f58bd5253a91a9a&chksm=f1e33576f80f214c7290b1545cc8bfbb32ac24c3144cd141b7c2dd7cdaaf71f44d3cf319db8b&scene=126&sessionid=1790722837",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-29T21:47:43Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8309,
-      "importance": 0.8309,
-      "importance_score": 0.8309,
-      "importance_label": "官方更新",
+      "score": 0.7969,
+      "importance": 0.7969,
+      "importance_score": 0.7969,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7439,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T19:00:00Z",
-      "latest_at": "2026-09-29T01:00:00Z",
-      "primary_item": {
-        "id": "fe0a8a71338d71eb6a8ab393365bb8993319c9b3",
-        "title": "OpenAI 披露模型在训练评估中未经授权访问澳大利亚政府网站事件及整改措施 / How we will do better for Australia",
-        "url": "https://openai.com/index/how-we-will-do-better-for-australia",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_c92e39202c4c",
-      "title": "IMDEA Networks 论文：九款对话式 AI 服务向第三方泄露对话标题、提示词与截图",
-      "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
-      "primary_url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
-      "source": "Hacker News：AI 热帖",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "88391ae44bf63c40d50021f02a4e5a84f6a43b73",
-          "title": "IMDEA Networks 论文：九款对话式 AI 服务向第三方泄露对话标题、提示词与截图",
-          "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-29T09:03:41Z"
-        },
-        {
-          "id": "d3b39233e64c02e402639ed208e37dde93ae87a7",
-          "title": "人工智能公司向广告商泄露数据 [pdf]",
-          "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
-          "source": "jorgegarciaherrero.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-29T11:32:02.125000Z"
-        },
-        {
-          "id": "2f76a1ac550bd01fb701587b82d2c79b45d1e3ce",
-          "title": "IMDEA Networks 论文：九款对话式 AI 服务向第三方泄露对话标题、提示词与截图 / AI companies leak data to advertisers [pdf]",
-          "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-29T09:03:41Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News：AI 热帖",
-        "jorgegarciaherrero.com"
-      ],
-      "items": [
-        {
-          "id": "88391ae44bf63c40d50021f02a4e5a84f6a43b73",
-          "title": "IMDEA Networks 论文：九款对话式 AI 服务向第三方泄露对话标题、提示词与截图",
-          "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-29T09:03:41Z"
-        },
-        {
-          "id": "d3b39233e64c02e402639ed208e37dde93ae87a7",
-          "title": "人工智能公司向广告商泄露数据 [pdf]",
-          "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
-          "source": "jorgegarciaherrero.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-29T11:32:02.125000Z"
-        },
-        {
-          "id": "2f76a1ac550bd01fb701587b82d2c79b45d1e3ce",
-          "title": "IMDEA Networks 论文：九款对话式 AI 服务向第三方泄露对话标题、提示词与截图 / AI companies leak data to advertisers [pdf]",
-          "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-29T09:03:41Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8167,
-      "importance": 0.8167,
-      "importance_score": 0.8167,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.77,
+        "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9114,
-        "story_heat": 0.5
+        "recency": 0.9071,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "industry",
       "reasons": [
         "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-29T09:03:41Z",
-      "latest_at": "2026-09-29T11:32:02.125000Z",
+      "earliest_at": "2026-09-29T21:47:43Z",
+      "latest_at": "2026-09-30T02:01:00Z",
       "primary_item": {
-        "id": "88391ae44bf63c40d50021f02a4e5a84f6a43b73",
-        "title": "IMDEA Networks 论文：九款对话式 AI 服务向第三方泄露对话标题、提示词与截图",
-        "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
-        "source": "Hacker News：AI 热帖",
+        "id": "411faf8e50045571da0e4d2971e617fe3c7601ea",
+        "title": "OpenAI DevDay 2026 发布 Dots、GPT-6.1 Sol、500美元订阅等一揽子更新",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686841&idx=1&sn=630c0dc22de47c9c2f58bd5253a91a9a&chksm=f1e33576f80f214c7290b1545cc8bfbb32ac24c3144cd141b7c2dd7cdaaf71f44d3cf319db8b&scene=126&sessionid=1790722837",
+        "source": "公众号：数字生命卡兹克",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_c579283ea8d7",
-      "title": "Claude Sonnet 5.5 in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-09-28-claude-sonnet-5-5-in-github-copilot",
-      "primary_url": "https://github.blog/changelog/2026-09-28-claude-sonnet-5-5-in-github-copilot",
+      "story_id": "story_58ff7a58d9c6",
+      "title": "通过外部自定义属性引入业务上下文 / Bring business context with external custom properties",
+      "url": "https://github.blog/changelog/2026-09-29-bring-business-context-with-external-custom-properties",
+      "primary_url": "https://github.blog/changelog/2026-09-29-bring-business-context-with-external-custom-properties",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "6ca7b84b71814e47e7dcc1f8dcf148c56a3b433e",
-          "title": "Claude Sonnet 5.5 in GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-09-28-claude-sonnet-5-5-in-github-copilot",
+          "id": "79190b043c8d82a028da882f09f9077d8e0aea6d",
+          "title": "通过外部自定义属性引入业务上下文 / Bring business context with external custom properties",
+          "url": "https://github.blog/changelog/2026-09-29-bring-business-context-with-external-custom-properties",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-28T18:03:57Z"
+          "published_at": "2026-09-29T18:40:27Z"
         }
       ],
       "source_count": 1,
@@ -271,88 +1078,26 @@
       ],
       "items": [
         {
-          "id": "6ca7b84b71814e47e7dcc1f8dcf148c56a3b433e",
-          "title": "Claude Sonnet 5.5 in GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-09-28-claude-sonnet-5-5-in-github-copilot",
+          "id": "79190b043c8d82a028da882f09f9077d8e0aea6d",
+          "title": "通过外部自定义属性引入业务上下文 / Bring business context with external custom properties",
+          "url": "https://github.blog/changelog/2026-09-29-bring-business-context-with-external-custom-properties",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-28T18:03:57Z"
+          "published_at": "2026-09-29T18:40:27Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8121,
-      "importance": 0.8121,
-      "importance_score": 0.8121,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.734,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T18:03:57Z",
-      "latest_at": "2026-09-28T18:03:57Z",
-      "primary_item": {
-        "id": "6ca7b84b71814e47e7dcc1f8dcf148c56a3b433e",
-        "title": "Claude Sonnet 5.5 in GitHub Copilot",
-        "url": "https://github.blog/changelog/2026-09-28-claude-sonnet-5-5-in-github-copilot",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_ebb851930de7",
-      "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "4fb734111bc2bf39e17b61bb04ddd3de046ad74c",
-          "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-28T19:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "4fb734111bc2bf39e17b61bb04ddd3de046ad74c",
-          "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-28T19:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8039,
-      "importance": 0.8039,
-      "importance_score": 0.8039,
+      "score": 0.8261,
+      "importance": 0.8261,
+      "importance_score": 0.8261,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.9,
-        "recency": 0.7439,
+        "recency": 0.8672,
         "story_heat": 0.0
       },
       "category": "official",
@@ -361,41 +1106,41 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-28T19:00:00Z",
-      "latest_at": "2026-09-28T19:00:00Z",
+      "earliest_at": "2026-09-29T18:40:27Z",
+      "latest_at": "2026-09-29T18:40:27Z",
       "primary_item": {
-        "id": "4fb734111bc2bf39e17b61bb04ddd3de046ad74c",
-        "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-        "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize",
-        "source": "Google AI Blog",
+        "id": "79190b043c8d82a028da882f09f9077d8e0aea6d",
+        "title": "通过外部自定义属性引入业务上下文 / Bring business context with external custom properties",
+        "url": "https://github.blog/changelog/2026-09-29-bring-business-context-with-external-custom-properties",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_90ce2d26c785",
-      "title": "OpenAI 因欺骗性问题叫停 GPT-6.1 Astra 发布",
-      "url": "https://the-decoder.com/gpt-6-1-astra-is-too-deceptive-for-release-marking-openais-most-dramatic-safety-intervention-yet",
-      "primary_url": "https://the-decoder.com/gpt-6-1-astra-is-too-deceptive-for-release-marking-openais-most-dramatic-safety-intervention-yet",
+      "story_id": "story_72001d22fa40",
+      "title": "英国 AISI 评测发现 GPT-6 Astra 未授权攻击率达 GPT-5.6 Sol 的约五倍",
+      "url": "https://the-decoder.com/uk-ai-security-institute-finds-gpt-6-astras-rogue-attack-rate-jumped-fivefold-over-its-predecessor",
+      "primary_url": "https://the-decoder.com/uk-ai-security-institute-finds-gpt-6-astras-rogue-attack-rate-jumped-fivefold-over-its-predecessor",
       "source": "The Decoder：AI News（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "0a791fa1cf3f088b80d71cfff074637794d2c64a",
-          "title": "OpenAI 因欺骗性问题叫停 GPT-6.1 Astra 发布",
-          "url": "https://the-decoder.com/gpt-6-1-astra-is-too-deceptive-for-release-marking-openais-most-dramatic-safety-intervention-yet",
+          "id": "1dd1c93d7b1cdfd9ceb1c70488df0702a397d6f2",
+          "title": "英国 AISI 评测发现 GPT-6 Astra 未授权攻击率达 GPT-5.6 Sol 的约五倍",
+          "url": "https://the-decoder.com/uk-ai-security-institute-finds-gpt-6-astras-rogue-attack-rate-jumped-fivefold-over-its-predecessor",
           "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-29T08:26:38Z"
+          "published_at": "2026-09-29T19:24:12Z"
         },
         {
-          "id": "71c45771d87671bbab6ce7b11263d5ccdc76c412",
-          "title": "OpenAI 因欺骗性问题叫停 GPT-6.1 Astra 发布 / GPT-6.1 Astra is too deceptive for release, marking OpenAI's most dramatic safety intervention yet",
-          "url": "https://the-decoder.com/gpt-6-1-astra-is-too-deceptive-for-release-marking-openais-most-dramatic-safety-intervention-yet",
+          "id": "8b88c00c8050e31f136a571827772d7a3c3161a4",
+          "title": "英国 AISI 评测发现 GPT-6 Astra 未授权攻击率达 GPT-5.6 Sol 的约五倍 / UK AI Security Institute finds GPT-6 Astra's rogue attack rate jumped fivefold over its predecessor",
+          "url": "https://the-decoder.com/uk-ai-security-institute-finds-gpt-6-astras-rogue-attack-rate-jumped-fivefold-over-its-predecessor",
           "source": "The Decoder AI News",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-09-29T08:26:38Z"
+          "published_at": "2026-09-29T19:24:12Z"
         }
       ],
       "source_count": 2,
@@ -405,35 +1150,35 @@
       ],
       "items": [
         {
-          "id": "0a791fa1cf3f088b80d71cfff074637794d2c64a",
-          "title": "OpenAI 因欺骗性问题叫停 GPT-6.1 Astra 发布",
-          "url": "https://the-decoder.com/gpt-6-1-astra-is-too-deceptive-for-release-marking-openais-most-dramatic-safety-intervention-yet",
+          "id": "1dd1c93d7b1cdfd9ceb1c70488df0702a397d6f2",
+          "title": "英国 AISI 评测发现 GPT-6 Astra 未授权攻击率达 GPT-5.6 Sol 的约五倍",
+          "url": "https://the-decoder.com/uk-ai-security-institute-finds-gpt-6-astras-rogue-attack-rate-jumped-fivefold-over-its-predecessor",
           "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-29T08:26:38Z"
+          "published_at": "2026-09-29T19:24:12Z"
         },
         {
-          "id": "71c45771d87671bbab6ce7b11263d5ccdc76c412",
-          "title": "OpenAI 因欺骗性问题叫停 GPT-6.1 Astra 发布 / GPT-6.1 Astra is too deceptive for release, marking OpenAI's most dramatic safety intervention yet",
-          "url": "https://the-decoder.com/gpt-6-1-astra-is-too-deceptive-for-release-marking-openais-most-dramatic-safety-intervention-yet",
+          "id": "8b88c00c8050e31f136a571827772d7a3c3161a4",
+          "title": "英国 AISI 评测发现 GPT-6 Astra 未授权攻击率达 GPT-5.6 Sol 的约五倍 / UK AI Security Institute finds GPT-6 Astra's rogue attack rate jumped fivefold over its predecessor",
+          "url": "https://the-decoder.com/uk-ai-security-institute-finds-gpt-6-astras-rogue-attack-rate-jumped-fivefold-over-its-predecessor",
           "source": "The Decoder AI News",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-09-29T08:26:38Z"
+          "published_at": "2026-09-29T19:24:12Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7962,
-      "importance": 0.7962,
-      "importance_score": 0.7962,
+      "score": 0.7943,
+      "importance": 0.7943,
+      "importance_score": 0.7943,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.79,
+        "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9033,
+        "recency": 0.8763,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -442,60 +1187,141 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-29T08:26:38Z",
-      "latest_at": "2026-09-29T08:26:38Z",
+      "earliest_at": "2026-09-29T19:24:12Z",
+      "latest_at": "2026-09-29T19:24:12Z",
       "primary_item": {
-        "id": "0a791fa1cf3f088b80d71cfff074637794d2c64a",
-        "title": "OpenAI 因欺骗性问题叫停 GPT-6.1 Astra 发布",
-        "url": "https://the-decoder.com/gpt-6-1-astra-is-too-deceptive-for-release-marking-openais-most-dramatic-safety-intervention-yet",
+        "id": "1dd1c93d7b1cdfd9ceb1c70488df0702a397d6f2",
+        "title": "英国 AISI 评测发现 GPT-6 Astra 未授权攻击率达 GPT-5.6 Sol 的约五倍",
+        "url": "https://the-decoder.com/uk-ai-security-institute-finds-gpt-6-astras-rogue-attack-rate-jumped-fivefold-over-its-predecessor",
         "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_5df2e2a85b6f",
-      "title": "路透审阅 Anthropic IPO 招股书：收入增长 12 倍，IPO 估值或超 2 万亿美元",
-      "url": "https://x.com/rohanpaul_ai/status/2104758396474057192",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2104758396474057192",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "story_id": "story_b3d7fca67d2f",
+      "title": "Anthropic 与 SpaceX 签署最高 845 亿美元算力协议，可提前 90 天通知解除",
+      "url": "https://www.ithome.com/1/008/589.htm",
+      "primary_url": "https://www.ithome.com/1/008/589.htm",
+      "source": "IT之家（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "b6f3ba127f914db468cfcce760e4e719c98d7942",
-          "title": "路透审阅 Anthropic IPO 招股书：收入增长 12 倍，IPO 估值或超 2 万亿美元",
-          "url": "https://x.com/rohanpaul_ai/status/2104758396474057192",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "id": "9a01c2900b567c02652eb34f17fa229603a7d684",
+          "title": "Anthropic 与 SpaceX 签署最高 845 亿美元算力协议，可提前 90 天通知解除",
+          "url": "https://www.ithome.com/1/008/589.htm",
+          "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-29T02:21:20Z"
+          "published_at": "2026-09-30T01:41:26Z"
+        },
+        {
+          "id": "6e8f9822cd2025dcd70a0fc1a88d72cc4c6aa8ec",
+          "title": "Anthropic 与 SpaceX 签署最高 845 亿美元算力协议，可提前 90 天发通知解除",
+          "url": "https://www.ithome.com/1/008/589.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-30T01:41:26Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "9a01c2900b567c02652eb34f17fa229603a7d684",
+          "title": "Anthropic 与 SpaceX 签署最高 845 亿美元算力协议，可提前 90 天通知解除",
+          "url": "https://www.ithome.com/1/008/589.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-30T01:41:26Z"
+        },
+        {
+          "id": "6e8f9822cd2025dcd70a0fc1a88d72cc4c6aa8ec",
+          "title": "Anthropic 与 SpaceX 签署最高 845 亿美元算力协议，可提前 90 天发通知解除",
+          "url": "https://www.ithome.com/1/008/589.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-30T01:41:26Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8153,
+      "importance": 0.8153,
+      "importance_score": 0.8153,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.82,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9596,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-30T01:41:26Z",
+      "latest_at": "2026-09-30T01:41:26Z",
+      "primary_item": {
+        "id": "9a01c2900b567c02652eb34f17fa229603a7d684",
+        "title": "Anthropic 与 SpaceX 签署最高 845 亿美元算力协议，可提前 90 天通知解除",
+        "url": "https://www.ithome.com/1/008/589.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_cc119fedf6bc",
+      "title": "Hugging Face CEO 称被 NVIDIA 收购后可招募人才并用十年推动开源 AI 取胜",
+      "url": "https://x.com/ClementDelangue/status/2104960836796342729",
+      "primary_url": "https://x.com/ClementDelangue/status/2104960836796342729",
+      "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ec435108add6ff71cab964156cb797be3c197105",
+          "title": "Hugging Face CEO 称被 NVIDIA 收购后可招募人才并用十年推动开源 AI 取胜",
+          "url": "https://x.com/ClementDelangue/status/2104960836796342729",
+          "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-29T15:45:46Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
+        "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)"
       ],
       "items": [
         {
-          "id": "b6f3ba127f914db468cfcce760e4e719c98d7942",
-          "title": "路透审阅 Anthropic IPO 招股书：收入增长 12 倍，IPO 估值或超 2 万亿美元",
-          "url": "https://x.com/rohanpaul_ai/status/2104758396474057192",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "id": "ec435108add6ff71cab964156cb797be3c197105",
+          "title": "Hugging Face CEO 称被 NVIDIA 收购后可招募人才并用十年推动开源 AI 取胜",
+          "url": "https://x.com/ClementDelangue/status/2104960836796342729",
+          "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-29T02:21:20Z"
+          "published_at": "2026-09-29T15:45:46Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7815,
-      "importance": 0.7815,
-      "importance_score": 0.7815,
+      "score": 0.7793,
+      "importance": 0.7793,
+      "importance_score": 0.7793,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.87,
+        "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8273,
+        "recency": 0.8315,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -503,94 +1329,93 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-29T02:21:20Z",
-      "latest_at": "2026-09-29T02:21:20Z",
+      "earliest_at": "2026-09-29T15:45:46Z",
+      "latest_at": "2026-09-29T15:45:46Z",
       "primary_item": {
-        "id": "b6f3ba127f914db468cfcce760e4e719c98d7942",
-        "title": "路透审阅 Anthropic IPO 招股书：收入增长 12 倍，IPO 估值或超 2 万亿美元",
-        "url": "https://x.com/rohanpaul_ai/status/2104758396474057192",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "id": "ec435108add6ff71cab964156cb797be3c197105",
+        "title": "Hugging Face CEO 称被 NVIDIA 收购后可招募人才并用十年推动开源 AI 取胜",
+        "url": "https://x.com/ClementDelangue/status/2104960836796342729",
+        "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_cf468ec39dd6",
-      "title": "Towards safety cases for frontier AI training",
-      "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-      "primary_url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_3857965b98a8",
+      "title": "Claude Sonnet 5.5 (High) 以 1699 分登 Code Arena: WebDev 第 4 名",
+      "url": "https://x.com/arena/status/2104998408616558940",
+      "primary_url": "https://x.com/arena/status/2104998408616558940",
+      "source": "X：Arena (@arena)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "c1f808e273524bad08492a038dae36a455e222a3",
-          "title": "Towards safety cases for frontier AI training",
-          "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-28T19:00:00Z"
+          "id": "a95da7bb5da8e6ada76d39a83574968ad4231c1d",
+          "title": "Claude Sonnet 5.5 (High) 以 1699 分登 Code Arena: WebDev 第 4 名",
+          "url": "https://x.com/arena/status/2104998408616558940",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-29T18:15:04Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "X：Arena (@arena)"
       ],
       "items": [
         {
-          "id": "c1f808e273524bad08492a038dae36a455e222a3",
-          "title": "Towards safety cases for frontier AI training",
-          "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-28T19:00:00Z"
+          "id": "a95da7bb5da8e6ada76d39a83574968ad4231c1d",
+          "title": "Claude Sonnet 5.5 (High) 以 1699 分登 Code Arena: WebDev 第 4 名",
+          "url": "https://x.com/arena/status/2104998408616558940",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-29T18:15:04Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8059,
-      "importance": 0.8059,
-      "importance_score": 0.8059,
-      "importance_label": "官方更新",
+      "score": 0.7787,
+      "importance": 0.7787,
+      "importance_score": 0.7787,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7439,
+        "editorial": 0.84,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8619,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-28T19:00:00Z",
-      "latest_at": "2026-09-28T19:00:00Z",
+      "earliest_at": "2026-09-29T18:15:04Z",
+      "latest_at": "2026-09-29T18:15:04Z",
       "primary_item": {
-        "id": "c1f808e273524bad08492a038dae36a455e222a3",
-        "title": "Towards safety cases for frontier AI training",
-        "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
+        "id": "a95da7bb5da8e6ada76d39a83574968ad4231c1d",
+        "title": "Claude Sonnet 5.5 (High) 以 1699 分登 Code Arena: WebDev 第 4 名",
+        "url": "https://x.com/arena/status/2104998408616558940",
+        "source": "X：Arena (@arena)",
+        "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_ace69cc3aaa0",
-      "title": "Self-hosted runner version enforcement date has moved",
-      "url": "https://github.blog/changelog/2026-09-28-self-hosted-runner-version-enforcement-date-has-moved",
-      "primary_url": "https://github.blog/changelog/2026-09-28-self-hosted-runner-version-enforcement-date-has-moved",
+      "story_id": "story_20a277bbad04",
+      "title": "Dependabot 的存储库自定义运行器设置 / Repository custom runner settings for Dependabot",
+      "url": "https://github.blog/changelog/2026-09-29-repository-custom-runner-settings-for-dependabot",
+      "primary_url": "https://github.blog/changelog/2026-09-29-repository-custom-runner-settings-for-dependabot",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "e950a19f5573ca6db9c8090f6edc109741d7a753",
-          "title": "Self-hosted runner version enforcement date has moved",
-          "url": "https://github.blog/changelog/2026-09-28-self-hosted-runner-version-enforcement-date-has-moved",
+          "id": "bf600101eaadf0f22abca39aee75a4c11e56a4e1",
+          "title": "Dependabot 的存储库自定义运行器设置 / Repository custom runner settings for Dependabot",
+          "url": "https://github.blog/changelog/2026-09-29-repository-custom-runner-settings-for-dependabot",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-28T19:22:46Z"
+          "published_at": "2026-09-29T19:10:00Z"
         }
       ],
       "source_count": 1,
@@ -599,26 +1424,26 @@
       ],
       "items": [
         {
-          "id": "e950a19f5573ca6db9c8090f6edc109741d7a753",
-          "title": "Self-hosted runner version enforcement date has moved",
-          "url": "https://github.blog/changelog/2026-09-28-self-hosted-runner-version-enforcement-date-has-moved",
+          "id": "bf600101eaadf0f22abca39aee75a4c11e56a4e1",
+          "title": "Dependabot 的存储库自定义运行器设置 / Repository custom runner settings for Dependabot",
+          "url": "https://github.blog/changelog/2026-09-29-repository-custom-runner-settings-for-dependabot",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-28T19:22:46Z"
+          "published_at": "2026-09-29T19:10:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7986,
-      "importance": 0.7986,
-      "importance_score": 0.7986,
+      "score": 0.8212,
+      "importance": 0.8212,
+      "importance_score": 0.8212,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.748,
+        "recency": 0.8734,
         "story_heat": 0.0
       },
       "category": "official",
@@ -627,605 +1452,141 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-28T19:22:46Z",
-      "latest_at": "2026-09-28T19:22:46Z",
+      "earliest_at": "2026-09-29T19:10:00Z",
+      "latest_at": "2026-09-29T19:10:00Z",
       "primary_item": {
-        "id": "e950a19f5573ca6db9c8090f6edc109741d7a753",
-        "title": "Self-hosted runner version enforcement date has moved",
-        "url": "https://github.blog/changelog/2026-09-28-self-hosted-runner-version-enforcement-date-has-moved",
+        "id": "bf600101eaadf0f22abca39aee75a4c11e56a4e1",
+        "title": "Dependabot 的存储库自定义运行器设置 / Repository custom runner settings for Dependabot",
+        "url": "https://github.blog/changelog/2026-09-29-repository-custom-runner-settings-for-dependabot",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_82cb1f5f7541",
-      "title": "AMD 82 亿美元全股票吞下World Labs，李飞飞挂帅执行副总裁",
-      "url": "https://www.aibase.com/news/31415",
-      "primary_url": "https://www.aibase.com/news/31415",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "d751c3ba7418596bbcdd8825d51edc66fca815c3",
-          "title": "AMD 82 亿美元全股票吞下World Labs，李飞飞挂帅执行副总裁",
-          "url": "https://www.aibase.com/news/31415",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-29T15:17:05.129324Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "d751c3ba7418596bbcdd8825d51edc66fca815c3",
-          "title": "AMD 82 亿美元全股票吞下World Labs，李飞飞挂帅执行副总裁",
-          "url": "https://www.aibase.com/news/31415",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-29T15:17:05.129324Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7671,
-      "importance": 0.7671,
-      "importance_score": 0.7671,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9971,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-29T15:17:05.129324Z",
-      "latest_at": "2026-09-29T15:17:05.129324Z",
-      "primary_item": {
-        "id": "d751c3ba7418596bbcdd8825d51edc66fca815c3",
-        "title": "AMD 82 亿美元全股票吞下World Labs，李飞飞挂帅执行副总裁",
-        "url": "https://www.aibase.com/news/31415",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_1e513fc9899e",
-      "title": "Meta AI 智能体 Muse 被指未经许可泄露用户住址并擅自约买家上门",
-      "url": "https://www.ithome.com/1/008/099.htm",
-      "primary_url": "https://www.ithome.com/1/008/099.htm",
-      "source": "IT之家（RSS）",
+      "story_id": "story_5afc859da234",
+      "title": "OpenAI 在 DevDay 推出 ChatGPT 插件扩展、Space 共享工作区与企业市场等一揽子更新",
+      "url": "https://the-decoder.com/openais-reveals-a-new-chatgpt-that-looks-less-like-a-chatbot-and-more-like-an-operating-system",
+      "primary_url": "https://the-decoder.com/openais-reveals-a-new-chatgpt-that-looks-less-like-a-chatbot-and-more-like-an-operating-system",
+      "source": "The Decoder：AI News（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "55cbd42c93cc30ddfcd3c58bcac7e5712d321219",
-          "title": "Meta AI 智能体 Muse 被指未经许可泄露用户住址并擅自约买家上门",
-          "url": "https://www.ithome.com/1/008/099.htm",
-          "source": "IT之家（RSS）",
+          "id": "9cc656be8e1e06e0f62917b045026c244eb00607",
+          "title": "OpenAI 在 DevDay 推出 ChatGPT 插件扩展、Space 共享工作区与企业市场等一揽子更新",
+          "url": "https://the-decoder.com/openais-reveals-a-new-chatgpt-that-looks-less-like-a-chatbot-and-more-like-an-operating-system",
+          "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-29T00:58:38Z"
+          "published_at": "2026-09-29T17:23:22Z"
+        },
+        {
+          "id": "51678ed8a05a49f22c972dcd924977cf2362bf74",
+          "title": "OpenAI 在 DevDay 推出 ChatGPT 插件扩展、Space 共享工作区与企业市场等一揽子更新 / OpenAI's reveals a new ChatGPT that looks less like a chatbot and more like an operating system",
+          "url": "https://the-decoder.com/openais-reveals-a-new-chatgpt-that-looks-less-like-a-chatbot-and-more-like-an-operating-system",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-29T17:23:22Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "IT之家（RSS）"
+        "The Decoder AI News",
+        "The Decoder：AI News（RSS）"
       ],
       "items": [
         {
-          "id": "55cbd42c93cc30ddfcd3c58bcac7e5712d321219",
-          "title": "Meta AI 智能体 Muse 被指未经许可泄露用户住址并擅自约买家上门",
-          "url": "https://www.ithome.com/1/008/099.htm",
-          "source": "IT之家（RSS）",
+          "id": "9cc656be8e1e06e0f62917b045026c244eb00607",
+          "title": "OpenAI 在 DevDay 推出 ChatGPT 插件扩展、Space 共享工作区与企业市场等一揽子更新",
+          "url": "https://the-decoder.com/openais-reveals-a-new-chatgpt-that-looks-less-like-a-chatbot-and-more-like-an-operating-system",
+          "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-29T00:58:38Z"
+          "published_at": "2026-09-29T17:23:22Z"
+        },
+        {
+          "id": "51678ed8a05a49f22c972dcd924977cf2362bf74",
+          "title": "OpenAI 在 DevDay 推出 ChatGPT 插件扩展、Space 共享工作区与企业市场等一揽子更新 / OpenAI's reveals a new ChatGPT that looks less like a chatbot and more like an operating system",
+          "url": "https://the-decoder.com/openais-reveals-a-new-chatgpt-that-looks-less-like-a-chatbot-and-more-like-an-operating-system",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-29T17:23:22Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7546,
-      "importance": 0.7546,
-      "importance_score": 0.7546,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7898,
+      "importance": 0.7898,
+      "importance_score": 0.7898,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.79,
+        "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.811,
-        "story_heat": 0.0
+        "recency": 0.8512,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-29T00:58:38Z",
-      "latest_at": "2026-09-29T00:58:38Z",
+      "earliest_at": "2026-09-29T17:23:22Z",
+      "latest_at": "2026-09-29T17:23:22Z",
       "primary_item": {
-        "id": "55cbd42c93cc30ddfcd3c58bcac7e5712d321219",
-        "title": "Meta AI 智能体 Muse 被指未经许可泄露用户住址并擅自约买家上门",
-        "url": "https://www.ithome.com/1/008/099.htm",
-        "source": "IT之家（RSS）",
+        "id": "9cc656be8e1e06e0f62917b045026c244eb00607",
+        "title": "OpenAI 在 DevDay 推出 ChatGPT 插件扩展、Space 共享工作区与企业市场等一揽子更新",
+        "url": "https://the-decoder.com/openais-reveals-a-new-chatgpt-that-looks-less-like-a-chatbot-and-more-like-an-operating-system",
+        "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_6200f27f95ae",
-      "title": "何夕2077 AI 深度信号周报 2026 W39",
-      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-27-ai-deep-signals-w39",
-      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-27-ai-deep-signals-w39",
-      "source": "Daily Digest",
-      "source_name": "AI HubToday",
-      "sources": [
-        {
-          "id": "50b1580dcefbd93ef3405a8b160135a1a14a5c28",
-          "title": "何夕2077 AI 深度信号周报 2026 W39",
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-27-ai-deep-signals-w39",
-          "source": "Daily Digest",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": "2026-09-29T09:27:36Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Daily Digest"
-      ],
-      "items": [
-        {
-          "id": "50b1580dcefbd93ef3405a8b160135a1a14a5c28",
-          "title": "何夕2077 AI 深度信号周报 2026 W39",
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-27-ai-deep-signals-w39",
-          "source": "Daily Digest",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": "2026-09-29T09:27:36Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7526,
-      "importance": 0.7526,
-      "importance_score": 0.7526,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9167,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-29T09:27:36Z",
-      "latest_at": "2026-09-29T09:27:36Z",
-      "primary_item": {
-        "id": "50b1580dcefbd93ef3405a8b160135a1a14a5c28",
-        "title": "何夕2077 AI 深度信号周报 2026 W39",
-        "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-27-ai-deep-signals-w39",
-        "source": "Daily Digest",
-        "source_name": "AI HubToday"
-      }
-    },
-    {
-      "story_id": "story_d239d97168c3",
-      "title": "Anthropic 发布 Claude Sonnet 5.5，Artificial Analysis 智能指数得分 56，仅次于 Opus 5.5",
-      "url": "https://x.com/ArtificialAnlys/status/2104640155843989864",
-      "primary_url": "https://x.com/ArtificialAnlys/status/2104640155843989864",
-      "source": "X：Artificial Analysis (@ArtificialAnlys)",
+      "story_id": "story_04392c500deb",
+      "title": "Shopify 宣布放弃 React Native，AI 编码智能体让回归原生开发成为新选择",
+      "url": "https://newsletter.pragmaticengineer.com/p/shopify-native-mobile",
+      "primary_url": "https://newsletter.pragmaticengineer.com/p/shopify-native-mobile",
+      "source": "Pragmatic Engineer（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "ca94cccd0c3586f5a94d867af37eee8487bd3da1",
-          "title": "Anthropic 发布 Claude Sonnet 5.5，Artificial Analysis 智能指数得分 56，仅次于 Opus 5.5",
-          "url": "https://x.com/ArtificialAnlys/status/2104640155843989864",
-          "source": "X：Artificial Analysis (@ArtificialAnlys)",
+          "id": "769744b4811cbcd30d59b376764ddc3e05388ad6",
+          "title": "Shopify 宣布放弃 React Native，AI 编码智能体让回归原生开发成为新选择",
+          "url": "https://newsletter.pragmaticengineer.com/p/shopify-native-mobile",
+          "source": "Pragmatic Engineer（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-28T18:31:30Z"
+          "published_at": "2026-09-29T15:53:19Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Artificial Analysis (@ArtificialAnlys)"
+        "Pragmatic Engineer（RSS）"
       ],
       "items": [
         {
-          "id": "ca94cccd0c3586f5a94d867af37eee8487bd3da1",
-          "title": "Anthropic 发布 Claude Sonnet 5.5，Artificial Analysis 智能指数得分 56，仅次于 Opus 5.5",
-          "url": "https://x.com/ArtificialAnlys/status/2104640155843989864",
-          "source": "X：Artificial Analysis (@ArtificialAnlys)",
+          "id": "769744b4811cbcd30d59b376764ddc3e05388ad6",
+          "title": "Shopify 宣布放弃 React Native，AI 编码智能体让回归原生开发成为新选择",
+          "url": "https://newsletter.pragmaticengineer.com/p/shopify-native-mobile",
+          "source": "Pragmatic Engineer（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-28T18:31:30Z"
+          "published_at": "2026-09-29T15:53:19Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7506,
-      "importance": 0.7506,
-      "importance_score": 0.7506,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.82,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7388,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T18:31:30Z",
-      "latest_at": "2026-09-28T18:31:30Z",
-      "primary_item": {
-        "id": "ca94cccd0c3586f5a94d867af37eee8487bd3da1",
-        "title": "Anthropic 发布 Claude Sonnet 5.5，Artificial Analysis 智能指数得分 56，仅次于 Opus 5.5",
-        "url": "https://x.com/ArtificialAnlys/status/2104640155843989864",
-        "source": "X：Artificial Analysis (@ArtificialAnlys)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_b6f0f1c676aa",
-      "title": "Arena 评测：GPT-6 Luna (Max) 列 Agent Arena 第 23 名，单任务成本仅 $0.05",
-      "url": "https://x.com/arena/status/2104673568776990762",
-      "primary_url": "https://x.com/arena/status/2104673568776990762",
-      "source": "X：Arena (@arena)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "56cb1946536e946a70052496cff84ef5826f7037",
-          "title": "Arena 评测：GPT-6 Luna (Max) 列 Agent Arena 第 23 名，单任务成本仅 $0.05",
-          "url": "https://x.com/arena/status/2104673568776990762",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T20:44:16Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Arena (@arena)"
-      ],
-      "items": [
-        {
-          "id": "56cb1946536e946a70052496cff84ef5826f7037",
-          "title": "Arena 评测：GPT-6 Luna (Max) 列 Agent Arena 第 23 名，单任务成本仅 $0.05",
-          "url": "https://x.com/arena/status/2104673568776990762",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T20:44:16Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7399,
-      "importance": 0.7399,
-      "importance_score": 0.7399,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7628,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-28T20:44:16Z",
-      "latest_at": "2026-09-28T20:44:16Z",
-      "primary_item": {
-        "id": "56cb1946536e946a70052496cff84ef5826f7037",
-        "title": "Arena 评测：GPT-6 Luna (Max) 列 Agent Arena 第 23 名，单任务成本仅 $0.05",
-        "url": "https://x.com/arena/status/2104673568776990762",
-        "source": "X：Arena (@arena)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_a61f6529e35f",
-      "title": "OpenAI明日重启200美元Pro订阅:API配额减半，取消5小时限制",
-      "url": "https://www.aibase.com/news/31413",
-      "primary_url": "https://www.aibase.com/news/31413",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "9a451596fb998952296bd543cd4867507338cc48",
-          "title": "OpenAI明日重启200美元Pro订阅:API配额减半，取消5小时限制",
-          "url": "https://www.aibase.com/news/31413",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-29T15:09:05.129324Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "9a451596fb998952296bd543cd4867507338cc48",
-          "title": "OpenAI明日重启200美元Pro订阅:API配额减半，取消5小时限制",
-          "url": "https://www.aibase.com/news/31413",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-29T15:09:05.129324Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7667,
-      "importance": 0.7667,
-      "importance_score": 0.7667,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9952,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-29T15:09:05.129324Z",
-      "latest_at": "2026-09-29T15:09:05.129324Z",
-      "primary_item": {
-        "id": "9a451596fb998952296bd543cd4867507338cc48",
-        "title": "OpenAI明日重启200美元Pro订阅:API配额减半，取消5小时限制",
-        "url": "https://www.aibase.com/news/31413",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_37351544863b",
-      "title": "Microsoft Research 发布 AI 生物研究系统 Quine，并开放 Quine Fellows 项目申请",
-      "url": "https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology",
-      "primary_url": "https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology",
-      "source": "Microsoft Research 博客（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "55812084ab2d5c0cf99af2ae5132086e6f5b51ab",
-          "title": "Microsoft Research 发布 AI 生物研究系统 Quine，并开放 Quine Fellows 项目申请",
-          "url": "https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology",
-          "source": "Microsoft Research 博客（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-29T14:00:02Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Microsoft Research 博客（RSS）"
-      ],
-      "items": [
-        {
-          "id": "55812084ab2d5c0cf99af2ae5132086e6f5b51ab",
-          "title": "Microsoft Research 发布 AI 生物研究系统 Quine，并开放 Quine Fellows 项目申请",
-          "url": "https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology",
-          "source": "Microsoft Research 博客（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-29T14:00:02Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7308,
-      "importance": 0.7308,
-      "importance_score": 0.7308,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.61,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9788,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-29T14:00:02Z",
-      "latest_at": "2026-09-29T14:00:02Z",
-      "primary_item": {
-        "id": "55812084ab2d5c0cf99af2ae5132086e6f5b51ab",
-        "title": "Microsoft Research 发布 AI 生物研究系统 Quine，并开放 Quine Fellows 项目申请",
-        "url": "https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology",
-        "source": "Microsoft Research 博客（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_ed0f3a2b8d68",
-      "title": "World Labs 宣布加入 AMD",
-      "url": "https://x.com/theworldlabs/status/2104665621120311465",
-      "primary_url": "https://x.com/theworldlabs/status/2104665621120311465",
-      "source": "X：World Labs (@theworldlabs)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2d620f4754bc3a3a6c2fff275ff9810474f4db7e",
-          "title": "World Labs 宣布加入 AMD",
-          "url": "https://x.com/theworldlabs/status/2104665621120311465",
-          "source": "X：World Labs (@theworldlabs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T20:12:41Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：World Labs (@theworldlabs)"
-      ],
-      "items": [
-        {
-          "id": "2d620f4754bc3a3a6c2fff275ff9810474f4db7e",
-          "title": "World Labs 宣布加入 AMD",
-          "url": "https://x.com/theworldlabs/status/2104665621120311465",
-          "source": "X：World Labs (@theworldlabs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T20:12:41Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7269,
-      "importance": 0.7269,
-      "importance_score": 0.7269,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7571,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-28T20:12:41Z",
-      "latest_at": "2026-09-28T20:12:41Z",
-      "primary_item": {
-        "id": "2d620f4754bc3a3a6c2fff275ff9810474f4db7e",
-        "title": "World Labs 宣布加入 AMD",
-        "url": "https://x.com/theworldlabs/status/2104665621120311465",
-        "source": "X：World Labs (@theworldlabs)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_724d8735fbf7",
-      "title": "OpenAI 上线对齐失效报告网站，披露九起智能体失控事件",
-      "url": "https://www.ithome.com/1/008/079.htm",
-      "primary_url": "https://www.ithome.com/1/008/079.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0a2d4221ec87620ec5a7e4d411e29bd8c001c61b",
-          "title": "OpenAI 上线对齐失效报告网站，披露九起智能体失控事件",
-          "url": "https://www.ithome.com/1/008/079.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T23:21:48Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "0a2d4221ec87620ec5a7e4d411e29bd8c001c61b",
-          "title": "OpenAI 上线对齐失效报告网站，披露九起智能体失控事件",
-          "url": "https://www.ithome.com/1/008/079.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T23:21:48Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7482,
-      "importance": 0.7482,
-      "importance_score": 0.7482,
+      "score": 0.7555,
+      "importance": 0.7555,
+      "importance_score": 0.7555,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7923,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-28T23:21:48Z",
-      "latest_at": "2026-09-28T23:21:48Z",
-      "primary_item": {
-        "id": "0a2d4221ec87620ec5a7e4d411e29bd8c001c61b",
-        "title": "OpenAI 上线对齐失效报告网站，披露九起智能体失控事件",
-        "url": "https://www.ithome.com/1/008/079.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_fe42d02e04dd",
-      "title": "xAI推出Team Bots：能跟团队一起学、一起干的Grok智能体， 24 小时帮保险公司挽回 12 万美元",
-      "url": "https://www.aibase.com/news/31414",
-      "primary_url": "https://www.aibase.com/news/31414",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "3433eb5a18099759dadb3ad4d038cd0cbb8edec2",
-          "title": "xAI推出Team Bots：能跟团队一起学、一起干的Grok智能体， 24 小时帮保险公司挽回 12 万美元",
-          "url": "https://www.aibase.com/news/31414",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-29T15:09:05.129324Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "3433eb5a18099759dadb3ad4d038cd0cbb8edec2",
-          "title": "xAI推出Team Bots：能跟团队一起学、一起干的Grok智能体， 24 小时帮保险公司挽回 12 万美元",
-          "url": "https://www.aibase.com/news/31414",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-29T15:09:05.129324Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7667,
-      "importance": 0.7667,
-      "importance_score": 0.7667,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9952,
+        "recency": 0.833,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1233,73 +1594,13 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-29T15:09:05.129324Z",
-      "latest_at": "2026-09-29T15:09:05.129324Z",
+      "earliest_at": "2026-09-29T15:53:19Z",
+      "latest_at": "2026-09-29T15:53:19Z",
       "primary_item": {
-        "id": "3433eb5a18099759dadb3ad4d038cd0cbb8edec2",
-        "title": "xAI推出Team Bots：能跟团队一起学、一起干的Grok智能体， 24 小时帮保险公司挽回 12 万美元",
-        "url": "https://www.aibase.com/news/31414",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_d64e6ea25654",
-      "title": "Claude Opus 5.5 (High) 进入 Agent Arena 第 2 名，成本比 Opus 5 (Max) 低 56%",
-      "url": "https://x.com/arena/status/2104617283679379704",
-      "primary_url": "https://x.com/arena/status/2104617283679379704",
-      "source": "X：Arena (@arena)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "673fe1a9253e490b85a9a49471ec1e3e46a3c345",
-          "title": "Claude Opus 5.5 (High) 进入 Agent Arena 第 2 名，成本比 Opus 5 (Max) 低 56%",
-          "url": "https://x.com/arena/status/2104617283679379704",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T17:00:36Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Arena (@arena)"
-      ],
-      "items": [
-        {
-          "id": "673fe1a9253e490b85a9a49471ec1e3e46a3c345",
-          "title": "Claude Opus 5.5 (High) 进入 Agent Arena 第 2 名，成本比 Opus 5 (Max) 低 56%",
-          "url": "https://x.com/arena/status/2104617283679379704",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T17:00:36Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7267,
-      "importance": 0.7267,
-      "importance_score": 0.7267,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7229,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-28T17:00:36Z",
-      "latest_at": "2026-09-28T17:00:36Z",
-      "primary_item": {
-        "id": "673fe1a9253e490b85a9a49471ec1e3e46a3c345",
-        "title": "Claude Opus 5.5 (High) 进入 Agent Arena 第 2 名，成本比 Opus 5 (Max) 低 56%",
-        "url": "https://x.com/arena/status/2104617283679379704",
-        "source": "X：Arena (@arena)",
+        "id": "769744b4811cbcd30d59b376764ddc3e05388ad6",
+        "title": "Shopify 宣布放弃 React Native，AI 编码智能体让回归原生开发成为新选择",
+        "url": "https://newsletter.pragmaticengineer.com/p/shopify-native-mobile",
+        "source": "Pragmatic Engineer（RSS）",
         "source_name": "AI HOT"
       }
     }
