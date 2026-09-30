@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T04:34:04.938535Z",
+  "generated_at": "2026-09-30T10:44:21.418115Z",
   "clusters": [
     {
       "cluster_id": "biz_cluster_ded8ff28f759",
@@ -17,7 +17,7 @@
         "biz_98a29027b981"
       ],
       "source_count": 1,
-      "importance_score": 52,
+      "importance_score": 51,
       "confidence": "watch",
       "yuanli_mapping": [
         "ftf_trust",
@@ -63,25 +63,27 @@
       ]
     },
     {
-      "cluster_id": "biz_cluster_5990c1382929",
+      "cluster_id": "biz_cluster_0b820d579242",
       "thesis": "Enterprise AI value is moving toward operating-model redesign rather than isolated copilots.",
       "lane": "enterprise_workflow",
       "signal_ids": [
         "biz_4cbeec7100a8",
+        "biz_12d865040f25",
         "biz_8de5be6de7cf"
       ],
-      "source_count": 2,
+      "source_count": 3,
       "importance_score": 49,
       "confidence": "medium",
       "yuanli_mapping": [
         "yuanli_os",
         "ftf_trust"
       ],
-      "why_it_matters": "2 English evidence items from 2 sources connect this pattern to Yuanli IP.",
+      "why_it_matters": "3 English evidence items from 3 sources connect this pattern to Yuanli IP.",
       "counter_evidence": "See counter_signal cluster for adoption, ROI, and trust risks.",
       "recommended_action": "Map each workflow case to the Yuanli OS organs: soul, memory, judgment, hands.",
       "evidence_refs": [
         "biz_4cbeec7100a8",
+        "biz_12d865040f25",
         "biz_8de5be6de7cf"
       ],
       "top_sources": [
@@ -91,6 +93,11 @@
           "url": "https://www.cbinsights.com/research/ceo-interview-sunlight/"
         },
         {
+          "source": "Latent Space",
+          "title": "[AINews] OpenAI DevDay 2026: Dots, 6.1 Sol, Ultrafast, Decisions API, Agents API, Spaces, Marketplace, and 1.2 Billion ChatGPT WAU",
+          "url": "https://www.latent.space/p/ainews-openai-devday-2026-dots-61"
+        },
+        {
           "source": "GitHub Blog",
           "title": "Developer policy update: Transparency, state policy, and what’s ahead",
           "url": "https://github.blog/news-insights/policy-news-and-insights/developer-policy-update-transparency-state-policy-and-whats-ahead/"
@@ -98,87 +105,31 @@
       ]
     },
     {
-      "cluster_id": "biz_cluster_42f89d0e05ce",
+      "cluster_id": "biz_cluster_29950a547ef1",
       "thesis": "Business-school and consulting evidence strengthens the trust layer behind Yuanli IP claims.",
       "lane": "authority_trust",
       "signal_ids": [
-        "biz_b1b0ce12dbea",
-        "biz_b7187c02b08b",
-        "biz_5b585a6bc619",
-        "biz_ba6c9175b3d8",
-        "biz_f1d4dbe05ed6"
+        "biz_b7187c02b08b"
       ],
-      "source_count": 2,
+      "source_count": 1,
       "importance_score": 43,
-      "confidence": "medium",
+      "confidence": "watch",
       "yuanli_mapping": [
         "ftf_trust",
         "yuanli_asset",
         "yuanli_startup"
       ],
-      "why_it_matters": "5 English evidence items from 2 sources connect this pattern to Yuanli IP.",
+      "why_it_matters": "1 English evidence items from 1 sources connect this pattern to Yuanli IP.",
       "counter_evidence": "See counter_signal cluster for adoption, ROI, and trust risks.",
       "recommended_action": "Use these authority-backed signals as FTF proof points before making public claims.",
       "evidence_refs": [
-        "biz_b1b0ce12dbea",
-        "biz_b7187c02b08b",
-        "biz_5b585a6bc619",
-        "biz_ba6c9175b3d8",
-        "biz_f1d4dbe05ed6"
+        "biz_b7187c02b08b"
       ],
       "top_sources": [
-        {
-          "source": "Bain Insights",
-          "title": "Tech Services: Cracking the Code on AI-led Growth",
-          "url": "https://www.bain.com/insights/tech-services-cracking-the-code-on-ai-led-growth-technology-report-2026/"
-        },
         {
           "source": "Harvard Business Review",
           "title": "How Chewy Is Evolving Customer Obsession for the Digital Era",
           "url": "https://hbr.org/2026/09/how-chewy-is-evolving-customer-obsession-for-the-digital-era"
-        },
-        {
-          "source": "Bain Insights",
-          "title": "Software Investing in the Age of AI and Slower Growth",
-          "url": "https://www.bain.com/insights/software-investing-in-the-age-of-ai-and-slower-growth-technology-report-2026/"
-        },
-        {
-          "source": "Bain Insights",
-          "title": "The $100-Billion SaaS Opportunity Hiding in Cross-System Labor",
-          "url": "https://www.bain.com/insights/100-billion-saas-opportunity-hiding-in-cross-system-labor100-billion-saas-opportunity-hiding-in-cross-system-labor-technology-report-2026/"
-        },
-        {
-          "source": "Bain Insights",
-          "title": "AI Data Center Boom: Can We Build It If They Come?",
-          "url": "https://www.bain.com/insights/ai-data-center-boom-can-we-build-it-if-they-come-technology-report-2026/"
-        }
-      ]
-    },
-    {
-      "cluster_id": "biz_cluster_a98b8cf6d7af",
-      "thesis": "AI adoption counter-signals reveal where Yuanli claims need sharper proof and risk language.",
-      "lane": "counter_signal",
-      "signal_ids": [
-        "biz_e1b3d35c5af4"
-      ],
-      "source_count": 1,
-      "importance_score": 36,
-      "confidence": "watch",
-      "yuanli_mapping": [
-        "ftf_trust",
-        "yuanli_os"
-      ],
-      "why_it_matters": "1 English evidence items from 1 sources connect this pattern to Yuanli IP.",
-      "counter_evidence": "Counter-signals are the evidence, not a rejection of the thesis.",
-      "recommended_action": "Add these counter-signals to sales objections and content credibility checks.",
-      "evidence_refs": [
-        "biz_e1b3d35c5af4"
-      ],
-      "top_sources": [
-        {
-          "source": "Harvard Business Review",
-          "title": "What Retail Legend Ron Johnson Learned from Apple’s Success and JCPenney’s Failure",
-          "url": "https://hbr.org/podcast/2026/09/what-retail-legend-ron-johnson-learned-from-apples-success-and-jcpenneys-failure"
         }
       ]
     }
