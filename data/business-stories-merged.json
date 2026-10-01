@@ -1,63 +1,6 @@
 {
-  "generated_at": "2026-10-01T07:02:52.583905Z",
+  "generated_at": "2026-10-01T14:26:19.445981Z",
   "clusters": [
-    {
-      "cluster_id": "biz_cluster_58a160a6c384",
-      "thesis": "AI adoption counter-signals reveal where Yuanli claims need sharper proof and risk language.",
-      "lane": "counter_signal",
-      "signal_ids": [
-        "biz_48258dbd6c29"
-      ],
-      "source_count": 1,
-      "importance_score": 58,
-      "confidence": "watch",
-      "yuanli_mapping": [
-        "ftf_trust",
-        "yuanli_os"
-      ],
-      "why_it_matters": "1 English evidence items from 1 sources connect this pattern to Yuanli IP.",
-      "counter_evidence": "Counter-signals are the evidence, not a rejection of the thesis.",
-      "recommended_action": "Add these counter-signals to sales objections and content credibility checks.",
-      "evidence_refs": [
-        "biz_48258dbd6c29"
-      ],
-      "top_sources": [
-        {
-          "source": "MIT Sloan Management Review",
-          "title": "Turn Energy Efficiency Into Strategic Advantage",
-          "url": "https://sloanreview.mit.edu/article/turn-energy-efficiency-into-strategic-advantage/"
-        }
-      ]
-    },
-    {
-      "cluster_id": "biz_cluster_428e4dc8c5ad",
-      "thesis": "AI leverage is making one-person and tiny-team companies a credible strategic archetype.",
-      "lane": "opc",
-      "signal_ids": [
-        "biz_d2d037ec0ed6"
-      ],
-      "source_count": 1,
-      "importance_score": 55,
-      "confidence": "watch",
-      "yuanli_mapping": [
-        "yuanli_asset",
-        "yuanli_startup",
-        "profit_container"
-      ],
-      "why_it_matters": "1 English evidence items from 1 sources connect this pattern to Yuanli IP.",
-      "counter_evidence": "See counter_signal cluster for adoption, ROI, and trust risks.",
-      "recommended_action": "Turn the strongest case into a Yuanli OPC teaching module with leverage, distribution, and monetization explicitly mapped.",
-      "evidence_refs": [
-        "biz_d2d037ec0ed6"
-      ],
-      "top_sources": [
-        {
-          "source": "Indie Hackers",
-          "title": "I went through 290 founders' MRR posts. The ones past $10k got their first customers a different way",
-          "url": "https://www.indiehackers.com/post/i-went-through-290-founders-mrr-posts-the-ones-past-10k-got-their-first-customers-a-different-way-ff0f3e5904"
-        }
-      ]
-    },
     {
       "cluster_id": "biz_cluster_41b59b3e0b17",
       "thesis": "Founder stories provide the most reusable proof layer for Yuanli IP trust-building.",
@@ -75,7 +18,7 @@
         "biz_1d29a316c886"
       ],
       "source_count": 1,
-      "importance_score": 52,
+      "importance_score": 51,
       "confidence": "watch",
       "yuanli_mapping": [
         "ftf_trust",
@@ -121,76 +64,55 @@
       ]
     },
     {
-      "cluster_id": "biz_cluster_0bde4fc03006",
+      "cluster_id": "biz_cluster_d82495f27c16",
       "thesis": "Business-school and consulting evidence strengthens the trust layer behind Yuanli IP claims.",
       "lane": "authority_trust",
       "signal_ids": [
-        "biz_0328dddd79f1",
-        "biz_9217f89fe5eb",
-        "biz_e34b49199f20"
+        "biz_9217f89fe5eb"
       ],
-      "source_count": 2,
-      "importance_score": 39,
-      "confidence": "medium",
+      "source_count": 1,
+      "importance_score": 37,
+      "confidence": "watch",
       "yuanli_mapping": [
         "ftf_trust",
         "yuanli_asset",
         "yuanli_startup"
       ],
-      "why_it_matters": "3 English evidence items from 2 sources connect this pattern to Yuanli IP.",
+      "why_it_matters": "1 English evidence items from 1 sources connect this pattern to Yuanli IP.",
       "counter_evidence": "See counter_signal cluster for adoption, ROI, and trust risks.",
       "recommended_action": "Use these authority-backed signals as FTF proof points before making public claims.",
       "evidence_refs": [
-        "biz_0328dddd79f1",
-        "biz_9217f89fe5eb",
-        "biz_e34b49199f20"
+        "biz_9217f89fe5eb"
       ],
       "top_sources": [
-        {
-          "source": "Bain Insights",
-          "title": "Travel Operators Can’t Just Watch as AI Reroutes the Customer Journey",
-          "url": "https://www.bain.com/insights/travel-operators-cant-just-watch-as-ai-reroutes-the-customer-journey/"
-        },
         {
           "source": "Bain Insights",
           "title": "AI in Marketing: How Leaders Achieve Double the Revenue Impact",
           "url": "https://www.bain.com/insights/ai-in-marketing-how-leaders-achieve-double-the-revenue-impact/"
-        },
-        {
-          "source": "Harvard Business Review",
-          "title": "How Leaders Talk About AI Predicts Adoption",
-          "url": "https://hbr.org/2026/09/how-leaders-talk-about-ai-predicts-adoption"
         }
       ]
     },
     {
-      "cluster_id": "biz_cluster_76d1fb5860c8",
+      "cluster_id": "biz_cluster_a22d537563ed",
       "thesis": "Enterprise AI value is moving toward operating-model redesign rather than isolated copilots.",
       "lane": "enterprise_workflow",
       "signal_ids": [
-        "biz_351f72546965",
         "biz_0a5fc9849726"
       ],
-      "source_count": 2,
-      "importance_score": 34,
-      "confidence": "medium",
+      "source_count": 1,
+      "importance_score": 27,
+      "confidence": "watch",
       "yuanli_mapping": [
         "yuanli_os",
         "ftf_trust"
       ],
-      "why_it_matters": "2 English evidence items from 2 sources connect this pattern to Yuanli IP.",
+      "why_it_matters": "1 English evidence items from 1 sources connect this pattern to Yuanli IP.",
       "counter_evidence": "See counter_signal cluster for adoption, ROI, and trust risks.",
       "recommended_action": "Map each workflow case to the Yuanli OS organs: soul, memory, judgment, hands.",
       "evidence_refs": [
-        "biz_351f72546965",
         "biz_0a5fc9849726"
       ],
       "top_sources": [
-        {
-          "source": "Lenny's Newsletter",
-          "title": "Jev: 8 real use cases for the fastest, cheapest model I’ve ever used | John Lindquist",
-          "url": "https://www.lennysnewsletter.com/p/jev-8-real-use-cases-for-the-fastest"
-        },
         {
           "source": "Latent Space",
           "title": "Why Dwarkesh is Wrong about Computer Use + How OpenAI shipped its Jev competitor in 1 Week",

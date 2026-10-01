@@ -1,8 +1,70 @@
 {
-  "generated_at": "2026-10-01T07:00:00.811345Z",
+  "generated_at": "2026-10-01T14:25:05.003767Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_619fccc0d225",
+      "title": "Actions Runner 控制器版本 0.15.0 / Actions Runner Controller release 0.15.0",
+      "url": "https://github.blog/changelog/2026-10-01-actions-runner-controller-release-0-15-0",
+      "primary_url": "https://github.blog/changelog/2026-10-01-actions-runner-controller-release-0-15-0",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "47e637690129eb98c858037b42cdbb445190b3a6",
+          "title": "Actions Runner 控制器版本 0.15.0 / Actions Runner Controller release 0.15.0",
+          "url": "https://github.blog/changelog/2026-10-01-actions-runner-controller-release-0-15-0",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-01T13:01:31Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "47e637690129eb98c858037b42cdbb445190b3a6",
+          "title": "Actions Runner 控制器版本 0.15.0 / Actions Runner Controller release 0.15.0",
+          "url": "https://github.blog/changelog/2026-10-01-actions-runner-controller-release-0-15-0",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-01T13:01:31Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8404,
+      "importance": 0.8404,
+      "importance_score": 0.8404,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9801,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-01T13:01:31Z",
+      "latest_at": "2026-10-01T13:01:31Z",
+      "primary_item": {
+        "id": "47e637690129eb98c858037b42cdbb445190b3a6",
+        "title": "Actions Runner 控制器版本 0.15.0 / Actions Runner Controller release 0.15.0",
+        "url": "https://github.blog/changelog/2026-10-01-actions-runner-controller-release-0-15-0",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
     {
       "story_id": "story_311e095023e6",
       "title": "Google DeepMind 发布 Gemini 4 Argon，面向可信网络防御者先行开放 / Gemini 4 Argon: our next era of frontier intelligence",
@@ -57,15 +119,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8506,
-      "importance": 0.8506,
-      "importance_score": 0.8506,
+      "score": 0.835,
+      "importance": 0.835,
+      "importance_score": 0.835,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8535,
+        "recency": 0.7668,
         "story_heat": 0.25
       },
       "category": "official",
@@ -86,147 +148,84 @@
       }
     },
     {
-      "story_id": "story_6a91381a4292",
-      "title": "OpenAI 披露并处置一起有组织的模型蒸馏攻击行动 / Disrupting a coordinated model-distillation campaign",
-      "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
-      "primary_url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_0d41a58e9bee",
+      "title": "OpenAI 称拦截蒸馏窃取攻击，但研究者称同样手法在 Azure 上仍可窃取 GPT-6 Astra 等模型的推理内容",
+      "url": "https://the-decoder.com/openai-says-it-stopped-a-campaign-to-steal-its-models-reasoning-but-the-trick-still-worked-on-azure",
+      "primary_url": "https://the-decoder.com/openai-says-it-stopped-a-campaign-to-steal-its-models-reasoning-but-the-trick-still-worked-on-azure",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "677e69be9293919b541c7b1d7f5ddf99c4e569cc",
-          "title": "OpenAI 披露并处置一起有组织的模型蒸馏攻击行动 / Disrupting a coordinated model-distillation campaign",
-          "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-30T10:30:00Z"
-        },
-        {
-          "id": "502c30fa4af11a58586bb4ac62a5ade86a3530d5",
-          "title": "OpenAI 披露并处置一起有组织的模型蒸馏攻击行动",
-          "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "id": "c5b406c3dda7be181007a6b78766d116c816412c",
+          "title": "OpenAI 称拦截蒸馏窃取攻击，但研究者称同样手法在 Azure 上仍可窃取 GPT-6 Astra 等模型的推理内容",
+          "url": "https://the-decoder.com/openai-says-it-stopped-a-campaign-to-steal-its-models-reasoning-but-the-trick-still-worked-on-azure",
+          "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-30T10:30:00Z"
+          "published_at": "2026-10-01T12:05:49Z"
+        },
+        {
+          "id": "8e129955b637a9be8e38f1860b42032ac43ec8ed",
+          "title": "OpenAI 称拦截蒸馏窃取攻击，但研究者称同样手法在 Azure 上仍可窃取 GPT-6 Astra 等模型的推理内容 / OpenAI says it stopped a campaign to steal its models' reasoning, but the trick still worked on Azure",
+          "url": "https://the-decoder.com/openai-says-it-stopped-a-campaign-to-steal-its-models-reasoning-but-the-trick-still-worked-on-azure",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-01T12:05:49Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "OpenAI News",
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+        "The Decoder AI News",
+        "The Decoder：AI News（RSS）"
       ],
       "items": [
         {
-          "id": "677e69be9293919b541c7b1d7f5ddf99c4e569cc",
-          "title": "OpenAI 披露并处置一起有组织的模型蒸馏攻击行动 / Disrupting a coordinated model-distillation campaign",
-          "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-30T10:30:00Z"
-        },
-        {
-          "id": "502c30fa4af11a58586bb4ac62a5ade86a3530d5",
-          "title": "OpenAI 披露并处置一起有组织的模型蒸馏攻击行动",
-          "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "id": "c5b406c3dda7be181007a6b78766d116c816412c",
+          "title": "OpenAI 称拦截蒸馏窃取攻击，但研究者称同样手法在 Azure 上仍可窃取 GPT-6 Astra 等模型的推理内容",
+          "url": "https://the-decoder.com/openai-says-it-stopped-a-campaign-to-steal-its-models-reasoning-but-the-trick-still-worked-on-azure",
+          "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-30T10:30:00Z"
+          "published_at": "2026-10-01T12:05:49Z"
+        },
+        {
+          "id": "8e129955b637a9be8e38f1860b42032ac43ec8ed",
+          "title": "OpenAI 称拦截蒸馏窃取攻击，但研究者称同样手法在 Azure 上仍可窃取 GPT-6 Astra 等模型的推理内容 / OpenAI says it stopped a campaign to steal its models' reasoning, but the trick still worked on Azure",
+          "url": "https://the-decoder.com/openai-says-it-stopped-a-campaign-to-steal-its-models-reasoning-but-the-trick-still-worked-on-azure",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-01T12:05:49Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8309,
-      "importance": 0.8309,
-      "importance_score": 0.8309,
-      "importance_label": "官方更新",
+      "score": 0.8017,
+      "importance": 0.8017,
+      "importance_score": 0.8017,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7438,
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.967,
         "story_heat": 0.25
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-30T10:30:00Z",
-      "latest_at": "2026-09-30T10:30:00Z",
+      "earliest_at": "2026-10-01T12:05:49Z",
+      "latest_at": "2026-10-01T12:05:49Z",
       "primary_item": {
-        "id": "677e69be9293919b541c7b1d7f5ddf99c4e569cc",
-        "title": "OpenAI 披露并处置一起有组织的模型蒸馏攻击行动 / Disrupting a coordinated model-distillation campaign",
-        "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_d12535d4e632",
-      "title": "选择 npm 可信发布的 dist-tag 权限 / Opt-in dist-tag permissions for npm trusted publishing",
-      "url": "https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing",
-      "primary_url": "https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "08449e4f1bbb9462c8d2e83818728bbe8110bf1a",
-          "title": "选择 npm 可信发布的 dist-tag 权限 / Opt-in dist-tag permissions for npm trusted publishing",
-          "url": "https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-30T21:03:09Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "08449e4f1bbb9462c8d2e83818728bbe8110bf1a",
-          "title": "选择 npm 可信发布的 dist-tag 权限 / Opt-in dist-tag permissions for npm trusted publishing",
-          "url": "https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-30T21:03:09Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8199,
-      "importance": 0.8199,
-      "importance_score": 0.8199,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8662,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-30T21:03:09Z",
-      "latest_at": "2026-09-30T21:03:09Z",
-      "primary_item": {
-        "id": "08449e4f1bbb9462c8d2e83818728bbe8110bf1a",
-        "title": "选择 npm 可信发布的 dist-tag 权限 / Opt-in dist-tag permissions for npm trusted publishing",
-        "url": "https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "id": "c5b406c3dda7be181007a6b78766d116c816412c",
+        "title": "OpenAI 称拦截蒸馏窃取攻击，但研究者称同样手法在 Azure 上仍可窃取 GPT-6 Astra 等模型的推理内容",
+        "url": "https://the-decoder.com/openai-says-it-stopped-a-campaign-to-steal-its-models-reasoning-but-the-trick-still-worked-on-azure",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -302,15 +301,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8095,
-      "importance": 0.8095,
-      "importance_score": 0.8095,
+      "score": 0.7942,
+      "importance": 0.7942,
+      "importance_score": 0.7942,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8383,
+        "recency": 0.7531,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -383,15 +382,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.832,
-      "importance": 0.832,
-      "importance_score": 0.832,
+      "score": 0.8174,
+      "importance": 0.8174,
+      "importance_score": 0.8174,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7943,
+        "recency": 0.7136,
         "story_heat": 0.25
       },
       "category": "official",
@@ -412,102 +411,21 @@
       }
     },
     {
-      "story_id": "story_6eb18f6ff1c2",
-      "title": "FTC 以消费者保护为由对 OpenAI、Anthropic 等 AI 实验室启动全面调查",
-      "url": "https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns",
-      "primary_url": "https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "642e8da577619291348e2e74443467b30fe57f10",
-          "title": "FTC 以消费者保护为由对 OpenAI、Anthropic 等 AI 实验室启动全面调查",
-          "url": "https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-30T16:20:04Z"
-        },
-        {
-          "id": "a195258c40a8cb62860dd4e3b4a235df445dd8a4",
-          "title": "FTC 以消费者保护为由对 OpenAI、Anthropic 等 AI 实验室启动全面调查 / FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
-          "url": "https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-30T16:20:04Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Decoder AI News",
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "642e8da577619291348e2e74443467b30fe57f10",
-          "title": "FTC 以消费者保护为由对 OpenAI、Anthropic 等 AI 实验室启动全面调查",
-          "url": "https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-30T16:20:04Z"
-        },
-        {
-          "id": "a195258c40a8cb62860dd4e3b4a235df445dd8a4",
-          "title": "FTC 以消费者保护为由对 OpenAI、Anthropic 等 AI 实验室启动全面调查 / FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
-          "url": "https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-30T16:20:04Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7882,
-      "importance": 0.7882,
-      "importance_score": 0.7882,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.82,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8091,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-30T16:20:04Z",
-      "latest_at": "2026-09-30T16:20:04Z",
-      "primary_item": {
-        "id": "642e8da577619291348e2e74443467b30fe57f10",
-        "title": "FTC 以消费者保护为由对 OpenAI、Anthropic 等 AI 实验室启动全面调查",
-        "url": "https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_40e72bec9edf",
-      "title": "HydraFusion in VS Code and the GitHub Copilot app",
-      "url": "https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app",
-      "primary_url": "https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app",
+      "story_id": "story_d12535d4e632",
+      "title": "选择 npm 可信发布的 dist-tag 权限 / Opt-in dist-tag permissions for npm trusted publishing",
+      "url": "https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing",
+      "primary_url": "https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "bd6ff7531c4f691e042fd6a620e1de8e0f43bc53",
-          "title": "HydraFusion in VS Code and the GitHub Copilot app",
-          "url": "https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app",
+          "id": "08449e4f1bbb9462c8d2e83818728bbe8110bf1a",
+          "title": "选择 npm 可信发布的 dist-tag 权限 / Opt-in dist-tag permissions for npm trusted publishing",
+          "url": "https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-30T14:31:19Z"
+          "published_at": "2026-09-30T21:03:09Z"
         }
       ],
       "source_count": 1,
@@ -516,26 +434,26 @@
       ],
       "items": [
         {
-          "id": "bd6ff7531c4f691e042fd6a620e1de8e0f43bc53",
-          "title": "HydraFusion in VS Code and the GitHub Copilot app",
-          "url": "https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app",
+          "id": "08449e4f1bbb9462c8d2e83818728bbe8110bf1a",
+          "title": "选择 npm 可信发布的 dist-tag 权限 / Opt-in dist-tag permissions for npm trusted publishing",
+          "url": "https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-30T14:31:19Z"
+          "published_at": "2026-09-30T21:03:09Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8139,
-      "importance": 0.8139,
-      "importance_score": 0.8139,
+      "score": 0.8041,
+      "importance": 0.8041,
+      "importance_score": 0.8041,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7882,
+        "ai_relevance": 0.87,
+        "recency": 0.7782,
         "story_heat": 0.0
       },
       "category": "official",
@@ -544,75 +462,13 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-30T14:31:19Z",
-      "latest_at": "2026-09-30T14:31:19Z",
+      "earliest_at": "2026-09-30T21:03:09Z",
+      "latest_at": "2026-09-30T21:03:09Z",
       "primary_item": {
-        "id": "bd6ff7531c4f691e042fd6a620e1de8e0f43bc53",
-        "title": "HydraFusion in VS Code and the GitHub Copilot app",
-        "url": "https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app",
+        "id": "08449e4f1bbb9462c8d2e83818728bbe8110bf1a",
+        "title": "选择 npm 可信发布的 dist-tag 权限 / Opt-in dist-tag permissions for npm trusted publishing",
+        "url": "https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing",
         "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_b5e5e43443d2",
-      "title": "Helping small businesses put AI to work",
-      "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
-      "primary_url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "c2d370276dc4df6163e75733f9c8e70387d9d9b2",
-          "title": "Helping small businesses put AI to work",
-          "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-30T10:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "c2d370276dc4df6163e75733f9c8e70387d9d9b2",
-          "title": "Helping small businesses put AI to work",
-          "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-30T10:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8049,
-      "importance": 0.8049,
-      "importance_score": 0.8049,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7384,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-30T10:00:00Z",
-      "latest_at": "2026-09-30T10:00:00Z",
-      "primary_item": {
-        "id": "c2d370276dc4df6163e75733f9c8e70387d9d9b2",
-        "title": "Helping small businesses put AI to work",
-        "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
-        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -670,15 +526,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7748,
-      "importance": 0.7748,
-      "importance_score": 0.7748,
+      "score": 0.7571,
+      "importance": 0.7571,
+      "importance_score": 0.7571,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9679,
+        "recency": 0.8696,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -732,21 +588,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7657,
-      "importance": 0.7657,
-      "importance_score": 0.7657,
+      "score": 0.7498,
+      "importance": 0.7498,
+      "importance_score": 0.7498,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.873,
+        "recency": 0.7843,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-30T21:35:38Z",
       "latest_at": "2026-09-30T21:35:38Z",
@@ -793,21 +648,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7647,
-      "importance": 0.7647,
-      "importance_score": 0.7647,
+      "score": 0.7489,
+      "importance": 0.7489,
+      "importance_score": 0.7489,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8675,
+        "recency": 0.7794,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-30T21:09:24Z",
       "latest_at": "2026-09-30T21:09:24Z",
@@ -820,21 +674,102 @@
       }
     },
     {
-      "story_id": "story_6caab1facf6a",
-      "title": "GitHub Advanced Security trials for GitHub Team",
-      "url": "https://github.blog/changelog/2026-09-30-github-advanced-security-trials-for-github-team",
-      "primary_url": "https://github.blog/changelog/2026-09-30-github-advanced-security-trials-for-github-team",
+      "story_id": "story_6eb18f6ff1c2",
+      "title": "FTC 以消费者保护为由对 OpenAI、Anthropic 等 AI 实验室启动全面调查",
+      "url": "https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns",
+      "primary_url": "https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "642e8da577619291348e2e74443467b30fe57f10",
+          "title": "FTC 以消费者保护为由对 OpenAI、Anthropic 等 AI 实验室启动全面调查",
+          "url": "https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-30T16:20:04Z"
+        },
+        {
+          "id": "a195258c40a8cb62860dd4e3b4a235df445dd8a4",
+          "title": "FTC 以消费者保护为由对 OpenAI、Anthropic 等 AI 实验室启动全面调查 / FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
+          "url": "https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-30T16:20:04Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Decoder AI News",
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "642e8da577619291348e2e74443467b30fe57f10",
+          "title": "FTC 以消费者保护为由对 OpenAI、Anthropic 等 AI 实验室启动全面调查",
+          "url": "https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-30T16:20:04Z"
+        },
+        {
+          "id": "a195258c40a8cb62860dd4e3b4a235df445dd8a4",
+          "title": "FTC 以消费者保护为由对 OpenAI、Anthropic 等 AI 实验室启动全面调查 / FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
+          "url": "https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-30T16:20:04Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7735,
+      "importance": 0.7735,
+      "importance_score": 0.7735,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.82,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7269,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-30T16:20:04Z",
+      "latest_at": "2026-09-30T16:20:04Z",
+      "primary_item": {
+        "id": "642e8da577619291348e2e74443467b30fe57f10",
+        "title": "FTC 以消费者保护为由对 OpenAI、Anthropic 等 AI 实验室启动全面调查",
+        "url": "https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_40e72bec9edf",
+      "title": "HydraFusion in VS Code and the GitHub Copilot app",
+      "url": "https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app",
+      "primary_url": "https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "ec2bff5a72b049f1ed2987ebb95a5c08547c464e",
-          "title": "GitHub Advanced Security trials for GitHub Team",
-          "url": "https://github.blog/changelog/2026-09-30-github-advanced-security-trials-for-github-team",
+          "id": "bd6ff7531c4f691e042fd6a620e1de8e0f43bc53",
+          "title": "HydraFusion in VS Code and the GitHub Copilot app",
+          "url": "https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-30T16:48:24Z"
+          "published_at": "2026-09-30T14:31:19Z"
         }
       ],
       "source_count": 1,
@@ -843,26 +778,26 @@
       ],
       "items": [
         {
-          "id": "ec2bff5a72b049f1ed2987ebb95a5c08547c464e",
-          "title": "GitHub Advanced Security trials for GitHub Team",
-          "url": "https://github.blog/changelog/2026-09-30-github-advanced-security-trials-for-github-team",
+          "id": "bd6ff7531c4f691e042fd6a620e1de8e0f43bc53",
+          "title": "HydraFusion in VS Code and the GitHub Copilot app",
+          "url": "https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-30T16:48:24Z"
+          "published_at": "2026-09-30T14:31:19Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8106,
-      "importance": 0.8106,
-      "importance_score": 0.8106,
+      "score": 0.7995,
+      "importance": 0.7995,
+      "importance_score": 0.7995,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8147,
+        "ai_relevance": 0.91,
+        "recency": 0.7082,
         "story_heat": 0.0
       },
       "category": "official",
@@ -871,14 +806,74 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-30T16:48:24Z",
-      "latest_at": "2026-09-30T16:48:24Z",
+      "earliest_at": "2026-09-30T14:31:19Z",
+      "latest_at": "2026-09-30T14:31:19Z",
       "primary_item": {
-        "id": "ec2bff5a72b049f1ed2987ebb95a5c08547c464e",
-        "title": "GitHub Advanced Security trials for GitHub Team",
-        "url": "https://github.blog/changelog/2026-09-30-github-advanced-security-trials-for-github-team",
+        "id": "bd6ff7531c4f691e042fd6a620e1de8e0f43bc53",
+        "title": "HydraFusion in VS Code and the GitHub Copilot app",
+        "url": "https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_ee61659f9646",
+      "title": "Ethan Mollick 谈点与群：智能体自组织为何让管理假设失效",
+      "url": "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
+      "primary_url": "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
+      "source": "Ethan Mollick：One Useful Thing（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f4d1bb95b4c1c4ef480458a314e5f4cdd932b05f",
+          "title": "Ethan Mollick 谈点与群：智能体自组织为何让管理假设失效",
+          "url": "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
+          "source": "Ethan Mollick：One Useful Thing（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-01T10:54:12Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Ethan Mollick：One Useful Thing（RSS）"
+      ],
+      "items": [
+        {
+          "id": "f4d1bb95b4c1c4ef480458a314e5f4cdd932b05f",
+          "title": "Ethan Mollick 谈点与群：智能体自组织为何让管理假设失效",
+          "url": "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
+          "source": "Ethan Mollick：One Useful Thing（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-01T10:54:12Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7347,
+      "importance": 0.7347,
+      "importance_score": 0.7347,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.64,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9505,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-01T10:54:12Z",
+      "latest_at": "2026-10-01T10:54:12Z",
+      "primary_item": {
+        "id": "f4d1bb95b4c1c4ef480458a314e5f4cdd932b05f",
+        "title": "Ethan Mollick 谈点与群：智能体自组织为何让管理假设失效",
+        "url": "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
+        "source": "Ethan Mollick：One Useful Thing（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -916,15 +911,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7383,
-      "importance": 0.7383,
-      "importance_score": 0.7383,
+      "score": 0.7218,
+      "importance": 0.7218,
+      "importance_score": 0.7218,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9039,
+        "recency": 0.812,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -942,261 +937,21 @@
       }
     },
     {
-      "story_id": "story_433c6b8fa491",
-      "title": "Hugging Face CEO 称收到数千条私信，将花几天逐一处理",
-      "url": "https://x.com/ClementDelangue/status/2105276853632094607",
-      "primary_url": "https://x.com/ClementDelangue/status/2105276853632094607",
-      "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ec59ddf97ad786f27bf162c00512cae58b88963b",
-          "title": "Hugging Face CEO 称收到数千条私信，将花几天逐一处理",
-          "url": "https://x.com/ClementDelangue/status/2105276853632094607",
-          "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-30T12:41:30Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)"
-      ],
-      "items": [
-        {
-          "id": "ec59ddf97ad786f27bf162c00512cae58b88963b",
-          "title": "Hugging Face CEO 称收到数千条私信，将花几天逐一处理",
-          "url": "https://x.com/ClementDelangue/status/2105276853632094607",
-          "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-30T12:41:30Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7378,
-      "importance": 0.7378,
-      "importance_score": 0.7378,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7677,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-30T12:41:30Z",
-      "latest_at": "2026-09-30T12:41:30Z",
-      "primary_item": {
-        "id": "ec59ddf97ad786f27bf162c00512cae58b88963b",
-        "title": "Hugging Face CEO 称收到数千条私信，将花几天逐一处理",
-        "url": "https://x.com/ClementDelangue/status/2105276853632094607",
-        "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_a0ce837e4743",
-      "title": "Artificial Analysis：GPT-6.1 Sol 的 Cost per Task 较 GPT-6 Sol 低约 30%",
-      "url": "https://x.com/ArtificialAnlys/status/2105449959554441580",
-      "primary_url": "https://x.com/ArtificialAnlys/status/2105449959554441580",
-      "source": "X：Artificial Analysis (@ArtificialAnlys)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "97da7c92fac8092f1d9d102565daf0b368054f1c",
-          "title": "Artificial Analysis：GPT-6.1 Sol 的 Cost per Task 较 GPT-6 Sol 低约 30%",
-          "url": "https://x.com/ArtificialAnlys/status/2105449959554441580",
-          "source": "X：Artificial Analysis (@ArtificialAnlys)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-01T00:09:22Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Artificial Analysis (@ArtificialAnlys)"
-      ],
-      "items": [
-        {
-          "id": "97da7c92fac8092f1d9d102565daf0b368054f1c",
-          "title": "Artificial Analysis：GPT-6.1 Sol 的 Cost per Task 较 GPT-6 Sol 低约 30%",
-          "url": "https://x.com/ArtificialAnlys/status/2105449959554441580",
-          "source": "X：Artificial Analysis (@ArtificialAnlys)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-01T00:09:22Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7327,
-      "importance": 0.7327,
-      "importance_score": 0.7327,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9059,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-01T00:09:22Z",
-      "latest_at": "2026-10-01T00:09:22Z",
-      "primary_item": {
-        "id": "97da7c92fac8092f1d9d102565daf0b368054f1c",
-        "title": "Artificial Analysis：GPT-6.1 Sol 的 Cost per Task 较 GPT-6 Sol 低约 30%",
-        "url": "https://x.com/ArtificialAnlys/status/2105449959554441580",
-        "source": "X：Artificial Analysis (@ArtificialAnlys)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_3fbe18f13a9f",
-      "title": "Jensen Huang 称行业领袖在白宫签署超级智能协定",
-      "url": "https://x.com/JensenHuang/status/2105348324484342238",
-      "primary_url": "https://x.com/JensenHuang/status/2105348324484342238",
-      "source": "X：Jensen Huang (@JensenHuang)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6188696ba9d027ecc1f82ee63d66ddc6ae485fbf",
-          "title": "Jensen Huang 称行业领袖在白宫签署超级智能协定",
-          "url": "https://x.com/JensenHuang/status/2105348324484342238",
-          "source": "X：Jensen Huang (@JensenHuang)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-30T17:25:30Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Jensen Huang (@JensenHuang)"
-      ],
-      "items": [
-        {
-          "id": "6188696ba9d027ecc1f82ee63d66ddc6ae485fbf",
-          "title": "Jensen Huang 称行业领袖在白宫签署超级智能协定",
-          "url": "https://x.com/JensenHuang/status/2105348324484342238",
-          "source": "X：Jensen Huang (@JensenHuang)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-30T17:25:30Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7206,
-      "importance": 0.7206,
-      "importance_score": 0.7206,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.67,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.822,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-30T17:25:30Z",
-      "latest_at": "2026-09-30T17:25:30Z",
-      "primary_item": {
-        "id": "6188696ba9d027ecc1f82ee63d66ddc6ae485fbf",
-        "title": "Jensen Huang 称行业领袖在白宫签署超级智能协定",
-        "url": "https://x.com/JensenHuang/status/2105348324484342238",
-        "source": "X：Jensen Huang (@JensenHuang)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_6e39c98cde34",
-      "title": "Perplexity 开放 Computer 邮件委托入口并限时免费运行任务",
-      "url": "https://x.com/AravSrinivas/status/2105369479190601754",
-      "primary_url": "https://x.com/AravSrinivas/status/2105369479190601754",
-      "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "febe132a3209dc718e1c77f99658682d4ae7ade8",
-          "title": "Perplexity 开放 Computer 邮件委托入口并限时免费运行任务",
-          "url": "https://x.com/AravSrinivas/status/2105369479190601754",
-          "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-30T18:49:34Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)"
-      ],
-      "items": [
-        {
-          "id": "febe132a3209dc718e1c77f99658682d4ae7ade8",
-          "title": "Perplexity 开放 Computer 邮件委托入口并限时免费运行任务",
-          "url": "https://x.com/AravSrinivas/status/2105369479190601754",
-          "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-30T18:49:34Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7206,
-      "importance": 0.7206,
-      "importance_score": 0.7206,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8388,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-30T18:49:34Z",
-      "latest_at": "2026-09-30T18:49:34Z",
-      "primary_item": {
-        "id": "febe132a3209dc718e1c77f99658682d4ae7ade8",
-        "title": "Perplexity 开放 Computer 邮件委托入口并限时免费运行任务",
-        "url": "https://x.com/AravSrinivas/status/2105369479190601754",
-        "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_5294bab58d74",
-      "title": "X25519-only TLS ends for GHE.com on October 7",
-      "url": "https://github.blog/changelog/2026-09-30-x25519-only-tls-ends-for-ghe-com-on-september-15",
-      "primary_url": "https://github.blog/changelog/2026-09-30-x25519-only-tls-ends-for-ghe-com-on-september-15",
+      "story_id": "story_6caab1facf6a",
+      "title": "GitHub 团队的 GitHub 高级安全试用 / GitHub Advanced Security trials for GitHub Team",
+      "url": "https://github.blog/changelog/2026-09-30-github-advanced-security-trials-for-github-team",
+      "primary_url": "https://github.blog/changelog/2026-09-30-github-advanced-security-trials-for-github-team",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "948d0dd99d933f858ba2845beb4c4a268024a4fb",
-          "title": "X25519-only TLS ends for GHE.com on October 7",
-          "url": "https://github.blog/changelog/2026-09-30-x25519-only-tls-ends-for-ghe-com-on-september-15",
+          "id": "ec2bff5a72b049f1ed2987ebb95a5c08547c464e",
+          "title": "GitHub 团队的 GitHub 高级安全试用 / GitHub Advanced Security trials for GitHub Team",
+          "url": "https://github.blog/changelog/2026-09-30-github-advanced-security-trials-for-github-team",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-30T13:30:24Z"
+          "published_at": "2026-09-30T16:48:24Z"
         }
       ],
       "source_count": 1,
@@ -1205,26 +960,26 @@
       ],
       "items": [
         {
-          "id": "948d0dd99d933f858ba2845beb4c4a268024a4fb",
-          "title": "X25519-only TLS ends for GHE.com on October 7",
-          "url": "https://github.blog/changelog/2026-09-30-x25519-only-tls-ends-for-ghe-com-on-september-15",
+          "id": "ec2bff5a72b049f1ed2987ebb95a5c08547c464e",
+          "title": "GitHub 团队的 GitHub 高级安全试用 / GitHub Advanced Security trials for GitHub Team",
+          "url": "https://github.blog/changelog/2026-09-30-github-advanced-security-trials-for-github-team",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-30T13:30:24Z"
+          "published_at": "2026-09-30T16:48:24Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8038,
-      "importance": 0.8038,
-      "importance_score": 0.8038,
+      "score": 0.7957,
+      "importance": 0.7957,
+      "importance_score": 0.7957,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7768,
+        "recency": 0.7319,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1233,134 +988,487 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-30T13:30:24Z",
-      "latest_at": "2026-09-30T13:30:24Z",
+      "earliest_at": "2026-09-30T16:48:24Z",
+      "latest_at": "2026-09-30T16:48:24Z",
       "primary_item": {
-        "id": "948d0dd99d933f858ba2845beb4c4a268024a4fb",
-        "title": "X25519-only TLS ends for GHE.com on October 7",
-        "url": "https://github.blog/changelog/2026-09-30-x25519-only-tls-ends-for-ghe-com-on-september-15",
+        "id": "ec2bff5a72b049f1ed2987ebb95a5c08547c464e",
+        "title": "GitHub 团队的 GitHub 高级安全试用 / GitHub Advanced Security trials for GitHub Team",
+        "url": "https://github.blog/changelog/2026-09-30-github-advanced-security-trials-for-github-team",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_56c6f03b2323",
-      "title": "OpenRouter 发布 Agent 模型成本与质量权衡选型框架",
-      "url": "https://openrouter.ai/blog/insights/cost-vs-quality-tradeoff-framework-for-agent-models",
-      "primary_url": "https://openrouter.ai/blog/insights/cost-vs-quality-tradeoff-framework-for-agent-models",
-      "source": "OpenRouter：Announcements（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_0aef5ffc885b",
+      "title": "山姆·奥尔特曼如何利用点来夺回他的时间 / How Sam Altman Uses Dots to Take Back His Time",
+      "url": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL",
+      "primary_url": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL",
+      "source": "Follow Builders · Podcast · AI & I by Every",
+      "source_name": "Follow Builders",
       "sources": [
         {
-          "id": "7777094d834b48fa3bf9d55e3e78b3a0a3eed670",
-          "title": "OpenRouter 发布 Agent 模型成本与质量权衡选型框架",
-          "url": "https://openrouter.ai/blog/insights/cost-vs-quality-tradeoff-framework-for-agent-models",
-          "source": "OpenRouter：Announcements（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-01T00:00:00Z"
+          "id": "ea5a5102ccc39b5cc578c6b4e07c172e21f799be",
+          "title": "山姆·奥尔特曼如何利用点来夺回他的时间 / How Sam Altman Uses Dots to Take Back His Time",
+          "url": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL",
+          "source": "Follow Builders · Podcast · AI & I by Every",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-09-30T20:05:56Z"
+        },
+        {
+          "id": "9a3f61e530516a37154fa1de66d16718bcb881dc",
+          "title": "钢人队前教练迈克·汤姆林 (Mike Tomlin) 12 年来一直致力于建造一座 Minecraft 城市 / Steelers ex-coach Mike Tomlin has been building a Minecraft city for 12 years",
+          "url": "https://www.youtube.com/playlist?list=PLS-_IoE-EKXU",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-01T02:45:28Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "OpenRouter：Announcements（RSS）"
+        "Follow Builders · Podcast · AI & I by Every",
+        "Hacker News · 24h最热"
       ],
       "items": [
         {
-          "id": "7777094d834b48fa3bf9d55e3e78b3a0a3eed670",
-          "title": "OpenRouter 发布 Agent 模型成本与质量权衡选型框架",
-          "url": "https://openrouter.ai/blog/insights/cost-vs-quality-tradeoff-framework-for-agent-models",
-          "source": "OpenRouter：Announcements（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-01T00:00:00Z"
+          "id": "ea5a5102ccc39b5cc578c6b4e07c172e21f799be",
+          "title": "山姆·奥尔特曼如何利用点来夺回他的时间 / How Sam Altman Uses Dots to Take Back His Time",
+          "url": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL",
+          "source": "Follow Builders · Podcast · AI & I by Every",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-09-30T20:05:56Z"
+        },
+        {
+          "id": "9a3f61e530516a37154fa1de66d16718bcb881dc",
+          "title": "钢人队前教练迈克·汤姆林 (Mike Tomlin) 12 年来一直致力于建造一座 Minecraft 城市 / Steelers ex-coach Mike Tomlin has been building a Minecraft city for 12 years",
+          "url": "https://www.youtube.com/playlist?list=PLS-_IoE-EKXU",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-01T02:45:28Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7353,
-      "importance": 0.7353,
-      "importance_score": 0.7353,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6199,
+      "importance": 0.6199,
+      "importance_score": 0.6199,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.67,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9039,
-        "story_heat": 0.0
+        "editorial": 0.5544,
+        "source_tier": 0.62,
+        "ai_relevance": 0.77,
+        "recency": 0.7676,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-10-01T00:00:00Z",
-      "latest_at": "2026-10-01T00:00:00Z",
+      "earliest_at": "2026-09-30T20:05:56Z",
+      "latest_at": "2026-10-01T02:45:28Z",
       "primary_item": {
-        "id": "7777094d834b48fa3bf9d55e3e78b3a0a3eed670",
-        "title": "OpenRouter 发布 Agent 模型成本与质量权衡选型框架",
-        "url": "https://openrouter.ai/blog/insights/cost-vs-quality-tradeoff-framework-for-agent-models",
-        "source": "OpenRouter：Announcements（RSS）",
-        "source_name": "AI HOT"
+        "id": "ea5a5102ccc39b5cc578c6b4e07c172e21f799be",
+        "title": "山姆·奥尔特曼如何利用点来夺回他的时间 / How Sam Altman Uses Dots to Take Back His Time",
+        "url": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL",
+        "source": "Follow Builders · Podcast · AI & I by Every",
+        "source_name": "Follow Builders"
       }
     },
     {
-      "story_id": "story_23f32423730e",
-      "title": "GPT-6.1 Sol (Max) 以 1759 分登上 Code Arena: WebDev 第 3 名",
-      "url": "https://x.com/arena/status/2105367591174995999",
-      "primary_url": "https://x.com/arena/status/2105367591174995999",
-      "source": "X：Arena (@arena)",
-      "source_name": "AI HOT",
+      "story_id": "story_97fa5252aa29",
+      "title": "谷歌宣布推出 Gemini 4，并表示其功能非常强大，目前只有“值得信赖的网络防御者”才能拥有它 / Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now",
+      "url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
+      "primary_url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
+      "source": "The Verge",
+      "source_name": "Curated Media",
       "sources": [
         {
-          "id": "653fb530daf9fb8b6ac7537900007685ee1c748c",
-          "title": "GPT-6.1 Sol (Max) 以 1759 分登上 Code Arena: WebDev 第 3 名",
-          "url": "https://x.com/arena/status/2105367591174995999",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-30T18:42:04Z"
+          "id": "90d01ae673e6f9de7e9cb8ee26ef8ef66cf55f2d",
+          "title": "谷歌宣布推出 Gemini 4，并表示其功能非常强大，目前只有“值得信赖的网络防御者”才能拥有它 / Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now",
+          "url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-30T20:41:41Z"
+        },
+        {
+          "id": "9d4d1d911fe709c7d18848c3c5623444ef57c535",
+          "title": "谷歌宣布推出 Gemini 4，并表示其功能非常强大，目前只有“值得信赖的网络防御者”才能拥有它 / Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now",
+          "url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-30T20:41:41Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "X：Arena (@arena)"
+        "The Verge"
       ],
       "items": [
         {
-          "id": "653fb530daf9fb8b6ac7537900007685ee1c748c",
-          "title": "GPT-6.1 Sol (Max) 以 1759 分登上 Code Arena: WebDev 第 3 名",
-          "url": "https://x.com/arena/status/2105367591174995999",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-30T18:42:04Z"
+          "id": "90d01ae673e6f9de7e9cb8ee26ef8ef66cf55f2d",
+          "title": "谷歌宣布推出 Gemini 4，并表示其功能非常强大，目前只有“值得信赖的网络防御者”才能拥有它 / Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now",
+          "url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-30T20:41:41Z"
+        },
+        {
+          "id": "9d4d1d911fe709c7d18848c3c5623444ef57c535",
+          "title": "谷歌宣布推出 Gemini 4，并表示其功能非常强大，目前只有“值得信赖的网络防御者”才能拥有它 / Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now",
+          "url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-30T20:41:41Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7323,
-      "importance": 0.7323,
-      "importance_score": 0.7323,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5873,
+      "importance": 0.5873,
+      "importance_score": 0.5873,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8373,
-        "story_heat": 0.0
+        "editorial": 0.5112,
+        "source_tier": 0.58,
+        "ai_relevance": 0.71,
+        "recency": 0.7742,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-09-30T18:42:04Z",
-      "latest_at": "2026-09-30T18:42:04Z",
+      "earliest_at": "2026-09-30T20:41:41Z",
+      "latest_at": "2026-09-30T20:41:41Z",
       "primary_item": {
-        "id": "653fb530daf9fb8b6ac7537900007685ee1c748c",
-        "title": "GPT-6.1 Sol (Max) 以 1759 分登上 Code Arena: WebDev 第 3 名",
-        "url": "https://x.com/arena/status/2105367591174995999",
-        "source": "X：Arena (@arena)",
-        "source_name": "AI HOT"
+        "id": "90d01ae673e6f9de7e9cb8ee26ef8ef66cf55f2d",
+        "title": "谷歌宣布推出 Gemini 4，并表示其功能非常强大，目前只有“值得信赖的网络防御者”才能拥有它 / Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now",
+        "url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
+        "source": "The Verge",
+        "source_name": "Curated Media"
+      }
+    },
+    {
+      "story_id": "story_651ee7f27edc",
+      "title": "Meta 使用人工智能数据中心可避免数十亿联邦税 / Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes",
+      "url": "https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html",
+      "primary_url": "https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "5a790dad2e0196d33a4c0aed642727e0636733ed",
+          "title": "Meta 使用人工智能数据中心可避免数十亿联邦税 / Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes",
+          "url": "https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-01T13:05:51Z"
+        },
+        {
+          "id": "9117a4693411b5381b84cdb718e7608f7a3d6f52",
+          "title": "Meta如何利用人工智能数据中心规避数十亿美元的联邦税款（赠阅文章）",
+          "url": "https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html?unlocked_article_code=1.FFE.Rydn.l-5QD63MggnK&smid=nytcore-ios-share",
+          "source": "www.nytimes.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-30T14:48:14.511000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "www.nytimes.com"
+      ],
+      "items": [
+        {
+          "id": "5a790dad2e0196d33a4c0aed642727e0636733ed",
+          "title": "Meta 使用人工智能数据中心可避免数十亿联邦税 / Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes",
+          "url": "https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-01T13:05:51Z"
+        },
+        {
+          "id": "9117a4693411b5381b84cdb718e7608f7a3d6f52",
+          "title": "Meta如何利用人工智能数据中心规避数十亿美元的联邦税款（赠阅文章）",
+          "url": "https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html?unlocked_article_code=1.FFE.Rydn.l-5QD63MggnK&smid=nytcore-ios-share",
+          "source": "www.nytimes.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-30T14:48:14.511000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5424,
+      "importance": 0.5424,
+      "importance_score": 0.5424,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9811,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-30T14:48:14.511000Z",
+      "latest_at": "2026-10-01T13:05:51Z",
+      "primary_item": {
+        "id": "5a790dad2e0196d33a4c0aed642727e0636733ed",
+        "title": "Meta 使用人工智能数据中心可避免数十亿联邦税 / Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes",
+        "url": "https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      }
+    },
+    {
+      "story_id": "story_adc30f6b02de",
+      "title": "减轻人工智能变革带来的认知负荷",
+      "url": "https://amoffat.github.io/blog/cognitive-load.html",
+      "primary_url": "https://amoffat.github.io/blog/cognitive-load.html",
+      "source": "amoffat.github.io",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "fef6a4160ccbd275e7ec25a5b7efbfd682ac1c5e",
+          "title": "减轻人工智能变革带来的认知负荷",
+          "url": "https://amoffat.github.io/blog/cognitive-load.html",
+          "source": "amoffat.github.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-01T13:05:00.035000Z"
+        },
+        {
+          "id": "3964841cf76f73269847b33fc6133f7a8c46c5f3",
+          "title": "减轻人工智能变革带来的认知负荷 / Reducing the cognitive load of AI changes",
+          "url": "https://amoffat.github.io/blog/cognitive-load.html",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-01T12:57:19Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "amoffat.github.io"
+      ],
+      "items": [
+        {
+          "id": "fef6a4160ccbd275e7ec25a5b7efbfd682ac1c5e",
+          "title": "减轻人工智能变革带来的认知负荷",
+          "url": "https://amoffat.github.io/blog/cognitive-load.html",
+          "source": "amoffat.github.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-01T13:05:00.035000Z"
+        },
+        {
+          "id": "3964841cf76f73269847b33fc6133f7a8c46c5f3",
+          "title": "减轻人工智能变革带来的认知负荷 / Reducing the cognitive load of AI changes",
+          "url": "https://amoffat.github.io/blog/cognitive-load.html",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-01T12:57:19Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5424,
+      "importance": 0.5424,
+      "importance_score": 0.5424,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9809,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-01T12:57:19Z",
+      "latest_at": "2026-10-01T13:05:00.035000Z",
+      "primary_item": {
+        "id": "fef6a4160ccbd275e7ec25a5b7efbfd682ac1c5e",
+        "title": "减轻人工智能变革带来的认知负荷",
+        "url": "https://amoffat.github.io/blog/cognitive-load.html",
+        "source": "amoffat.github.io",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_84df70c5eea2",
+      "title": "特朗普的人工智能品牌重塑引发了对斯洛文尼亚网站域名“史无前例”的需求",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss",
+      "primary_url": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss",
+      "source": "www.bbc.co.uk",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "889b4ebd02cb66e6e8c2da636c866f27a2cecea8",
+          "title": "特朗普的人工智能品牌重塑引发了对斯洛文尼亚网站域名“史无前例”的需求",
+          "url": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss",
+          "source": "www.bbc.co.uk",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-01T13:05:00.717000Z"
+        },
+        {
+          "id": "951b3b5da78ecf99a37f885c43138a704e6311cb",
+          "title": "特朗普的人工智能品牌重塑引发了对斯洛文尼亚网站域名“史无前例”的需求 / Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
+          "url": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-01T11:37:46Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "BBC News",
+        "www.bbc.co.uk"
+      ],
+      "items": [
+        {
+          "id": "889b4ebd02cb66e6e8c2da636c866f27a2cecea8",
+          "title": "特朗普的人工智能品牌重塑引发了对斯洛文尼亚网站域名“史无前例”的需求",
+          "url": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss",
+          "source": "www.bbc.co.uk",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-01T13:05:00.717000Z"
+        },
+        {
+          "id": "951b3b5da78ecf99a37f885c43138a704e6311cb",
+          "title": "特朗普的人工智能品牌重塑引发了对斯洛文尼亚网站域名“史无前例”的需求 / Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
+          "url": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-01T11:37:46Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5424,
+      "importance": 0.5424,
+      "importance_score": 0.5424,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9809,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-01T11:37:46Z",
+      "latest_at": "2026-10-01T13:05:00.717000Z",
+      "primary_item": {
+        "id": "889b4ebd02cb66e6e8c2da636c866f27a2cecea8",
+        "title": "特朗普的人工智能品牌重塑引发了对斯洛文尼亚网站域名“史无前例”的需求",
+        "url": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss",
+        "source": "www.bbc.co.uk",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_409dbd5781b4",
+      "title": "人工智能主权财富基金并非进步之举——而是技术帝国主义 / An AI sovereign wealth fund isn't progressive – it's techno-imperialism",
+      "url": "https://www.ft.com/content/bc178357-793b-45d8-ae3b-d5929159c243",
+      "primary_url": "https://www.ft.com/content/bc178357-793b-45d8-ae3b-d5929159c243",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "a80953057dbd6b7df2eaa8ac54d0a7f924a29e1a",
+          "title": "人工智能主权财富基金并非进步之举——而是技术帝国主义 / An AI sovereign wealth fund isn't progressive – it's techno-imperialism",
+          "url": "https://www.ft.com/content/bc178357-793b-45d8-ae3b-d5929159c243",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-01T13:01:02Z"
+        },
+        {
+          "id": "a2e97039c09a6d3199654dbad644f3fe154ec741",
+          "title": "人工智能主权财富基金并非进步之举——而是技术帝国主义",
+          "url": "https://www.ft.com/content/bc178357-793b-45d8-ae3b-d5929159c243",
+          "source": "www.ft.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-01T11:14:13.761000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "www.ft.com"
+      ],
+      "items": [
+        {
+          "id": "a80953057dbd6b7df2eaa8ac54d0a7f924a29e1a",
+          "title": "人工智能主权财富基金并非进步之举——而是技术帝国主义 / An AI sovereign wealth fund isn't progressive – it's techno-imperialism",
+          "url": "https://www.ft.com/content/bc178357-793b-45d8-ae3b-d5929159c243",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-01T13:01:02Z"
+        },
+        {
+          "id": "a2e97039c09a6d3199654dbad644f3fe154ec741",
+          "title": "人工智能主权财富基金并非进步之举——而是技术帝国主义",
+          "url": "https://www.ft.com/content/bc178357-793b-45d8-ae3b-d5929159c243",
+          "source": "www.ft.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-01T11:14:13.761000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5422,
+      "importance": 0.5422,
+      "importance_score": 0.5422,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.98,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-01T11:14:13.761000Z",
+      "latest_at": "2026-10-01T13:01:02Z",
+      "primary_item": {
+        "id": "a80953057dbd6b7df2eaa8ac54d0a7f924a29e1a",
+        "title": "人工智能主权财富基金并非进步之举——而是技术帝国主义 / An AI sovereign wealth fund isn't progressive – it's techno-imperialism",
+        "url": "https://www.ft.com/content/bc178357-793b-45d8-ae3b-d5929159c243",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     }
   ]
