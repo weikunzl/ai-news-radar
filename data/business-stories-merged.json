@@ -1,11 +1,13 @@
 {
-  "generated_at": "2026-10-01T14:26:19.445981Z",
+  "generated_at": "2026-10-01T19:55:55.686247Z",
   "clusters": [
     {
-      "cluster_id": "biz_cluster_41b59b3e0b17",
+      "cluster_id": "biz_cluster_b50a404aee8b",
       "thesis": "Founder stories provide the most reusable proof layer for Yuanli IP trust-building.",
       "lane": "founder_case",
       "signal_ids": [
+        "biz_17a8c2229866",
+        "biz_cee28fde32ee",
         "biz_a215fa6e1ba6",
         "biz_4e42215588b1",
         "biz_49157526fe5d",
@@ -13,9 +15,7 @@
         "biz_137ceb81a85f",
         "biz_9834652e17f1",
         "biz_bd13ae3d9b32",
-        "biz_6712c67926ae",
-        "biz_ac05c6c9b580",
-        "biz_1d29a316c886"
+        "biz_6712c67926ae"
       ],
       "source_count": 1,
       "importance_score": 51,
@@ -29,13 +29,23 @@
       "counter_evidence": "See counter_signal cluster for adoption, ROI, and trust risks.",
       "recommended_action": "Convert high-score founder cases into FTF credible story assets.",
       "evidence_refs": [
+        "biz_17a8c2229866",
+        "biz_cee28fde32ee",
         "biz_a215fa6e1ba6",
         "biz_4e42215588b1",
-        "biz_49157526fe5d",
-        "biz_c183c04e2f1a",
-        "biz_137ceb81a85f"
+        "biz_49157526fe5d"
       ],
       "top_sources": [
+        {
+          "source": "CB Insights",
+          "title": "Executive Interview: ideaForge",
+          "url": "https://www.cbinsights.com/research/executive-interview-ideaforge/"
+        },
+        {
+          "source": "CB Insights",
+          "title": "CEO Interview: Nextria",
+          "url": "https://www.cbinsights.com/research/ceo-interview-nextria/"
+        },
         {
           "source": "CB Insights",
           "title": "CEO Interview: Truemed",
@@ -50,45 +60,6 @@
           "source": "CB Insights",
           "title": "CEO Interview: Pomelo",
           "url": "https://www.cbinsights.com/research/ceo-interview-pomelo/"
-        },
-        {
-          "source": "CB Insights",
-          "title": "CEO Interview: Standard Forensics",
-          "url": "https://www.cbinsights.com/research/ceo-interview-standard-forensics/"
-        },
-        {
-          "source": "CB Insights",
-          "title": "CEO Interview: BenePass",
-          "url": "https://www.cbinsights.com/research/ceo-interview-benepass/"
-        }
-      ]
-    },
-    {
-      "cluster_id": "biz_cluster_d82495f27c16",
-      "thesis": "Business-school and consulting evidence strengthens the trust layer behind Yuanli IP claims.",
-      "lane": "authority_trust",
-      "signal_ids": [
-        "biz_9217f89fe5eb"
-      ],
-      "source_count": 1,
-      "importance_score": 37,
-      "confidence": "watch",
-      "yuanli_mapping": [
-        "ftf_trust",
-        "yuanli_asset",
-        "yuanli_startup"
-      ],
-      "why_it_matters": "1 English evidence items from 1 sources connect this pattern to Yuanli IP.",
-      "counter_evidence": "See counter_signal cluster for adoption, ROI, and trust risks.",
-      "recommended_action": "Use these authority-backed signals as FTF proof points before making public claims.",
-      "evidence_refs": [
-        "biz_9217f89fe5eb"
-      ],
-      "top_sources": [
-        {
-          "source": "Bain Insights",
-          "title": "AI in Marketing: How Leaders Achieve Double the Revenue Impact",
-          "url": "https://www.bain.com/insights/ai-in-marketing-how-leaders-achieve-double-the-revenue-impact/"
         }
       ]
     },
