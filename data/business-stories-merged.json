@@ -1,39 +1,56 @@
 {
-  "generated_at": "2026-10-01T19:55:55.686247Z",
+  "generated_at": "2026-10-02T04:36:06.102845Z",
   "clusters": [
     {
-      "cluster_id": "biz_cluster_b50a404aee8b",
+      "cluster_id": "biz_cluster_8bd05edd885f",
+      "thesis": "AI adoption counter-signals reveal where Yuanli claims need sharper proof and risk language.",
+      "lane": "counter_signal",
+      "signal_ids": [
+        "biz_82fcf647341a"
+      ],
+      "source_count": 1,
+      "importance_score": 66,
+      "confidence": "watch",
+      "yuanli_mapping": [
+        "ftf_trust",
+        "yuanli_os"
+      ],
+      "why_it_matters": "1 English evidence items from 1 sources connect this pattern to Yuanli IP.",
+      "counter_evidence": "Counter-signals are the evidence, not a rejection of the thesis.",
+      "recommended_action": "Add these counter-signals to sales objections and content credibility checks.",
+      "evidence_refs": [
+        "biz_82fcf647341a"
+      ],
+      "top_sources": [
+        {
+          "source": "CB Insights",
+          "title": "Anthropic’s IPO filing maps the AI safety startup market",
+          "url": "https://www.cbinsights.com/research/newsletter-october-1-2026/"
+        }
+      ]
+    },
+    {
+      "cluster_id": "biz_cluster_63c47d8f798b",
       "thesis": "Founder stories provide the most reusable proof layer for Yuanli IP trust-building.",
       "lane": "founder_case",
       "signal_ids": [
         "biz_17a8c2229866",
-        "biz_cee28fde32ee",
-        "biz_a215fa6e1ba6",
-        "biz_4e42215588b1",
-        "biz_49157526fe5d",
-        "biz_c183c04e2f1a",
-        "biz_137ceb81a85f",
-        "biz_9834652e17f1",
-        "biz_bd13ae3d9b32",
-        "biz_6712c67926ae"
+        "biz_cee28fde32ee"
       ],
       "source_count": 1,
-      "importance_score": 51,
+      "importance_score": 52,
       "confidence": "watch",
       "yuanli_mapping": [
         "ftf_trust",
         "yuanli_asset",
         "wealth_flywheel"
       ],
-      "why_it_matters": "10 English evidence items from 1 sources connect this pattern to Yuanli IP.",
+      "why_it_matters": "2 English evidence items from 1 sources connect this pattern to Yuanli IP.",
       "counter_evidence": "See counter_signal cluster for adoption, ROI, and trust risks.",
       "recommended_action": "Convert high-score founder cases into FTF credible story assets.",
       "evidence_refs": [
         "biz_17a8c2229866",
-        "biz_cee28fde32ee",
-        "biz_a215fa6e1ba6",
-        "biz_4e42215588b1",
-        "biz_49157526fe5d"
+        "biz_cee28fde32ee"
       ],
       "top_sources": [
         {
@@ -45,49 +62,41 @@
           "source": "CB Insights",
           "title": "CEO Interview: Nextria",
           "url": "https://www.cbinsights.com/research/ceo-interview-nextria/"
-        },
-        {
-          "source": "CB Insights",
-          "title": "CEO Interview: Truemed",
-          "url": "https://www.cbinsights.com/research/ceo-interview-truemed/"
-        },
-        {
-          "source": "CB Insights",
-          "title": "CEO Interview: Fuse",
-          "url": "https://www.cbinsights.com/research/ceo-interview-fuse/"
-        },
-        {
-          "source": "CB Insights",
-          "title": "CEO Interview: Pomelo",
-          "url": "https://www.cbinsights.com/research/ceo-interview-pomelo/"
         }
       ]
     },
     {
-      "cluster_id": "biz_cluster_a22d537563ed",
+      "cluster_id": "biz_cluster_51623439e3ea",
       "thesis": "Enterprise AI value is moving toward operating-model redesign rather than isolated copilots.",
       "lane": "enterprise_workflow",
       "signal_ids": [
-        "biz_0a5fc9849726"
+        "biz_70f36e625a05",
+        "biz_c33a5b08c2f5"
       ],
-      "source_count": 1,
-      "importance_score": 27,
-      "confidence": "watch",
+      "source_count": 2,
+      "importance_score": 44,
+      "confidence": "medium",
       "yuanli_mapping": [
         "yuanli_os",
         "ftf_trust"
       ],
-      "why_it_matters": "1 English evidence items from 1 sources connect this pattern to Yuanli IP.",
+      "why_it_matters": "2 English evidence items from 2 sources connect this pattern to Yuanli IP.",
       "counter_evidence": "See counter_signal cluster for adoption, ROI, and trust risks.",
       "recommended_action": "Map each workflow case to the Yuanli OS organs: soul, memory, judgment, hands.",
       "evidence_refs": [
-        "biz_0a5fc9849726"
+        "biz_70f36e625a05",
+        "biz_c33a5b08c2f5"
       ],
       "top_sources": [
         {
-          "source": "Latent Space",
-          "title": "Why Dwarkesh is Wrong about Computer Use + How OpenAI shipped its Jev competitor in 1 Week",
-          "url": "https://www.latent.space/p/devday-2026"
+          "source": "CB Insights",
+          "title": "Who’s on both sides? The investors backing rival coding agents",
+          "url": "https://www.cbinsights.com/research/coding-agent-investor-overlap/"
+        },
+        {
+          "source": "Hugging Face Blog",
+          "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+          "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata"
         }
       ]
     }

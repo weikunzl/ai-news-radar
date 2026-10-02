@@ -1,6 +1,27 @@
 {
-  "generated_at": "2026-10-01T19:55:55.686247Z",
+  "generated_at": "2026-10-02T04:36:06.102845Z",
   "cases": [
+    {
+      "case_id": "opc_case_adc3b6d774de",
+      "company": "Anthropic",
+      "founder": "",
+      "source_refs": [
+        "biz_82fcf647341a"
+      ],
+      "url": "https://www.cbinsights.com/research/newsletter-october-1-2026/",
+      "title": "Anthropic’s IPO filing maps the AI safety startup market",
+      "business_model": "Founder Case, Counter Signal",
+      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
+      "monetization": "To be extracted from the linked source.",
+      "team_size_signal": "team size not explicit",
+      "distribution_channel": "CB Insights",
+      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
+      "yuanli_mapping": [
+        "yuanli_startup",
+        "ftf_trust"
+      ],
+      "score": 64
+    },
     {
       "case_id": "opc_case_c58251d4f1d3",
       "company": "Executive Interview",
@@ -44,15 +65,15 @@
       "score": 50
     },
     {
-      "case_id": "opc_case_b6ff68137961",
-      "company": "CEO Interview",
+      "case_id": "opc_case_14f53dfbf656",
+      "company": "Who",
       "founder": "",
       "source_refs": [
-        "biz_a215fa6e1ba6"
+        "biz_70f36e625a05"
       ],
-      "url": "https://www.cbinsights.com/research/ceo-interview-truemed/",
-      "title": "CEO Interview: Truemed",
-      "business_model": "Founder Case",
+      "url": "https://www.cbinsights.com/research/coding-agent-investor-overlap/",
+      "title": "Who’s on both sides? The investors backing rival coding agents",
+      "business_model": "AI Business Model Innovation, Enterprise AI Workflow, Founder Case",
       "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
       "monetization": "To be extracted from the linked source.",
       "team_size_signal": "team size not explicit",
@@ -60,156 +81,11 @@
       "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
       "yuanli_mapping": [
         "yuanli_startup",
-        "ftf_trust"
+        "yuanli_os",
+        "ftf_trust",
+        "profit_container"
       ],
-      "score": 49
-    },
-    {
-      "case_id": "opc_case_98d9569ac4d7",
-      "company": "CEO Interview",
-      "founder": "",
-      "source_refs": [
-        "biz_4e42215588b1"
-      ],
-      "url": "https://www.cbinsights.com/research/ceo-interview-fuse/",
-      "title": "CEO Interview: Fuse",
-      "business_model": "Founder Case",
-      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
-      "monetization": "To be extracted from the linked source.",
-      "team_size_signal": "team size not explicit",
-      "distribution_channel": "CB Insights",
-      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
-      "yuanli_mapping": [
-        "yuanli_startup",
-        "ftf_trust"
-      ],
-      "score": 49
-    },
-    {
-      "case_id": "opc_case_d57443406902",
-      "company": "CEO Interview",
-      "founder": "",
-      "source_refs": [
-        "biz_49157526fe5d"
-      ],
-      "url": "https://www.cbinsights.com/research/ceo-interview-pomelo/",
-      "title": "CEO Interview: Pomelo",
-      "business_model": "Founder Case",
-      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
-      "monetization": "To be extracted from the linked source.",
-      "team_size_signal": "team size not explicit",
-      "distribution_channel": "CB Insights",
-      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
-      "yuanli_mapping": [
-        "yuanli_startup",
-        "ftf_trust"
-      ],
-      "score": 49
-    },
-    {
-      "case_id": "opc_case_88b231ce5631",
-      "company": "CEO Interview",
-      "founder": "",
-      "source_refs": [
-        "biz_c183c04e2f1a"
-      ],
-      "url": "https://www.cbinsights.com/research/ceo-interview-standard-forensics/",
-      "title": "CEO Interview: Standard Forensics",
-      "business_model": "Founder Case",
-      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
-      "monetization": "To be extracted from the linked source.",
-      "team_size_signal": "team size not explicit",
-      "distribution_channel": "CB Insights",
-      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
-      "yuanli_mapping": [
-        "yuanli_startup",
-        "ftf_trust"
-      ],
-      "score": 49
-    },
-    {
-      "case_id": "opc_case_aa4f1d9f9d88",
-      "company": "CEO Interview",
-      "founder": "",
-      "source_refs": [
-        "biz_137ceb81a85f"
-      ],
-      "url": "https://www.cbinsights.com/research/ceo-interview-benepass/",
-      "title": "CEO Interview: BenePass",
-      "business_model": "Founder Case",
-      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
-      "monetization": "To be extracted from the linked source.",
-      "team_size_signal": "team size not explicit",
-      "distribution_channel": "CB Insights",
-      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
-      "yuanli_mapping": [
-        "yuanli_startup",
-        "ftf_trust"
-      ],
-      "score": 49
-    },
-    {
-      "case_id": "opc_case_4247dbb21eb0",
-      "company": "Executive Interview",
-      "founder": "",
-      "source_refs": [
-        "biz_9834652e17f1"
-      ],
-      "url": "https://www.cbinsights.com/research/executive-interview-sharpnav/",
-      "title": "Executive Interview: SharpNav",
-      "business_model": "Founder Case",
-      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
-      "monetization": "To be extracted from the linked source.",
-      "team_size_signal": "team size not explicit",
-      "distribution_channel": "CB Insights",
-      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
-      "yuanli_mapping": [
-        "yuanli_startup",
-        "ftf_trust"
-      ],
-      "score": 49
-    },
-    {
-      "case_id": "opc_case_88f4cb954229",
-      "company": "Executive Interview",
-      "founder": "",
-      "source_refs": [
-        "biz_bd13ae3d9b32"
-      ],
-      "url": "https://www.cbinsights.com/research/executive-interview-norda-dynamics/",
-      "title": "Executive Interview: NORDA Dynamics",
-      "business_model": "Founder Case",
-      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
-      "monetization": "To be extracted from the linked source.",
-      "team_size_signal": "team size not explicit",
-      "distribution_channel": "CB Insights",
-      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
-      "yuanli_mapping": [
-        "yuanli_startup",
-        "ftf_trust"
-      ],
-      "score": 49
-    },
-    {
-      "case_id": "opc_case_3abdac343535",
-      "company": "Executive Interview",
-      "founder": "",
-      "source_refs": [
-        "biz_6712c67926ae"
-      ],
-      "url": "https://www.cbinsights.com/research/executive-interview-gambit/",
-      "title": "Executive Interview: Gambit",
-      "business_model": "Founder Case",
-      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
-      "monetization": "To be extracted from the linked source.",
-      "team_size_signal": "team size not explicit",
-      "distribution_channel": "CB Insights",
-      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
-      "yuanli_mapping": [
-        "yuanli_startup",
-        "ftf_trust"
-      ],
-      "score": 49
+      "score": 41
     }
   ]
 }

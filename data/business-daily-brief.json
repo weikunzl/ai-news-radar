@@ -1,22 +1,37 @@
 {
-  "generated_at": "2026-10-01T19:55:55.686247Z",
+  "generated_at": "2026-10-02T04:36:06.102845Z",
   "brief": [
     {
-      "brief_id": "biz_brief_6987a5dec880",
+      "brief_id": "biz_brief_200f2c85fd7b",
       "rank": 1,
+      "title": "AI adoption counter-signals reveal where Yuanli claims need sharper proof and risk language.",
+      "judgment": "1 English evidence items from 1 sources connect this pattern to Yuanli IP.",
+      "evidence_refs": [
+        "biz_82fcf647341a"
+      ],
+      "evidence_titles": [
+        "Anthropic’s IPO filing maps the AI safety startup market"
+      ],
+      "risk_level": "medium",
+      "yuanli_mapping": [
+        "ftf_trust",
+        "yuanli_os"
+      ],
+      "recommended_action": "Add these counter-signals to sales objections and content credibility checks.",
+      "generated_at": "2026-10-02T04:36:06.102845Z"
+    },
+    {
+      "brief_id": "biz_brief_27c59b761f95",
+      "rank": 2,
       "title": "Founder stories provide the most reusable proof layer for Yuanli IP trust-building.",
-      "judgment": "10 English evidence items from 1 sources connect this pattern to Yuanli IP.",
+      "judgment": "2 English evidence items from 1 sources connect this pattern to Yuanli IP.",
       "evidence_refs": [
         "biz_17a8c2229866",
-        "biz_cee28fde32ee",
-        "biz_a215fa6e1ba6",
-        "biz_4e42215588b1",
-        "biz_49157526fe5d"
+        "biz_cee28fde32ee"
       ],
       "evidence_titles": [
         "Executive Interview: ideaForge",
-        "CEO Interview: Nextria",
-        "CEO Interview: Truemed"
+        "CEO Interview: Nextria"
       ],
       "risk_level": "low",
       "yuanli_mapping": [
@@ -25,18 +40,20 @@
         "wealth_flywheel"
       ],
       "recommended_action": "Convert high-score founder cases into FTF credible story assets.",
-      "generated_at": "2026-10-01T19:55:55.686247Z"
+      "generated_at": "2026-10-02T04:36:06.102845Z"
     },
     {
-      "brief_id": "biz_brief_f567880eb783",
-      "rank": 2,
+      "brief_id": "biz_brief_19c06619a4dc",
+      "rank": 3,
       "title": "Enterprise AI value is moving toward operating-model redesign rather than isolated copilots.",
-      "judgment": "1 English evidence items from 1 sources connect this pattern to Yuanli IP.",
+      "judgment": "2 English evidence items from 2 sources connect this pattern to Yuanli IP.",
       "evidence_refs": [
-        "biz_0a5fc9849726"
+        "biz_70f36e625a05",
+        "biz_c33a5b08c2f5"
       ],
       "evidence_titles": [
-        "Why Dwarkesh is Wrong about Computer Use + How OpenAI shipped its Jev competitor in 1 Week"
+        "Who’s on both sides? The investors backing rival coding agents",
+        "AutoSynthData: Generating Training Data for Enterprise Agents"
       ],
       "risk_level": "low",
       "yuanli_mapping": [
@@ -44,7 +61,7 @@
         "ftf_trust"
       ],
       "recommended_action": "Map each workflow case to the Yuanli OS organs: soul, memory, judgment, hands.",
-      "generated_at": "2026-10-01T19:55:55.686247Z"
+      "generated_at": "2026-10-02T04:36:06.102845Z"
     }
   ]
 }
