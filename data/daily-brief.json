@@ -1,90 +1,8 @@
 {
-  "generated_at": "2026-10-03T15:55:13.713261Z",
+  "generated_at": "2026-10-03T19:06:20.591674Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
-    {
-      "story_id": "story_8e206c4d9ed6",
-      "title": "OpenAI 发布 GPT-6 家族实用指南：选型、提示词与长任务管理 / A model guide for the GPT-6 family",
-      "url": "https://openai.com/index/practical-guide-building-gpt-6",
-      "primary_url": "https://openai.com/index/practical-guide-building-gpt-6",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "367c0500a3638f38bcbde66ccd6c4245025a561b",
-          "title": "OpenAI 发布 GPT-6 家族实用指南：选型、提示词与长任务管理 / A model guide for the GPT-6 family",
-          "url": "https://openai.com/index/practical-guide-building-gpt-6",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-02T16:15:00Z"
-        },
-        {
-          "id": "b6a5169a91a32d900daf93ec976dae4a837ed8e3",
-          "title": "OpenAI 发布 GPT-6 家族实用指南：选型、提示词与长任务管理",
-          "url": "https://openai.com/index/practical-guide-building-gpt-6",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-02T16:15:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "OpenAI News",
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
-      ],
-      "items": [
-        {
-          "id": "367c0500a3638f38bcbde66ccd6c4245025a561b",
-          "title": "OpenAI 发布 GPT-6 家族实用指南：选型、提示词与长任务管理 / A model guide for the GPT-6 family",
-          "url": "https://openai.com/index/practical-guide-building-gpt-6",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-02T16:15:00Z"
-        },
-        {
-          "id": "b6a5169a91a32d900daf93ec976dae4a837ed8e3",
-          "title": "OpenAI 发布 GPT-6 家族实用指南：选型、提示词与长任务管理",
-          "url": "https://openai.com/index/practical-guide-building-gpt-6",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-02T16:15:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8329,
-      "importance": 0.8329,
-      "importance_score": 0.8329,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7105,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-02T16:15:00Z",
-      "latest_at": "2026-10-02T16:15:00Z",
-      "primary_item": {
-        "id": "367c0500a3638f38bcbde66ccd6c4245025a561b",
-        "title": "OpenAI 发布 GPT-6 家族实用指南：选型、提示词与长任务管理 / A model guide for the GPT-6 family",
-        "url": "https://openai.com/index/practical-guide-building-gpt-6",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
     {
       "story_id": "story_c50f0986cd4e",
       "title": "Copilot 代码审查：API 支持和新的默认工作级别 / Copilot code review: API support and new default effort level",
@@ -120,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8055,
-      "importance": 0.8055,
-      "importance_score": 0.8055,
+      "score": 0.7995,
+      "importance": 0.7995,
+      "importance_score": 0.7995,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7417,
+        "recency": 0.7084,
         "story_heat": 0.0
       },
       "category": "official",
@@ -148,21 +66,21 @@
       }
     },
     {
-      "story_id": "story_d3c3f6996fb2",
-      "title": "已弃用 GitHub Copilot 中的选定模型 / Selected models in GitHub Copilot deprecated",
-      "url": "https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated",
-      "primary_url": "https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated",
+      "story_id": "story_33bc6bdb49c8",
+      "title": "无状态 GitHub 应用程序安装令牌推出 / Stateless GitHub App installation tokens rolled out",
+      "url": "https://github.blog/changelog/2026-10-02-stateless-github-app-installation-tokens-rolled-out",
+      "primary_url": "https://github.blog/changelog/2026-10-02-stateless-github-app-installation-tokens-rolled-out",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "b40a637560dbaf99f82b42269fa1cd04aba1b171",
-          "title": "已弃用 GitHub Copilot 中的选定模型 / Selected models in GitHub Copilot deprecated",
-          "url": "https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated",
+          "id": "b5bf08461ba8b82a49c1d56e22877e860c5093ab",
+          "title": "无状态 GitHub 应用程序安装令牌推出 / Stateless GitHub App installation tokens rolled out",
+          "url": "https://github.blog/changelog/2026-10-02-stateless-github-app-installation-tokens-rolled-out",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-02T18:24:19Z"
+          "published_at": "2026-10-02T22:18:23Z"
         }
       ],
       "source_count": 1,
@@ -171,26 +89,26 @@
       ],
       "items": [
         {
-          "id": "b40a637560dbaf99f82b42269fa1cd04aba1b171",
-          "title": "已弃用 GitHub Copilot 中的选定模型 / Selected models in GitHub Copilot deprecated",
-          "url": "https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated",
+          "id": "b5bf08461ba8b82a49c1d56e22877e860c5093ab",
+          "title": "无状态 GitHub 应用程序安装令牌推出 / Stateless GitHub App installation tokens rolled out",
+          "url": "https://github.blog/changelog/2026-10-02-stateless-github-app-installation-tokens-rolled-out",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-02T18:24:19Z"
+          "published_at": "2026-10-02T22:18:23Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8039,
-      "importance": 0.8039,
-      "importance_score": 0.8039,
+      "score": 0.7973,
+      "importance": 0.7973,
+      "importance_score": 0.7973,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7329,
+        "ai_relevance": 0.87,
+        "recency": 0.7406,
         "story_heat": 0.0
       },
       "category": "official",
@@ -199,12 +117,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-02T18:24:19Z",
-      "latest_at": "2026-10-02T18:24:19Z",
+      "earliest_at": "2026-10-02T22:18:23Z",
+      "latest_at": "2026-10-02T22:18:23Z",
       "primary_item": {
-        "id": "b40a637560dbaf99f82b42269fa1cd04aba1b171",
-        "title": "已弃用 GitHub Copilot 中的选定模型 / Selected models in GitHub Copilot deprecated",
-        "url": "https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated",
+        "id": "b5bf08461ba8b82a49c1d56e22877e860c5093ab",
+        "title": "无状态 GitHub 应用程序安装令牌推出 / Stateless GitHub App installation tokens rolled out",
+        "url": "https://github.blog/changelog/2026-10-02-stateless-github-app-installation-tokens-rolled-out",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
@@ -244,15 +162,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7653,
-      "importance": 0.7653,
-      "importance_score": 0.7653,
+      "score": 0.7582,
+      "importance": 0.7582,
+      "importance_score": 0.7582,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8704,
+        "recency": 0.8313,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -267,128 +185,6 @@
         "title": "OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件",
         "url": "https://www.ithome.com/1/009/444.htm",
         "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_33bc6bdb49c8",
-      "title": "无状态 GitHub 应用程序安装令牌推出 / Stateless GitHub App installation tokens rolled out",
-      "url": "https://github.blog/changelog/2026-10-02-stateless-github-app-installation-tokens-rolled-out",
-      "primary_url": "https://github.blog/changelog/2026-10-02-stateless-github-app-installation-tokens-rolled-out",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b5bf08461ba8b82a49c1d56e22877e860c5093ab",
-          "title": "无状态 GitHub 应用程序安装令牌推出 / Stateless GitHub App installation tokens rolled out",
-          "url": "https://github.blog/changelog/2026-10-02-stateless-github-app-installation-tokens-rolled-out",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-02T22:18:23Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "b5bf08461ba8b82a49c1d56e22877e860c5093ab",
-          "title": "无状态 GitHub 应用程序安装令牌推出 / Stateless GitHub App installation tokens rolled out",
-          "url": "https://github.blog/changelog/2026-10-02-stateless-github-app-installation-tokens-rolled-out",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-02T22:18:23Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8036,
-      "importance": 0.8036,
-      "importance_score": 0.8036,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7754,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-02T22:18:23Z",
-      "latest_at": "2026-10-02T22:18:23Z",
-      "primary_item": {
-        "id": "b5bf08461ba8b82a49c1d56e22877e860c5093ab",
-        "title": "无状态 GitHub 应用程序安装令牌推出 / Stateless GitHub App installation tokens rolled out",
-        "url": "https://github.blog/changelog/2026-10-02-stateless-github-app-installation-tokens-rolled-out",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_e89ac95ac934",
-      "title": "GPT-6.1 Sol (Max) 进入 Agent Arena 第 5 名，以更低成本逼近前列模型",
-      "url": "https://x.com/arena/status/2106109027923140928",
-      "primary_url": "https://x.com/arena/status/2106109027923140928",
-      "source": "X：Arena (@arena)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "448fbd384a7108fe2df37b8330ded3ee7b97a6b8",
-          "title": "GPT-6.1 Sol (Max) 进入 Agent Arena 第 5 名，以更低成本逼近前列模型",
-          "url": "https://x.com/arena/status/2106109027923140928",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-02T19:48:16Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Arena (@arena)"
-      ],
-      "items": [
-        {
-          "id": "448fbd384a7108fe2df37b8330ded3ee7b97a6b8",
-          "title": "GPT-6.1 Sol (Max) 进入 Agent Arena 第 5 名，以更低成本逼近前列模型",
-          "url": "https://x.com/arena/status/2106109027923140928",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-02T19:48:16Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7252,
-      "importance": 0.7252,
-      "importance_score": 0.7252,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7479,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-02T19:48:16Z",
-      "latest_at": "2026-10-02T19:48:16Z",
-      "primary_item": {
-        "id": "448fbd384a7108fe2df37b8330ded3ee7b97a6b8",
-        "title": "GPT-6.1 Sol (Max) 进入 Agent Arena 第 5 名，以更低成本逼近前列模型",
-        "url": "https://x.com/arena/status/2106109027923140928",
-        "source": "X：Arena (@arena)",
         "source_name": "AI HOT"
       }
     },
@@ -419,61 +215,8 @@
           "published_at": "2026-10-03T11:57:02Z"
         },
         {
-          "id": "6f8c2614f032f342076a8f7e35ff9136f183bfa1",
-          "title": "我们调查了星链。我们发现的腐败现象会让你震惊 / We Investigated Starlink. The Corruption We Found Will Shock You",
-          "url": "https://www.youtube.com/watch?v=LQYnlg4pO9o",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-03T10:21:24Z"
-        },
-        {
-          "id": "566c5ff090d77c0a61472f1fb57c2c8c939188a8",
-          "title": "Show HN: 我让Opus制作一个关于人工智能实验室的视频，结果它生成了这个奇怪的东西",
-          "url": "https://www.youtube.com/watch?v=nWWDUXhqWEs",
-          "source": "www.youtube.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-02T23:22:04.817000Z"
-        },
-        {
-          "id": "7765596d8f47d66f90f51363cc0e505cdf4529ec",
-          "title": "格雷格·克罗赫-哈特曼——大语言模型时代的安全问题 [视频]",
-          "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
-          "source": "www.youtube.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-02T20:59:54.195000Z"
-        },
-        {
-          "id": "0eecac1f939a8cac5378b79ed2ed2d12abbda2b9",
-          "title": "如果我们停止使用 GPU 会怎样？ [视频] / What if we stopped using GPUs? [video]",
-          "url": "https://www.youtube.com/watch?v=xc2FTBGRSJo",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-02T18:09:38Z"
-        }
-      ],
-      "source_count": 6,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Lobsters (技术社区)",
-        "www.youtube.com"
-      ],
-      "items": [
-        {
-          "id": "8d41b8355bfdc36961629fb295df569095fa08a3",
-          "title": "格雷格·克罗-哈特曼——大语言模型时代的安全问题",
-          "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
-          "source": "www.youtube.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-03T12:07:54.478000Z"
-        },
-        {
-          "id": "67d9f2e6da15bbae20d6199ac01d20dfed978e39",
-          "title": "格雷格·克罗赫-哈特曼——大语言模型时代的安全问题 [视频] / Greg Kroah-Hartman - Security in the LLM Age",
+          "id": "efa811acee85d986a3216d5a3a5bc8fcade11612",
+          "title": "格雷格·克罗赫-哈特曼——大语言模型时代的安全问题 [视频] / Security in the LLM Age",
           "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
           "source": "Lobsters (技术社区)",
           "source_name": "Info Flow",
@@ -506,35 +249,88 @@
           "source_name": "Buzzing",
           "site_id": "buzzing",
           "published_at": "2026-10-02T20:59:54.195000Z"
+        }
+      ],
+      "source_count": 6,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Lobsters (技术社区)",
+        "www.youtube.com"
+      ],
+      "items": [
+        {
+          "id": "8d41b8355bfdc36961629fb295df569095fa08a3",
+          "title": "格雷格·克罗-哈特曼——大语言模型时代的安全问题",
+          "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
+          "source": "www.youtube.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-03T12:07:54.478000Z"
         },
         {
-          "id": "0eecac1f939a8cac5378b79ed2ed2d12abbda2b9",
-          "title": "如果我们停止使用 GPU 会怎样？ [视频] / What if we stopped using GPUs? [video]",
-          "url": "https://www.youtube.com/watch?v=xc2FTBGRSJo",
+          "id": "67d9f2e6da15bbae20d6199ac01d20dfed978e39",
+          "title": "格雷格·克罗赫-哈特曼——大语言模型时代的安全问题 [视频] / Greg Kroah-Hartman - Security in the LLM Age",
+          "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-03T11:57:02Z"
+        },
+        {
+          "id": "efa811acee85d986a3216d5a3a5bc8fcade11612",
+          "title": "格雷格·克罗赫-哈特曼——大语言模型时代的安全问题 [视频] / Security in the LLM Age",
+          "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-03T11:57:02Z"
+        },
+        {
+          "id": "6f8c2614f032f342076a8f7e35ff9136f183bfa1",
+          "title": "我们调查了星链。我们发现的腐败现象会让你震惊 / We Investigated Starlink. The Corruption We Found Will Shock You",
+          "url": "https://www.youtube.com/watch?v=LQYnlg4pO9o",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-10-02T18:09:38Z"
+          "published_at": "2026-10-03T10:21:24Z"
+        },
+        {
+          "id": "566c5ff090d77c0a61472f1fb57c2c8c939188a8",
+          "title": "Show HN: 我让Opus制作一个关于人工智能实验室的视频，结果它生成了这个奇怪的东西",
+          "url": "https://www.youtube.com/watch?v=nWWDUXhqWEs",
+          "source": "www.youtube.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-02T23:22:04.817000Z"
+        },
+        {
+          "id": "7765596d8f47d66f90f51363cc0e505cdf4529ec",
+          "title": "格雷格·克罗赫-哈特曼——大语言模型时代的安全问题 [视频]",
+          "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
+          "source": "www.youtube.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-02T20:59:54.195000Z"
         }
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.6112,
-      "importance": 0.6112,
-      "importance_score": 0.6112,
+      "score": 0.6036,
+      "importance": 0.6036,
+      "importance_score": 0.6036,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9468,
+        "recency": 0.9042,
         "story_heat": 1.0
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-02T18:09:38Z",
+      "earliest_at": "2026-10-02T20:59:54.195000Z",
       "latest_at": "2026-10-03T12:07:54.478000Z",
       "primary_item": {
         "id": "8d41b8355bfdc36961629fb295df569095fa08a3",
@@ -542,85 +338,6 @@
         "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
         "source": "www.youtube.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_39b9fbb58d7c",
-      "title": "苹果表示，由于人工智能代理带来的新风险，它正在加强 macOS 的“全磁盘访问”控制 / Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
-      "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents",
-      "primary_url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents",
-      "source": "TechCrunch AI",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "b618ad79058d803c6eb57daa4b7ccdb616c49d12",
-          "title": "苹果表示，由于人工智能代理带来的新风险，它正在加强 macOS 的“全磁盘访问”控制 / Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
-          "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-02T18:11:27Z"
-        },
-        {
-          "id": "85dc2e2dec29d02989dff69bd8a07f196f5b249e",
-          "title": "由于人工智能代理带来的新风险，苹果正在收紧 macOS 的“全磁盘访问” / Apple is tightening macOS 'Full Disk Access' due to new risks from AI agents",
-          "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-02T19:03:03Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "TechCrunch AI"
-      ],
-      "items": [
-        {
-          "id": "b618ad79058d803c6eb57daa4b7ccdb616c49d12",
-          "title": "苹果表示，由于人工智能代理带来的新风险，它正在加强 macOS 的“全磁盘访问”控制 / Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
-          "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-02T18:11:27Z"
-        },
-        {
-          "id": "85dc2e2dec29d02989dff69bd8a07f196f5b249e",
-          "title": "由于人工智能代理带来的新风险，苹果正在收紧 macOS 的“全磁盘访问” / Apple is tightening macOS 'Full Disk Access' due to new risks from AI agents",
-          "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-02T19:03:03Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6003,
-      "importance": 0.6003,
-      "importance_score": 0.6003,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5472,
-        "source_tier": 0.58,
-        "ai_relevance": 0.76,
-        "recency": 0.7307,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-02T18:11:27Z",
-      "latest_at": "2026-10-02T19:03:03Z",
-      "primary_item": {
-        "id": "b618ad79058d803c6eb57daa4b7ccdb616c49d12",
-        "title": "苹果表示，由于人工智能代理带来的新风险，它正在加强 macOS 的“全磁盘访问”控制 / Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
-        "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents",
-        "source": "TechCrunch AI",
-        "source_name": "Curated Media"
       }
     },
     {
@@ -641,6 +358,15 @@
           "published_at": "2026-10-03T10:49:44.714000Z"
         },
         {
+          "id": "01fce6e6b411020afe24d51738d173a332dc30d7",
+          "title": "Show HN: 德国的新型主权人工智能模型“Kolibri” / Aleph Alpha Kolibri: How the sovereign German LLM works",
+          "url": "https://tej.as/blog/aleph-alpha-kolibri",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-03T10:43:51Z"
+        },
+        {
           "id": "b84a8375a5247ee3a46c762700baee7461309647",
           "title": "Show HN: 德国的新型主权人工智能模型“Kolibri” / Kolibri is an open-weight LLM from Aleph Alpha for German and English",
           "url": "https://tej.as/blog/aleph-alpha-kolibri",
@@ -648,21 +374,12 @@
           "source_name": "Info Flow",
           "site_id": "iris",
           "published_at": "2026-10-03T10:43:51Z"
-        },
-        {
-          "id": "5f7984ca8cdccfbf2491fffa10ad31289bb805c4",
-          "title": "Kolibri 是 Aleph Alpha 的德语和英语开放式法学硕士 / Kolibri is an open-weight LLM from Aleph Alpha for German and English",
-          "url": "https://news.ycombinator.com/item?id=49943034",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-03T10:43:51Z"
         }
       ],
       "source_count": 3,
       "source_names": [
         "Hacker News (黑客新闻)",
-        "hackernews",
+        "Hacker News · 24h最热",
         "tej.as"
       ],
       "items": [
@@ -676,6 +393,15 @@
           "published_at": "2026-10-03T10:49:44.714000Z"
         },
         {
+          "id": "01fce6e6b411020afe24d51738d173a332dc30d7",
+          "title": "Show HN: 德国的新型主权人工智能模型“Kolibri” / Aleph Alpha Kolibri: How the sovereign German LLM works",
+          "url": "https://tej.as/blog/aleph-alpha-kolibri",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-03T10:43:51Z"
+        },
+        {
           "id": "b84a8375a5247ee3a46c762700baee7461309647",
           "title": "Show HN: 德国的新型主权人工智能模型“Kolibri” / Kolibri is an open-weight LLM from Aleph Alpha for German and English",
           "url": "https://tej.as/blog/aleph-alpha-kolibri",
@@ -683,28 +409,19 @@
           "source_name": "Info Flow",
           "site_id": "iris",
           "published_at": "2026-10-03T10:43:51Z"
-        },
-        {
-          "id": "5f7984ca8cdccfbf2491fffa10ad31289bb805c4",
-          "title": "Kolibri 是 Aleph Alpha 的德语和英语开放式法学硕士 / Kolibri is an open-weight LLM from Aleph Alpha for German and English",
-          "url": "https://news.ycombinator.com/item?id=49943034",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-03T10:43:51Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.558,
-      "importance": 0.558,
-      "importance_score": 0.558,
+      "score": 0.5505,
+      "importance": 0.5505,
+      "importance_score": 0.5505,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9291,
+        "recency": 0.8873,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -794,15 +511,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5483,
-      "importance": 0.5483,
-      "importance_score": 0.5483,
+      "score": 0.5412,
+      "importance": 0.5412,
+      "importance_score": 0.5412,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8749,
+        "recency": 0.8355,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -816,6 +533,84 @@
         "title": "Show HN: 开发了一个开源的乐高AI生成器",
         "url": "https://github.com/anteloc/ldraw-nova",
         "source": "github.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_5ee2f82da6e6",
+      "title": "OpenAI员工辞职，呼吁采取核级安全保障措施",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-03/openai-safety-employee-quits-calls-for-nuclear-level-safeguards",
+      "primary_url": "https://www.bloomberg.com/news/articles/2026-10-03/openai-safety-employee-quits-calls-for-nuclear-level-safeguards",
+      "source": "www.bloomberg.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "09480281198b4c130f985b3d235d1ca8240eabcb",
+          "title": "OpenAI员工辞职，呼吁采取核级安全保障措施",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-03/openai-safety-employee-quits-calls-for-nuclear-level-safeguards",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-03T16:00:49.051000Z"
+        },
+        {
+          "id": "8203ce7f4eb02f4fb64f082a256c4b1f1d97b5f6",
+          "title": "OpenAI安全部门员工辞职，呼吁采取“核级”安全保障措施",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-03/openai-safety-employee-quits-calls-for-nuclear-level-safeguards",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-03T13:27:52.389000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "www.bloomberg.com"
+      ],
+      "items": [
+        {
+          "id": "09480281198b4c130f985b3d235d1ca8240eabcb",
+          "title": "OpenAI员工辞职，呼吁采取核级安全保障措施",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-03/openai-safety-employee-quits-calls-for-nuclear-level-safeguards",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-03T16:00:49.051000Z"
+        },
+        {
+          "id": "8203ce7f4eb02f4fb64f082a256c4b1f1d97b5f6",
+          "title": "OpenAI安全部门员工辞职，呼吁采取“核级”安全保障措施",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-03/openai-safety-employee-quits-calls-for-nuclear-level-safeguards",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-03T13:27:52.389000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5379,
+      "importance": 0.5379,
+      "importance_score": 0.5379,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9563,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-03T13:27:52.389000Z",
+      "latest_at": "2026-10-03T16:00:49.051000Z",
+      "primary_item": {
+        "id": "09480281198b4c130f985b3d235d1ca8240eabcb",
+        "title": "OpenAI员工辞职，呼吁采取核级安全保障措施",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-03/openai-safety-employee-quits-calls-for-nuclear-level-safeguards",
+        "source": "www.bloomberg.com",
         "source_name": "Buzzing"
       }
     },
@@ -873,15 +668,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5403,
-      "importance": 0.5403,
-      "importance_score": 0.5403,
+      "score": 0.5325,
+      "importance": 0.5325,
+      "importance_score": 0.5325,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9695,
+        "recency": 0.9259,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -952,15 +747,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5318,
-      "importance": 0.5318,
-      "importance_score": 0.5318,
+      "score": 0.5243,
+      "importance": 0.5243,
+      "importance_score": 0.5243,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.922,
+        "recency": 0.8806,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -978,128 +773,30 @@
       }
     },
     {
-      "story_id": "story_3577570198f4",
-      "title": "来自 Redis 创建者的作品；使用 ds4 在本地运行 LLM",
-      "url": "https://dwarfstar.sh",
-      "primary_url": "https://dwarfstar.sh",
-      "source": "dwarfstar.sh",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "7b7a31ed4993ecc973e4f341a5ee01b63b703e93",
-          "title": "来自 Redis 创建者的作品；使用 ds4 在本地运行 LLM",
-          "url": "https://dwarfstar.sh",
-          "source": "dwarfstar.sh",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-02T22:49:45.900000Z"
-        },
-        {
-          "id": "5221c7a3e0be11f309dd8e9f384b00fed4145c61",
-          "title": "来自 Redis 创建者的作品；使用 ds4 在本地运行 LLM / From the creator of Redis; run LLM locally with ds4",
-          "url": "https://dwarfstar.sh",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-02T18:01:16Z"
-        },
-        {
-          "id": "9858d29843a45db6ecc1abb1df646663ba9e8898",
-          "title": "来自Redis的创建者；使用 ds4 在本地运行 LLM / From the creator of Redis; run LLM locally with ds4",
-          "url": "https://news.ycombinator.com/item?id=49936575",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-02T18:01:16Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "dwarfstar.sh",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "7b7a31ed4993ecc973e4f341a5ee01b63b703e93",
-          "title": "来自 Redis 创建者的作品；使用 ds4 在本地运行 LLM",
-          "url": "https://dwarfstar.sh",
-          "source": "dwarfstar.sh",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-02T22:49:45.900000Z"
-        },
-        {
-          "id": "5221c7a3e0be11f309dd8e9f384b00fed4145c61",
-          "title": "来自 Redis 创建者的作品；使用 ds4 在本地运行 LLM / From the creator of Redis; run LLM locally with ds4",
-          "url": "https://dwarfstar.sh",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-02T18:01:16Z"
-        },
-        {
-          "id": "9858d29843a45db6ecc1abb1df646663ba9e8898",
-          "title": "来自Redis的创建者；使用 ds4 在本地运行 LLM / From the creator of Redis; run LLM locally with ds4",
-          "url": "https://news.ycombinator.com/item?id=49936575",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-02T18:01:16Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5314,
-      "importance": 0.5314,
-      "importance_score": 0.5314,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7813,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-02T18:01:16Z",
-      "latest_at": "2026-10-02T22:49:45.900000Z",
-      "primary_item": {
-        "id": "7b7a31ed4993ecc973e4f341a5ee01b63b703e93",
-        "title": "来自 Redis 创建者的作品；使用 ds4 在本地运行 LLM",
-        "url": "https://dwarfstar.sh",
-        "source": "dwarfstar.sh",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_0187384e2210",
-      "title": "Gemini 终止免费使用 Flash 和 Pro 型号 / Gemini ending free use of Flash and Pro models",
-      "url": "https://www.reddit.com/r/GeminiAI/comments/1wwalmc/wtf_google_getting_rid_of_free_gemini_flash_and",
-      "primary_url": "https://www.reddit.com/r/GeminiAI/comments/1wwalmc/wtf_google_getting_rid_of_free_gemini_flash_and",
+      "story_id": "story_dd8383f6829c",
+      "title": "如果 AI 以每秒 1,000,000 个代币的速度运行会怎样？ / What if AI worked at 1.000.000 tokens per seconds?",
+      "url": "https://www.echohive.ai/one-million-tokens-per-second",
+      "primary_url": "https://www.echohive.ai/one-million-tokens-per-second",
       "source": "Hacker News (黑客新闻)",
       "source_name": "Info Flow",
       "sources": [
         {
-          "id": "e80ab57980a1a06fda2b730522c720f862cc022c",
-          "title": "Gemini 终止免费使用 Flash 和 Pro 型号 / Gemini ending free use of Flash and Pro models",
-          "url": "https://www.reddit.com/r/GeminiAI/comments/1wwalmc/wtf_google_getting_rid_of_free_gemini_flash_and",
+          "id": "fef24cc6ce4b46f9321a2d981b4066ed231ed891",
+          "title": "如果 AI 以每秒 1,000,000 个代币的速度运行会怎样？ / What if AI worked at 1.000.000 tokens per seconds?",
+          "url": "https://www.echohive.ai/one-million-tokens-per-second",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-03T09:13:19Z"
+          "published_at": "2026-10-03T04:22:21Z"
         },
         {
-          "id": "67dcce9e77d04da331dc4c3dd136086232a0b2cc",
-          "title": "Gemini 终止免费使用 Flash 和 Pro 型号 / Gemini ending free use of Flash and Pro models",
-          "url": "https://news.ycombinator.com/item?id=49942592",
+          "id": "06b21514413a4e9eed0ff91f76a0d91769cf83da",
+          "title": "如果 AI 以每秒 1,000,000 个代币的速度运行会怎样？ / What if AI worked at 1.000.000 tokens per seconds?",
+          "url": "https://news.ycombinator.com/item?id=49941327",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-03T09:13:19Z"
+          "published_at": "2026-10-03T04:22:21Z"
         }
       ],
       "source_count": 2,
@@ -1109,47 +806,47 @@
       ],
       "items": [
         {
-          "id": "e80ab57980a1a06fda2b730522c720f862cc022c",
-          "title": "Gemini 终止免费使用 Flash 和 Pro 型号 / Gemini ending free use of Flash and Pro models",
-          "url": "https://www.reddit.com/r/GeminiAI/comments/1wwalmc/wtf_google_getting_rid_of_free_gemini_flash_and",
+          "id": "fef24cc6ce4b46f9321a2d981b4066ed231ed891",
+          "title": "如果 AI 以每秒 1,000,000 个代币的速度运行会怎样？ / What if AI worked at 1.000.000 tokens per seconds?",
+          "url": "https://www.echohive.ai/one-million-tokens-per-second",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-03T09:13:19Z"
+          "published_at": "2026-10-03T04:22:21Z"
         },
         {
-          "id": "67dcce9e77d04da331dc4c3dd136086232a0b2cc",
-          "title": "Gemini 终止免费使用 Flash 和 Pro 型号 / Gemini ending free use of Flash and Pro models",
-          "url": "https://news.ycombinator.com/item?id=49942592",
+          "id": "06b21514413a4e9eed0ff91f76a0d91769cf83da",
+          "title": "如果 AI 以每秒 1,000,000 个代币的速度运行会怎样？ / What if AI worked at 1.000.000 tokens per seconds?",
+          "url": "https://news.ycombinator.com/item?id=49941327",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-03T09:13:19Z"
+          "published_at": "2026-10-03T04:22:21Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5292,
-      "importance": 0.5292,
-      "importance_score": 0.5292,
+      "score": 0.5113,
+      "importance": 0.5113,
+      "importance_score": 0.5113,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9078,
+        "recency": 0.8084,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-03T09:13:19Z",
-      "latest_at": "2026-10-03T09:13:19Z",
+      "earliest_at": "2026-10-03T04:22:21Z",
+      "latest_at": "2026-10-03T04:22:21Z",
       "primary_item": {
-        "id": "e80ab57980a1a06fda2b730522c720f862cc022c",
-        "title": "Gemini 终止免费使用 Flash 和 Pro 型号 / Gemini ending free use of Flash and Pro models",
-        "url": "https://www.reddit.com/r/GeminiAI/comments/1wwalmc/wtf_google_getting_rid_of_free_gemini_flash_and",
+        "id": "fef24cc6ce4b46f9321a2d981b4066ed231ed891",
+        "title": "如果 AI 以每秒 1,000,000 个代币的速度运行会怎样？ / What if AI worked at 1.000.000 tokens per seconds?",
+        "url": "https://www.echohive.ai/one-million-tokens-per-second",
         "source": "Hacker News (黑客新闻)",
         "source_name": "Info Flow"
       }
@@ -1208,15 +905,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5146,
-      "importance": 0.5146,
-      "importance_score": 0.5146,
+      "score": 0.5079,
+      "importance": 0.5079,
+      "importance_score": 0.5079,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8268,
+        "recency": 0.7896,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1287,15 +984,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5097,
-      "importance": 0.5097,
-      "importance_score": 0.5097,
+      "score": 0.5032,
+      "importance": 0.5032,
+      "importance_score": 0.5032,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7994,
+        "recency": 0.7635,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1366,15 +1063,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5091,
-      "importance": 0.5091,
-      "importance_score": 0.5091,
+      "score": 0.5027,
+      "importance": 0.5027,
+      "importance_score": 0.5027,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7963,
+        "recency": 0.7605,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1445,15 +1142,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5306,
-      "importance": 0.5306,
-      "importance_score": 0.5306,
+      "score": 0.5232,
+      "importance": 0.5232,
+      "importance_score": 0.5232,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9154,
+        "recency": 0.8742,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1471,30 +1168,108 @@
       }
     },
     {
-      "story_id": "story_dd8383f6829c",
-      "title": "如果 AI 以每秒 1,000,000 个代币的速度运行会怎样？ / What if AI worked at 1.000.000 tokens per seconds?",
-      "url": "https://www.echohive.ai/one-million-tokens-per-second",
-      "primary_url": "https://www.echohive.ai/one-million-tokens-per-second",
+      "story_id": "story_a650c74fe354",
+      "title": "“Kolibri”已降落：一款主权开放重量级模型 / Kolibri Has Landed: A Sovereign Open-Weight Model",
+      "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model",
+      "primary_url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "88719e228a676880ff0dfe173c02e4d4b574626c",
+          "title": "“Kolibri”已降落：一款主权开放重量级模型 / Kolibri Has Landed: A Sovereign Open-Weight Model",
+          "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-03T09:36:04Z"
+        },
+        {
+          "id": "1c41707746af6412df270725b43291fc673341c3",
+          "title": "“Kolibri”已降落：一款主权开放重量级模型 / Kolibri: A Sovereign Open-Weight Model",
+          "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-03T09:36:04Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "88719e228a676880ff0dfe173c02e4d4b574626c",
+          "title": "“Kolibri”已降落：一款主权开放重量级模型 / Kolibri Has Landed: A Sovereign Open-Weight Model",
+          "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-03T09:36:04Z"
+        },
+        {
+          "id": "1c41707746af6412df270725b43291fc673341c3",
+          "title": "“Kolibri”已降落：一款主权开放重量级模型 / Kolibri: A Sovereign Open-Weight Model",
+          "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-03T09:36:04Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5227,
+      "importance": 0.5227,
+      "importance_score": 0.5227,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8718,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-03T09:36:04Z",
+      "latest_at": "2026-10-03T09:36:04Z",
+      "primary_item": {
+        "id": "88719e228a676880ff0dfe173c02e4d4b574626c",
+        "title": "“Kolibri”已降落：一款主权开放重量级模型 / Kolibri Has Landed: A Sovereign Open-Weight Model",
+        "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_16e387cce67a",
+      "title": "Show HN：Pi pod – 在您自己的服务器上的沙箱中运行您的 pi 编码代理 / Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
+      "url": "https://pipod.dev",
+      "primary_url": "https://pipod.dev",
       "source": "Hacker News (黑客新闻)",
       "source_name": "Info Flow",
       "sources": [
         {
-          "id": "fef24cc6ce4b46f9321a2d981b4066ed231ed891",
-          "title": "如果 AI 以每秒 1,000,000 个代币的速度运行会怎样？ / What if AI worked at 1.000.000 tokens per seconds?",
-          "url": "https://www.echohive.ai/one-million-tokens-per-second",
+          "id": "71e8f75c057eb3cc7940a72f177112e4c6c98d66",
+          "title": "Show HN：Pi pod – 在您自己的服务器上的沙箱中运行您的 pi 编码代理 / Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
+          "url": "https://pipod.dev",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-03T04:22:21Z"
+          "published_at": "2026-10-02T19:10:38Z"
         },
         {
-          "id": "06b21514413a4e9eed0ff91f76a0d91769cf83da",
-          "title": "如果 AI 以每秒 1,000,000 个代币的速度运行会怎样？ / What if AI worked at 1.000.000 tokens per seconds?",
-          "url": "https://news.ycombinator.com/item?id=49941327",
+          "id": "aa4135c79c7fa4833d31c9fdf087abcc0d3aebb3",
+          "title": "Show HN：Pi pod – 在您自己的服务器上的沙箱中运行您的 pi 编码代理 / Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
+          "url": "https://news.ycombinator.com/item?id=49937304",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-03T04:22:21Z"
+          "published_at": "2026-10-02T19:10:38Z"
         }
       ],
       "source_count": 2,
@@ -1504,49 +1279,128 @@
       ],
       "items": [
         {
-          "id": "fef24cc6ce4b46f9321a2d981b4066ed231ed891",
-          "title": "如果 AI 以每秒 1,000,000 个代币的速度运行会怎样？ / What if AI worked at 1.000.000 tokens per seconds?",
-          "url": "https://www.echohive.ai/one-million-tokens-per-second",
+          "id": "71e8f75c057eb3cc7940a72f177112e4c6c98d66",
+          "title": "Show HN：Pi pod – 在您自己的服务器上的沙箱中运行您的 pi 编码代理 / Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
+          "url": "https://pipod.dev",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-03T04:22:21Z"
+          "published_at": "2026-10-02T19:10:38Z"
         },
         {
-          "id": "06b21514413a4e9eed0ff91f76a0d91769cf83da",
-          "title": "如果 AI 以每秒 1,000,000 个代币的速度运行会怎样？ / What if AI worked at 1.000.000 tokens per seconds?",
-          "url": "https://news.ycombinator.com/item?id=49941327",
+          "id": "aa4135c79c7fa4833d31c9fdf087abcc0d3aebb3",
+          "title": "Show HN：Pi pod – 在您自己的服务器上的沙箱中运行您的 pi 编码代理 / Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
+          "url": "https://news.ycombinator.com/item?id=49937304",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-03T04:22:21Z"
+          "published_at": "2026-10-02T19:10:38Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5182,
-      "importance": 0.5182,
-      "importance_score": 0.5182,
+      "score": 0.4932,
+      "importance": 0.4932,
+      "importance_score": 0.4932,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8464,
+        "recency": 0.7078,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-03T04:22:21Z",
-      "latest_at": "2026-10-03T04:22:21Z",
+      "earliest_at": "2026-10-02T19:10:38Z",
+      "latest_at": "2026-10-02T19:10:38Z",
       "primary_item": {
-        "id": "fef24cc6ce4b46f9321a2d981b4066ed231ed891",
-        "title": "如果 AI 以每秒 1,000,000 个代币的速度运行会怎样？ / What if AI worked at 1.000.000 tokens per seconds?",
-        "url": "https://www.echohive.ai/one-million-tokens-per-second",
+        "id": "71e8f75c057eb3cc7940a72f177112e4c6c98d66",
+        "title": "Show HN：Pi pod – 在您自己的服务器上的沙箱中运行您的 pi 编码代理 / Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
+        "url": "https://pipod.dev",
         "source": "Hacker News (黑客新闻)",
         "source_name": "Info Flow"
+      }
+    },
+    {
+      "story_id": "story_0187384e2210",
+      "title": "Gemini 终止免费使用 Flash 和 Pro 型号 / Gemini ending free use of Flash and Pro models",
+      "url": "https://www.reddit.com/r/GeminiAI/comments/1wwalmc/wtf_google_getting_rid_of_free_gemini_flash_and",
+      "primary_url": "https://www.reddit.com/r/GeminiAI/comments/1wwalmc/wtf_google_getting_rid_of_free_gemini_flash_and",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "fbe8f77e4bcb6f23951fdf0157bcbafc071b8b76",
+          "title": "Gemini 终止免费使用 Flash 和 Pro 型号 / Gemini ending free use of Flash and Pro models",
+          "url": "https://www.reddit.com/r/GeminiAI/comments/1wwalmc/wtf_google_getting_rid_of_free_gemini_flash_and",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-03T09:13:19Z"
+        },
+        {
+          "id": "67dcce9e77d04da331dc4c3dd136086232a0b2cc",
+          "title": "Gemini 终止免费使用 Flash 和 Pro 型号 / Gemini ending free use of Flash and Pro models",
+          "url": "https://news.ycombinator.com/item?id=49942592",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-03T09:13:19Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "fbe8f77e4bcb6f23951fdf0157bcbafc071b8b76",
+          "title": "Gemini 终止免费使用 Flash 和 Pro 型号 / Gemini ending free use of Flash and Pro models",
+          "url": "https://www.reddit.com/r/GeminiAI/comments/1wwalmc/wtf_google_getting_rid_of_free_gemini_flash_and",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-03T09:13:19Z"
+        },
+        {
+          "id": "67dcce9e77d04da331dc4c3dd136086232a0b2cc",
+          "title": "Gemini 终止免费使用 Flash 和 Pro 型号 / Gemini ending free use of Flash and Pro models",
+          "url": "https://news.ycombinator.com/item?id=49942592",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-03T09:13:19Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5219,
+      "importance": 0.5219,
+      "importance_score": 0.5219,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.867,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-03T09:13:19Z",
+      "latest_at": "2026-10-03T09:13:19Z",
+      "primary_item": {
+        "id": "fbe8f77e4bcb6f23951fdf0157bcbafc071b8b76",
+        "title": "Gemini 终止免费使用 Flash 和 Pro 型号 / Gemini ending free use of Flash and Pro models",
+        "url": "https://www.reddit.com/r/GeminiAI/comments/1wwalmc/wtf_google_getting_rid_of_free_gemini_flash_and",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -1603,15 +1457,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5293,
-      "importance": 0.5293,
-      "importance_score": 0.5293,
+      "score": 0.5219,
+      "importance": 0.5219,
+      "importance_score": 0.5219,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9083,
+        "recency": 0.8675,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1624,6 +1478,164 @@
         "id": "274dc0825b841932fc5f3310eea7fff39aa97135",
         "title": "领英联合创始人表示，人工智能基础设施是“我们尚未陷入经济衰退的唯一原因”",
         "url": "https://www.businessinsider.com/linkedin-cofounder-ai-infrastructure-keeping-us-from-recession-2026-10",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_ce2953184b64",
+      "title": "在这个“安全空间”里，创作者可以公开表达对AI的喜爱",
+      "url": "https://www.businessinsider.com/content-creators-embrace-ai-despite-backlash-conference-influencers-hollywood-2026-10",
+      "primary_url": "https://www.businessinsider.com/content-creators-embrace-ai-despite-backlash-conference-influencers-hollywood-2026-10",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "f1c848d8864b3bcdc829d22eae47c6032eba5a40",
+          "title": "在这个“安全空间”里，创作者可以公开表达对AI的喜爱",
+          "url": "https://www.businessinsider.com/content-creators-embrace-ai-despite-backlash-conference-influencers-hollywood-2026-10",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-03T09:01:01.332000Z"
+        },
+        {
+          "id": "7eaaafb8f1d90b737741d2bbf717c74621955091",
+          "title": "在这个“安全空间”里，创作者可以公开表达对AI的喜爱 / Creators are getting backlash for using AI. I went to a conference full of those who are proud of it.",
+          "url": "https://www.businessinsider.com/content-creators-embrace-ai-despite-backlash-conference-influencers-hollywood-2026-10",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-03T08:11:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "f1c848d8864b3bcdc829d22eae47c6032eba5a40",
+          "title": "在这个“安全空间”里，创作者可以公开表达对AI的喜爱",
+          "url": "https://www.businessinsider.com/content-creators-embrace-ai-despite-backlash-conference-influencers-hollywood-2026-10",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-03T09:01:01.332000Z"
+        },
+        {
+          "id": "7eaaafb8f1d90b737741d2bbf717c74621955091",
+          "title": "在这个“安全空间”里，创作者可以公开表达对AI的喜爱 / Creators are getting backlash for using AI. I went to a conference full of those who are proud of it.",
+          "url": "https://www.businessinsider.com/content-creators-embrace-ai-despite-backlash-conference-influencers-hollywood-2026-10",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-03T08:11:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5214,
+      "importance": 0.5214,
+      "importance_score": 0.5214,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8644,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-03T08:11:01Z",
+      "latest_at": "2026-10-03T09:01:01.332000Z",
+      "primary_item": {
+        "id": "f1c848d8864b3bcdc829d22eae47c6032eba5a40",
+        "title": "在这个“安全空间”里，创作者可以公开表达对AI的喜爱",
+        "url": "https://www.businessinsider.com/content-creators-embrace-ai-despite-backlash-conference-influencers-hollywood-2026-10",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_4750dadd29cc",
+      "title": "随着团队动荡加剧，OpenAI安全负责人大卫·罗宾逊辞职",
+      "url": "https://www.businessinsider.com/safety-leader-david-robinson-resigns-from-openai-2026-10",
+      "primary_url": "https://www.businessinsider.com/safety-leader-david-robinson-resigns-from-openai-2026-10",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "8d48e06f9b73c3afe927902326af5e5dcbfa164a",
+          "title": "随着团队动荡加剧，OpenAI安全负责人大卫·罗宾逊辞职",
+          "url": "https://www.businessinsider.com/safety-leader-david-robinson-resigns-from-openai-2026-10",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-02T23:38:06.078000Z"
+        },
+        {
+          "id": "ff78092928749e40c5a4cd45006d55531d5c390b",
+          "title": "随着团队动荡加剧，OpenAI安全负责人大卫·罗宾逊辞职 / OpenAI safety leader David Robinson resigns as the team's upheaval mounts",
+          "url": "https://www.businessinsider.com/safety-leader-david-robinson-resigns-from-openai-2026-10",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-02T23:15:09Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "8d48e06f9b73c3afe927902326af5e5dcbfa164a",
+          "title": "随着团队动荡加剧，OpenAI安全负责人大卫·罗宾逊辞职",
+          "url": "https://www.businessinsider.com/safety-leader-david-robinson-resigns-from-openai-2026-10",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-02T23:38:06.078000Z"
+        },
+        {
+          "id": "ff78092928749e40c5a4cd45006d55531d5c390b",
+          "title": "随着团队动荡加剧，OpenAI安全负责人大卫·罗宾逊辞职 / OpenAI safety leader David Robinson resigns as the team's upheaval mounts",
+          "url": "https://www.businessinsider.com/safety-leader-david-robinson-resigns-from-openai-2026-10",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-02T23:15:09Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5017,
+      "importance": 0.5017,
+      "importance_score": 0.5017,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7549,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-02T23:15:09Z",
+      "latest_at": "2026-10-02T23:38:06.078000Z",
+      "primary_item": {
+        "id": "8d48e06f9b73c3afe927902326af5e5dcbfa164a",
+        "title": "随着团队动荡加剧，OpenAI安全负责人大卫·罗宾逊辞职",
+        "url": "https://www.businessinsider.com/safety-leader-david-robinson-resigns-from-openai-2026-10",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
