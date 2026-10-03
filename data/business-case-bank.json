@@ -1,57 +1,15 @@
 {
-  "generated_at": "2026-10-02T11:08:23.186340Z",
+  "generated_at": "2026-10-03T06:11:34.277728Z",
   "cases": [
     {
-      "case_id": "opc_case_adc3b6d774de",
-      "company": "Anthropic",
-      "founder": "",
-      "source_refs": [
-        "biz_82fcf647341a"
-      ],
-      "url": "https://www.cbinsights.com/research/newsletter-october-1-2026/",
-      "title": "Anthropic’s IPO filing maps the AI safety startup market",
-      "business_model": "Founder Case, Counter Signal",
-      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
-      "monetization": "To be extracted from the linked source.",
-      "team_size_signal": "team size not explicit",
-      "distribution_channel": "CB Insights",
-      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
-      "yuanli_mapping": [
-        "yuanli_startup",
-        "ftf_trust"
-      ],
-      "score": 63
-    },
-    {
-      "case_id": "opc_case_c58251d4f1d3",
-      "company": "Executive Interview",
-      "founder": "",
-      "source_refs": [
-        "biz_17a8c2229866"
-      ],
-      "url": "https://www.cbinsights.com/research/executive-interview-ideaforge/",
-      "title": "Executive Interview: ideaForge",
-      "business_model": "Founder Case",
-      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
-      "monetization": "To be extracted from the linked source.",
-      "team_size_signal": "team size not explicit",
-      "distribution_channel": "CB Insights",
-      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
-      "yuanli_mapping": [
-        "yuanli_startup",
-        "ftf_trust"
-      ],
-      "score": 49
-    },
-    {
-      "case_id": "opc_case_d70e1064dad9",
+      "case_id": "opc_case_f6840c28eace",
       "company": "CEO Interview",
       "founder": "",
       "source_refs": [
-        "biz_cee28fde32ee"
+        "biz_4ce103a9bde8"
       ],
-      "url": "https://www.cbinsights.com/research/ceo-interview-nextria/",
-      "title": "CEO Interview: Nextria",
+      "url": "https://www.cbinsights.com/research/ceo-interview-andromeda-surgical/",
+      "title": "CEO Interview: Andromeda Surgical",
       "business_model": "Founder Case",
       "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
       "monetization": "To be extracted from the linked source.",
@@ -65,15 +23,15 @@
       "score": 49
     },
     {
-      "case_id": "opc_case_14f53dfbf656",
-      "company": "Who",
+      "case_id": "opc_case_fa0796afba6a",
+      "company": "Executive Interview",
       "founder": "",
       "source_refs": [
-        "biz_70f36e625a05"
+        "biz_ae845f2d9474"
       ],
-      "url": "https://www.cbinsights.com/research/coding-agent-investor-overlap/",
-      "title": "Who’s on both sides? The investors backing rival coding agents",
-      "business_model": "AI Business Model Innovation, Enterprise AI Workflow, Founder Case",
+      "url": "https://www.cbinsights.com/research/executive-interview-quantum-xchange/",
+      "title": "Executive Interview: Quantum XChange",
+      "business_model": "Founder Case",
       "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
       "monetization": "To be extracted from the linked source.",
       "team_size_signal": "team size not explicit",
@@ -81,11 +39,50 @@
       "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
       "yuanli_mapping": [
         "yuanli_startup",
-        "yuanli_os",
-        "ftf_trust",
-        "profit_container"
+        "ftf_trust"
       ],
-      "score": 40
+      "score": 49
+    },
+    {
+      "case_id": "opc_case_22d356d5ccc2",
+      "company": "Executive Interview",
+      "founder": "",
+      "source_refs": [
+        "biz_e24d310e0a17"
+      ],
+      "url": "https://www.cbinsights.com/research/executive-interview-remote-sense/",
+      "title": "Executive Interview: Remote Sense",
+      "business_model": "Founder Case",
+      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
+      "monetization": "To be extracted from the linked source.",
+      "team_size_signal": "team size not explicit",
+      "distribution_channel": "CB Insights",
+      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
+      "yuanli_mapping": [
+        "yuanli_startup",
+        "ftf_trust"
+      ],
+      "score": 49
+    },
+    {
+      "case_id": "opc_case_9a33cd0066f3",
+      "company": "Are You Hearing",
+      "founder": "",
+      "source_refs": [
+        "biz_d7e886552723"
+      ],
+      "url": "https://hbr.org/2026/10/are-you-hearing-what-your-customers-are-telling-you",
+      "title": "Are You Hearing What Your Customers Are Telling You?",
+      "business_model": "Founder Case, AI Business Model Innovation",
+      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
+      "monetization": "To be extracted from the linked source.",
+      "team_size_signal": "team size not explicit",
+      "distribution_channel": "Harvard Business Review",
+      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
+      "yuanli_mapping": [
+        "yuanli_startup"
+      ],
+      "score": 41
     }
   ]
 }
