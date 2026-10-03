@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T06:11:34.277728Z",
+  "generated_at": "2026-10-03T11:58:57.978311Z",
   "window_hours": 24,
   "items": [
     {
@@ -9,7 +9,7 @@
       "source_id": "cbinsights",
       "source_name": "CB Insights",
       "published_at": "2026-10-02T17:56:50Z",
-      "captured_at": "2026-10-03T06:11:34.277728Z",
+      "captured_at": "2026-10-03T11:58:57.978311Z",
       "lane": "startup_vc",
       "entities": [
         "CB Insights",
@@ -46,7 +46,7 @@
       "source_id": "cbinsights",
       "source_name": "CB Insights",
       "published_at": "2026-10-02T17:19:16Z",
-      "captured_at": "2026-10-03T06:11:34.277728Z",
+      "captured_at": "2026-10-03T11:58:57.978311Z",
       "lane": "startup_vc",
       "entities": [
         "CB Insights",
@@ -83,7 +83,7 @@
       "source_id": "cbinsights",
       "source_name": "CB Insights",
       "published_at": "2026-10-02T16:02:50Z",
-      "captured_at": "2026-10-03T06:11:34.277728Z",
+      "captured_at": "2026-10-03T11:58:57.978311Z",
       "lane": "startup_vc",
       "entities": [
         "CB Insights",
@@ -120,7 +120,7 @@
       "source_id": "github_blog",
       "source_name": "GitHub Blog",
       "published_at": "2026-10-02T15:00:00Z",
-      "captured_at": "2026-10-03T06:11:34.277728Z",
+      "captured_at": "2026-10-03T11:58:57.978311Z",
       "lane": "ai_commercialization",
       "entities": [
         "GitHub Blog",
@@ -157,7 +157,7 @@
       "source_id": "hbr",
       "source_name": "Harvard Business Review",
       "published_at": "2026-10-02T12:25:56Z",
-      "captured_at": "2026-10-03T06:11:34.277728Z",
+      "captured_at": "2026-10-03T11:58:57.978311Z",
       "lane": "authority",
       "entities": [
         "Harvard Business Review",
@@ -195,7 +195,7 @@
       "source_id": "bcg_ai",
       "source_name": "BCG AI Insights",
       "published_at": "2026-10-02T12:37:41.436000Z",
-      "captured_at": "2026-10-03T06:11:34.277728Z",
+      "captured_at": "2026-10-03T11:58:57.978311Z",
       "lane": "authority",
       "entities": [
         "BCG AI Insights",
@@ -225,41 +225,6 @@
         "counter_signal_value": 0
       },
       "summary": "The New Front Door: How Personal Agents Are Rewriting the Rules of the Internet Tags: Enterprise AI Workflow, AI Business Model Innovation.",
-      "timestamp_basis": "page_structured_time",
-      "transport_mode": "sitemap_page"
-    },
-    {
-      "signal_id": "biz_a4bddd48338f",
-      "title": "Claude Frontier Academy: $100M to train 10,000 engineers",
-      "url": "https://www.anthropic.com/news/claude-frontier-academy",
-      "source_id": "anthropic_news",
-      "source_name": "Anthropic News",
-      "published_at": "2026-10-02T23:01:00Z",
-      "captured_at": "2026-10-03T06:11:34.277728Z",
-      "lane": "ai_commercialization",
-      "entities": [
-        "Anthropic News",
-        "Claude Frontier Academy"
-      ],
-      "business_model_tags": [
-        "Enterprise AI Workflow"
-      ],
-      "yuanli_tags": [
-        "yuanli_startup"
-      ],
-      "opc_fit_score": 0,
-      "case_concreteness_score": 4,
-      "total_score": 32,
-      "score_breakdown": {
-        "source_authority": 20,
-        "yuanli_relevance": 0,
-        "business_model_value": 0,
-        "case_concreteness": 4,
-        "opc_fit": 0,
-        "freshness": 8,
-        "counter_signal_value": 0
-      },
-      "summary": "Claude Frontier Academy: $100M to train 10,000 engineers Tags: Enterprise AI Workflow.",
       "timestamp_basis": "page_structured_time",
       "transport_mode": "sitemap_page"
     }
