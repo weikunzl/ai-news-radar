@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T11:58:57.978311Z",
+  "generated_at": "2026-10-03T15:56:38.011606Z",
   "cases": [
     {
       "case_id": "opc_case_f6840c28eace",
@@ -65,24 +65,24 @@
       "score": 49
     },
     {
-      "case_id": "opc_case_9a33cd0066f3",
-      "company": "Are You Hearing",
+      "case_id": "opc_case_cb25a6a271fa",
+      "company": "Investing",
       "founder": "",
       "source_refs": [
-        "biz_d7e886552723"
+        "biz_aab4223e048c"
       ],
-      "url": "https://hbr.org/2026/10/are-you-hearing-what-your-customers-are-telling-you",
-      "title": "Are You Hearing What Your Customers Are Telling You?",
-      "business_model": "Founder Case, AI Business Model Innovation",
+      "url": "https://a16z.com/announcement/investing-in-conway-the-creator-of-underdog/",
+      "title": "Investing in Conway, the Creator of Underdog | Andreessen Horowitz",
+      "business_model": "OPC, Founder Case",
       "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
       "monetization": "To be extracted from the linked source.",
-      "team_size_signal": "team size not explicit",
-      "distribution_channel": "Harvard Business Review",
+      "team_size_signal": "one-person/tiny-team fit",
+      "distribution_channel": "a16z",
       "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
       "yuanli_mapping": [
         "yuanli_startup"
       ],
-      "score": 41
+      "score": 33
     }
   ]
 }
