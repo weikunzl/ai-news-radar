@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T06:10:21.225173Z",
+  "generated_at": "2026-10-03T11:57:44.764045Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8522,
-      "importance": 0.8522,
-      "importance_score": 0.8522,
+      "score": 0.8404,
+      "importance": 0.8404,
+      "importance_score": 0.8404,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8179,
+        "recency": 0.7523,
         "story_heat": 0.25
       },
       "category": "official",
@@ -82,68 +82,6 @@
         "title": "OpenAI 发布 GPT-6 家族实用指南：选型、提示词与长任务管理 / A model guide for the GPT-6 family",
         "url": "https://openai.com/index/practical-guide-building-gpt-6",
         "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_c50f0986cd4e",
-      "title": "Copilot 代码审查：API 支持和新的默认工作级别 / Copilot code review: API support and new default effort level",
-      "url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
-      "primary_url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "4c4bee02b6e6e7d087938a89098b4ad2a2e9898c",
-          "title": "Copilot 代码审查：API 支持和新的默认工作级别 / Copilot code review: API support and new default effort level",
-          "url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-02T19:13:50Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "4c4bee02b6e6e7d087938a89098b4ad2a2e9898c",
-          "title": "Copilot 代码审查：API 支持和新的默认工作级别 / Copilot code review: API support and new default effort level",
-          "url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-02T19:13:50Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8257,
-      "importance": 0.8257,
-      "importance_score": 0.8257,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8538,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-02T19:13:50Z",
-      "latest_at": "2026-10-02T19:13:50Z",
-      "primary_item": {
-        "id": "4c4bee02b6e6e7d087938a89098b4ad2a2e9898c",
-        "title": "Copilot 代码审查：API 支持和新的默认工作级别 / Copilot code review: API support and new default effort level",
-        "url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
-        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -182,15 +120,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8253,
-      "importance": 0.8253,
-      "importance_score": 0.8253,
+      "score": 0.8136,
+      "importance": 0.8136,
+      "importance_score": 0.8136,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8071,
+        "recency": 0.7423,
         "story_heat": 0.0
       },
       "category": "official",
@@ -206,6 +144,68 @@
         "title": "开源 AstaBrief，Asta 中的快速报告生成模型 / Open-sourcing AstaBrief, the fast report-generation model in Asta",
         "url": "https://huggingface.co/blog/allenai/astabrief",
         "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_c50f0986cd4e",
+      "title": "Copilot 代码审查：API 支持和新的默认工作级别 / Copilot code review: API support and new default effort level",
+      "url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
+      "primary_url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "4c4bee02b6e6e7d087938a89098b4ad2a2e9898c",
+          "title": "Copilot 代码审查：API 支持和新的默认工作级别 / Copilot code review: API support and new default effort level",
+          "url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-02T19:13:50Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "4c4bee02b6e6e7d087938a89098b4ad2a2e9898c",
+          "title": "Copilot 代码审查：API 支持和新的默认工作级别 / Copilot code review: API support and new default effort level",
+          "url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-02T19:13:50Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8134,
+      "importance": 0.8134,
+      "importance_score": 0.8134,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7854,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-02T19:13:50Z",
+      "latest_at": "2026-10-02T19:13:50Z",
+      "primary_item": {
+        "id": "4c4bee02b6e6e7d087938a89098b4ad2a2e9898c",
+        "title": "Copilot 代码审查：API 支持和新的默认工作级别 / Copilot code review: API support and new default effort level",
+        "url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -244,15 +244,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8146,
-      "importance": 0.8146,
-      "importance_score": 0.8146,
+      "score": 0.803,
+      "importance": 0.803,
+      "importance_score": 0.803,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.9,
-        "recency": 0.8032,
+        "recency": 0.7388,
         "story_heat": 0.0
       },
       "category": "official",
@@ -306,15 +306,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8086,
-      "importance": 0.8086,
-      "importance_score": 0.8086,
+      "score": 0.797,
+      "importance": 0.797,
+      "importance_score": 0.797,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8032,
+        "recency": 0.7388,
         "story_heat": 0.0
       },
       "category": "official",
@@ -368,15 +368,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8247,
-      "importance": 0.8247,
-      "importance_score": 0.8247,
+      "score": 0.8118,
+      "importance": 0.8118,
+      "importance_score": 0.8118,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8926,
+        "recency": 0.821,
         "story_heat": 0.0
       },
       "category": "official",
@@ -393,6 +393,67 @@
         "url": "https://github.blog/changelog/2026-10-02-stateless-github-app-installation-tokens-rolled-out",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_8023f1ca7887",
+      "title": "OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件",
+      "url": "https://www.ithome.com/1/009/444.htm",
+      "primary_url": "https://www.ithome.com/1/009/444.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "7e9702e6e0dd12c71d16248cd07479340386ee16",
+          "title": "OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件",
+          "url": "https://www.ithome.com/1/009/444.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-03T06:18:38Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "7e9702e6e0dd12c71d16248cd07479340386ee16",
+          "title": "OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件",
+          "url": "https://www.ithome.com/1/009/444.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-03T06:18:38Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7745,
+      "importance": 0.7745,
+      "importance_score": 0.7745,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9216,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-03T06:18:38Z",
+      "latest_at": "2026-10-03T06:18:38Z",
+      "primary_item": {
+        "id": "7e9702e6e0dd12c71d16248cd07479340386ee16",
+        "title": "OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件",
+        "url": "https://www.ithome.com/1/009/444.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -430,15 +491,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8239,
-      "importance": 0.8239,
-      "importance_score": 0.8239,
+      "score": 0.8117,
+      "importance": 0.8117,
+      "importance_score": 0.8117,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8437,
+        "recency": 0.7761,
         "story_heat": 0.0
       },
       "category": "official",
@@ -492,15 +553,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7456,
-      "importance": 0.7456,
-      "importance_score": 0.7456,
+      "score": 0.7331,
+      "importance": 0.7331,
+      "importance_score": 0.7331,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8609,
+        "recency": 0.7919,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -552,15 +613,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7358,
-      "importance": 0.7358,
-      "importance_score": 0.7358,
+      "score": 0.7237,
+      "importance": 0.7237,
+      "importance_score": 0.7237,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8403,
+        "recency": 0.7729,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -578,188 +639,8 @@
       }
     },
     {
-      "story_id": "story_faf4acfaabab",
-      "title": "Bloomberg：Anthropic 为可能估值近 2 万亿美元的 IPO 邀请机构投资者质询高管",
-      "url": "https://x.com/rohanpaul_ai/status/2105921530211508488",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2105921530211508488",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "80379d05868b888bce46fe2c5c3842db5998b24f",
-          "title": "Bloomberg：Anthropic 为可能估值近 2 万亿美元的 IPO 邀请机构投资者质询高管",
-          "url": "https://x.com/rohanpaul_ai/status/2105921530211508488",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-02T07:23:13Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "items": [
-        {
-          "id": "80379d05868b888bce46fe2c5c3842db5998b24f",
-          "title": "Bloomberg：Anthropic 为可能估值近 2 万亿美元的 IPO 邀请机构投资者质询高管",
-          "url": "https://x.com/rohanpaul_ai/status/2105921530211508488",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-02T07:23:13Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7291,
-      "importance": 0.7291,
-      "importance_score": 0.7291,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7196,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-02T07:23:13Z",
-      "latest_at": "2026-10-02T07:23:13Z",
-      "primary_item": {
-        "id": "80379d05868b888bce46fe2c5c3842db5998b24f",
-        "title": "Bloomberg：Anthropic 为可能估值近 2 万亿美元的 IPO 邀请机构投资者质询高管",
-        "url": "https://x.com/rohanpaul_ai/status/2105921530211508488",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_9b3403e5e5ad",
-      "title": "Baseten 工程师实测：LLM 生成的推理引擎比 vLLM 快最多 90%",
-      "url": "https://www.baseten.co/blog/agentic-inference-optimization-faster-than-sota",
-      "primary_url": "https://www.baseten.co/blog/agentic-inference-optimization-faster-than-sota",
-      "source": "Baseten 工程博客（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f43c5a92ec39e2402584ef8b89a404e27c40873e",
-          "title": "Baseten 工程师实测：LLM 生成的推理引擎比 vLLM 快最多 90%",
-          "url": "https://www.baseten.co/blog/agentic-inference-optimization-faster-than-sota",
-          "source": "Baseten 工程博客（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-02T21:09:34Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Baseten 工程博客（网页）"
-      ],
-      "items": [
-        {
-          "id": "f43c5a92ec39e2402584ef8b89a404e27c40873e",
-          "title": "Baseten 工程师实测：LLM 生成的推理引擎比 vLLM 快最多 90%",
-          "url": "https://www.baseten.co/blog/agentic-inference-optimization-faster-than-sota",
-          "source": "Baseten 工程博客（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-02T21:09:34Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7216,
-      "importance": 0.7216,
-      "importance_score": 0.7216,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.64,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.878,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-02T21:09:34Z",
-      "latest_at": "2026-10-02T21:09:34Z",
-      "primary_item": {
-        "id": "f43c5a92ec39e2402584ef8b89a404e27c40873e",
-        "title": "Baseten 工程师实测：LLM 生成的推理引擎比 vLLM 快最多 90%",
-        "url": "https://www.baseten.co/blog/agentic-inference-optimization-faster-than-sota",
-        "source": "Baseten 工程博客（网页）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_0408845a7a94",
-      "title": "Meta 公布数学家与 Muse Spark 1.1/1.2 协作完成的六篇论文",
-      "url": "https://x.com/AIatMeta/status/2106099776035152231",
-      "primary_url": "https://x.com/AIatMeta/status/2106099776035152231",
-      "source": "X：AI at Meta (@AIatMeta)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "98326a84abc998ad07be5df305fe1acfe2ad1af4",
-          "title": "Meta 公布数学家与 Muse Spark 1.1/1.2 协作完成的六篇论文",
-          "url": "https://x.com/AIatMeta/status/2106099776035152231",
-          "source": "X：AI at Meta (@AIatMeta)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-02T19:11:30Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：AI at Meta (@AIatMeta)"
-      ],
-      "items": [
-        {
-          "id": "98326a84abc998ad07be5df305fe1acfe2ad1af4",
-          "title": "Meta 公布数学家与 Muse Spark 1.1/1.2 协作完成的六篇论文",
-          "url": "https://x.com/AIatMeta/status/2106099776035152231",
-          "source": "X：AI at Meta (@AIatMeta)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-02T19:11:30Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7202,
-      "importance": 0.7202,
-      "importance_score": 0.7202,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8534,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-02T19:11:30Z",
-      "latest_at": "2026-10-02T19:11:30Z",
-      "primary_item": {
-        "id": "98326a84abc998ad07be5df305fe1acfe2ad1af4",
-        "title": "Meta 公布数学家与 Muse Spark 1.1/1.2 协作完成的六篇论文",
-        "url": "https://x.com/AIatMeta/status/2106099776035152231",
-        "source": "X：AI at Meta (@AIatMeta)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
       "story_id": "story_6389d30d2002",
-      "title": "New fields for SecurityAdvisory GraphQL API",
+      "title": "SecurityAdvisory GraphQL API 的新字段 / New fields for SecurityAdvisory GraphQL API",
       "url": "https://github.blog/changelog/2026-10-02-new-fields-for-securityadvisory-graphql-api",
       "primary_url": "https://github.blog/changelog/2026-10-02-new-fields-for-securityadvisory-graphql-api",
       "source": "GitHub Changelog",
@@ -767,7 +648,7 @@
       "sources": [
         {
           "id": "983d5abca127c992de7dd3b2e4793328644c2a8e",
-          "title": "New fields for SecurityAdvisory GraphQL API",
+          "title": "SecurityAdvisory GraphQL API 的新字段 / New fields for SecurityAdvisory GraphQL API",
           "url": "https://github.blog/changelog/2026-10-02-new-fields-for-securityadvisory-graphql-api",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
@@ -782,7 +663,7 @@
       "items": [
         {
           "id": "983d5abca127c992de7dd3b2e4793328644c2a8e",
-          "title": "New fields for SecurityAdvisory GraphQL API",
+          "title": "SecurityAdvisory GraphQL API 的新字段 / New fields for SecurityAdvisory GraphQL API",
           "url": "https://github.blog/changelog/2026-10-02-new-fields-for-securityadvisory-graphql-api",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
@@ -792,15 +673,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8051,
-      "importance": 0.8051,
-      "importance_score": 0.8051,
+      "score": 0.7938,
+      "importance": 0.7938,
+      "importance_score": 0.7938,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7838,
+        "recency": 0.7209,
         "story_heat": 0.0
       },
       "category": "official",
@@ -813,90 +694,10 @@
       "latest_at": "2026-10-02T13:18:00Z",
       "primary_item": {
         "id": "983d5abca127c992de7dd3b2e4793328644c2a8e",
-        "title": "New fields for SecurityAdvisory GraphQL API",
+        "title": "SecurityAdvisory GraphQL API 的新字段 / New fields for SecurityAdvisory GraphQL API",
         "url": "https://github.blog/changelog/2026-10-02-new-fields-for-securityadvisory-graphql-api",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_d59de4d941f9",
-      "title": "Ai2 开源 8B 科学报告生成模型 AstaBrief",
-      "url": "https://allenai.org/blog/astabrief",
-      "primary_url": "https://allenai.org/blog/astabrief",
-      "source": "Ai2 / Allen Institute for AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "524ddd5dfb88fada1278908c35d5370fe5b1ed35",
-          "title": "Ai2 开源 8B 科学报告生成模型 AstaBrief",
-          "url": "https://allenai.org/blog/astabrief",
-          "source": "Ai2 / Allen Institute for AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-02T08:00:00Z"
-        },
-        {
-          "id": "dafaaccf0fd3d7569c4d3d04b423ee0b277ab92a",
-          "title": "Ai2 开源 8B 科学报告生成模型 AstaBrief / Open-sourcing AstaBrief, the fast report-generation model in Asta",
-          "url": "https://allenai.org/blog/astabrief",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-02T21:25:25Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Ai2 / Allen Institute for AI（RSS）",
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "524ddd5dfb88fada1278908c35d5370fe5b1ed35",
-          "title": "Ai2 开源 8B 科学报告生成模型 AstaBrief",
-          "url": "https://allenai.org/blog/astabrief",
-          "source": "Ai2 / Allen Institute for AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-02T08:00:00Z"
-        },
-        {
-          "id": "dafaaccf0fd3d7569c4d3d04b423ee0b277ab92a",
-          "title": "Ai2 开源 8B 科学报告生成模型 AstaBrief / Open-sourcing AstaBrief, the fast report-generation model in Asta",
-          "url": "https://allenai.org/blog/astabrief",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-02T21:25:25Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7133,
-      "importance": 0.7133,
-      "importance_score": 0.7133,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.62,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.726,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-02T08:00:00Z",
-      "latest_at": "2026-10-02T21:25:25Z",
-      "primary_item": {
-        "id": "524ddd5dfb88fada1278908c35d5370fe5b1ed35",
-        "title": "Ai2 开源 8B 科学报告生成模型 AstaBrief",
-        "url": "https://allenai.org/blog/astabrief",
-        "source": "Ai2 / Allen Institute for AI（RSS）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -934,15 +735,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.733,
-      "importance": 0.733,
-      "importance_score": 0.733,
+      "score": 0.7206,
+      "importance": 0.7206,
+      "importance_score": 0.7206,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.858,
+        "recency": 0.7891,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -960,70 +761,8 @@
       }
     },
     {
-      "story_id": "story_04cee568ccaf",
-      "title": "Confidential comments on repository security advisories",
-      "url": "https://github.blog/changelog/2026-10-02-confidential-comments-on-repository-security-advisories",
-      "primary_url": "https://github.blog/changelog/2026-10-02-confidential-comments-on-repository-security-advisories",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "75d3ae652733e012708727418c039e9c82d67827",
-          "title": "Confidential comments on repository security advisories",
-          "url": "https://github.blog/changelog/2026-10-02-confidential-comments-on-repository-security-advisories",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-02T13:15:40Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "75d3ae652733e012708727418c039e9c82d67827",
-          "title": "Confidential comments on repository security advisories",
-          "url": "https://github.blog/changelog/2026-10-02-confidential-comments-on-repository-security-advisories",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-02T13:15:40Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.805,
-      "importance": 0.805,
-      "importance_score": 0.805,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7833,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-02T13:15:40Z",
-      "latest_at": "2026-10-02T13:15:40Z",
-      "primary_item": {
-        "id": "75d3ae652733e012708727418c039e9c82d67827",
-        "title": "Confidential comments on repository security advisories",
-        "url": "https://github.blog/changelog/2026-10-02-confidential-comments-on-repository-security-advisories",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
       "story_id": "story_15293fa08b51",
-      "title": "Repository security advisory comments API in public preview",
+      "title": "公共预览版中的存储库安全咨询评论 API / Repository security advisory comments API in public preview",
       "url": "https://github.blog/changelog/2026-10-02-repository-security-advisory-comments-api-in-public-preview",
       "primary_url": "https://github.blog/changelog/2026-10-02-repository-security-advisory-comments-api-in-public-preview",
       "source": "GitHub Changelog",
@@ -1031,7 +770,7 @@
       "sources": [
         {
           "id": "5cb2c95d9b30ba70feb24df708447eb935568270",
-          "title": "Repository security advisory comments API in public preview",
+          "title": "公共预览版中的存储库安全咨询评论 API / Repository security advisory comments API in public preview",
           "url": "https://github.blog/changelog/2026-10-02-repository-security-advisory-comments-api-in-public-preview",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
@@ -1046,7 +785,7 @@
       "items": [
         {
           "id": "5cb2c95d9b30ba70feb24df708447eb935568270",
-          "title": "Repository security advisory comments API in public preview",
+          "title": "公共预览版中的存储库安全咨询评论 API / Repository security advisory comments API in public preview",
           "url": "https://github.blog/changelog/2026-10-02-repository-security-advisory-comments-api-in-public-preview",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
@@ -1056,15 +795,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.805,
-      "importance": 0.805,
-      "importance_score": 0.805,
+      "score": 0.7937,
+      "importance": 0.7937,
+      "importance_score": 0.7937,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7833,
+        "recency": 0.7204,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1077,8 +816,70 @@
       "latest_at": "2026-10-02T13:15:25Z",
       "primary_item": {
         "id": "5cb2c95d9b30ba70feb24df708447eb935568270",
-        "title": "Repository security advisory comments API in public preview",
+        "title": "公共预览版中的存储库安全咨询评论 API / Repository security advisory comments API in public preview",
         "url": "https://github.blog/changelog/2026-10-02-repository-security-advisory-comments-api-in-public-preview",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_04cee568ccaf",
+      "title": "关于存储库安全建议的机密评论 / Confidential comments on repository security advisories",
+      "url": "https://github.blog/changelog/2026-10-02-confidential-comments-on-repository-security-advisories",
+      "primary_url": "https://github.blog/changelog/2026-10-02-confidential-comments-on-repository-security-advisories",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "75d3ae652733e012708727418c039e9c82d67827",
+          "title": "关于存储库安全建议的机密评论 / Confidential comments on repository security advisories",
+          "url": "https://github.blog/changelog/2026-10-02-confidential-comments-on-repository-security-advisories",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-02T13:15:40Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "75d3ae652733e012708727418c039e9c82d67827",
+          "title": "关于存储库安全建议的机密评论 / Confidential comments on repository security advisories",
+          "url": "https://github.blog/changelog/2026-10-02-confidential-comments-on-repository-security-advisories",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-02T13:15:40Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7937,
+      "importance": 0.7937,
+      "importance_score": 0.7937,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7205,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-02T13:15:40Z",
+      "latest_at": "2026-10-02T13:15:40Z",
+      "primary_item": {
+        "id": "75d3ae652733e012708727418c039e9c82d67827",
+        "title": "关于存储库安全建议的机密评论 / Confidential comments on repository security advisories",
+        "url": "https://github.blog/changelog/2026-10-02-confidential-comments-on-repository-security-advisories",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
@@ -1137,15 +938,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6202,
-      "importance": 0.6202,
-      "importance_score": 0.6202,
+      "score": 0.608,
+      "importance": 0.608,
+      "importance_score": 0.608,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.8411,
+        "recency": 0.7737,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1160,6 +961,183 @@
         "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents",
         "source": "TechCrunch AI",
         "source_name": "Curated Media"
+      }
+    },
+    {
+      "story_id": "story_e35138269f8b",
+      "title": "Show HN: 开发了一个开源的乐高AI生成器",
+      "url": "https://github.com/anteloc/ldraw-nova",
+      "primary_url": "https://github.com/anteloc/ldraw-nova",
+      "source": "github.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "f1db89ef77edc52c279f0048fcbda72012a75d9d",
+          "title": "Show HN: 开发了一个开源的乐高AI生成器",
+          "url": "https://github.com/anteloc/ldraw-nova",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-03T06:39:44.372000Z"
+        },
+        {
+          "id": "4833224933c4812b26db59323c17c75baab29f24",
+          "title": "Show HN: 开发了一个开源的乐高AI生成器 / Show HN: Made an open-source Lego AI generator",
+          "url": "https://github.com/anteloc/ldraw-nova",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-02T20:00:15Z"
+        },
+        {
+          "id": "a666c1a00df38beccd91fc3b866760e75714ab81",
+          "title": "Show HN：制作了一个开源乐高人工智能生成器 / Show HN: Made an open-source Lego AI generator",
+          "url": "https://news.ycombinator.com/item?id=49937916",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-02T20:00:15Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "github.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "f1db89ef77edc52c279f0048fcbda72012a75d9d",
+          "title": "Show HN: 开发了一个开源的乐高AI生成器",
+          "url": "https://github.com/anteloc/ldraw-nova",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-03T06:39:44.372000Z"
+        },
+        {
+          "id": "4833224933c4812b26db59323c17c75baab29f24",
+          "title": "Show HN: 开发了一个开源的乐高AI生成器 / Show HN: Made an open-source Lego AI generator",
+          "url": "https://github.com/anteloc/ldraw-nova",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-02T20:00:15Z"
+        },
+        {
+          "id": "a666c1a00df38beccd91fc3b866760e75714ab81",
+          "title": "Show HN：制作了一个开源乐高人工智能生成器 / Show HN: Made an open-source Lego AI generator",
+          "url": "https://news.ycombinator.com/item?id=49937916",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-02T20:00:15Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5575,
+      "importance": 0.5575,
+      "importance_score": 0.5575,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9263,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-02T20:00:15Z",
+      "latest_at": "2026-10-03T06:39:44.372000Z",
+      "primary_item": {
+        "id": "f1db89ef77edc52c279f0048fcbda72012a75d9d",
+        "title": "Show HN: 开发了一个开源的乐高AI生成器",
+        "url": "https://github.com/anteloc/ldraw-nova",
+        "source": "github.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_4d668566c7c8",
+      "title": "据BCG一位高管称，有两种与人工智能相关的习惯可能会削弱你的批判性思维",
+      "url": "https://www.businessinsider.com/bcg-exec-shares-ai-habits-weaken-critical-thinking-2026-10",
+      "primary_url": "https://www.businessinsider.com/bcg-exec-shares-ai-habits-weaken-critical-thinking-2026-10",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "9c168a0f87df704e40ad02515e70c79949900843",
+          "title": "据BCG一位高管称，有两种与人工智能相关的习惯可能会削弱你的批判性思维",
+          "url": "https://www.businessinsider.com/bcg-exec-shares-ai-habits-weaken-critical-thinking-2026-10",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-03T10:17:54.194000Z"
+        },
+        {
+          "id": "77e3fcef1f15427808992e04ab279421f20a32df",
+          "title": "据BCG一位高管称，有两种与人工智能相关的习惯可能会削弱你的批判性思维 / 2 AI habits that can weaken your critical thinking, according to a BCG exec",
+          "url": "https://www.businessinsider.com/bcg-exec-shares-ai-habits-weaken-critical-thinking-2026-10",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-03T09:50:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "9c168a0f87df704e40ad02515e70c79949900843",
+          "title": "据BCG一位高管称，有两种与人工智能相关的习惯可能会削弱你的批判性思维",
+          "url": "https://www.businessinsider.com/bcg-exec-shares-ai-habits-weaken-critical-thinking-2026-10",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-03T10:17:54.194000Z"
+        },
+        {
+          "id": "77e3fcef1f15427808992e04ab279421f20a32df",
+          "title": "据BCG一位高管称，有两种与人工智能相关的习惯可能会削弱你的批判性思维 / 2 AI habits that can weaken your critical thinking, according to a BCG exec",
+          "url": "https://www.businessinsider.com/bcg-exec-shares-ai-habits-weaken-critical-thinking-2026-10",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-03T09:50:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5415,
+      "importance": 0.5415,
+      "importance_score": 0.5415,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9763,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-03T09:50:01Z",
+      "latest_at": "2026-10-03T10:17:54.194000Z",
+      "primary_item": {
+        "id": "9c168a0f87df704e40ad02515e70c79949900843",
+        "title": "据BCG一位高管称，有两种与人工智能相关的习惯可能会削弱你的批判性思维",
+        "url": "https://www.businessinsider.com/bcg-exec-shares-ai-habits-weaken-critical-thinking-2026-10",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1234,15 +1212,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.554,
-      "importance": 0.554,
-      "importance_score": 0.554,
+      "score": 0.5409,
+      "importance": 0.5409,
+      "importance_score": 0.5409,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9064,
+        "recency": 0.8337,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1332,15 +1310,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5527,
-      "importance": 0.5527,
-      "importance_score": 0.5527,
+      "score": 0.5397,
+      "importance": 0.5397,
+      "importance_score": 0.5397,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8994,
+        "recency": 0.8273,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1355,6 +1333,85 @@
         "url": "https://dwarfstar.sh",
         "source": "dwarfstar.sh",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_0187384e2210",
+      "title": "Gemini 终止免费使用 Flash 和 Pro 型号 / Gemini ending free use of Flash and Pro models",
+      "url": "https://www.reddit.com/r/GeminiAI/comments/1wwalmc/wtf_google_getting_rid_of_free_gemini_flash_and",
+      "primary_url": "https://www.reddit.com/r/GeminiAI/comments/1wwalmc/wtf_google_getting_rid_of_free_gemini_flash_and",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "e80ab57980a1a06fda2b730522c720f862cc022c",
+          "title": "Gemini 终止免费使用 Flash 和 Pro 型号 / Gemini ending free use of Flash and Pro models",
+          "url": "https://www.reddit.com/r/GeminiAI/comments/1wwalmc/wtf_google_getting_rid_of_free_gemini_flash_and",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-03T09:13:19Z"
+        },
+        {
+          "id": "67dcce9e77d04da331dc4c3dd136086232a0b2cc",
+          "title": "Gemini 终止免费使用 Flash 和 Pro 型号 / Gemini ending free use of Flash and Pro models",
+          "url": "https://news.ycombinator.com/item?id=49942592",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-03T09:13:19Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "e80ab57980a1a06fda2b730522c720f862cc022c",
+          "title": "Gemini 终止免费使用 Flash 和 Pro 型号 / Gemini ending free use of Flash and Pro models",
+          "url": "https://www.reddit.com/r/GeminiAI/comments/1wwalmc/wtf_google_getting_rid_of_free_gemini_flash_and",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-03T09:13:19Z"
+        },
+        {
+          "id": "67dcce9e77d04da331dc4c3dd136086232a0b2cc",
+          "title": "Gemini 终止免费使用 Flash 和 Pro 型号 / Gemini ending free use of Flash and Pro models",
+          "url": "https://news.ycombinator.com/item?id=49942592",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-03T09:13:19Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5388,
+      "importance": 0.5388,
+      "importance_score": 0.5388,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9612,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-03T09:13:19Z",
+      "latest_at": "2026-10-03T09:13:19Z",
+      "primary_item": {
+        "id": "e80ab57980a1a06fda2b730522c720f862cc022c",
+        "title": "Gemini 终止免费使用 Flash 和 Pro 型号 / Gemini ending free use of Flash and Pro models",
+        "url": "https://www.reddit.com/r/GeminiAI/comments/1wwalmc/wtf_google_getting_rid_of_free_gemini_flash_and",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       }
     }
   ]
