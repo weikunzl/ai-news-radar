@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-04T07:55:24.884962Z",
+  "generated_at": "2026-10-04T13:48:58.142042Z",
   "window_hours": 24,
-  "total_items": 19,
+  "total_items": 17,
   "items": [
     {
       "story_id": "story_89764eae0099",
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8631,
-      "importance": 0.8631,
-      "importance_score": 0.8631,
+      "score": 0.8502,
+      "importance": 0.8502,
+      "importance_score": 0.8502,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8784,
+        "recency": 0.8068,
         "story_heat": 0.25
       },
       "category": "official",
@@ -120,21 +120,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7583,
-      "importance": 0.7583,
-      "importance_score": 0.7583,
+      "score": 0.7456,
+      "importance": 0.7456,
+      "importance_score": 0.7456,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8649,
+        "recency": 0.7943,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-03T21:52:11Z",
       "latest_at": "2026-10-03T21:52:11Z",
@@ -147,118 +146,611 @@
       }
     },
     {
-      "story_id": "story_774f7412d1a3",
-      "title": "格雷格·克罗-哈特曼——大语言模型时代的安全问题",
-      "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
-      "primary_url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
-      "source": "www.youtube.com",
+      "story_id": "story_c83b565fc251",
+      "title": "宗教学者与Anthropic公司进行了会面",
+      "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+      "primary_url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+      "source": "www.nytimes.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "8d41b8355bfdc36961629fb295df569095fa08a3",
-          "title": "格雷格·克罗-哈特曼——大语言模型时代的安全问题",
-          "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
-          "source": "www.youtube.com",
+          "id": "c132132e49011d3d6c0715f8a4ee1f40ed8c9064",
+          "title": "宗教学者与Anthropic公司进行了会面",
+          "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+          "source": "www.nytimes.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-10-03T12:07:54.478000Z"
+          "published_at": "2026-10-04T12:57:08.561000Z"
         },
         {
-          "id": "67d9f2e6da15bbae20d6199ac01d20dfed978e39",
-          "title": "格雷格·克罗-哈特曼——大语言模型时代的安全问题 / Greg Kroah-Hartman - Security in the LLM Age",
-          "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
-          "source": "Lobsters (技术社区)",
+          "id": "7d35b0ee1cc94afdc18a4c0b66d3ae8aa530d082",
+          "title": "宗教学者与Anthropic公司进行了会面 / Religious scholars met with Anthropic",
+          "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+          "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-03T11:57:02Z"
+          "published_at": "2026-10-04T02:34:22Z"
         },
         {
-          "id": "efa811acee85d986a3216d5a3a5bc8fcade11612",
-          "title": "格雷格·克罗-哈特曼——大语言模型时代的安全问题 / Security in the LLM Age",
-          "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-03T11:57:02Z"
-        },
-        {
-          "id": "6f8c2614f032f342076a8f7e35ff9136f183bfa1",
-          "title": "我们调查了星链。我们发现的腐败现象会让你震惊 / We Investigated Starlink. The Corruption We Found Will Shock You",
-          "url": "https://www.youtube.com/watch?v=LQYnlg4pO9o",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-03T10:21:24Z"
+          "id": "011697c48d62575fbd9cd191ce69b6d1981fb1dd",
+          "title": "宗教学者会见人类 / Religious scholars met with Anthropic",
+          "url": "https://news.ycombinator.com/item?id=49950052",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-04T02:34:22Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 3,
       "source_names": [
-        "Hacker News · 24h最热",
-        "Lobsters (技术社区)",
-        "www.youtube.com"
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "www.nytimes.com"
       ],
       "items": [
         {
-          "id": "8d41b8355bfdc36961629fb295df569095fa08a3",
-          "title": "格雷格·克罗-哈特曼——大语言模型时代的安全问题",
-          "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
-          "source": "www.youtube.com",
+          "id": "c132132e49011d3d6c0715f8a4ee1f40ed8c9064",
+          "title": "宗教学者与Anthropic公司进行了会面",
+          "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+          "source": "www.nytimes.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-10-03T12:07:54.478000Z"
+          "published_at": "2026-10-04T12:57:08.561000Z"
         },
         {
-          "id": "67d9f2e6da15bbae20d6199ac01d20dfed978e39",
-          "title": "格雷格·克罗-哈特曼——大语言模型时代的安全问题 / Greg Kroah-Hartman - Security in the LLM Age",
-          "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
-          "source": "Lobsters (技术社区)",
+          "id": "7d35b0ee1cc94afdc18a4c0b66d3ae8aa530d082",
+          "title": "宗教学者与Anthropic公司进行了会面 / Religious scholars met with Anthropic",
+          "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+          "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-03T11:57:02Z"
+          "published_at": "2026-10-04T02:34:22Z"
         },
         {
-          "id": "efa811acee85d986a3216d5a3a5bc8fcade11612",
-          "title": "格雷格·克罗-哈特曼——大语言模型时代的安全问题 / Security in the LLM Age",
-          "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-03T11:57:02Z"
-        },
-        {
-          "id": "6f8c2614f032f342076a8f7e35ff9136f183bfa1",
-          "title": "我们调查了星链。我们发现的腐败现象会让你震惊 / We Investigated Starlink. The Corruption We Found Will Shock You",
-          "url": "https://www.youtube.com/watch?v=LQYnlg4pO9o",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-03T10:21:24Z"
+          "id": "011697c48d62575fbd9cd191ce69b6d1981fb1dd",
+          "title": "宗教学者会见人类 / Religious scholars met with Anthropic",
+          "url": "https://news.ycombinator.com/item?id=49950052",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-04T02:34:22Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.5511,
-      "importance": 0.5511,
-      "importance_score": 0.5511,
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5686,
+      "importance": 0.5686,
+      "importance_score": 0.5686,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7514,
-        "story_heat": 0.75
+        "recency": 0.9876,
+        "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-03T10:21:24Z",
-      "latest_at": "2026-10-03T12:07:54.478000Z",
+      "earliest_at": "2026-10-04T02:34:22Z",
+      "latest_at": "2026-10-04T12:57:08.561000Z",
       "primary_item": {
-        "id": "8d41b8355bfdc36961629fb295df569095fa08a3",
-        "title": "格雷格·克罗-哈特曼——大语言模型时代的安全问题",
-        "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
-        "source": "www.youtube.com",
+        "id": "c132132e49011d3d6c0715f8a4ee1f40ed8c9064",
+        "title": "宗教学者与Anthropic公司进行了会面",
+        "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+        "source": "www.nytimes.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_8b1e323a2293",
+      "title": "AI“教父”勒库恩对人类灭绝“毫无担忧”",
+      "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded",
+      "primary_url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded",
+      "source": "fortune.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "06f280d3a3d0ed5d8e8167d0587b4474792660ae",
+          "title": "AI“教父”勒库恩对人类灭绝“毫无担忧”",
+          "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded",
+          "source": "fortune.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-04T09:46:05.311000Z"
+        },
+        {
+          "id": "24b8aa8c0897da384ed00bb0969528ba0abc8b55",
+          "title": "AI“教父”勒库恩对人类灭绝“毫无担忧” / LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+          "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-03T17:44:29Z"
+        },
+        {
+          "id": "49c7d33077fcebced13fae6cfa16face2db9e9b4",
+          "title": "LeCun对AI消灭人类、最近发生的“流氓”事件“零担忧” / LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+          "url": "https://news.ycombinator.com/item?id=49946228",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-03T17:44:29Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "fortune.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "06f280d3a3d0ed5d8e8167d0587b4474792660ae",
+          "title": "AI“教父”勒库恩对人类灭绝“毫无担忧”",
+          "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded",
+          "source": "fortune.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-04T09:46:05.311000Z"
+        },
+        {
+          "id": "24b8aa8c0897da384ed00bb0969528ba0abc8b55",
+          "title": "AI“教父”勒库恩对人类灭绝“毫无担忧” / LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+          "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-03T17:44:29Z"
+        },
+        {
+          "id": "49c7d33077fcebced13fae6cfa16face2db9e9b4",
+          "title": "LeCun对AI消灭人类、最近发生的“流氓”事件“零担忧” / LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+          "url": "https://news.ycombinator.com/item?id=49946228",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-03T17:44:29Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5606,
+      "importance": 0.5606,
+      "importance_score": 0.5606,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9432,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-03T17:44:29Z",
+      "latest_at": "2026-10-04T09:46:05.311000Z",
+      "primary_item": {
+        "id": "06f280d3a3d0ed5d8e8167d0587b4474792660ae",
+        "title": "AI“教父”勒库恩对人类灭绝“毫无担忧”",
+        "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded",
+        "source": "fortune.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_567a67be4150",
+      "title": "Show HN: 在 macOS 上对每张照片和视频的每一帧进行 AI 搜索",
+      "url": "https://github.com/allenv0/SCM",
+      "primary_url": "https://github.com/allenv0/SCM",
+      "source": "github.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "7312b7a41fcce818e682ba9f56b3b68ed2dc8b4b",
+          "title": "Show HN: 在 macOS 上对每张照片和视频的每一帧进行 AI 搜索",
+          "url": "https://github.com/allenv0/SCM",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-04T09:46:09.708000Z"
+        },
+        {
+          "id": "d582d31ccbbc56a64fd182e2a1bacd0ee9ecda8f",
+          "title": "Show HN: 在 macOS 上对每张照片和视频的每一帧进行 AI 搜索 / Show HN: AI search for every photo and every frame of video on macOS",
+          "url": "https://github.com/allenv0/SCM",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-04T09:24:52Z"
+        },
+        {
+          "id": "176ef01f259d1e32254ce46c8e25df5d8cd04011",
+          "title": "Show HN：AI 搜索 macOS 上的每张照片和每一帧视频 / Show HN: AI search for every photo and every frame of video on macOS",
+          "url": "https://news.ycombinator.com/item?id=49952111",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-04T09:24:52Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "github.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "7312b7a41fcce818e682ba9f56b3b68ed2dc8b4b",
+          "title": "Show HN: 在 macOS 上对每张照片和视频的每一帧进行 AI 搜索",
+          "url": "https://github.com/allenv0/SCM",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-04T09:46:09.708000Z"
+        },
+        {
+          "id": "d582d31ccbbc56a64fd182e2a1bacd0ee9ecda8f",
+          "title": "Show HN: 在 macOS 上对每张照片和视频的每一帧进行 AI 搜索 / Show HN: AI search for every photo and every frame of video on macOS",
+          "url": "https://github.com/allenv0/SCM",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-04T09:24:52Z"
+        },
+        {
+          "id": "176ef01f259d1e32254ce46c8e25df5d8cd04011",
+          "title": "Show HN：AI 搜索 macOS 上的每张照片和每一帧视频 / Show HN: AI search for every photo and every frame of video on macOS",
+          "url": "https://news.ycombinator.com/item?id=49952111",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-04T09:24:52Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5606,
+      "importance": 0.5606,
+      "importance_score": 0.5606,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9432,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-04T09:24:52Z",
+      "latest_at": "2026-10-04T09:46:09.708000Z",
+      "primary_item": {
+        "id": "7312b7a41fcce818e682ba9f56b3b68ed2dc8b4b",
+        "title": "Show HN: 在 macOS 上对每张照片和视频的每一帧进行 AI 搜索",
+        "url": "https://github.com/allenv0/SCM",
+        "source": "github.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_e808fbfdb386",
+      "title": "特朗普任命情报主管克莱顿为人工智能沙皇，负责领导特别工作组",
+      "url": "https://www.reuters.com/world/us/jay-clayton-lead-trumps-ai-task-force-deliver-report-120-days-wsj-reports-2026-10-03",
+      "primary_url": "https://www.reuters.com/world/us/jay-clayton-lead-trumps-ai-task-force-deliver-report-120-days-wsj-reports-2026-10-03",
+      "source": "www.reuters.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "bdb184e7d55b76b55220c03a90fd339c2f7b958a",
+          "title": "特朗普任命情报主管克莱顿为人工智能沙皇，负责领导特别工作组",
+          "url": "https://www.reuters.com/world/us/jay-clayton-lead-trumps-ai-task-force-deliver-report-120-days-wsj-reports-2026-10-03",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-04T13:43:45.683000Z"
+        },
+        {
+          "id": "2462d055f13afb2f7a2b6c59069667aacfabef16",
+          "title": "据《华尔街日报》报道，特朗普任命情报主管克莱顿为人工智能沙皇，负责领导特别工作组",
+          "url": "https://www.reuters.com/world/us/jay-clayton-lead-trumps-ai-task-force-deliver-report-120-days-wsj-reports-2026-10-03",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-04T02:11:02.276000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "www.reuters.com"
+      ],
+      "items": [
+        {
+          "id": "bdb184e7d55b76b55220c03a90fd339c2f7b958a",
+          "title": "特朗普任命情报主管克莱顿为人工智能沙皇，负责领导特别工作组",
+          "url": "https://www.reuters.com/world/us/jay-clayton-lead-trumps-ai-task-force-deliver-report-120-days-wsj-reports-2026-10-03",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-04T13:43:45.683000Z"
+        },
+        {
+          "id": "2462d055f13afb2f7a2b6c59069667aacfabef16",
+          "title": "据《华尔街日报》报道，特朗普任命情报主管克莱顿为人工智能沙皇，负责领导特别工作组",
+          "url": "https://www.reuters.com/world/us/jay-clayton-lead-trumps-ai-task-force-deliver-report-120-days-wsj-reports-2026-10-03",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-04T02:11:02.276000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5456,
+      "importance": 0.5456,
+      "importance_score": 0.5456,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9987,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-04T02:11:02.276000Z",
+      "latest_at": "2026-10-04T13:43:45.683000Z",
+      "primary_item": {
+        "id": "bdb184e7d55b76b55220c03a90fd339c2f7b958a",
+        "title": "特朗普任命情报主管克莱顿为人工智能沙皇，负责领导特别工作组",
+        "url": "https://www.reuters.com/world/us/jay-clayton-lead-trumps-ai-task-force-deliver-report-120-days-wsj-reports-2026-10-03",
+        "source": "www.reuters.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_c14a8b1c7607",
+      "title": "我利用人工智能来记录求职被拒的情况。这改变了我的求职方式，最终我成功入职了。",
+      "url": "https://www.businessinsider.com/job-seeker-used-claude-track-search-improve-interviews-2026-10",
+      "primary_url": "https://www.businessinsider.com/job-seeker-used-claude-track-search-improve-interviews-2026-10",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "3aae800aeb7c680c057fe5d9257cf48f2bbb7c3b",
+          "title": "我利用人工智能来记录求职被拒的情况。这改变了我的求职方式，最终我成功入职了。",
+          "url": "https://www.businessinsider.com/job-seeker-used-claude-track-search-improve-interviews-2026-10",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-04T09:59:50.417000Z"
+        },
+        {
+          "id": "91be81f74eea4ee700a49d665f33660303ad1f8d",
+          "title": "我利用人工智能来记录求职被拒的情况。这改变了我的求职方式，最终我成功入职了。 / I used AI to track my job rejections. It changed my search, and I got hired.",
+          "url": "https://www.businessinsider.com/job-seeker-used-claude-track-search-improve-interviews-2026-10",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-04T09:49:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "3aae800aeb7c680c057fe5d9257cf48f2bbb7c3b",
+          "title": "我利用人工智能来记录求职被拒的情况。这改变了我的求职方式，最终我成功入职了。",
+          "url": "https://www.businessinsider.com/job-seeker-used-claude-track-search-improve-interviews-2026-10",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-04T09:59:50.417000Z"
+        },
+        {
+          "id": "91be81f74eea4ee700a49d665f33660303ad1f8d",
+          "title": "我利用人工智能来记录求职被拒的情况。这改变了我的求职方式，最终我成功入职了。 / I used AI to track my job rejections. It changed my search, and I got hired.",
+          "url": "https://www.businessinsider.com/job-seeker-used-claude-track-search-improve-interviews-2026-10",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-04T09:49:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5361,
+      "importance": 0.5361,
+      "importance_score": 0.5361,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9463,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-04T09:49:01Z",
+      "latest_at": "2026-10-04T09:59:50.417000Z",
+      "primary_item": {
+        "id": "3aae800aeb7c680c057fe5d9257cf48f2bbb7c3b",
+        "title": "我利用人工智能来记录求职被拒的情况。这改变了我的求职方式，最终我成功入职了。",
+        "url": "https://www.businessinsider.com/job-seeker-used-claude-track-search-improve-interviews-2026-10",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_66ec11703fff",
+      "title": "Ask HN: 作为独立开发者，在大型语言模型（LLM）推理领域还能在哪里找到竞争壁垒？",
+      "url": "https://news.ycombinator.com/item?id=49951356",
+      "primary_url": "https://news.ycombinator.com/item?id=49951356",
+      "source": "news.ycombinator.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "71665ad9624ebbb6caa2be460b4b8df55fbdba79",
+          "title": "Ask HN: 作为独立开发者，在大型语言模型（LLM）推理领域还能在哪里找到竞争壁垒？",
+          "url": "https://news.ycombinator.com/item?id=49951356",
+          "source": "news.ycombinator.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-04T09:46:05.387000Z"
+        },
+        {
+          "id": "ec0a2bd5d3587daf5f2a77878cf18afafbf4bf61",
+          "title": "Ask HN: 作为独立开发者，在大型语言模型（LLM）推理领域还能在哪里找到竞争壁垒？ / Ask HN: Where can a solo dev still find a moat in LLM inference?",
+          "url": "https://news.ycombinator.com/item?id=49951356",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-10-04T06:56:40Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "HN Algolia · AI 24h",
+        "news.ycombinator.com"
+      ],
+      "items": [
+        {
+          "id": "71665ad9624ebbb6caa2be460b4b8df55fbdba79",
+          "title": "Ask HN: 作为独立开发者，在大型语言模型（LLM）推理领域还能在哪里找到竞争壁垒？",
+          "url": "https://news.ycombinator.com/item?id=49951356",
+          "source": "news.ycombinator.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-04T09:46:05.387000Z"
+        },
+        {
+          "id": "ec0a2bd5d3587daf5f2a77878cf18afafbf4bf61",
+          "title": "Ask HN: 作为独立开发者，在大型语言模型（LLM）推理领域还能在哪里找到竞争壁垒？ / Ask HN: Where can a solo dev still find a moat in LLM inference?",
+          "url": "https://news.ycombinator.com/item?id=49951356",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-10-04T06:56:40Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5356,
+      "importance": 0.5356,
+      "importance_score": 0.5356,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9432,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-04T06:56:40Z",
+      "latest_at": "2026-10-04T09:46:05.387000Z",
+      "primary_item": {
+        "id": "71665ad9624ebbb6caa2be460b4b8df55fbdba79",
+        "title": "Ask HN: 作为独立开发者，在大型语言模型（LLM）推理领域还能在哪里找到竞争壁垒？",
+        "url": "https://news.ycombinator.com/item?id=49951356",
+        "source": "news.ycombinator.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_810f091c82ef",
+      "title": "Pop!_OS 禁止在其大部分代码库中使用 AI 生成的代码",
+      "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases",
+      "primary_url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases",
+      "source": "www.neowin.net",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "71d962531003070bc0b40a780ef1e5181b7ab33a",
+          "title": "Pop!_OS 禁止在其大部分代码库中使用 AI 生成的代码",
+          "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases",
+          "source": "www.neowin.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-04T09:46:05.315000Z"
+        },
+        {
+          "id": "6dffe42889a2eda58e4889c9d9fb9a3ba3ed6413",
+          "title": "Pop!_OS 禁止在其大部分代码库中使用 AI 生成的代码 / Pop!_OS bans AI-generated code from much of its codebase",
+          "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-03T17:57:03Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "www.neowin.net"
+      ],
+      "items": [
+        {
+          "id": "71d962531003070bc0b40a780ef1e5181b7ab33a",
+          "title": "Pop!_OS 禁止在其大部分代码库中使用 AI 生成的代码",
+          "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases",
+          "source": "www.neowin.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-04T09:46:05.315000Z"
+        },
+        {
+          "id": "6dffe42889a2eda58e4889c9d9fb9a3ba3ed6413",
+          "title": "Pop!_OS 禁止在其大部分代码库中使用 AI 生成的代码 / Pop!_OS bans AI-generated code from much of its codebase",
+          "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-03T17:57:03Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5356,
+      "importance": 0.5356,
+      "importance_score": 0.5356,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9432,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-03T17:57:03Z",
+      "latest_at": "2026-10-04T09:46:05.315000Z",
+      "primary_item": {
+        "id": "71d962531003070bc0b40a780ef1e5181b7ab33a",
+        "title": "Pop!_OS 禁止在其大部分代码库中使用 AI 生成的代码",
+        "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases",
+        "source": "www.neowin.net",
         "source_name": "Buzzing"
       }
     },
@@ -280,12 +772,12 @@
           "published_at": "2026-10-03T22:31:58.644000Z"
         },
         {
-          "id": "7270c12f6d002393fc0dbb64f3bd2eb6fd9b9920",
+          "id": "a6ebe19ce64fac6dad1acfb7519ab11a6823e313",
           "title": "在 Claude 和 Claude Code 中充分利用 Opus 5.5 / Getting the most out of Opus 5.5 in Claude and Claude Code",
           "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-10-03T18:29:30Z"
         },
         {
@@ -300,7 +792,7 @@
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "claude.dev",
         "hackernews"
       ],
@@ -315,12 +807,12 @@
           "published_at": "2026-10-03T22:31:58.644000Z"
         },
         {
-          "id": "7270c12f6d002393fc0dbb64f3bd2eb6fd9b9920",
+          "id": "a6ebe19ce64fac6dad1acfb7519ab11a6823e313",
           "title": "在 Claude 和 Claude Code 中充分利用 Opus 5.5 / Getting the most out of Opus 5.5 in Claude and Claude Code",
           "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-10-03T18:29:30Z"
         },
         {
@@ -335,15 +827,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5352,
+      "importance": 0.5352,
+      "importance_score": 0.5352,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8732,
+        "recency": 0.802,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -413,15 +905,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5309,
-      "importance": 0.5309,
-      "importance_score": 0.5309,
+      "score": 0.5174,
+      "importance": 0.5174,
+      "importance_score": 0.5174,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9171,
+        "recency": 0.8423,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -436,104 +928,6 @@
         "url": "https://www.bloomberg.com/news/articles/2026-10-03/us-ai-task-force-to-report-on-technology-s-risks-wsj-reports",
         "source": "www.bloomberg.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_956aebcec474",
-      "title": "我离开OpenAI，因为它的企业文化已经崩坏 / I Quit OpenAI Because Its Culture Is Broken",
-      "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
-      "primary_url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "0e1a0d37b1f62ed8e304da75b4c9e53e3ae4e4d3",
-          "title": "我离开OpenAI，因为它的企业文化已经崩坏 / I Quit OpenAI Because Its Culture Is Broken",
-          "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-03T13:46:34Z"
-        },
-        {
-          "id": "c3ee0afbacf1cce8cf2907700d59c4a6690de2d4",
-          "title": "我退出 OpenAI 因为它的文化已经被打破 / I quit OpenAI because its culture is broken",
-          "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-03T13:46:34Z"
-        },
-        {
-          "id": "ddc04447a08916b85f4a8ca85df7026f7e7843a1",
-          "title": "我离开OpenAI，因为它的企业文化已经崩坏",
-          "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
-          "source": "www.theatlantic.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-03T11:05:53.668000Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News · 24h最热",
-        "www.theatlantic.com"
-      ],
-      "items": [
-        {
-          "id": "0e1a0d37b1f62ed8e304da75b4c9e53e3ae4e4d3",
-          "title": "我离开OpenAI，因为它的企业文化已经崩坏 / I Quit OpenAI Because Its Culture Is Broken",
-          "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-03T13:46:34Z"
-        },
-        {
-          "id": "c3ee0afbacf1cce8cf2907700d59c4a6690de2d4",
-          "title": "我退出 OpenAI 因为它的文化已经被打破 / I quit OpenAI because its culture is broken",
-          "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-03T13:46:34Z"
-        },
-        {
-          "id": "ddc04447a08916b85f4a8ca85df7026f7e7843a1",
-          "title": "我离开OpenAI，因为它的企业文化已经崩坏",
-          "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
-          "source": "www.theatlantic.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-03T11:05:53.668000Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5293,
-      "importance": 0.5293,
-      "importance_score": 0.5293,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7695,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-03T11:05:53.668000Z",
-      "latest_at": "2026-10-03T13:46:34Z",
-      "primary_item": {
-        "id": "0e1a0d37b1f62ed8e304da75b4c9e53e3ae4e4d3",
-        "title": "我离开OpenAI，因为它的企业文化已经崩坏 / I Quit OpenAI Because Its Culture Is Broken",
-        "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
       }
     },
     {
@@ -590,15 +984,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5278,
-      "importance": 0.5278,
-      "importance_score": 0.5278,
+      "score": 0.5146,
+      "importance": 0.5146,
+      "importance_score": 0.5146,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8998,
+        "recency": 0.8264,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -616,118 +1010,20 @@
       }
     },
     {
-      "story_id": "story_9a14422b82b9",
-      "title": "Show HN: 德国的新型主权人工智能模型“Kolibri”",
-      "url": "https://tej.as/blog/aleph-alpha-kolibri",
-      "primary_url": "https://tej.as/blog/aleph-alpha-kolibri",
-      "source": "tej.as",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "947672c54a94c9809a1dcfa2c8088bdf28fa6f50",
-          "title": "Show HN: 德国的新型主权人工智能模型“Kolibri”",
-          "url": "https://tej.as/blog/aleph-alpha-kolibri",
-          "source": "tej.as",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-03T10:49:44.714000Z"
-        },
-        {
-          "id": "01fce6e6b411020afe24d51738d173a332dc30d7",
-          "title": "Show HN: 德国的新型主权人工智能模型“Kolibri” / Aleph Alpha Kolibri: How the sovereign German LLM works",
-          "url": "https://tej.as/blog/aleph-alpha-kolibri",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-03T10:43:51Z"
-        },
-        {
-          "id": "b84a8375a5247ee3a46c762700baee7461309647",
-          "title": "Show HN: 德国的新型主权人工智能模型“Kolibri” / Kolibri is an open-weight LLM from Aleph Alpha for German and English",
-          "url": "https://tej.as/blog/aleph-alpha-kolibri",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-03T10:43:51Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News · 24h最热",
-        "tej.as"
-      ],
-      "items": [
-        {
-          "id": "947672c54a94c9809a1dcfa2c8088bdf28fa6f50",
-          "title": "Show HN: 德国的新型主权人工智能模型“Kolibri”",
-          "url": "https://tej.as/blog/aleph-alpha-kolibri",
-          "source": "tej.as",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-03T10:49:44.714000Z"
-        },
-        {
-          "id": "01fce6e6b411020afe24d51738d173a332dc30d7",
-          "title": "Show HN: 德国的新型主权人工智能模型“Kolibri” / Aleph Alpha Kolibri: How the sovereign German LLM works",
-          "url": "https://tej.as/blog/aleph-alpha-kolibri",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-03T10:43:51Z"
-        },
-        {
-          "id": "b84a8375a5247ee3a46c762700baee7461309647",
-          "title": "Show HN: 德国的新型主权人工智能模型“Kolibri” / Kolibri is an open-weight LLM from Aleph Alpha for German and English",
-          "url": "https://tej.as/blog/aleph-alpha-kolibri",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-03T10:43:51Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5235,
-      "importance": 0.5235,
-      "importance_score": 0.5235,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7374,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-03T10:43:51Z",
-      "latest_at": "2026-10-03T10:49:44.714000Z",
-      "primary_item": {
-        "id": "947672c54a94c9809a1dcfa2c8088bdf28fa6f50",
-        "title": "Show HN: 德国的新型主权人工智能模型“Kolibri”",
-        "url": "https://tej.as/blog/aleph-alpha-kolibri",
-        "source": "tej.as",
-        "source_name": "Buzzing"
-      }
-    },
-    {
       "story_id": "story_83913d49e914",
       "title": "OpenAI安全负责人辞职，警告称该公司文化“已然失范” / OpenAI safety leader quits, warning AI company's culture is 'broken'",
       "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
       "primary_url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "28d1368ccd3f963f58aec31babcd3d454d6d67d5",
+          "id": "f7d6940e4cd4a16f796768a07ec2f8925946f872",
           "title": "OpenAI安全负责人辞职，警告称该公司文化“已然失范” / OpenAI safety leader quits, warning AI company's culture is 'broken'",
           "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-10-03T22:18:13Z"
         },
         {
@@ -742,17 +1038,17 @@
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "www.theguardian.com"
       ],
       "items": [
         {
-          "id": "28d1368ccd3f963f58aec31babcd3d454d6d67d5",
+          "id": "f7d6940e4cd4a16f796768a07ec2f8925946f872",
           "title": "OpenAI安全负责人辞职，警告称该公司文化“已然失范” / OpenAI safety leader quits, warning AI company's culture is 'broken'",
           "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-10-03T22:18:13Z"
         },
         {
@@ -767,15 +1063,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5225,
-      "importance": 0.5225,
-      "importance_score": 0.5225,
+      "score": 0.5097,
+      "importance": 0.5097,
+      "importance_score": 0.5097,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8703,
+        "recency": 0.7993,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -785,11 +1081,90 @@
       "earliest_at": "2026-10-03T19:57:53.505000Z",
       "latest_at": "2026-10-03T22:18:13Z",
       "primary_item": {
-        "id": "28d1368ccd3f963f58aec31babcd3d454d6d67d5",
+        "id": "f7d6940e4cd4a16f796768a07ec2f8925946f872",
         "title": "OpenAI安全负责人辞职，警告称该公司文化“已然失范” / OpenAI safety leader quits, warning AI company's culture is 'broken'",
         "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_bc13922e0b6b",
+      "title": "人们原本以为人工智能会淘汰科技行业的工作岗位。但招聘岗位的数据却表明事实并非如此。",
+      "url": "https://www.businessinsider.com/tech-job-openings-rise-ai-fuels-hardware-engineering-demand-2026-10",
+      "primary_url": "https://www.businessinsider.com/tech-job-openings-rise-ai-fuels-hardware-engineering-demand-2026-10",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "fe2819875a2cd109d20c1c84c74a340053ab5f1b",
+          "title": "人们原本以为人工智能会淘汰科技行业的工作岗位。但招聘岗位的数据却表明事实并非如此。",
+          "url": "https://www.businessinsider.com/tech-job-openings-rise-ai-fuels-hardware-engineering-demand-2026-10",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-04T09:46:19.059000Z"
+        },
+        {
+          "id": "e52d258d0df5bfc89d0747baab179f169272d3d8",
+          "title": "人们原本以为人工智能会淘汰科技行业的工作岗位。但招聘岗位的数据却表明事实并非如此。 / AI was supposed to kill tech jobs. The data on job openings says otherwise.",
+          "url": "https://www.businessinsider.com/tech-job-openings-rise-ai-fuels-hardware-engineering-demand-2026-10",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-04T09:15:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "fe2819875a2cd109d20c1c84c74a340053ab5f1b",
+          "title": "人们原本以为人工智能会淘汰科技行业的工作岗位。但招聘岗位的数据却表明事实并非如此。",
+          "url": "https://www.businessinsider.com/tech-job-openings-rise-ai-fuels-hardware-engineering-demand-2026-10",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-04T09:46:19.059000Z"
+        },
+        {
+          "id": "e52d258d0df5bfc89d0747baab179f169272d3d8",
+          "title": "人们原本以为人工智能会淘汰科技行业的工作岗位。但招聘岗位的数据却表明事实并非如此。 / AI was supposed to kill tech jobs. The data on job openings says otherwise.",
+          "url": "https://www.businessinsider.com/tech-job-openings-rise-ai-fuels-hardware-engineering-demand-2026-10",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-04T09:15:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5356,
+      "importance": 0.5356,
+      "importance_score": 0.5356,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9433,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-04T09:15:01Z",
+      "latest_at": "2026-10-04T09:46:19.059000Z",
+      "primary_item": {
+        "id": "fe2819875a2cd109d20c1c84c74a340053ab5f1b",
+        "title": "人们原本以为人工智能会淘汰科技行业的工作岗位。但招聘岗位的数据却表明事实并非如此。",
+        "url": "https://www.businessinsider.com/tech-job-openings-rise-ai-fuels-hardware-engineering-demand-2026-10",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -846,15 +1221,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5212,
-      "importance": 0.5212,
-      "importance_score": 0.5212,
+      "score": 0.5086,
+      "importance": 0.5086,
+      "importance_score": 0.5086,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8636,
+        "recency": 0.7931,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -925,15 +1300,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5178,
-      "importance": 0.5178,
-      "importance_score": 0.5178,
+      "score": 0.5054,
+      "importance": 0.5054,
+      "importance_score": 0.5054,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8444,
+        "recency": 0.7756,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -948,162 +1323,6 @@
         "url": "https://www.businessinsider.com/sam-altman-dont-treat-ai-like-a-religious-force-2026-10",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_5ee2f82da6e6",
-      "title": "OpenAI员工辞职，呼吁采取核级安全保障措施",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-03/openai-safety-employee-quits-calls-for-nuclear-level-safeguards",
-      "primary_url": "https://www.bloomberg.com/news/articles/2026-10-03/openai-safety-employee-quits-calls-for-nuclear-level-safeguards",
-      "source": "www.bloomberg.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "09480281198b4c130f985b3d235d1ca8240eabcb",
-          "title": "OpenAI员工辞职，呼吁采取核级安全保障措施",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-03/openai-safety-employee-quits-calls-for-nuclear-level-safeguards",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-03T16:00:49.051000Z"
-        },
-        {
-          "id": "8203ce7f4eb02f4fb64f082a256c4b1f1d97b5f6",
-          "title": "OpenAI安全部门员工辞职，呼吁采取“核级”安全保障措施",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-03/openai-safety-employee-quits-calls-for-nuclear-level-safeguards",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-03T13:27:52.389000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "www.bloomberg.com"
-      ],
-      "items": [
-        {
-          "id": "09480281198b4c130f985b3d235d1ca8240eabcb",
-          "title": "OpenAI员工辞职，呼吁采取核级安全保障措施",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-03/openai-safety-employee-quits-calls-for-nuclear-level-safeguards",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-03T16:00:49.051000Z"
-        },
-        {
-          "id": "8203ce7f4eb02f4fb64f082a256c4b1f1d97b5f6",
-          "title": "OpenAI安全部门员工辞职，呼吁采取“核级”安全保障措施",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-03/openai-safety-employee-quits-calls-for-nuclear-level-safeguards",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-03T13:27:52.389000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5089,
-      "importance": 0.5089,
-      "importance_score": 0.5089,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7947,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-03T13:27:52.389000Z",
-      "latest_at": "2026-10-03T16:00:49.051000Z",
-      "primary_item": {
-        "id": "09480281198b4c130f985b3d235d1ca8240eabcb",
-        "title": "OpenAI员工辞职，呼吁采取核级安全保障措施",
-        "url": "https://www.bloomberg.com/news/articles/2026-10-03/openai-safety-employee-quits-calls-for-nuclear-level-safeguards",
-        "source": "www.bloomberg.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_a650c74fe354",
-      "title": "“Kolibri”已降落：一款主权开放重量级模型 / Kolibri Has Landed: A Sovereign Open-Weight Model",
-      "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model",
-      "primary_url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "88719e228a676880ff0dfe173c02e4d4b574626c",
-          "title": "“Kolibri”已降落：一款主权开放重量级模型 / Kolibri Has Landed: A Sovereign Open-Weight Model",
-          "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-03T09:36:04Z"
-        },
-        {
-          "id": "1c41707746af6412df270725b43291fc673341c3",
-          "title": "“Kolibri”已降落：一款主权开放重量级模型 / Kolibri: A Sovereign Open-Weight Model",
-          "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-03T09:36:04Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "88719e228a676880ff0dfe173c02e4d4b574626c",
-          "title": "“Kolibri”已降落：一款主权开放重量级模型 / Kolibri Has Landed: A Sovereign Open-Weight Model",
-          "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-03T09:36:04Z"
-        },
-        {
-          "id": "1c41707746af6412df270725b43291fc673341c3",
-          "title": "“Kolibri”已降落：一款主权开放重量级模型 / Kolibri: A Sovereign Open-Weight Model",
-          "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-03T09:36:04Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4962,
-      "importance": 0.4962,
-      "importance_score": 0.4962,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7244,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-03T09:36:04Z",
-      "latest_at": "2026-10-03T09:36:04Z",
-      "primary_item": {
-        "id": "88719e228a676880ff0dfe173c02e4d4b574626c",
-        "title": "“Kolibri”已降落：一款主权开放重量级模型 / Kolibri Has Landed: A Sovereign Open-Weight Model",
-        "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
       }
     },
     {
@@ -1160,15 +1379,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5173,
-      "importance": 0.5173,
-      "importance_score": 0.5173,
+      "score": 0.5049,
+      "importance": 0.5049,
+      "importance_score": 0.5049,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8414,
+        "recency": 0.7728,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1181,401 +1400,6 @@
         "id": "2080d936c1819f46fd25670f1c25124c49b75be8",
         "title": "离职的OpenAI高管表示，在公司外部他能为安全工作做出更多贡献",
         "url": "https://www.businessinsider.com/david-robinson-can-do-more-for-safety-outside-open-ai-2026-10",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_0187384e2210",
-      "title": "Gemini 终止免费使用 Flash 和 Pro 型号 / Gemini ending free use of Flash and Pro models",
-      "url": "https://www.reddit.com/r/GeminiAI/comments/1wwalmc/wtf_google_getting_rid_of_free_gemini_flash_and",
-      "primary_url": "https://www.reddit.com/r/GeminiAI/comments/1wwalmc/wtf_google_getting_rid_of_free_gemini_flash_and",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "fbe8f77e4bcb6f23951fdf0157bcbafc071b8b76",
-          "title": "Gemini 终止免费使用 Flash 和 Pro 型号 / Gemini ending free use of Flash and Pro models",
-          "url": "https://www.reddit.com/r/GeminiAI/comments/1wwalmc/wtf_google_getting_rid_of_free_gemini_flash_and",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-03T09:13:19Z"
-        },
-        {
-          "id": "67dcce9e77d04da331dc4c3dd136086232a0b2cc",
-          "title": "Gemini 终止免费使用 Flash 和 Pro 型号 / Gemini ending free use of Flash and Pro models",
-          "url": "https://news.ycombinator.com/item?id=49942592",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-03T09:13:19Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "fbe8f77e4bcb6f23951fdf0157bcbafc071b8b76",
-          "title": "Gemini 终止免费使用 Flash 和 Pro 型号 / Gemini ending free use of Flash and Pro models",
-          "url": "https://www.reddit.com/r/GeminiAI/comments/1wwalmc/wtf_google_getting_rid_of_free_gemini_flash_and",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-03T09:13:19Z"
-        },
-        {
-          "id": "67dcce9e77d04da331dc4c3dd136086232a0b2cc",
-          "title": "Gemini 终止免费使用 Flash 和 Pro 型号 / Gemini ending free use of Flash and Pro models",
-          "url": "https://news.ycombinator.com/item?id=49942592",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-03T09:13:19Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4955,
-      "importance": 0.4955,
-      "importance_score": 0.4955,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7205,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-03T09:13:19Z",
-      "latest_at": "2026-10-03T09:13:19Z",
-      "primary_item": {
-        "id": "fbe8f77e4bcb6f23951fdf0157bcbafc071b8b76",
-        "title": "Gemini 终止免费使用 Flash 和 Pro 型号 / Gemini ending free use of Flash and Pro models",
-        "url": "https://www.reddit.com/r/GeminiAI/comments/1wwalmc/wtf_google_getting_rid_of_free_gemini_flash_and",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_4d668566c7c8",
-      "title": "据BCG一位高管称，有两种与人工智能相关的习惯可能会削弱你的批判性思维",
-      "url": "https://www.businessinsider.com/bcg-exec-shares-ai-habits-weaken-critical-thinking-2026-10",
-      "primary_url": "https://www.businessinsider.com/bcg-exec-shares-ai-habits-weaken-critical-thinking-2026-10",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "9c168a0f87df704e40ad02515e70c79949900843",
-          "title": "据BCG一位高管称，有两种与人工智能相关的习惯可能会削弱你的批判性思维",
-          "url": "https://www.businessinsider.com/bcg-exec-shares-ai-habits-weaken-critical-thinking-2026-10",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-03T10:17:54.194000Z"
-        },
-        {
-          "id": "77e3fcef1f15427808992e04ab279421f20a32df",
-          "title": "据BCG一位高管称，有两种与人工智能相关的习惯可能会削弱你的批判性思维 / 2 AI habits that can weaken your critical thinking, according to a BCG exec",
-          "url": "https://www.businessinsider.com/bcg-exec-shares-ai-habits-weaken-critical-thinking-2026-10",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-03T09:50:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "9c168a0f87df704e40ad02515e70c79949900843",
-          "title": "据BCG一位高管称，有两种与人工智能相关的习惯可能会削弱你的批判性思维",
-          "url": "https://www.businessinsider.com/bcg-exec-shares-ai-habits-weaken-critical-thinking-2026-10",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-03T10:17:54.194000Z"
-        },
-        {
-          "id": "77e3fcef1f15427808992e04ab279421f20a32df",
-          "title": "据BCG一位高管称，有两种与人工智能相关的习惯可能会削弱你的批判性思维 / 2 AI habits that can weaken your critical thinking, according to a BCG exec",
-          "url": "https://www.businessinsider.com/bcg-exec-shares-ai-habits-weaken-critical-thinking-2026-10",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-03T09:50:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4975,
-      "importance": 0.4975,
-      "importance_score": 0.4975,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7318,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-03T09:50:01Z",
-      "latest_at": "2026-10-03T10:17:54.194000Z",
-      "primary_item": {
-        "id": "9c168a0f87df704e40ad02515e70c79949900843",
-        "title": "据BCG一位高管称，有两种与人工智能相关的习惯可能会削弱你的批判性思维",
-        "url": "https://www.businessinsider.com/bcg-exec-shares-ai-habits-weaken-critical-thinking-2026-10",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_5981ed276f26",
-      "title": "好莱坞即将迎来AI垃圾作品。其中一些作品的质量已经更胜一筹。",
-      "url": "https://www.businessinsider.com/ai-video-tools-slopcannon-new-competition-hollywood-2026-10",
-      "primary_url": "https://www.businessinsider.com/ai-video-tools-slopcannon-new-competition-hollywood-2026-10",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "8d43c5b22543b8a6cedc31ad16d4f536b569c8f6",
-          "title": "好莱坞即将迎来AI垃圾作品。其中一些作品的质量已经更胜一筹。",
-          "url": "https://www.businessinsider.com/ai-video-tools-slopcannon-new-competition-hollywood-2026-10",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-03T09:47:55.404000Z"
-        },
-        {
-          "id": "adea3472cbdd1d29c89c1fd961aa3c52b1a08034",
-          "title": "好莱坞即将迎来AI垃圾作品。其中一些作品的质量已经更胜一筹。 / AI slop is coming for Hollywood. Some of it is already better.",
-          "url": "https://www.businessinsider.com/ai-video-tools-slopcannon-new-competition-hollywood-2026-10",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-03T09:30:02Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "8d43c5b22543b8a6cedc31ad16d4f536b569c8f6",
-          "title": "好莱坞即将迎来AI垃圾作品。其中一些作品的质量已经更胜一筹。",
-          "url": "https://www.businessinsider.com/ai-video-tools-slopcannon-new-competition-hollywood-2026-10",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-03T09:47:55.404000Z"
-        },
-        {
-          "id": "adea3472cbdd1d29c89c1fd961aa3c52b1a08034",
-          "title": "好莱坞即将迎来AI垃圾作品。其中一些作品的质量已经更胜一筹。 / AI slop is coming for Hollywood. Some of it is already better.",
-          "url": "https://www.businessinsider.com/ai-video-tools-slopcannon-new-competition-hollywood-2026-10",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-03T09:30:02Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4966,
-      "importance": 0.4966,
-      "importance_score": 0.4966,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7265,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-03T09:30:02Z",
-      "latest_at": "2026-10-03T09:47:55.404000Z",
-      "primary_item": {
-        "id": "8d43c5b22543b8a6cedc31ad16d4f536b569c8f6",
-        "title": "好莱坞即将迎来AI垃圾作品。其中一些作品的质量已经更胜一筹。",
-        "url": "https://www.businessinsider.com/ai-video-tools-slopcannon-new-competition-hollywood-2026-10",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_7fdffbcd8c0f",
-      "title": "领英联合创始人表示，人工智能基础设施是“我们尚未陷入经济衰退的唯一原因”",
-      "url": "https://www.businessinsider.com/linkedin-cofounder-ai-infrastructure-keeping-us-from-recession-2026-10",
-      "primary_url": "https://www.businessinsider.com/linkedin-cofounder-ai-infrastructure-keeping-us-from-recession-2026-10",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "274dc0825b841932fc5f3310eea7fff39aa97135",
-          "title": "领英联合创始人表示，人工智能基础设施是“我们尚未陷入经济衰退的唯一原因”",
-          "url": "https://www.businessinsider.com/linkedin-cofounder-ai-infrastructure-keeping-us-from-recession-2026-10",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-03T09:15:45.228000Z"
-        },
-        {
-          "id": "da3394c0a076cc0440a027c288c8d0f6ef2f227d",
-          "title": "领英联合创始人表示，人工智能基础设施是“我们尚未陷入经济衰退的唯一原因” / LinkedIn cofounder says AI infrastructure is the 'only reason we're not in a recession'",
-          "url": "https://www.businessinsider.com/linkedin-cofounder-ai-infrastructure-keeping-us-from-recession-2026-10",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-03T09:07:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "274dc0825b841932fc5f3310eea7fff39aa97135",
-          "title": "领英联合创始人表示，人工智能基础设施是“我们尚未陷入经济衰退的唯一原因”",
-          "url": "https://www.businessinsider.com/linkedin-cofounder-ai-infrastructure-keeping-us-from-recession-2026-10",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-03T09:15:45.228000Z"
-        },
-        {
-          "id": "da3394c0a076cc0440a027c288c8d0f6ef2f227d",
-          "title": "领英联合创始人表示，人工智能基础设施是“我们尚未陷入经济衰退的唯一原因” / LinkedIn cofounder says AI infrastructure is the 'only reason we're not in a recession'",
-          "url": "https://www.businessinsider.com/linkedin-cofounder-ai-infrastructure-keeping-us-from-recession-2026-10",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-03T09:07:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4956,
-      "importance": 0.4956,
-      "importance_score": 0.4956,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7209,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-03T09:07:01Z",
-      "latest_at": "2026-10-03T09:15:45.228000Z",
-      "primary_item": {
-        "id": "274dc0825b841932fc5f3310eea7fff39aa97135",
-        "title": "领英联合创始人表示，人工智能基础设施是“我们尚未陷入经济衰退的唯一原因”",
-        "url": "https://www.businessinsider.com/linkedin-cofounder-ai-infrastructure-keeping-us-from-recession-2026-10",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_ce2953184b64",
-      "title": "在这个“安全空间”里，创作者可以公开表达对AI的喜爱",
-      "url": "https://www.businessinsider.com/content-creators-embrace-ai-despite-backlash-conference-influencers-hollywood-2026-10",
-      "primary_url": "https://www.businessinsider.com/content-creators-embrace-ai-despite-backlash-conference-influencers-hollywood-2026-10",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "f1c848d8864b3bcdc829d22eae47c6032eba5a40",
-          "title": "在这个“安全空间”里，创作者可以公开表达对AI的喜爱",
-          "url": "https://www.businessinsider.com/content-creators-embrace-ai-despite-backlash-conference-influencers-hollywood-2026-10",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-03T09:01:01.332000Z"
-        },
-        {
-          "id": "7eaaafb8f1d90b737741d2bbf717c74621955091",
-          "title": "在这个“安全空间”里，创作者可以公开表达对AI的喜爱 / Creators are getting backlash for using AI. I went to a conference full of those who are proud of it.",
-          "url": "https://www.businessinsider.com/content-creators-embrace-ai-despite-backlash-conference-influencers-hollywood-2026-10",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-03T08:11:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "f1c848d8864b3bcdc829d22eae47c6032eba5a40",
-          "title": "在这个“安全空间”里，创作者可以公开表达对AI的喜爱",
-          "url": "https://www.businessinsider.com/content-creators-embrace-ai-despite-backlash-conference-influencers-hollywood-2026-10",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-03T09:01:01.332000Z"
-        },
-        {
-          "id": "7eaaafb8f1d90b737741d2bbf717c74621955091",
-          "title": "在这个“安全空间”里，创作者可以公开表达对AI的喜爱 / Creators are getting backlash for using AI. I went to a conference full of those who are proud of it.",
-          "url": "https://www.businessinsider.com/content-creators-embrace-ai-despite-backlash-conference-influencers-hollywood-2026-10",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-03T08:11:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4951,
-      "importance": 0.4951,
-      "importance_score": 0.4951,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7184,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-03T08:11:01Z",
-      "latest_at": "2026-10-03T09:01:01.332000Z",
-      "primary_item": {
-        "id": "f1c848d8864b3bcdc829d22eae47c6032eba5a40",
-        "title": "在这个“安全空间”里，创作者可以公开表达对AI的喜爱",
-        "url": "https://www.businessinsider.com/content-creators-embrace-ai-despite-backlash-conference-influencers-hollywood-2026-10",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }

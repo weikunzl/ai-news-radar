@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T07:56:27.588813Z",
+  "generated_at": "2026-10-04T13:50:11.588386Z",
   "window_hours": 24,
   "items": [
     {
@@ -9,7 +9,7 @@
       "source_id": "huggingface_blog",
       "source_name": "Hugging Face Blog",
       "published_at": "2026-10-03T22:56:48Z",
-      "captured_at": "2026-10-04T07:56:27.588813Z",
+      "captured_at": "2026-10-04T13:50:11.588386Z",
       "lane": "ai_commercialization",
       "entities": [
         "Hugging Face Blog",
@@ -27,17 +27,56 @@
       ],
       "opc_fit_score": 0,
       "case_concreteness_score": 0,
-      "total_score": 36,
+      "total_score": 35,
       "score_breakdown": {
         "source_authority": 16,
         "yuanli_relevance": 9,
         "business_model_value": 3,
         "case_concreteness": 0,
         "opc_fit": 0,
-        "freshness": 8,
+        "freshness": 7,
         "counter_signal_value": 0
       },
       "summary": "The Agent Said It Was Done. The Database Disagreed. Tags: Enterprise AI Workflow.",
+      "timestamp_basis": "feed_published",
+      "transport_mode": "feed"
+    },
+    {
+      "signal_id": "biz_dec41ff5d8c6",
+      "title": "OpenAI’s Head of ChatGPT: We’re entering a new era of AI (again) | Tibo Sottiaux",
+      "url": "https://www.lennysnewsletter.com/p/openais-head-of-chatgpt-were-entering",
+      "source_id": "lenny",
+      "source_name": "Lenny's Newsletter",
+      "published_at": "2026-10-04T12:32:47Z",
+      "captured_at": "2026-10-04T13:50:11.588386Z",
+      "lane": "startup_vc",
+      "entities": [
+        "Lenny's Newsletter",
+        "OpenAI",
+        "Head",
+        "ChatGPT",
+        "Tibo Sottiaux"
+      ],
+      "business_model_tags": [
+        "Enterprise AI Workflow",
+        "Founder Case"
+      ],
+      "yuanli_tags": [
+        "yuanli_os"
+      ],
+      "opc_fit_score": 0,
+      "case_concreteness_score": 4,
+      "total_score": 34,
+      "score_breakdown": {
+        "source_authority": 16,
+        "yuanli_relevance": 3,
+        "business_model_value": 3,
+        "case_concreteness": 4,
+        "opc_fit": 0,
+        "freshness": 8,
+        "counter_signal_value": 0
+      },
+      "summary": "Listen now (37 mins) | Tibo Sottiaux on why Dots is OpenAI’s biggest bet, why agents will dominate internet traffic, and what builders are still getting wrong Tags: Enterprise AI Workflow, Founder Case.",
       "timestamp_basis": "feed_published",
       "transport_mode": "feed"
     },
@@ -48,7 +87,7 @@
       "source_id": "lenny",
       "source_name": "Lenny's Newsletter",
       "published_at": "2026-10-03T17:00:49Z",
-      "captured_at": "2026-10-04T07:56:27.588813Z",
+      "captured_at": "2026-10-04T13:50:11.588386Z",
       "lane": "startup_vc",
       "entities": [
         "Lenny's Newsletter",
