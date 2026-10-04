@@ -1,7 +1,46 @@
 {
-  "generated_at": "2026-10-03T22:24:06.390096Z",
+  "generated_at": "2026-10-04T01:55:34.872754Z",
   "window_hours": 24,
   "items": [
+    {
+      "signal_id": "biz_165e5c34d89c",
+      "title": "The Agent Said It Was Done. The Database Disagreed.",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
+      "published_at": "2026-10-03T22:56:48Z",
+      "captured_at": "2026-10-04T01:55:34.872754Z",
+      "lane": "ai_commercialization",
+      "entities": [
+        "Hugging Face Blog",
+        "The Agent Said",
+        "It Was Done",
+        "The Database Disagreed"
+      ],
+      "business_model_tags": [
+        "Enterprise AI Workflow"
+      ],
+      "yuanli_tags": [
+        "yuanli_asset",
+        "yuanli_os",
+        "ftf_trust"
+      ],
+      "opc_fit_score": 0,
+      "case_concreteness_score": 0,
+      "total_score": 36,
+      "score_breakdown": {
+        "source_authority": 16,
+        "yuanli_relevance": 9,
+        "business_model_value": 3,
+        "case_concreteness": 0,
+        "opc_fit": 0,
+        "freshness": 8,
+        "counter_signal_value": 0
+      },
+      "summary": "The Agent Said It Was Done. The Database Disagreed. Tags: Enterprise AI Workflow.",
+      "timestamp_basis": "feed_published",
+      "transport_mode": "feed"
+    },
     {
       "signal_id": "biz_1cc881b3af71",
       "title": "🧠 Community Wisdom: Getting value from personal AI agents without handing over your inbox, the ego threat of going from IC to manager, uncommon perks to negotiate for, and more",
@@ -9,7 +48,7 @@
       "source_id": "lenny",
       "source_name": "Lenny's Newsletter",
       "published_at": "2026-10-03T17:00:49Z",
-      "captured_at": "2026-10-03T22:24:06.390096Z",
+      "captured_at": "2026-10-04T01:55:34.872754Z",
       "lane": "startup_vc",
       "entities": [
         "Lenny's Newsletter",

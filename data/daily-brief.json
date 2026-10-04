@@ -1,8 +1,90 @@
 {
-  "generated_at": "2026-10-03T22:22:47.143694Z",
+  "generated_at": "2026-10-04T01:54:28.931080Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_89764eae0099",
+      "title": "Microsoft ThinkingBox 在 Hugging Face 上发布，以数据库终态和 20 次重复评测智能体 / The Agent Said It Was Done. The Database Disagreed.",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+      "primary_url": "https://huggingface.co/blog/microsoft/thinkingbox",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "57fbd355307716cbcf330127a1ee6632b8a5238b",
+          "title": "Microsoft ThinkingBox 在 Hugging Face 上发布，以数据库终态和 20 次重复评测智能体 / The Agent Said It Was Done. The Database Disagreed.",
+          "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-03T22:56:48Z"
+        },
+        {
+          "id": "7cb78c863282e2dbe8ca7086c0f0695c1eef290b",
+          "title": "Microsoft ThinkingBox 在 Hugging Face 上发布，以数据库终态和 20 次重复评测智能体",
+          "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+          "source": "Hugging Face：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-03T22:56:48Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hugging Face Blog",
+        "Hugging Face：Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "57fbd355307716cbcf330127a1ee6632b8a5238b",
+          "title": "Microsoft ThinkingBox 在 Hugging Face 上发布，以数据库终态和 20 次重复评测智能体 / The Agent Said It Was Done. The Database Disagreed.",
+          "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-03T22:56:48Z"
+        },
+        {
+          "id": "7cb78c863282e2dbe8ca7086c0f0695c1eef290b",
+          "title": "Microsoft ThinkingBox 在 Hugging Face 上发布，以数据库终态和 20 次重复评测智能体",
+          "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+          "source": "Hugging Face：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-03T22:56:48Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8775,
+      "importance": 0.8775,
+      "importance_score": 0.8775,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9581,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-03T22:56:48Z",
+      "latest_at": "2026-10-03T22:56:48Z",
+      "primary_item": {
+        "id": "57fbd355307716cbcf330127a1ee6632b8a5238b",
+        "title": "Microsoft ThinkingBox 在 Hugging Face 上发布，以数据库终态和 20 次重复评测智能体 / The Agent Said It Was Done. The Database Disagreed.",
+        "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
     {
       "story_id": "story_d4b8ef577950",
       "title": "Google 论文揭示 LLM 会隐瞒负面结果，一句 honesty 提示可大幅改善",
@@ -38,15 +120,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7813,
-      "importance": 0.7813,
-      "importance_score": 0.7813,
+      "score": 0.7724,
+      "importance": 0.7724,
+      "importance_score": 0.7724,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9927,
+        "recency": 0.9434,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -99,21 +181,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7513,
-      "importance": 0.7513,
-      "importance_score": 0.7513,
+      "score": 0.7442,
+      "importance": 0.7442,
+      "importance_score": 0.7442,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7929,
+        "recency": 0.7535,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-03T06:18:38Z",
       "latest_at": "2026-10-03T06:18:38Z",
@@ -168,18 +249,9 @@
           "source_name": "Zeli",
           "site_id": "zeli",
           "published_at": "2026-10-03T10:21:24Z"
-        },
-        {
-          "id": "566c5ff090d77c0a61472f1fb57c2c8c939188a8",
-          "title": "Show HN: 我让Opus制作一个关于人工智能实验室的视频，结果它生成了这个奇怪的东西",
-          "url": "https://www.youtube.com/watch?v=nWWDUXhqWEs",
-          "source": "www.youtube.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-02T23:22:04.817000Z"
         }
       ],
-      "source_count": 5,
+      "source_count": 4,
       "source_names": [
         "Hacker News · 24h最热",
         "Lobsters (技术社区)",
@@ -221,35 +293,26 @@
           "source_name": "Zeli",
           "site_id": "zeli",
           "published_at": "2026-10-03T10:21:24Z"
-        },
-        {
-          "id": "566c5ff090d77c0a61472f1fb57c2c8c939188a8",
-          "title": "Show HN: 我让Opus制作一个关于人工智能实验室的视频，结果它生成了这个奇怪的东西",
-          "url": "https://www.youtube.com/watch?v=nWWDUXhqWEs",
-          "source": "www.youtube.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-02T23:22:04.817000Z"
         }
       ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.596,
-      "importance": 0.596,
-      "importance_score": 0.596,
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5633,
+      "importance": 0.5633,
+      "importance_score": 0.5633,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8624,
-        "story_heat": 1.0
+        "recency": 0.8196,
+        "story_heat": 0.75
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-02T23:22:04.817000Z",
+      "earliest_at": "2026-10-03T10:21:24Z",
       "latest_at": "2026-10-03T12:07:54.478000Z",
       "primary_item": {
         "id": "8d41b8355bfdc36961629fb295df569095fa08a3",
@@ -260,82 +323,259 @@
       }
     },
     {
-      "story_id": "story_67bbbdba8c47",
-      "title": "斯科特·贝森特将那些警告灾难即将降临的人工智能公司首席执行官们比作汉尼拔·莱克特：“在我再次杀人之前阻止我”",
-      "url": "https://www.businessinsider.com/scott-bessent-compares-ai-ceos-seeking-regulation-to-hannibal-lecter-2026-10",
-      "primary_url": "https://www.businessinsider.com/scott-bessent-compares-ai-ceos-seeking-regulation-to-hannibal-lecter-2026-10",
-      "source": "www.businessinsider.com",
+      "story_id": "story_fc994d69ad09",
+      "title": "在 Claude 和 Claude Code 中充分利用 Opus 5.5",
+      "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5",
+      "primary_url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5",
+      "source": "claude.dev",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "e544228951d7306c2ab339ae8fcb27a5532aeda4",
-          "title": "斯科特·贝森特将那些警告灾难即将降临的人工智能公司首席执行官们比作汉尼拔·莱克特：“在我再次杀人之前阻止我”",
-          "url": "https://www.businessinsider.com/scott-bessent-compares-ai-ceos-seeking-regulation-to-hannibal-lecter-2026-10",
-          "source": "www.businessinsider.com",
+          "id": "0c957a85bf822cec39d103d7ccabfb9776cd15ce",
+          "title": "在 Claude 和 Claude Code 中充分利用 Opus 5.5",
+          "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5",
+          "source": "claude.dev",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-10-03T21:45:54.705000Z"
+          "published_at": "2026-10-03T22:31:58.644000Z"
         },
         {
-          "id": "534fd97ba9217b62e522df16275226c15048cbd6",
-          "title": "斯科特·贝森特将那些警告灾难即将降临的人工智能公司首席执行官们比作汉尼拔·莱克特：“在我再次杀人之前阻止我” / Scott Bessent compares AI CEOs who warn of catastrophe to Hannibal Lecter: 'Stop me before I kill again'",
-          "url": "https://www.businessinsider.com/scott-bessent-compares-ai-ceos-seeking-regulation-to-hannibal-lecter-2026-10",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-03T20:35:02Z"
+          "id": "7270c12f6d002393fc0dbb64f3bd2eb6fd9b9920",
+          "title": "在 Claude 和 Claude Code 中充分利用 Opus 5.5 / Getting the most out of Opus 5.5 in Claude and Claude Code",
+          "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-03T18:29:30Z"
+        },
+        {
+          "id": "20c153e603b0ac06a60db406515ee3a8f5000370",
+          "title": "在 Claude 和 Claude Code 中充分利用 Opus 5.5 / Getting the most out of Opus 5.5 in Claude and Claude Code",
+          "url": "https://news.ycombinator.com/item?id=49946567",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-03T18:29:30Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "claude.dev",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "0c957a85bf822cec39d103d7ccabfb9776cd15ce",
+          "title": "在 Claude 和 Claude Code 中充分利用 Opus 5.5",
+          "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5",
+          "source": "claude.dev",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-03T22:31:58.644000Z"
+        },
+        {
+          "id": "7270c12f6d002393fc0dbb64f3bd2eb6fd9b9920",
+          "title": "在 Claude 和 Claude Code 中充分利用 Opus 5.5 / Getting the most out of Opus 5.5 in Claude and Claude Code",
+          "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-03T18:29:30Z"
+        },
+        {
+          "id": "20c153e603b0ac06a60db406515ee3a8f5000370",
+          "title": "在 Claude 和 Claude Code 中充分利用 Opus 5.5 / Getting the most out of Opus 5.5 in Claude and Claude Code",
+          "url": "https://news.ycombinator.com/item?id=49946567",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-03T18:29:30Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5622,
+      "importance": 0.5622,
+      "importance_score": 0.5622,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9524,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-03T18:29:30Z",
+      "latest_at": "2026-10-03T22:31:58.644000Z",
+      "primary_item": {
+        "id": "0c957a85bf822cec39d103d7ccabfb9776cd15ce",
+        "title": "在 Claude 和 Claude Code 中充分利用 Opus 5.5",
+        "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5",
+        "source": "claude.dev",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_9dd1927e63f0",
+      "title": "Show HN: jpm——一个用Rust编写的JavaScript包管理器，每一行代码均由Claude Code编写",
+      "url": "https://getjpm.sh",
+      "primary_url": "https://getjpm.sh",
+      "source": "getjpm.sh",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "813c7250c1863c047bb7daad5564161b922ddf3d",
+          "title": "Show HN: jpm——一个用Rust编写的JavaScript包管理器，每一行代码均由Claude Code编写",
+          "url": "https://getjpm.sh",
+          "source": "getjpm.sh",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-04T00:36:52.982000Z"
+        },
+        {
+          "id": "add12be6da1864ce4936e3937a27451d8330d778",
+          "title": "Show HN: jpm——一个用Rust编写的JavaScript包管理器，每一行代码均由Claude Code编写 / Show HN: jpm – a JavaScript package manager in Rust, every line by Claude Code",
+          "url": "https://getjpm.sh",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-10-04T00:11:58Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
+        "HN Algolia · AI 24h",
+        "getjpm.sh"
       ],
       "items": [
         {
-          "id": "e544228951d7306c2ab339ae8fcb27a5532aeda4",
-          "title": "斯科特·贝森特将那些警告灾难即将降临的人工智能公司首席执行官们比作汉尼拔·莱克特：“在我再次杀人之前阻止我”",
-          "url": "https://www.businessinsider.com/scott-bessent-compares-ai-ceos-seeking-regulation-to-hannibal-lecter-2026-10",
-          "source": "www.businessinsider.com",
+          "id": "813c7250c1863c047bb7daad5564161b922ddf3d",
+          "title": "Show HN: jpm——一个用Rust编写的JavaScript包管理器，每一行代码均由Claude Code编写",
+          "url": "https://getjpm.sh",
+          "source": "getjpm.sh",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-10-03T21:45:54.705000Z"
+          "published_at": "2026-10-04T00:36:52.982000Z"
         },
         {
-          "id": "534fd97ba9217b62e522df16275226c15048cbd6",
-          "title": "斯科特·贝森特将那些警告灾难即将降临的人工智能公司首席执行官们比作汉尼拔·莱克特：“在我再次杀人之前阻止我” / Scott Bessent compares AI CEOs who warn of catastrophe to Hannibal Lecter: 'Stop me before I kill again'",
-          "url": "https://www.businessinsider.com/scott-bessent-compares-ai-ceos-seeking-regulation-to-hannibal-lecter-2026-10",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-03T20:35:02Z"
+          "id": "add12be6da1864ce4936e3937a27451d8330d778",
+          "title": "Show HN: jpm——一个用Rust编写的JavaScript包管理器，每一行代码均由Claude Code编写 / Show HN: jpm – a JavaScript package manager in Rust, every line by Claude Code",
+          "url": "https://getjpm.sh",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-10-04T00:11:58Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5442,
-      "importance": 0.5442,
-      "importance_score": 0.5442,
+      "score": 0.5425,
+      "importance": 0.5425,
+      "importance_score": 0.5425,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9912,
+        "recency": 0.9815,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-03T20:35:02Z",
-      "latest_at": "2026-10-03T21:45:54.705000Z",
+      "earliest_at": "2026-10-04T00:11:58Z",
+      "latest_at": "2026-10-04T00:36:52.982000Z",
       "primary_item": {
-        "id": "e544228951d7306c2ab339ae8fcb27a5532aeda4",
-        "title": "斯科特·贝森特将那些警告灾难即将降临的人工智能公司首席执行官们比作汉尼拔·莱克特：“在我再次杀人之前阻止我”",
-        "url": "https://www.businessinsider.com/scott-bessent-compares-ai-ceos-seeking-regulation-to-hannibal-lecter-2026-10",
-        "source": "www.businessinsider.com",
+        "id": "813c7250c1863c047bb7daad5564161b922ddf3d",
+        "title": "Show HN: jpm——一个用Rust编写的JavaScript包管理器，每一行代码均由Claude Code编写",
+        "url": "https://getjpm.sh",
+        "source": "getjpm.sh",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_83913d49e914",
+      "title": "OpenAI安全负责人辞职，警告称该公司文化“已然失范” / OpenAI safety leader quits, warning AI company's culture is 'broken'",
+      "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+      "primary_url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "28d1368ccd3f963f58aec31babcd3d454d6d67d5",
+          "title": "OpenAI安全负责人辞职，警告称该公司文化“已然失范” / OpenAI safety leader quits, warning AI company's culture is 'broken'",
+          "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-03T22:18:13Z"
+        },
+        {
+          "id": "9c76212040bfb9302bd27231c6f65a445bcc8b95",
+          "title": "OpenAI安全负责人辞职，警告称该公司文化“已然失范”",
+          "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+          "source": "www.theguardian.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-03T19:57:53.505000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "www.theguardian.com"
+      ],
+      "items": [
+        {
+          "id": "28d1368ccd3f963f58aec31babcd3d454d6d67d5",
+          "title": "OpenAI安全负责人辞职，警告称该公司文化“已然失范” / OpenAI safety leader quits, warning AI company's culture is 'broken'",
+          "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-03T22:18:13Z"
+        },
+        {
+          "id": "9c76212040bfb9302bd27231c6f65a445bcc8b95",
+          "title": "OpenAI安全负责人辞职，警告称该公司文化“已然失范”",
+          "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+          "source": "www.theguardian.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-03T19:57:53.505000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5367,
+      "importance": 0.5367,
+      "importance_score": 0.5367,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9493,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-03T19:57:53.505000Z",
+      "latest_at": "2026-10-03T22:18:13Z",
+      "primary_item": {
+        "id": "28d1368ccd3f963f58aec31babcd3d454d6d67d5",
+        "title": "OpenAI安全负责人辞职，警告称该公司文化“已然失范” / OpenAI safety leader quits, warning AI company's culture is 'broken'",
+        "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       }
     },
     {
@@ -411,15 +651,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5431,
-      "importance": 0.5431,
-      "importance_score": 0.5431,
+      "score": 0.5356,
+      "importance": 0.5356,
+      "importance_score": 0.5356,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8464,
+        "recency": 0.8043,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -437,82 +677,82 @@
       }
     },
     {
-      "story_id": "story_fc994d69ad09",
-      "title": "在 Claude 和 Claude Code 中充分利用 Opus 5.5 / Getting the most out of Opus 5.5 in Claude and Claude Code",
-      "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5",
-      "primary_url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
+      "story_id": "story_67bbbdba8c47",
+      "title": "斯科特·贝森特将那些警告灾难即将降临的人工智能公司首席执行官们比作汉尼拔·莱克特：“在我再次杀人之前阻止我”",
+      "url": "https://www.businessinsider.com/scott-bessent-compares-ai-ceos-seeking-regulation-to-hannibal-lecter-2026-10",
+      "primary_url": "https://www.businessinsider.com/scott-bessent-compares-ai-ceos-seeking-regulation-to-hannibal-lecter-2026-10",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "7270c12f6d002393fc0dbb64f3bd2eb6fd9b9920",
-          "title": "在 Claude 和 Claude Code 中充分利用 Opus 5.5 / Getting the most out of Opus 5.5 in Claude and Claude Code",
-          "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-03T18:29:30Z"
+          "id": "e544228951d7306c2ab339ae8fcb27a5532aeda4",
+          "title": "斯科特·贝森特将那些警告灾难即将降临的人工智能公司首席执行官们比作汉尼拔·莱克特：“在我再次杀人之前阻止我”",
+          "url": "https://www.businessinsider.com/scott-bessent-compares-ai-ceos-seeking-regulation-to-hannibal-lecter-2026-10",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-03T21:45:54.705000Z"
         },
         {
-          "id": "20c153e603b0ac06a60db406515ee3a8f5000370",
-          "title": "在 Claude 和 Claude Code 中充分利用 Opus 5.5 / Getting the most out of Opus 5.5 in Claude and Claude Code",
-          "url": "https://news.ycombinator.com/item?id=49946567",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-03T18:29:30Z"
+          "id": "534fd97ba9217b62e522df16275226c15048cbd6",
+          "title": "斯科特·贝森特将那些警告灾难即将降临的人工智能公司首席执行官们比作汉尼拔·莱克特：“在我再次杀人之前阻止我” / Scott Bessent compares AI CEOs who warn of catastrophe to Hannibal Lecter: 'Stop me before I kill again'",
+          "url": "https://www.businessinsider.com/scott-bessent-compares-ai-ceos-seeking-regulation-to-hannibal-lecter-2026-10",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-03T20:35:02Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
+        "Business Insider",
+        "www.businessinsider.com"
       ],
       "items": [
         {
-          "id": "7270c12f6d002393fc0dbb64f3bd2eb6fd9b9920",
-          "title": "在 Claude 和 Claude Code 中充分利用 Opus 5.5 / Getting the most out of Opus 5.5 in Claude and Claude Code",
-          "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-03T18:29:30Z"
+          "id": "e544228951d7306c2ab339ae8fcb27a5532aeda4",
+          "title": "斯科特·贝森特将那些警告灾难即将降临的人工智能公司首席执行官们比作汉尼拔·莱克特：“在我再次杀人之前阻止我”",
+          "url": "https://www.businessinsider.com/scott-bessent-compares-ai-ceos-seeking-regulation-to-hannibal-lecter-2026-10",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-03T21:45:54.705000Z"
         },
         {
-          "id": "20c153e603b0ac06a60db406515ee3a8f5000370",
-          "title": "在 Claude 和 Claude Code 中充分利用 Opus 5.5 / Getting the most out of Opus 5.5 in Claude and Claude Code",
-          "url": "https://news.ycombinator.com/item?id=49946567",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-03T18:29:30Z"
+          "id": "534fd97ba9217b62e522df16275226c15048cbd6",
+          "title": "斯科特·贝森特将那些警告灾难即将降临的人工智能公司首席执行官们比作汉尼拔·莱克特：“在我再次杀人之前阻止我” / Scott Bessent compares AI CEOs who warn of catastrophe to Hannibal Lecter: 'Stop me before I kill again'",
+          "url": "https://www.businessinsider.com/scott-bessent-compares-ai-ceos-seeking-regulation-to-hannibal-lecter-2026-10",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-03T20:35:02Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.536,
-      "importance": 0.536,
-      "importance_score": 0.536,
+      "score": 0.5353,
+      "importance": 0.5353,
+      "importance_score": 0.5353,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9454,
+        "recency": 0.9419,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-03T18:29:30Z",
-      "latest_at": "2026-10-03T18:29:30Z",
+      "earliest_at": "2026-10-03T20:35:02Z",
+      "latest_at": "2026-10-03T21:45:54.705000Z",
       "primary_item": {
-        "id": "7270c12f6d002393fc0dbb64f3bd2eb6fd9b9920",
-        "title": "在 Claude 和 Claude Code 中充分利用 Opus 5.5 / Getting the most out of Opus 5.5 in Claude and Claude Code",
-        "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
+        "id": "e544228951d7306c2ab339ae8fcb27a5532aeda4",
+        "title": "斯科特·贝森特将那些警告灾难即将降临的人工智能公司首席执行官们比作汉尼拔·莱克特：“在我再次杀人之前阻止我”",
+        "url": "https://www.businessinsider.com/scott-bessent-compares-ai-ceos-seeking-regulation-to-hannibal-lecter-2026-10",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -568,15 +808,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.53,
-      "importance": 0.53,
-      "importance_score": 0.53,
+      "score": 0.5218,
+      "importance": 0.5218,
+      "importance_score": 0.5218,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9122,
+        "recency": 0.8669,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -647,15 +887,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5248,
-      "importance": 0.5248,
-      "importance_score": 0.5248,
+      "score": 0.5169,
+      "importance": 0.5169,
+      "importance_score": 0.5169,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8832,
+        "recency": 0.8393,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -726,15 +966,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5403,
-      "importance": 0.5403,
-      "importance_score": 0.5403,
+      "score": 0.5316,
+      "importance": 0.5316,
+      "importance_score": 0.5316,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9692,
+        "recency": 0.9211,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -748,164 +988,6 @@
         "title": "萨姆·奥尔特曼：不要把人工智能当作一种“宗教力量”",
         "url": "https://www.businessinsider.com/sam-altman-dont-treat-ai-like-a-religious-force-2026-10",
         "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_ef48f9156b3f",
-      "title": "苹果修改全盘访问权限以遏制AI代理的滥用行为",
-      "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents",
-      "primary_url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents",
-      "source": "arstechnica.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "b5bc759866cf82f37b54e822d99793dcce4a46b0",
-          "title": "苹果修改全盘访问权限以遏制AI代理的滥用行为",
-          "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents",
-          "source": "arstechnica.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-03T02:44:59.677000Z"
-        },
-        {
-          "id": "aaa07303c18c1f6ca759e12f85515cd1f9ed259a",
-          "title": "苹果修改全盘访问权限以遏制AI代理的滥用行为 / Apple changes full-disk access permissions to curb abuse from AI agents",
-          "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents",
-          "source": "Ars Technica",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-02T23:03:16Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Ars Technica",
-        "arstechnica.com"
-      ],
-      "items": [
-        {
-          "id": "b5bc759866cf82f37b54e822d99793dcce4a46b0",
-          "title": "苹果修改全盘访问权限以遏制AI代理的滥用行为",
-          "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents",
-          "source": "arstechnica.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-03T02:44:59.677000Z"
-        },
-        {
-          "id": "aaa07303c18c1f6ca759e12f85515cd1f9ed259a",
-          "title": "苹果修改全盘访问权限以遏制AI代理的滥用行为 / Apple changes full-disk access permissions to curb abuse from AI agents",
-          "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents",
-          "source": "Ars Technica",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-02T23:03:16Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5014,
-      "importance": 0.5014,
-      "importance_score": 0.5014,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7532,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-02T23:03:16Z",
-      "latest_at": "2026-10-03T02:44:59.677000Z",
-      "primary_item": {
-        "id": "b5bc759866cf82f37b54e822d99793dcce4a46b0",
-        "title": "苹果修改全盘访问权限以遏制AI代理的滥用行为",
-        "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents",
-        "source": "arstechnica.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_35e78a72f8fa",
-      "title": "美国一名路怒杀人犯的判决被撤销，原因是法庭上播放了受害者的AI合成视频",
-      "url": "https://www.bbc.co.uk/news/articles/cwgkvygg5nzvo?at_medium=RSS&at_campaign=rss",
-      "primary_url": "https://www.bbc.co.uk/news/articles/cwgkvygg5nzvo?at_medium=RSS&at_campaign=rss",
-      "source": "www.bbc.co.uk",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "f321fedcd4351b6b992d508370e60619c3d01724",
-          "title": "美国一名路怒杀人犯的判决被撤销，原因是法庭上播放了受害者的AI合成视频",
-          "url": "https://www.bbc.co.uk/news/articles/cwgkvygg5nzvo?at_medium=RSS&at_campaign=rss",
-          "source": "www.bbc.co.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-03T00:24:53.979000Z"
-        },
-        {
-          "id": "298f97482f9076fc022d1ac759fdf087d35e47cd",
-          "title": "美国一名路怒杀人犯的判决被撤销，原因是法庭上播放了受害者的AI合成视频 / US road rage killer's sentence quashed because AI video of victim was shown in court",
-          "url": "https://www.bbc.co.uk/news/articles/cwgkvygg5nzvo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News (世界新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-02T23:06:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "BBC News (世界新闻)",
-        "www.bbc.co.uk"
-      ],
-      "items": [
-        {
-          "id": "f321fedcd4351b6b992d508370e60619c3d01724",
-          "title": "美国一名路怒杀人犯的判决被撤销，原因是法庭上播放了受害者的AI合成视频",
-          "url": "https://www.bbc.co.uk/news/articles/cwgkvygg5nzvo?at_medium=RSS&at_campaign=rss",
-          "source": "www.bbc.co.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-03T00:24:53.979000Z"
-        },
-        {
-          "id": "298f97482f9076fc022d1ac759fdf087d35e47cd",
-          "title": "美国一名路怒杀人犯的判决被撤销，原因是法庭上播放了受害者的AI合成视频 / US road rage killer's sentence quashed because AI video of victim was shown in court",
-          "url": "https://www.bbc.co.uk/news/articles/cwgkvygg5nzvo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News (世界新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-02T23:06:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4969,
-      "importance": 0.4969,
-      "importance_score": 0.4969,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7282,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-02T23:06:00Z",
-      "latest_at": "2026-10-03T00:24:53.979000Z",
-      "primary_item": {
-        "id": "f321fedcd4351b6b992d508370e60619c3d01724",
-        "title": "美国一名路怒杀人犯的判决被撤销，原因是法庭上播放了受害者的AI合成视频",
-        "url": "https://www.bbc.co.uk/news/articles/cwgkvygg5nzvo?at_medium=RSS&at_campaign=rss",
-        "source": "www.bbc.co.uk",
         "source_name": "Buzzing"
       }
     },
@@ -962,15 +1044,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5155,
-      "importance": 0.5155,
-      "importance_score": 0.5155,
+      "score": 0.508,
+      "importance": 0.508,
+      "importance_score": 0.508,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8315,
+        "recency": 0.7902,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1041,15 +1123,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5396,
-      "importance": 0.5396,
-      "importance_score": 0.5396,
+      "score": 0.531,
+      "importance": 0.531,
+      "importance_score": 0.531,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9657,
+        "recency": 0.9178,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1120,15 +1202,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5046,
-      "importance": 0.5046,
-      "importance_score": 0.5046,
+      "score": 0.4977,
+      "importance": 0.4977,
+      "importance_score": 0.4977,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.771,
+        "recency": 0.7327,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1199,15 +1281,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5147,
-      "importance": 0.5147,
-      "importance_score": 0.5147,
+      "score": 0.5073,
+      "importance": 0.5073,
+      "importance_score": 0.5073,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.827,
+        "recency": 0.7859,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1278,15 +1360,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.517,
-      "importance": 0.517,
-      "importance_score": 0.517,
+      "score": 0.5095,
+      "importance": 0.5095,
+      "importance_score": 0.5095,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8399,
+        "recency": 0.7982,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1357,15 +1439,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5159,
-      "importance": 0.5159,
-      "importance_score": 0.5159,
+      "score": 0.5084,
+      "importance": 0.5084,
+      "importance_score": 0.5084,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8339,
+        "recency": 0.7924,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1436,15 +1518,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5147,
-      "importance": 0.5147,
-      "importance_score": 0.5147,
+      "score": 0.5073,
+      "importance": 0.5073,
+      "importance_score": 0.5073,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8274,
+        "recency": 0.7863,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1515,15 +1597,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5142,
-      "importance": 0.5142,
-      "importance_score": 0.5142,
+      "score": 0.5068,
+      "importance": 0.5068,
+      "importance_score": 0.5068,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8245,
+        "recency": 0.7836,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1536,85 +1618,6 @@
         "id": "f1c848d8864b3bcdc829d22eae47c6032eba5a40",
         "title": "在这个“安全空间”里，创作者可以公开表达对AI的喜爱",
         "url": "https://www.businessinsider.com/content-creators-embrace-ai-despite-backlash-conference-influencers-hollywood-2026-10",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_4750dadd29cc",
-      "title": "随着团队动荡加剧，OpenAI安全负责人大卫·罗宾逊辞职",
-      "url": "https://www.businessinsider.com/safety-leader-david-robinson-resigns-from-openai-2026-10",
-      "primary_url": "https://www.businessinsider.com/safety-leader-david-robinson-resigns-from-openai-2026-10",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "8d48e06f9b73c3afe927902326af5e5dcbfa164a",
-          "title": "随着团队动荡加剧，OpenAI安全负责人大卫·罗宾逊辞职",
-          "url": "https://www.businessinsider.com/safety-leader-david-robinson-resigns-from-openai-2026-10",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-02T23:38:06.078000Z"
-        },
-        {
-          "id": "ff78092928749e40c5a4cd45006d55531d5c390b",
-          "title": "随着团队动荡加剧，OpenAI安全负责人大卫·罗宾逊辞职 / OpenAI safety leader David Robinson resigns as the team's upheaval mounts",
-          "url": "https://www.businessinsider.com/safety-leader-david-robinson-resigns-from-openai-2026-10",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-02T23:15:09Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "8d48e06f9b73c3afe927902326af5e5dcbfa164a",
-          "title": "随着团队动荡加剧，OpenAI安全负责人大卫·罗宾逊辞职",
-          "url": "https://www.businessinsider.com/safety-leader-david-robinson-resigns-from-openai-2026-10",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-02T23:38:06.078000Z"
-        },
-        {
-          "id": "ff78092928749e40c5a4cd45006d55531d5c390b",
-          "title": "随着团队动荡加剧，OpenAI安全负责人大卫·罗宾逊辞职 / OpenAI safety leader David Robinson resigns as the team's upheaval mounts",
-          "url": "https://www.businessinsider.com/safety-leader-david-robinson-resigns-from-openai-2026-10",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-02T23:15:09Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4954,
-      "importance": 0.4954,
-      "importance_score": 0.4954,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.72,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-02T23:15:09Z",
-      "latest_at": "2026-10-02T23:38:06.078000Z",
-      "primary_item": {
-        "id": "8d48e06f9b73c3afe927902326af5e5dcbfa164a",
-        "title": "随着团队动荡加剧，OpenAI安全负责人大卫·罗宾逊辞职",
-        "url": "https://www.businessinsider.com/safety-leader-david-robinson-resigns-from-openai-2026-10",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
