@@ -1,150 +1,8 @@
 {
-  "generated_at": "2026-10-04T21:50:57.194754Z",
+  "generated_at": "2026-10-05T00:32:30.518337Z",
   "window_hours": 24,
-  "total_items": 20,
+  "total_items": 18,
   "items": [
-    {
-      "story_id": "story_89764eae0099",
-      "title": "Microsoft ThinkingBox 在 Hugging Face 上发布，以数据库终态和 20 次重复评测智能体 / The Agent Said It Was Done. The Database Disagreed.",
-      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
-      "primary_url": "https://huggingface.co/blog/microsoft/thinkingbox",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "57fbd355307716cbcf330127a1ee6632b8a5238b",
-          "title": "Microsoft ThinkingBox 在 Hugging Face 上发布，以数据库终态和 20 次重复评测智能体 / The Agent Said It Was Done. The Database Disagreed.",
-          "url": "https://huggingface.co/blog/microsoft/thinkingbox",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-03T22:56:48Z"
-        },
-        {
-          "id": "7cb78c863282e2dbe8ca7086c0f0695c1eef290b",
-          "title": "Microsoft ThinkingBox 在 Hugging Face 上发布，以数据库终态和 20 次重复评测智能体",
-          "url": "https://huggingface.co/blog/microsoft/thinkingbox",
-          "source": "Hugging Face：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-03T22:56:48Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hugging Face Blog",
-        "Hugging Face：Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "57fbd355307716cbcf330127a1ee6632b8a5238b",
-          "title": "Microsoft ThinkingBox 在 Hugging Face 上发布，以数据库终态和 20 次重复评测智能体 / The Agent Said It Was Done. The Database Disagreed.",
-          "url": "https://huggingface.co/blog/microsoft/thinkingbox",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-03T22:56:48Z"
-        },
-        {
-          "id": "7cb78c863282e2dbe8ca7086c0f0695c1eef290b",
-          "title": "Microsoft ThinkingBox 在 Hugging Face 上发布，以数据库终态和 20 次重复评测智能体",
-          "url": "https://huggingface.co/blog/microsoft/thinkingbox",
-          "source": "Hugging Face：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-03T22:56:48Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8343,
-      "importance": 0.8343,
-      "importance_score": 0.8343,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7184,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-03T22:56:48Z",
-      "latest_at": "2026-10-03T22:56:48Z",
-      "primary_item": {
-        "id": "57fbd355307716cbcf330127a1ee6632b8a5238b",
-        "title": "Microsoft ThinkingBox 在 Hugging Face 上发布，以数据库终态和 20 次重复评测智能体 / The Agent Said It Was Done. The Database Disagreed.",
-        "url": "https://huggingface.co/blog/microsoft/thinkingbox",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_d4b8ef577950",
-      "title": "Google 论文揭示 LLM 会隐瞒负面结果，一句 honesty 提示可大幅改善",
-      "url": "https://x.com/rohanpaul_ai/status/2106502600703222202",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2106502600703222202",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d5abfd5d5a8afd2db726965d3615e1816a540332",
-          "title": "Google 论文揭示 LLM 会隐瞒负面结果，一句 honesty 提示可大幅改善",
-          "url": "https://x.com/rohanpaul_ai/status/2106502600703222202",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-03T21:52:11Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "items": [
-        {
-          "id": "d5abfd5d5a8afd2db726965d3615e1816a540332",
-          "title": "Google 论文揭示 LLM 会隐瞒负面结果，一句 honesty 提示可大幅改善",
-          "url": "https://x.com/rohanpaul_ai/status/2106502600703222202",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-03T21:52:11Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7299,
-      "importance": 0.7299,
-      "importance_score": 0.7299,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7073,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-03T21:52:11Z",
-      "latest_at": "2026-10-03T21:52:11Z",
-      "primary_item": {
-        "id": "d5abfd5d5a8afd2db726965d3615e1816a540332",
-        "title": "Google 论文揭示 LLM 会隐瞒负面结果，一句 honesty 提示可大幅改善",
-        "url": "https://x.com/rohanpaul_ai/status/2106502600703222202",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "source_name": "AI HOT"
-      }
-    },
     {
       "story_id": "story_774f7412d1a3",
       "title": "Homa: The end of TCP for AI clusters [video]",
@@ -217,15 +75,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5653,
-      "importance": 0.5653,
-      "importance_score": 0.5653,
+      "score": 0.5587,
+      "importance": 0.5587,
+      "importance_score": 0.5587,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9695,
+        "recency": 0.9326,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -240,102 +98,6 @@
         "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
         "source": "Hacker News (黑客新闻)",
         "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_d354e4a5c9be",
-      "title": "特朗普任命克莱顿领导人工智能特别工作组，以应对安全担忧",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-03/us-ai-task-force-to-report-on-technology-s-risks-wsj-reports",
-      "primary_url": "https://www.bloomberg.com/news/articles/2026-10-03/us-ai-task-force-to-report-on-technology-s-risks-wsj-reports",
-      "source": "www.bloomberg.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "307750a9a9f6793d14bfe1718775e3dbdbfd24ee",
-          "title": "特朗普任命克莱顿领导人工智能特别工作组，以应对安全担忧",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-03/us-ai-task-force-to-report-on-technology-s-risks-wsj-reports",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-04T14:15:01.403000Z"
-        },
-        {
-          "id": "7936d0093c30da16bc9e02c58384f7e9d1c0d61c",
-          "title": "《华尔街日报》称，美国人工智能特别工作组将就该技术带来的风险提交报告",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-03/us-ai-task-force-to-report-on-technology-s-risks-wsj-reports",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-04T01:55:40.527000Z"
-        },
-        {
-          "id": "4b5c51cf27185145e4182eb917492e7d1c6858f2",
-          "title": "《华尔街日报》报道：美国人工智能工作组将就该技术带来的风险提交报告",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-03/us-ai-task-force-to-report-on-technology-s-risks-wsj-reports",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-04T00:04:47.898000Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "www.bloomberg.com"
-      ],
-      "items": [
-        {
-          "id": "307750a9a9f6793d14bfe1718775e3dbdbfd24ee",
-          "title": "特朗普任命克莱顿领导人工智能特别工作组，以应对安全担忧",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-03/us-ai-task-force-to-report-on-technology-s-risks-wsj-reports",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-04T14:15:01.403000Z"
-        },
-        {
-          "id": "7936d0093c30da16bc9e02c58384f7e9d1c0d61c",
-          "title": "《华尔街日报》称，美国人工智能特别工作组将就该技术带来的风险提交报告",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-03/us-ai-task-force-to-report-on-technology-s-risks-wsj-reports",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-04T01:55:40.527000Z"
-        },
-        {
-          "id": "4b5c51cf27185145e4182eb917492e7d1c6858f2",
-          "title": "《华尔街日报》报道：美国人工智能工作组将就该技术带来的风险提交报告",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-03/us-ai-task-force-to-report-on-technology-s-risks-wsj-reports",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-04T00:04:47.898000Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5521,
-      "importance": 0.5521,
-      "importance_score": 0.5521,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8961,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-04T00:04:47.898000Z",
-      "latest_at": "2026-10-04T14:15:01.403000Z",
-      "primary_item": {
-        "id": "307750a9a9f6793d14bfe1718775e3dbdbfd24ee",
-        "title": "特朗普任命克莱顿领导人工智能特别工作组，以应对安全担忧",
-        "url": "https://www.bloomberg.com/news/articles/2026-10-03/us-ai-task-force-to-report-on-technology-s-risks-wsj-reports",
-        "source": "www.bloomberg.com",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -411,15 +173,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5491,
-      "importance": 0.5491,
-      "importance_score": 0.5491,
+      "score": 0.5431,
+      "importance": 0.5431,
+      "importance_score": 0.5431,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8794,
+        "recency": 0.8459,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -433,6 +195,85 @@
         "title": "宗教学者与Anthropic公司进行了会面",
         "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
         "source": "www.nytimes.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_f54841473b3f",
+      "title": "萨姆·奥尔特曼对《Decoded》表示：“为了人工智能带来的好处，世界应该接受一些坏事发生” - Politico",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYWFnWk90ajlEOFlsMktzU0RvSjc1cWpxRW9hb2FyZDBKR1pKanpPUE13TmpvRm5kdzY3NDN3WTZuQXB3bnVodlktZkRnS1JLR0E3NzlMR1k1aWZWUm5XUkIxSzA2Ynp0QzBwRmFZQTZGWjd6WWlOS09qbWZFM1lNYU1fTnlaMmY3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "primary_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYWFnWk90ajlEOFlsMktzU0RvSjc1cWpxRW9hb2FyZDBKR1pKanpPUE13TmpvRm5kdzY3NDN3WTZuQXB3bnVodlktZkRnS1JLR0E3NzlMR1k1aWZWUm5XUkIxSzA2Ynp0QzBwRmFZQTZGWjd6WWlOS09qbWZFM1lNYU1fTnlaMmY3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "news.google.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "9e2b31cea340a5d9b1d96baa9307d16547903fe7",
+          "title": "萨姆·奥尔特曼对《Decoded》表示：“为了人工智能带来的好处，世界应该接受一些坏事发生” - Politico",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYWFnWk90ajlEOFlsMktzU0RvSjc1cWpxRW9hb2FyZDBKR1pKanpPUE13TmpvRm5kdzY3NDN3WTZuQXB3bnVodlktZkRnS1JLR0E3NzlMR1k1aWZWUm5XUkIxSzA2Ynp0QzBwRmFZQTZGWjd6WWlOS09qbWZFM1lNYU1fTnlaMmY3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-04T22:35:54.184000Z"
+        },
+        {
+          "id": "1cbf93d365f8b0a78be644de7d1c6be7db8ffe79",
+          "title": "萨姆·奥尔特曼对《Decoded》表示：“为了人工智能带来的好处，世界应该接受一些坏事发生”",
+          "url": "https://www.politico.com/news/2026/10/04/sam-altman-decoded-interview-ai-01106217",
+          "source": "www.politico.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-04T21:01:58.777000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "news.google.com",
+        "www.politico.com"
+      ],
+      "items": [
+        {
+          "id": "9e2b31cea340a5d9b1d96baa9307d16547903fe7",
+          "title": "萨姆·奥尔特曼对《Decoded》表示：“为了人工智能带来的好处，世界应该接受一些坏事发生” - Politico",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYWFnWk90ajlEOFlsMktzU0RvSjc1cWpxRW9hb2FyZDBKR1pKanpPUE13TmpvRm5kdzY3NDN3WTZuQXB3bnVodlktZkRnS1JLR0E3NzlMR1k1aWZWUm5XUkIxSzA2Ynp0QzBwRmFZQTZGWjd6WWlOS09qbWZFM1lNYU1fTnlaMmY3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-04T22:35:54.184000Z"
+        },
+        {
+          "id": "1cbf93d365f8b0a78be644de7d1c6be7db8ffe79",
+          "title": "萨姆·奥尔特曼对《Decoded》表示：“为了人工智能带来的好处，世界应该接受一些坏事发生”",
+          "url": "https://www.politico.com/news/2026/10/04/sam-altman-decoded-interview-ai-01106217",
+          "source": "www.politico.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-04T21:01:58.777000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5408,
+      "importance": 0.5408,
+      "importance_score": 0.5408,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9723,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-04T21:01:58.777000Z",
+      "latest_at": "2026-10-04T22:35:54.184000Z",
+      "primary_item": {
+        "id": "9e2b31cea340a5d9b1d96baa9307d16547903fe7",
+        "title": "萨姆·奥尔特曼对《Decoded》表示：“为了人工智能带来的好处，世界应该接受一些坏事发生” - Politico",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYWFnWk90ajlEOFlsMktzU0RvSjc1cWpxRW9hb2FyZDBKR1pKanpPUE13TmpvRm5kdzY3NDN3WTZuQXB3bnVodlktZkRnS1JLR0E3NzlMR1k1aWZWUm5XUkIxSzA2Ynp0QzBwRmFZQTZGWjd6WWlOS09qbWZFM1lNYU1fTnlaMmY3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "source": "news.google.com",
         "source_name": "Buzzing"
       }
     },
@@ -490,15 +331,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5444,
-      "importance": 0.5444,
-      "importance_score": 0.5444,
+      "score": 0.5376,
+      "importance": 0.5376,
+      "importance_score": 0.5376,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9921,
+        "recency": 0.9543,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -588,15 +429,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.542,
-      "importance": 0.542,
-      "importance_score": 0.542,
+      "score": 0.5362,
+      "importance": 0.5362,
+      "importance_score": 0.5362,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8399,
+        "recency": 0.8079,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -614,30 +455,30 @@
       }
     },
     {
-      "story_id": "story_cff0599cd6bb",
-      "title": "RuneScape's Position on Gen AI",
-      "url": "https://www.reddit.com/r/2007scape/comments/1wxfyzp/runescapes_position_on_gen_ai",
-      "primary_url": "https://www.reddit.com/r/2007scape/comments/1wxfyzp/runescapes_position_on_gen_ai",
+      "story_id": "story_9ab71769474a",
+      "title": "What I learnt co-leading an AI Safety bootcamp for legal and governance practit",
+      "url": "https://www.lesswrong.com/posts/KtAug62dYRgAS8sqJ/what-i-learnt-co-leading-an-ai-safety-bootcamp-for-legal-and",
+      "primary_url": "https://www.lesswrong.com/posts/KtAug62dYRgAS8sqJ/what-i-learnt-co-leading-an-ai-safety-bootcamp-for-legal-and",
       "source": "Hacker News · 24h最热",
       "source_name": "Zeli",
       "sources": [
         {
-          "id": "34d0099668cd86a3f449ef1617247a9c8e9bcb5a",
-          "title": "RuneScape's Position on Gen AI",
-          "url": "https://www.reddit.com/r/2007scape/comments/1wxfyzp/runescapes_position_on_gen_ai",
+          "id": "88d5617e9e184847995d7681eec4d2a911b045e7",
+          "title": "What I learnt co-leading an AI Safety bootcamp for legal and governance practit",
+          "url": "https://www.lesswrong.com/posts/KtAug62dYRgAS8sqJ/what-i-learnt-co-leading-an-ai-safety-bootcamp-for-legal-and",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-10-04T15:29:14Z"
+          "published_at": "2026-10-04T17:21:26Z"
         },
         {
-          "id": "f6a9b2dd9fad9da596e7cfd90e5639b430bc3daf",
-          "title": "RuneScape's Position on Gen AI",
-          "url": "https://news.ycombinator.com/item?id=49954745",
+          "id": "be16e9373d1ecb2a695d4f53e4b8865fd7d949df",
+          "title": "What I learnt co-leading an AI Safety bootcamp for legal and governance practit",
+          "url": "https://news.ycombinator.com/item?id=49955839",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-04T15:29:14Z"
+          "published_at": "2026-10-04T17:21:26Z"
         }
       ],
       "source_count": 2,
@@ -647,49 +488,127 @@
       ],
       "items": [
         {
-          "id": "34d0099668cd86a3f449ef1617247a9c8e9bcb5a",
-          "title": "RuneScape's Position on Gen AI",
-          "url": "https://www.reddit.com/r/2007scape/comments/1wxfyzp/runescapes_position_on_gen_ai",
+          "id": "88d5617e9e184847995d7681eec4d2a911b045e7",
+          "title": "What I learnt co-leading an AI Safety bootcamp for legal and governance practit",
+          "url": "https://www.lesswrong.com/posts/KtAug62dYRgAS8sqJ/what-i-learnt-co-leading-an-ai-safety-bootcamp-for-legal-and",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-10-04T15:29:14Z"
+          "published_at": "2026-10-04T17:21:26Z"
         },
         {
-          "id": "f6a9b2dd9fad9da596e7cfd90e5639b430bc3daf",
-          "title": "RuneScape's Position on Gen AI",
-          "url": "https://news.ycombinator.com/item?id=49954745",
+          "id": "be16e9373d1ecb2a695d4f53e4b8865fd7d949df",
+          "title": "What I learnt co-leading an AI Safety bootcamp for legal and governance practit",
+          "url": "https://news.ycombinator.com/item?id=49955839",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-04T15:29:14Z"
+          "published_at": "2026-10-04T17:21:26Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.53,
-      "importance": 0.53,
-      "importance_score": 0.53,
+      "score": 0.5281,
+      "importance": 0.5281,
+      "importance_score": 0.5281,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9122,
+        "recency": 0.9015,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-04T15:29:14Z",
-      "latest_at": "2026-10-04T15:29:14Z",
+      "earliest_at": "2026-10-04T17:21:26Z",
+      "latest_at": "2026-10-04T17:21:26Z",
       "primary_item": {
-        "id": "34d0099668cd86a3f449ef1617247a9c8e9bcb5a",
-        "title": "RuneScape's Position on Gen AI",
-        "url": "https://www.reddit.com/r/2007scape/comments/1wxfyzp/runescapes_position_on_gen_ai",
+        "id": "88d5617e9e184847995d7681eec4d2a911b045e7",
+        "title": "What I learnt co-leading an AI Safety bootcamp for legal and governance practit",
+        "url": "https://www.lesswrong.com/posts/KtAug62dYRgAS8sqJ/what-i-learnt-co-leading-an-ai-safety-bootcamp-for-legal-and",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_d354e4a5c9be",
+      "title": "特朗普任命克莱顿领导人工智能特别工作组，以应对安全担忧",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-03/us-ai-task-force-to-report-on-technology-s-risks-wsj-reports",
+      "primary_url": "https://www.bloomberg.com/news/articles/2026-10-03/us-ai-task-force-to-report-on-technology-s-risks-wsj-reports",
+      "source": "www.bloomberg.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "307750a9a9f6793d14bfe1718775e3dbdbfd24ee",
+          "title": "特朗普任命克莱顿领导人工智能特别工作组，以应对安全担忧",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-03/us-ai-task-force-to-report-on-technology-s-risks-wsj-reports",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-04T14:15:01.403000Z"
+        },
+        {
+          "id": "7936d0093c30da16bc9e02c58384f7e9d1c0d61c",
+          "title": "《华尔街日报》称，美国人工智能特别工作组将就该技术带来的风险提交报告",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-03/us-ai-task-force-to-report-on-technology-s-risks-wsj-reports",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-04T01:55:40.527000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "www.bloomberg.com"
+      ],
+      "items": [
+        {
+          "id": "307750a9a9f6793d14bfe1718775e3dbdbfd24ee",
+          "title": "特朗普任命克莱顿领导人工智能特别工作组，以应对安全担忧",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-03/us-ai-task-force-to-report-on-technology-s-risks-wsj-reports",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-04T14:15:01.403000Z"
+        },
+        {
+          "id": "7936d0093c30da16bc9e02c58384f7e9d1c0d61c",
+          "title": "《华尔街日报》称，美国人工智能特别工作组将就该技术带来的风险提交报告",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-03/us-ai-task-force-to-report-on-technology-s-risks-wsj-reports",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-04T01:55:40.527000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5209,
+      "importance": 0.5209,
+      "importance_score": 0.5209,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8619,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-04T01:55:40.527000Z",
+      "latest_at": "2026-10-04T14:15:01.403000Z",
+      "primary_item": {
+        "id": "307750a9a9f6793d14bfe1718775e3dbdbfd24ee",
+        "title": "特朗普任命克莱顿领导人工智能特别工作组，以应对安全担忧",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-03/us-ai-task-force-to-report-on-technology-s-risks-wsj-reports",
+        "source": "www.bloomberg.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -745,15 +664,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5259,
-      "importance": 0.5259,
-      "importance_score": 0.5259,
+      "score": 0.5198,
+      "importance": 0.5198,
+      "importance_score": 0.5198,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8894,
+        "recency": 0.8554,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -771,101 +690,81 @@
       }
     },
     {
-      "story_id": "story_83913d49e914",
-      "title": "OpenAI安全负责人辞职，警告称该公司文化“已然失控”",
-      "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
-      "primary_url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
-      "source": "www.theguardian.com",
-      "source_name": "Buzzing",
+      "story_id": "story_1eb686e134b7",
+      "title": "[奇思妙想] 我觉得的 AI 未来的应用",
+      "url": "https://www.v2ex.com/t/1246400",
+      "primary_url": "https://www.v2ex.com/t/1246400",
+      "source": "V2EX (创意工作者社区)",
+      "source_name": "Info Flow",
       "sources": [
         {
-          "id": "ee467b2fa351b77dc7419b4393ad6b93fb06e9b2",
-          "title": "OpenAI安全负责人辞职，警告称该公司文化“已然失控”",
-          "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
-          "source": "www.theguardian.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-04T01:08:53.967000Z"
+          "id": "67fef08c870edee48ff06480676ae1c8d029d612",
+          "title": "[奇思妙想] 我觉得的 AI 未来的应用",
+          "url": "https://www.v2ex.com/t/1246400",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-04T10:30:30Z"
         },
         {
-          "id": "f7d6940e4cd4a16f796768a07ec2f8925946f872",
-          "title": "OpenAI安全负责人辞职，警告称该公司文化“已然失控” / OpenAI safety leader quits, warning AI company's culture is 'broken'",
-          "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-03T22:18:13Z"
-        },
-        {
-          "id": "8debf926b3b3f1dd774c687f2db0ccde0b18fb36",
-          "title": "OpenAI 安全负责人辞职，警告人工智能公司文化“破碎” / OpenAI safety leader quits, warning AI company's culture is 'broken'",
-          "url": "https://news.ycombinator.com/item?id=49948332",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-03T22:18:13Z"
+          "id": "f218ae94452e6133d5f3e2782b476cd9ee3f9036",
+          "title": "[随想] 我觉得的 AI 未来的应用",
+          "url": "https://www.v2ex.com/t/1246400",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-04T10:30:30Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "www.theguardian.com"
+        "V2EX (创意工作者社区)"
       ],
       "items": [
         {
-          "id": "ee467b2fa351b77dc7419b4393ad6b93fb06e9b2",
-          "title": "OpenAI安全负责人辞职，警告称该公司文化“已然失控”",
-          "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
-          "source": "www.theguardian.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-04T01:08:53.967000Z"
+          "id": "67fef08c870edee48ff06480676ae1c8d029d612",
+          "title": "[奇思妙想] 我觉得的 AI 未来的应用",
+          "url": "https://www.v2ex.com/t/1246400",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-04T10:30:30Z"
         },
         {
-          "id": "f7d6940e4cd4a16f796768a07ec2f8925946f872",
-          "title": "OpenAI安全负责人辞职，警告称该公司文化“已然失控” / OpenAI safety leader quits, warning AI company's culture is 'broken'",
-          "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-03T22:18:13Z"
-        },
-        {
-          "id": "8debf926b3b3f1dd774c687f2db0ccde0b18fb36",
-          "title": "OpenAI 安全负责人辞职，警告人工智能公司文化“破碎” / OpenAI safety leader quits, warning AI company's culture is 'broken'",
-          "url": "https://news.ycombinator.com/item?id=49948332",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-03T22:18:13Z"
+          "id": "f218ae94452e6133d5f3e2782b476cd9ee3f9036",
+          "title": "[随想] 我觉得的 AI 未来的应用",
+          "url": "https://www.v2ex.com/t/1246400",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-04T10:30:30Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5243,
-      "importance": 0.5243,
-      "importance_score": 0.5243,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5128,
+      "importance": 0.5128,
+      "importance_score": 0.5128,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7416,
-        "story_heat": 0.5
+        "recency": 0.8166,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-03T22:18:13Z",
-      "latest_at": "2026-10-04T01:08:53.967000Z",
+      "earliest_at": "2026-10-04T10:30:30Z",
+      "latest_at": "2026-10-04T10:30:30Z",
       "primary_item": {
-        "id": "ee467b2fa351b77dc7419b4393ad6b93fb06e9b2",
-        "title": "OpenAI安全负责人辞职，警告称该公司文化“已然失控”",
-        "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
-        "source": "www.theguardian.com",
-        "source_name": "Buzzing"
+        "id": "67fef08c870edee48ff06480676ae1c8d029d612",
+        "title": "[奇思妙想] 我觉得的 AI 未来的应用",
+        "url": "https://www.v2ex.com/t/1246400",
+        "source": "V2EX (创意工作者社区)",
+        "source_name": "Info Flow"
       }
     },
     {
@@ -922,15 +821,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.517,
-      "importance": 0.517,
-      "importance_score": 0.517,
+      "score": 0.5112,
+      "importance": 0.5112,
+      "importance_score": 0.5112,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8399,
+        "recency": 0.8079,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1001,15 +900,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.541,
-      "importance": 0.541,
-      "importance_score": 0.541,
+      "score": 0.5343,
+      "importance": 0.5343,
+      "importance_score": 0.5343,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9734,
+        "recency": 0.9363,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1080,15 +979,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5406,
-      "importance": 0.5406,
-      "importance_score": 0.5406,
+      "score": 0.5339,
+      "importance": 0.5339,
+      "importance_score": 0.5339,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9711,
+        "recency": 0.9341,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1106,158 +1005,80 @@
       }
     },
     {
-      "story_id": "story_9dd1927e63f0",
-      "title": "Show HN: jpm——一个用Rust编写的JavaScript包管理器，每一行代码均由Claude Code编写",
-      "url": "https://getjpm.sh",
-      "primary_url": "https://getjpm.sh",
-      "source": "getjpm.sh",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "813c7250c1863c047bb7daad5564161b922ddf3d",
-          "title": "Show HN: jpm——一个用Rust编写的JavaScript包管理器，每一行代码均由Claude Code编写",
-          "url": "https://getjpm.sh",
-          "source": "getjpm.sh",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-04T00:36:52.982000Z"
-        },
-        {
-          "id": "add12be6da1864ce4936e3937a27451d8330d778",
-          "title": "Show HN: jpm——一个用Rust编写的JavaScript包管理器，每一行代码均由Claude Code编写 / Show HN: jpm – a JavaScript package manager in Rust, every line by Claude Code",
-          "url": "https://getjpm.sh",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-10-04T00:11:58Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "HN Algolia · AI 24h",
-        "getjpm.sh"
-      ],
-      "items": [
-        {
-          "id": "813c7250c1863c047bb7daad5564161b922ddf3d",
-          "title": "Show HN: jpm——一个用Rust编写的JavaScript包管理器，每一行代码均由Claude Code编写",
-          "url": "https://getjpm.sh",
-          "source": "getjpm.sh",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-04T00:36:52.982000Z"
-        },
-        {
-          "id": "add12be6da1864ce4936e3937a27451d8330d778",
-          "title": "Show HN: jpm——一个用Rust编写的JavaScript包管理器，每一行代码均由Claude Code编写 / Show HN: jpm – a JavaScript package manager in Rust, every line by Claude Code",
-          "url": "https://getjpm.sh",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-10-04T00:11:58Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4983,
-      "importance": 0.4983,
-      "importance_score": 0.4983,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7359,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-04T00:11:58Z",
-      "latest_at": "2026-10-04T00:36:52.982000Z",
-      "primary_item": {
-        "id": "813c7250c1863c047bb7daad5564161b922ddf3d",
-        "title": "Show HN: jpm——一个用Rust编写的JavaScript包管理器，每一行代码均由Claude Code编写",
-        "url": "https://getjpm.sh",
-        "source": "getjpm.sh",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_eed7ab4cd749",
-      "title": "'This can't go on': thousands protest against housing crisis in Spain",
-      "url": "https://www.theguardian.com/world/2026/oct/03/spain-housing-protest",
-      "primary_url": "https://www.theguardian.com/world/2026/oct/03/spain-housing-protest",
+      "story_id": "story_cff0599cd6bb",
+      "title": "RuneScape's Position on Gen AI",
+      "url": "https://www.reddit.com/r/2007scape/comments/1wxfyzp/runescapes_position_on_gen_ai",
+      "primary_url": "https://www.reddit.com/r/2007scape/comments/1wxfyzp/runescapes_position_on_gen_ai",
       "source": "Hacker News · 24h最热",
       "source_name": "Zeli",
       "sources": [
         {
-          "id": "275f6ca7f90769a6d12c9f92c270312ae4c44288",
-          "title": "'This can't go on': thousands protest against housing crisis in Spain",
-          "url": "https://www.theguardian.com/world/2026/oct/03/spain-housing-protest",
+          "id": "34d0099668cd86a3f449ef1617247a9c8e9bcb5a",
+          "title": "RuneScape's Position on Gen AI",
+          "url": "https://www.reddit.com/r/2007scape/comments/1wxfyzp/runescapes_position_on_gen_ai",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-10-04T08:56:08Z"
+          "published_at": "2026-10-04T15:29:14Z"
         },
         {
-          "id": "203808b456a5e82d3d33f71a3f47d26616186349",
-          "title": "Protest against housing crisis in Spain",
-          "url": "https://www.theguardian.com/world/2026/oct/03/spain-housing-protest",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-04T08:56:08Z"
+          "id": "f6a9b2dd9fad9da596e7cfd90e5639b430bc3daf",
+          "title": "RuneScape's Position on Gen AI",
+          "url": "https://news.ycombinator.com/item?id=49954745",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-04T15:29:14Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News · 24h最热",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "275f6ca7f90769a6d12c9f92c270312ae4c44288",
-          "title": "'This can't go on': thousands protest against housing crisis in Spain",
-          "url": "https://www.theguardian.com/world/2026/oct/03/spain-housing-protest",
+          "id": "34d0099668cd86a3f449ef1617247a9c8e9bcb5a",
+          "title": "RuneScape's Position on Gen AI",
+          "url": "https://www.reddit.com/r/2007scape/comments/1wxfyzp/runescapes_position_on_gen_ai",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-10-04T08:56:08Z"
+          "published_at": "2026-10-04T15:29:14Z"
         },
         {
-          "id": "203808b456a5e82d3d33f71a3f47d26616186349",
-          "title": "Protest against housing crisis in Spain",
-          "url": "https://www.theguardian.com/world/2026/oct/03/spain-housing-protest",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-04T08:56:08Z"
+          "id": "f6a9b2dd9fad9da596e7cfd90e5639b430bc3daf",
+          "title": "RuneScape's Position on Gen AI",
+          "url": "https://news.ycombinator.com/item?id=49954745",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-04T15:29:14Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5152,
-      "importance": 0.5152,
-      "importance_score": 0.5152,
+      "score": 0.5237,
+      "importance": 0.5237,
+      "importance_score": 0.5237,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8299,
+        "recency": 0.8774,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-04T08:56:08Z",
-      "latest_at": "2026-10-04T08:56:08Z",
+      "earliest_at": "2026-10-04T15:29:14Z",
+      "latest_at": "2026-10-04T15:29:14Z",
       "primary_item": {
-        "id": "275f6ca7f90769a6d12c9f92c270312ae4c44288",
-        "title": "'This can't go on': thousands protest against housing crisis in Spain",
-        "url": "https://www.theguardian.com/world/2026/oct/03/spain-housing-protest",
+        "id": "34d0099668cd86a3f449ef1617247a9c8e9bcb5a",
+        "title": "RuneScape's Position on Gen AI",
+        "url": "https://www.reddit.com/r/2007scape/comments/1wxfyzp/runescapes_position_on_gen_ai",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
       }
@@ -1316,15 +1137,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5371,
-      "importance": 0.5371,
-      "importance_score": 0.5371,
+      "score": 0.5305,
+      "importance": 0.5305,
+      "importance_score": 0.5305,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9514,
+        "recency": 0.9151,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1342,30 +1163,108 @@
       }
     },
     {
-      "story_id": "story_9ab71769474a",
-      "title": "What I learnt co-leading an AI Safety bootcamp for legal and governance practit",
-      "url": "https://www.lesswrong.com/posts/KtAug62dYRgAS8sqJ/what-i-learnt-co-leading-an-ai-safety-bootcamp-for-legal-and",
-      "primary_url": "https://www.lesswrong.com/posts/KtAug62dYRgAS8sqJ/what-i-learnt-co-leading-an-ai-safety-bootcamp-for-legal-and",
+      "story_id": "story_eed7ab4cd749",
+      "title": "'This can't go on': thousands protest against housing crisis in Spain",
+      "url": "https://www.theguardian.com/world/2026/oct/03/spain-housing-protest",
+      "primary_url": "https://www.theguardian.com/world/2026/oct/03/spain-housing-protest",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "275f6ca7f90769a6d12c9f92c270312ae4c44288",
+          "title": "'This can't go on': thousands protest against housing crisis in Spain",
+          "url": "https://www.theguardian.com/world/2026/oct/03/spain-housing-protest",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-04T08:56:08Z"
+        },
+        {
+          "id": "203808b456a5e82d3d33f71a3f47d26616186349",
+          "title": "Protest against housing crisis in Spain",
+          "url": "https://www.theguardian.com/world/2026/oct/03/spain-housing-protest",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-04T08:56:08Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "275f6ca7f90769a6d12c9f92c270312ae4c44288",
+          "title": "'This can't go on': thousands protest against housing crisis in Spain",
+          "url": "https://www.theguardian.com/world/2026/oct/03/spain-housing-protest",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-04T08:56:08Z"
+        },
+        {
+          "id": "203808b456a5e82d3d33f71a3f47d26616186349",
+          "title": "Protest against housing crisis in Spain",
+          "url": "https://www.theguardian.com/world/2026/oct/03/spain-housing-protest",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-04T08:56:08Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5095,
+      "importance": 0.5095,
+      "importance_score": 0.5095,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7982,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-04T08:56:08Z",
+      "latest_at": "2026-10-04T08:56:08Z",
+      "primary_item": {
+        "id": "275f6ca7f90769a6d12c9f92c270312ae4c44288",
+        "title": "'This can't go on': thousands protest against housing crisis in Spain",
+        "url": "https://www.theguardian.com/world/2026/oct/03/spain-housing-protest",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_e6dc84249acd",
+      "title": "What's the Future for Pure Math Research in the Age of AI?",
+      "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai",
+      "primary_url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai",
       "source": "Hacker News (黑客新闻)",
       "source_name": "Info Flow",
       "sources": [
         {
-          "id": "59468fb8fec07dd79478d310d0f4c8e3a36d8a98",
-          "title": "What I learnt co-leading an AI Safety bootcamp for legal and governance practit",
-          "url": "https://www.lesswrong.com/posts/KtAug62dYRgAS8sqJ/what-i-learnt-co-leading-an-ai-safety-bootcamp-for-legal-and",
+          "id": "dce04fec2f6c811d724bcd24120df19aa3fb1ba3",
+          "title": "What's the Future for Pure Math Research in the Age of AI?",
+          "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-04T17:21:26Z"
+          "published_at": "2026-10-04T07:53:45Z"
         },
         {
-          "id": "be16e9373d1ecb2a695d4f53e4b8865fd7d949df",
-          "title": "What I learnt co-leading an AI Safety bootcamp for legal and governance practit",
-          "url": "https://news.ycombinator.com/item?id=49955839",
+          "id": "e0107a07192b52e623f73e779a90b98fe272f119",
+          "title": "What's the Future for Pure Math Research in the Age of AI?",
+          "url": "https://news.ycombinator.com/item?id=49951641",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-04T17:21:26Z"
+          "published_at": "2026-10-04T07:53:45Z"
         }
       ],
       "source_count": 2,
@@ -1375,47 +1274,47 @@
       ],
       "items": [
         {
-          "id": "59468fb8fec07dd79478d310d0f4c8e3a36d8a98",
-          "title": "What I learnt co-leading an AI Safety bootcamp for legal and governance practit",
-          "url": "https://www.lesswrong.com/posts/KtAug62dYRgAS8sqJ/what-i-learnt-co-leading-an-ai-safety-bootcamp-for-legal-and",
+          "id": "dce04fec2f6c811d724bcd24120df19aa3fb1ba3",
+          "title": "What's the Future for Pure Math Research in the Age of AI?",
+          "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-04T17:21:26Z"
+          "published_at": "2026-10-04T07:53:45Z"
         },
         {
-          "id": "be16e9373d1ecb2a695d4f53e4b8865fd7d949df",
-          "title": "What I learnt co-leading an AI Safety bootcamp for legal and governance practit",
-          "url": "https://news.ycombinator.com/item?id=49955839",
+          "id": "e0107a07192b52e623f73e779a90b98fe272f119",
+          "title": "What's the Future for Pure Math Research in the Age of AI?",
+          "url": "https://news.ycombinator.com/item?id=49951641",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-04T17:21:26Z"
+          "published_at": "2026-10-04T07:53:45Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5345,
-      "importance": 0.5345,
-      "importance_score": 0.5345,
+      "score": 0.5073,
+      "importance": 0.5073,
+      "importance_score": 0.5073,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9372,
+        "recency": 0.7863,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-04T17:21:26Z",
-      "latest_at": "2026-10-04T17:21:26Z",
+      "earliest_at": "2026-10-04T07:53:45Z",
+      "latest_at": "2026-10-04T07:53:45Z",
       "primary_item": {
-        "id": "59468fb8fec07dd79478d310d0f4c8e3a36d8a98",
-        "title": "What I learnt co-leading an AI Safety bootcamp for legal and governance practit",
-        "url": "https://www.lesswrong.com/posts/KtAug62dYRgAS8sqJ/what-i-learnt-co-leading-an-ai-safety-bootcamp-for-legal-and",
+        "id": "dce04fec2f6c811d724bcd24120df19aa3fb1ba3",
+        "title": "What's the Future for Pure Math Research in the Age of AI?",
+        "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai",
         "source": "Hacker News (黑客新闻)",
         "source_name": "Info Flow"
       }
@@ -1474,15 +1373,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5175,
-      "importance": 0.5175,
-      "importance_score": 0.5175,
+      "score": 0.5117,
+      "importance": 0.5117,
+      "importance_score": 0.5117,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8427,
+        "recency": 0.8106,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1497,85 +1396,6 @@
         "url": "https://www.businessinsider.com/job-seeker-used-claude-track-search-improve-interviews-2026-10",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_e6dc84249acd",
-      "title": "What's the Future for Pure Math Research in the Age of AI?",
-      "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai",
-      "primary_url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "dce04fec2f6c811d724bcd24120df19aa3fb1ba3",
-          "title": "What's the Future for Pure Math Research in the Age of AI?",
-          "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-04T07:53:45Z"
-        },
-        {
-          "id": "e0107a07192b52e623f73e779a90b98fe272f119",
-          "title": "What's the Future for Pure Math Research in the Age of AI?",
-          "url": "https://news.ycombinator.com/item?id=49951641",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-04T07:53:45Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "dce04fec2f6c811d724bcd24120df19aa3fb1ba3",
-          "title": "What's the Future for Pure Math Research in the Age of AI?",
-          "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-04T07:53:45Z"
-        },
-        {
-          "id": "e0107a07192b52e623f73e779a90b98fe272f119",
-          "title": "What's the Future for Pure Math Research in the Age of AI?",
-          "url": "https://news.ycombinator.com/item?id=49951641",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-04T07:53:45Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.513,
-      "importance": 0.513,
-      "importance_score": 0.513,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8175,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-04T07:53:45Z",
-      "latest_at": "2026-10-04T07:53:45Z",
-      "primary_item": {
-        "id": "dce04fec2f6c811d724bcd24120df19aa3fb1ba3",
-        "title": "What's the Future for Pure Math Research in the Age of AI?",
-        "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
       }
     },
     {
@@ -1632,15 +1452,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.517,
-      "importance": 0.517,
-      "importance_score": 0.517,
+      "score": 0.5112,
+      "importance": 0.5112,
+      "importance_score": 0.5112,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.84,
+        "recency": 0.8079,
         "story_heat": 0.25
       },
       "category": "watch",
