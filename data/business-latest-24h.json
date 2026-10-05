@@ -1,43 +1,120 @@
 {
-  "generated_at": "2026-10-05T06:12:08.692387Z",
+  "generated_at": "2026-10-05T15:11:45.592108Z",
   "window_hours": 24,
   "items": [
     {
-      "signal_id": "biz_dec41ff5d8c6",
-      "title": "OpenAI’s Head of ChatGPT: We’re entering a new era of AI (again) | Tibo Sottiaux",
-      "url": "https://www.lennysnewsletter.com/p/openais-head-of-chatgpt-were-entering",
-      "source_id": "lenny",
-      "source_name": "Lenny's Newsletter",
-      "published_at": "2026-10-04T12:32:47Z",
-      "captured_at": "2026-10-05T06:12:08.692387Z",
-      "lane": "startup_vc",
+      "signal_id": "biz_6eb040cdf061",
+      "title": "Rehearsal Intelligence: Using Digital Twins for Crisis Readiness",
+      "url": "https://sloanreview.mit.edu/article/rehearsal-intelligence-using-digital-twins-for-crisis-readiness/",
+      "source_id": "mit_smr",
+      "source_name": "MIT Sloan Management Review",
+      "published_at": "2026-10-05T11:00:22Z",
+      "captured_at": "2026-10-05T15:11:45.592108Z",
+      "lane": "authority",
       "entities": [
-        "Lenny's Newsletter",
-        "OpenAI",
-        "Head",
-        "ChatGPT",
-        "Tibo Sottiaux"
+        "MIT Sloan Management Review",
+        "Rehearsal Intelligence",
+        "Using Digital Twins",
+        "Crisis Readiness"
       ],
       "business_model_tags": [
-        "Enterprise AI Workflow",
-        "Founder Case"
+        "AI Business Model Innovation"
       ],
       "yuanli_tags": [
         "yuanli_os"
       ],
       "opc_fit_score": 0,
       "case_concreteness_score": 4,
-      "total_score": 33,
+      "total_score": 37,
       "score_breakdown": {
-        "source_authority": 16,
+        "source_authority": 20,
         "yuanli_relevance": 3,
-        "business_model_value": 3,
+        "business_model_value": 2,
         "case_concreteness": 4,
         "opc_fit": 0,
-        "freshness": 7,
+        "freshness": 8,
         "counter_signal_value": 0
       },
-      "summary": "Listen now (37 mins) | Tibo Sottiaux on why Dots is OpenAI’s biggest bet, why agents will dominate internet traffic, and what builders are still getting wrong Tags: Enterprise AI Workflow, Founder Case.",
+      "summary": "Carolyn Geason-Beissel/MIT SMR | Getty Images In July 2024, the cybersecurity software company CrowdStrike pushed a routine but buggy software update to its platform. In the ensuing 78 minutes, before a patch was deploye... Tags: AI Business Model Innovation.",
+      "timestamp_basis": "feed_published",
+      "transport_mode": "feed"
+    },
+    {
+      "signal_id": "biz_3ce2d152bd64",
+      "title": "Automotive Profitability: How OEM and Supplier Margins Are Faring",
+      "url": "https://www.bain.com/insights/automotive-profitability-how-oem-and-supplier-margins-are-faring-interactive/",
+      "source_id": "bain_insights",
+      "source_name": "Bain Insights",
+      "published_at": "2026-10-05T04:00:00Z",
+      "captured_at": "2026-10-05T15:11:45.592108Z",
+      "lane": "authority",
+      "entities": [
+        "Bain Insights",
+        "Automotive Profitability",
+        "How OEM",
+        "Supplier Margins Are",
+        "Faring"
+      ],
+      "business_model_tags": [
+        "Counter Signal",
+        "AI Business Model Innovation"
+      ],
+      "yuanli_tags": [
+        "profit_container"
+      ],
+      "opc_fit_score": 0,
+      "case_concreteness_score": 0,
+      "total_score": 37,
+      "score_breakdown": {
+        "source_authority": 20,
+        "yuanli_relevance": 3,
+        "business_model_value": 3,
+        "case_concreteness": 0,
+        "opc_fit": 0,
+        "freshness": 7,
+        "counter_signal_value": 4
+      },
+      "summary": "Automotive Profitability: How OEM and Supplier Margins Are Faring Tags: Counter Signal, AI Business Model Innovation.",
+      "timestamp_basis": "feed_published",
+      "transport_mode": "feed"
+    },
+    {
+      "signal_id": "biz_4c3c8ba42546",
+      "title": "How OpenAI uses ChatGPT Sites (live at DevDay!) | Kath Korevec (Product Lead)",
+      "url": "https://www.lennysnewsletter.com/p/how-openai-uses-chatgpt-sites-live",
+      "source_id": "lenny",
+      "source_name": "Lenny's Newsletter",
+      "published_at": "2026-10-05T12:04:54Z",
+      "captured_at": "2026-10-05T15:11:45.592108Z",
+      "lane": "startup_vc",
+      "entities": [
+        "Lenny's Newsletter",
+        "How OpenAI",
+        "ChatGPT Sites",
+        "DevDay",
+        "Kath Korevec",
+        "Product Lead"
+      ],
+      "business_model_tags": [
+        "Founder Case"
+      ],
+      "yuanli_tags": [
+        "yuanli_asset",
+        "ftf_trust"
+      ],
+      "opc_fit_score": 0,
+      "case_concreteness_score": 4,
+      "total_score": 34,
+      "score_breakdown": {
+        "source_authority": 16,
+        "yuanli_relevance": 6,
+        "business_model_value": 0,
+        "case_concreteness": 4,
+        "opc_fit": 0,
+        "freshness": 8,
+        "counter_signal_value": 0
+      },
+      "summary": "Watch now (36 mins) | 🎙️ Kath Korevec demos ChatGPT Sites live at OpenAI DevDay, showing how to turn Slack, Notion, and calendar data into internal tools that adapt to each person on your team Tags: Founder Case.",
       "timestamp_basis": "feed_published",
       "transport_mode": "feed"
     }
