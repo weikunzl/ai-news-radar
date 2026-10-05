@@ -1,32 +1,94 @@
 {
-  "generated_at": "2026-10-05T15:11:45.592108Z",
+  "generated_at": "2026-10-05T22:11:27.272649Z",
   "clusters": [
     {
-      "cluster_id": "biz_cluster_b78712812ec9",
-      "thesis": "Business-school and consulting evidence strengthens the trust layer behind Yuanli IP claims.",
-      "lane": "authority_trust",
+      "cluster_id": "biz_cluster_7893befb10f8",
+      "thesis": "Founder stories provide the most reusable proof layer for Yuanli IP trust-building.",
+      "lane": "founder_case",
       "signal_ids": [
-        "biz_6eb040cdf061"
+        "biz_0a48b9e37998",
+        "biz_6661c68bf51e",
+        "biz_9e4d657d3e32",
+        "biz_a7bbf7e70322",
+        "biz_119fbdd226b2",
+        "biz_3aa78c8bd4b1",
+        "biz_6a1e43b60cfc",
+        "biz_b5a12549ad6c",
+        "biz_a56ff1321f4c",
+        "biz_7586c58bb77e",
+        "biz_4c3c8ba42546"
       ],
-      "source_count": 1,
-      "importance_score": 39,
-      "confidence": "watch",
+      "source_count": 2,
+      "importance_score": 55,
+      "confidence": "medium",
       "yuanli_mapping": [
         "ftf_trust",
         "yuanli_asset",
-        "yuanli_startup"
+        "wealth_flywheel"
       ],
-      "why_it_matters": "1 English evidence items from 1 sources connect this pattern to Yuanli IP.",
+      "why_it_matters": "11 English evidence items from 2 sources connect this pattern to Yuanli IP.",
       "counter_evidence": "See counter_signal cluster for adoption, ROI, and trust risks.",
-      "recommended_action": "Use these authority-backed signals as FTF proof points before making public claims.",
+      "recommended_action": "Convert high-score founder cases into FTF credible story assets.",
       "evidence_refs": [
-        "biz_6eb040cdf061"
+        "biz_0a48b9e37998",
+        "biz_6661c68bf51e",
+        "biz_9e4d657d3e32",
+        "biz_a7bbf7e70322",
+        "biz_119fbdd226b2"
       ],
       "top_sources": [
         {
-          "source": "MIT Sloan Management Review",
-          "title": "Rehearsal Intelligence: Using Digital Twins for Crisis Readiness",
-          "url": "https://sloanreview.mit.edu/article/rehearsal-intelligence-using-digital-twins-for-crisis-readiness/"
+          "source": "CB Insights",
+          "title": "CEO Interview: Elint Systems",
+          "url": "https://www.cbinsights.com/research/ceo-interview-elint-systems/"
+        },
+        {
+          "source": "CB Insights",
+          "title": "CEO Interview: Black Forest Systems",
+          "url": "https://www.cbinsights.com/research/ceo-interview-black-forest-systems/"
+        },
+        {
+          "source": "CB Insights",
+          "title": "CEO Interview: Logic Fruit Technologies",
+          "url": "https://www.cbinsights.com/research/ceo-interview-logic-fruit-technologies/"
+        },
+        {
+          "source": "CB Insights",
+          "title": "Executive Interview: Swarm Defense",
+          "url": "https://www.cbinsights.com/research/executive-interview-swarm-defense/"
+        },
+        {
+          "source": "CB Insights",
+          "title": "CEO Interview: Relu",
+          "url": "https://www.cbinsights.com/research/ceo-interview-relu/"
+        }
+      ]
+    },
+    {
+      "cluster_id": "biz_cluster_c9e7355cf000",
+      "thesis": "Enterprise AI value is moving toward operating-model redesign rather than isolated copilots.",
+      "lane": "enterprise_workflow",
+      "signal_ids": [
+        "biz_260efa4a816b"
+      ],
+      "source_count": 1,
+      "importance_score": 50,
+      "confidence": "watch",
+      "yuanli_mapping": [
+        "yuanli_os",
+        "ftf_trust"
+      ],
+      "why_it_matters": "1 English evidence items from 1 sources connect this pattern to Yuanli IP.",
+      "counter_evidence": "See counter_signal cluster for adoption, ROI, and trust risks.",
+      "recommended_action": "Map each workflow case to the Yuanli OS organs: soul, memory, judgment, hands.",
+      "evidence_refs": [
+        "biz_260efa4a816b"
+      ],
+      "top_sources": [
+        {
+          "source": "GitHub Blog",
+          "title": "ReviewBench: An open benchmark for AI code review",
+          "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review/"
         }
       ]
     },
@@ -59,31 +121,31 @@
       ]
     },
     {
-      "cluster_id": "biz_cluster_7dff14551df6",
-      "thesis": "Founder stories provide the most reusable proof layer for Yuanli IP trust-building.",
-      "lane": "founder_case",
+      "cluster_id": "biz_cluster_b78712812ec9",
+      "thesis": "Business-school and consulting evidence strengthens the trust layer behind Yuanli IP claims.",
+      "lane": "authority_trust",
       "signal_ids": [
-        "biz_4c3c8ba42546"
+        "biz_6eb040cdf061"
       ],
       "source_count": 1,
-      "importance_score": 36,
+      "importance_score": 38,
       "confidence": "watch",
       "yuanli_mapping": [
         "ftf_trust",
         "yuanli_asset",
-        "wealth_flywheel"
+        "yuanli_startup"
       ],
       "why_it_matters": "1 English evidence items from 1 sources connect this pattern to Yuanli IP.",
       "counter_evidence": "See counter_signal cluster for adoption, ROI, and trust risks.",
-      "recommended_action": "Convert high-score founder cases into FTF credible story assets.",
+      "recommended_action": "Use these authority-backed signals as FTF proof points before making public claims.",
       "evidence_refs": [
-        "biz_4c3c8ba42546"
+        "biz_6eb040cdf061"
       ],
       "top_sources": [
         {
-          "source": "Lenny's Newsletter",
-          "title": "How OpenAI uses ChatGPT Sites (live at DevDay!) | Kath Korevec (Product Lead)",
-          "url": "https://www.lennysnewsletter.com/p/how-openai-uses-chatgpt-sites-live"
+          "source": "MIT Sloan Management Review",
+          "title": "Rehearsal Intelligence: Using Digital Twins for Crisis Readiness",
+          "url": "https://sloanreview.mit.edu/article/rehearsal-intelligence-using-digital-twins-for-crisis-readiness/"
         }
       ]
     }
