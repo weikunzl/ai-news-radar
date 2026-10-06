@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T02:28:57.469759Z",
+  "generated_at": "2026-10-06T09:18:44.691456Z",
   "cases": [
     {
       "case_id": "opc_case_a994e033d58c",
@@ -21,7 +21,7 @@
         "yuanli_os",
         "ftf_trust"
       ],
-      "score": 53
+      "score": 52
     },
     {
       "case_id": "opc_case_3ecd4c031347",
@@ -43,7 +43,7 @@
         "yuanli_os",
         "ftf_trust"
       ],
-      "score": 53
+      "score": 52
     },
     {
       "case_id": "opc_case_b5a1aab7f936",
@@ -64,7 +64,7 @@
         "yuanli_startup",
         "ftf_trust"
       ],
-      "score": 50
+      "score": 49
     },
     {
       "case_id": "opc_case_38068b09086b",
@@ -85,7 +85,7 @@
         "yuanli_startup",
         "ftf_trust"
       ],
-      "score": 50
+      "score": 49
     },
     {
       "case_id": "opc_case_938b2968e27e",
@@ -106,7 +106,7 @@
         "yuanli_startup",
         "ftf_trust"
       ],
-      "score": 50
+      "score": 49
     },
     {
       "case_id": "opc_case_0bfd51b35115",
@@ -127,7 +127,7 @@
         "yuanli_startup",
         "ftf_trust"
       ],
-      "score": 50
+      "score": 49
     },
     {
       "case_id": "opc_case_5ea2135116e2",
@@ -148,7 +148,7 @@
         "yuanli_startup",
         "ftf_trust"
       ],
-      "score": 50
+      "score": 49
     },
     {
       "case_id": "opc_case_52d6b9b39211",
@@ -169,7 +169,7 @@
         "yuanli_startup",
         "ftf_trust"
       ],
-      "score": 50
+      "score": 49
     },
     {
       "case_id": "opc_case_b1dd1945b398",
@@ -190,7 +190,7 @@
         "yuanli_startup",
         "ftf_trust"
       ],
-      "score": 50
+      "score": 49
     },
     {
       "case_id": "opc_case_f3d3361c1d2c",
@@ -211,7 +211,27 @@
         "yuanli_startup",
         "ftf_trust"
       ],
-      "score": 50
+      "score": 49
+    },
+    {
+      "case_id": "opc_case_05aed1a19be3",
+      "company": "Pivoting",
+      "founder": "",
+      "source_refs": [
+        "biz_cebdffff6037"
+      ],
+      "url": "https://www.indiehackers.com/post/pivoting-from-a-full-ai-visibility-product-to-1-page-optimization-does-this-resonate-b5cabdcc92",
+      "title": "Pivoting from a full AI-visibility product to $1 page optimization. Does this resonate?",
+      "business_model": "OPC",
+      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
+      "monetization": "To be extracted from the linked source.",
+      "team_size_signal": "team size not explicit",
+      "distribution_channel": "Indie Hackers",
+      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
+      "yuanli_mapping": [
+        "yuanli_startup"
+      ],
+      "score": 32
     },
     {
       "case_id": "opc_case_d2f6282b5da9",
@@ -232,7 +252,27 @@
         "yuanli_os",
         "ftf_trust"
       ],
-      "score": 48
+      "score": 47
+    },
+    {
+      "case_id": "opc_case_053904dd7929",
+      "company": "SaaS",
+      "founder": "",
+      "source_refs": [
+        "biz_7b7dc9dc2b0f"
+      ],
+      "url": "https://www.indiehackers.com/post/i-moved-my-saas-upstream-because-agency-margin-is-lost-before-the-project-even-starts-7cc69370fe",
+      "title": "I moved my SaaS \"upstream\" because agency margin is lost before the project even starts",
+      "business_model": "Counter Signal, OPC",
+      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
+      "monetization": "To be extracted from the linked source.",
+      "team_size_signal": "team size not explicit",
+      "distribution_channel": "Indie Hackers",
+      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
+      "yuanli_mapping": [
+        "profit_container"
+      ],
+      "score": 38
     },
     {
       "case_id": "opc_case_dcc3e2981d40",
