@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-10-06T09:18:44.691456Z",
+  "generated_at": "2026-10-06T16:20:18.364860Z",
   "cases": [
+    {
+      "case_id": "opc_case_621389b4d19b",
+      "company": "CEO Interview",
+      "founder": "",
+      "source_refs": [
+        "biz_7551e794c003"
+      ],
+      "url": "https://www.cbinsights.com/research/ceo-interview-dawnguard/",
+      "title": "CEO Interview: Dawnguard",
+      "business_model": "AI Business Model Innovation, Founder Case",
+      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
+      "monetization": "To be extracted from the linked source.",
+      "team_size_signal": "team size not explicit",
+      "distribution_channel": "CB Insights",
+      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
+      "yuanli_mapping": [
+        "yuanli_startup",
+        "yuanli_os",
+        "ftf_trust"
+      ],
+      "score": 55
+    },
     {
       "case_id": "opc_case_a994e033d58c",
       "company": "CEO Interview",
@@ -44,6 +66,27 @@
         "ftf_trust"
       ],
       "score": 52
+    },
+    {
+      "case_id": "opc_case_57f2b650ba4f",
+      "company": "CEO Interview",
+      "founder": "",
+      "source_refs": [
+        "biz_f3cd1a203681"
+      ],
+      "url": "https://www.cbinsights.com/research/ceo-interview-eldaeon/",
+      "title": "CEO Interview: Eldaeon",
+      "business_model": "Founder Case",
+      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
+      "monetization": "To be extracted from the linked source.",
+      "team_size_signal": "team size not explicit",
+      "distribution_channel": "CB Insights",
+      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
+      "yuanli_mapping": [
+        "yuanli_startup",
+        "ftf_trust"
+      ],
+      "score": 50
     },
     {
       "case_id": "opc_case_b5a1aab7f936",
@@ -172,128 +215,25 @@
       "score": 49
     },
     {
-      "case_id": "opc_case_b1dd1945b398",
-      "company": "Executive Interview",
+      "case_id": "opc_case_e96a5f18f19f",
+      "company": "Indie Hackers",
       "founder": "",
       "source_refs": [
-        "biz_a56ff1321f4c"
+        "biz_83fec51ac44e"
       ],
-      "url": "https://www.cbinsights.com/research/executive-interview-decision-advantage-ai/",
-      "title": "Executive Interview: Decision Advantage AI",
-      "business_model": "Founder Case",
-      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
-      "monetization": "To be extracted from the linked source.",
-      "team_size_signal": "team size not explicit",
-      "distribution_channel": "CB Insights",
-      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
-      "yuanli_mapping": [
-        "yuanli_startup",
-        "ftf_trust"
-      ],
-      "score": 49
-    },
-    {
-      "case_id": "opc_case_f3d3361c1d2c",
-      "company": "Executive Interview",
-      "founder": "",
-      "source_refs": [
-        "biz_7586c58bb77e"
-      ],
-      "url": "https://www.cbinsights.com/research/executive-interview-decade-energy/",
-      "title": "Executive Interview: Decade Energy",
-      "business_model": "Founder Case",
-      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
-      "monetization": "To be extracted from the linked source.",
-      "team_size_signal": "team size not explicit",
-      "distribution_channel": "CB Insights",
-      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
-      "yuanli_mapping": [
-        "yuanli_startup",
-        "ftf_trust"
-      ],
-      "score": 49
-    },
-    {
-      "case_id": "opc_case_05aed1a19be3",
-      "company": "Pivoting",
-      "founder": "",
-      "source_refs": [
-        "biz_cebdffff6037"
-      ],
-      "url": "https://www.indiehackers.com/post/pivoting-from-a-full-ai-visibility-product-to-1-page-optimization-does-this-resonate-b5cabdcc92",
-      "title": "Pivoting from a full AI-visibility product to $1 page optimization. Does this resonate?",
-      "business_model": "OPC",
+      "url": "https://www.indiehackers.com/post/3-products-0-revenue-i-think-i-finally-understand-the-problem-6509e1a76a",
+      "title": "3 products. $0 revenue. I think I finally understand the problem.",
+      "business_model": "AI Business Model Innovation, OPC",
       "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
       "monetization": "To be extracted from the linked source.",
       "team_size_signal": "team size not explicit",
       "distribution_channel": "Indie Hackers",
       "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
       "yuanli_mapping": [
-        "yuanli_startup"
-      ],
-      "score": 32
-    },
-    {
-      "case_id": "opc_case_d2f6282b5da9",
-      "company": "ReviewBench",
-      "founder": "",
-      "source_refs": [
-        "biz_260efa4a816b"
-      ],
-      "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review/",
-      "title": "ReviewBench: An open benchmark for AI code review",
-      "business_model": "Founder Case, Enterprise AI Workflow",
-      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
-      "monetization": "To be extracted from the linked source.",
-      "team_size_signal": "team size not explicit",
-      "distribution_channel": "GitHub Blog",
-      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
-      "yuanli_mapping": [
-        "yuanli_os",
-        "ftf_trust"
-      ],
-      "score": 47
-    },
-    {
-      "case_id": "opc_case_053904dd7929",
-      "company": "SaaS",
-      "founder": "",
-      "source_refs": [
-        "biz_7b7dc9dc2b0f"
-      ],
-      "url": "https://www.indiehackers.com/post/i-moved-my-saas-upstream-because-agency-margin-is-lost-before-the-project-even-starts-7cc69370fe",
-      "title": "I moved my SaaS \"upstream\" because agency margin is lost before the project even starts",
-      "business_model": "Counter Signal, OPC",
-      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
-      "monetization": "To be extracted from the linked source.",
-      "team_size_signal": "team size not explicit",
-      "distribution_channel": "Indie Hackers",
-      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
-      "yuanli_mapping": [
+        "yuanli_startup",
         "profit_container"
       ],
-      "score": 38
-    },
-    {
-      "case_id": "opc_case_dcc3e2981d40",
-      "company": "How OpenAI",
-      "founder": "",
-      "source_refs": [
-        "biz_4c3c8ba42546"
-      ],
-      "url": "https://www.lennysnewsletter.com/p/how-openai-uses-chatgpt-sites-live",
-      "title": "How OpenAI uses ChatGPT Sites (live at DevDay!) | Kath Korevec (Product Lead)",
-      "business_model": "Founder Case",
-      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
-      "monetization": "To be extracted from the linked source.",
-      "team_size_signal": "team size not explicit",
-      "distribution_channel": "Lenny's Newsletter",
-      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
-      "yuanli_mapping": [
-        "yuanli_asset",
-        "ftf_trust"
-      ],
-      "score": 33
+      "score": 40
     }
   ]
 }
