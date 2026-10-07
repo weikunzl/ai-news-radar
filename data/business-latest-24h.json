@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T16:20:18.364860Z",
+  "generated_at": "2026-10-07T00:58:37.121561Z",
   "window_hours": 24,
   "items": [
     {
@@ -9,7 +9,7 @@
       "source_id": "cbinsights",
       "source_name": "CB Insights",
       "published_at": "2026-10-06T13:56:35Z",
-      "captured_at": "2026-10-06T16:20:18.364860Z",
+      "captured_at": "2026-10-07T00:58:37.121561Z",
       "lane": "startup_vc",
       "entities": [
         "CB Insights",
@@ -27,14 +27,14 @@
       ],
       "opc_fit_score": 0,
       "case_concreteness_score": 15,
-      "total_score": 55,
+      "total_score": 54,
       "score_breakdown": {
         "source_authority": 16,
         "yuanli_relevance": 9,
         "business_model_value": 7,
         "case_concreteness": 15,
         "opc_fit": 0,
-        "freshness": 8,
+        "freshness": 7,
         "counter_signal_value": 0
       },
       "summary": "Mahdi Abdulrazak, CEO of Dawnguard, tells CB Insights how they view the market, customer needs, and their company. How do you define your market and where does your company fit into that space? The $500B security archite... Tags: AI Business Model Innovation, Founder Case.",
@@ -42,94 +42,18 @@
       "transport_mode": "feed"
     },
     {
-      "signal_id": "biz_0a48b9e37998",
-      "title": "CEO Interview: Elint Systems",
-      "url": "https://www.cbinsights.com/research/ceo-interview-elint-systems/",
+      "signal_id": "biz_76efdef40ab5",
+      "title": "CEO Interview: Helena Bioinformatics",
+      "url": "https://www.cbinsights.com/research/ceo-interview-helena-bioinformatics/",
       "source_id": "cbinsights",
       "source_name": "CB Insights",
-      "published_at": "2026-10-05T20:51:18Z",
-      "captured_at": "2026-10-06T16:20:18.364860Z",
+      "published_at": "2026-10-06T18:35:28Z",
+      "captured_at": "2026-10-07T00:58:37.121561Z",
       "lane": "startup_vc",
       "entities": [
         "CB Insights",
         "CEO Interview",
-        "Elint Systems"
-      ],
-      "business_model_tags": [
-        "Founder Case"
-      ],
-      "yuanli_tags": [
-        "yuanli_startup",
-        "yuanli_os",
-        "ftf_trust"
-      ],
-      "opc_fit_score": 0,
-      "case_concreteness_score": 15,
-      "total_score": 52,
-      "score_breakdown": {
-        "source_authority": 16,
-        "yuanli_relevance": 9,
-        "business_model_value": 5,
-        "case_concreteness": 15,
-        "opc_fit": 0,
-        "freshness": 7,
-        "counter_signal_value": 0
-      },
-      "summary": "Charlotte Essiet, Chief Executive Officer (CEO) of Elint Systems, tells CB Insights how they view the market, customer needs, and their company. When you win business, why do you win? What differentiates you from competi... Tags: Founder Case.",
-      "timestamp_basis": "feed_published",
-      "transport_mode": "feed"
-    },
-    {
-      "signal_id": "biz_6661c68bf51e",
-      "title": "CEO Interview: Black Forest Systems",
-      "url": "https://www.cbinsights.com/research/ceo-interview-black-forest-systems/",
-      "source_id": "cbinsights",
-      "source_name": "CB Insights",
-      "published_at": "2026-10-05T17:26:30Z",
-      "captured_at": "2026-10-06T16:20:18.364860Z",
-      "lane": "startup_vc",
-      "entities": [
-        "CB Insights",
-        "CEO Interview",
-        "Black Forest Systems"
-      ],
-      "business_model_tags": [
-        "Founder Case"
-      ],
-      "yuanli_tags": [
-        "yuanli_startup",
-        "yuanli_os",
-        "ftf_trust"
-      ],
-      "opc_fit_score": 0,
-      "case_concreteness_score": 15,
-      "total_score": 52,
-      "score_breakdown": {
-        "source_authority": 16,
-        "yuanli_relevance": 9,
-        "business_model_value": 5,
-        "case_concreteness": 15,
-        "opc_fit": 0,
-        "freshness": 7,
-        "counter_signal_value": 0
-      },
-      "summary": "Oleksander Davydenko, Chief Executive Officer (CEO) of Black Forest Systems, tells CB Insights how they view the market, customer needs, and their company. How do you define your market and where does your company fit in... Tags: Founder Case.",
-      "timestamp_basis": "feed_published",
-      "transport_mode": "feed"
-    },
-    {
-      "signal_id": "biz_f3cd1a203681",
-      "title": "CEO Interview: Eldaeon",
-      "url": "https://www.cbinsights.com/research/ceo-interview-eldaeon/",
-      "source_id": "cbinsights",
-      "source_name": "CB Insights",
-      "published_at": "2026-10-06T14:01:58Z",
-      "captured_at": "2026-10-06T16:20:18.364860Z",
-      "lane": "startup_vc",
-      "entities": [
-        "CB Insights",
-        "CEO Interview",
-        "Eldaeon"
+        "Helena Bioinformatics"
       ],
       "business_model_tags": [
         "Founder Case"
@@ -150,229 +74,266 @@
         "freshness": 8,
         "counter_signal_value": 0
       },
+      "summary": "Vladimir Mitev, Chief Executive Officer (CEO) of Helena Bioinformatics, tells CB Insights how they view the market, customer needs, and their company. How do you define your market and where does your company fit into th... Tags: Founder Case.",
+      "timestamp_basis": "feed_published",
+      "transport_mode": "feed"
+    },
+    {
+      "signal_id": "biz_fad0ca5b94cc",
+      "title": "CEO Interview: Lyzr",
+      "url": "https://www.cbinsights.com/research/ceo-interview-lyzr-2/",
+      "source_id": "cbinsights",
+      "source_name": "CB Insights",
+      "published_at": "2026-10-06T17:59:38Z",
+      "captured_at": "2026-10-07T00:58:37.121561Z",
+      "lane": "startup_vc",
+      "entities": [
+        "CB Insights",
+        "CEO Interview",
+        "Lyzr"
+      ],
+      "business_model_tags": [
+        "Founder Case"
+      ],
+      "yuanli_tags": [
+        "yuanli_startup",
+        "ftf_trust"
+      ],
+      "opc_fit_score": 0,
+      "case_concreteness_score": 15,
+      "total_score": 50,
+      "score_breakdown": {
+        "source_authority": 16,
+        "yuanli_relevance": 6,
+        "business_model_value": 5,
+        "case_concreteness": 15,
+        "opc_fit": 0,
+        "freshness": 8,
+        "counter_signal_value": 0
+      },
+      "summary": "Siva Surendira, Chief Executive Officer of Lyzr, tells CB Insights how they view the market, customer needs, and their company. How do you define your market and where does your company fit into that space? The estimated... Tags: Founder Case.",
+      "timestamp_basis": "feed_published",
+      "transport_mode": "feed"
+    },
+    {
+      "signal_id": "biz_68c00e9c8e15",
+      "title": "CEO Interview: Blossom Energy",
+      "url": "https://www.cbinsights.com/research/ceo-interview-blossom-energy/",
+      "source_id": "cbinsights",
+      "source_name": "CB Insights",
+      "published_at": "2026-10-06T17:34:38Z",
+      "captured_at": "2026-10-07T00:58:37.121561Z",
+      "lane": "startup_vc",
+      "entities": [
+        "CB Insights",
+        "CEO Interview",
+        "Blossom Energy"
+      ],
+      "business_model_tags": [
+        "Founder Case"
+      ],
+      "yuanli_tags": [
+        "yuanli_startup",
+        "ftf_trust"
+      ],
+      "opc_fit_score": 0,
+      "case_concreteness_score": 15,
+      "total_score": 50,
+      "score_breakdown": {
+        "source_authority": 16,
+        "yuanli_relevance": 6,
+        "business_model_value": 5,
+        "case_concreteness": 15,
+        "opc_fit": 0,
+        "freshness": 8,
+        "counter_signal_value": 0
+      },
+      "summary": "Shimpei Hamamoto, CEO of Blossom Energy, tells CB Insights how they view the market, customer needs, and their company. Tell us about your reactor design. Blossom Energy is a developer of high-temperature gas-cooled reac... Tags: Founder Case.",
+      "timestamp_basis": "feed_published",
+      "transport_mode": "feed"
+    },
+    {
+      "signal_id": "biz_4c2635173dce",
+      "title": "Executive Interview: Innovative Space Career",
+      "url": "https://www.cbinsights.com/research/executive-interview-innovative-space-career/",
+      "source_id": "cbinsights",
+      "source_name": "CB Insights",
+      "published_at": "2026-10-06T17:23:04Z",
+      "captured_at": "2026-10-07T00:58:37.121561Z",
+      "lane": "startup_vc",
+      "entities": [
+        "CB Insights",
+        "Executive Interview",
+        "Innovative Space Career"
+      ],
+      "business_model_tags": [
+        "Founder Case"
+      ],
+      "yuanli_tags": [
+        "yuanli_startup",
+        "ftf_trust"
+      ],
+      "opc_fit_score": 0,
+      "case_concreteness_score": 15,
+      "total_score": 50,
+      "score_breakdown": {
+        "source_authority": 16,
+        "yuanli_relevance": 6,
+        "business_model_value": 5,
+        "case_concreteness": 15,
+        "opc_fit": 0,
+        "freshness": 8,
+        "counter_signal_value": 0
+      },
+      "summary": "Hiroaki Hori, Chief Financial Officer of Innovative Space Career, tells CB Insights how they view the market, customer needs, and their company. How do you define your market and where does your company fit into that spa... Tags: Founder Case.",
+      "timestamp_basis": "feed_published",
+      "transport_mode": "feed"
+    },
+    {
+      "signal_id": "biz_7635ef28df2f",
+      "title": "CEO Interview: V2O",
+      "url": "https://www.cbinsights.com/research/ceo-interview-v2o/",
+      "source_id": "cbinsights",
+      "source_name": "CB Insights",
+      "published_at": "2026-10-06T17:18:57Z",
+      "captured_at": "2026-10-07T00:58:37.121561Z",
+      "lane": "startup_vc",
+      "entities": [
+        "CB Insights",
+        "CEO Interview",
+        "V2O"
+      ],
+      "business_model_tags": [
+        "Founder Case"
+      ],
+      "yuanli_tags": [
+        "yuanli_startup",
+        "ftf_trust"
+      ],
+      "opc_fit_score": 0,
+      "case_concreteness_score": 15,
+      "total_score": 50,
+      "score_breakdown": {
+        "source_authority": 16,
+        "yuanli_relevance": 6,
+        "business_model_value": 5,
+        "case_concreteness": 15,
+        "opc_fit": 0,
+        "freshness": 8,
+        "counter_signal_value": 0
+      },
+      "summary": "Simone Qu, Chief Executive Officer (CEO) of V2O AI, tells CB Insights how they view the market, customer needs, and their company. How do you define your market and where does your company fit into that space? At V2O, we... Tags: Founder Case.",
+      "timestamp_basis": "feed_published",
+      "transport_mode": "feed"
+    },
+    {
+      "signal_id": "biz_0329ad60dbfd",
+      "title": "CEO Interview: ExchangiFi",
+      "url": "https://www.cbinsights.com/research/ceo-interview-exchangifi/",
+      "source_id": "cbinsights",
+      "source_name": "CB Insights",
+      "published_at": "2026-10-06T17:14:35Z",
+      "captured_at": "2026-10-07T00:58:37.121561Z",
+      "lane": "startup_vc",
+      "entities": [
+        "CB Insights",
+        "CEO Interview",
+        "ExchangiFi"
+      ],
+      "business_model_tags": [
+        "Founder Case"
+      ],
+      "yuanli_tags": [
+        "yuanli_startup",
+        "ftf_trust"
+      ],
+      "opc_fit_score": 0,
+      "case_concreteness_score": 15,
+      "total_score": 50,
+      "score_breakdown": {
+        "source_authority": 16,
+        "yuanli_relevance": 6,
+        "business_model_value": 5,
+        "case_concreteness": 15,
+        "opc_fit": 0,
+        "freshness": 8,
+        "counter_signal_value": 0
+      },
+      "summary": "Matthew Bucklin, Chief Executive Officer (CEO) of ExchangiFi, tells CB Insights how they view the market, customer needs, and their company. How do you define your market and where does your company fit into that space?... Tags: Founder Case.",
+      "timestamp_basis": "feed_published",
+      "transport_mode": "feed"
+    },
+    {
+      "signal_id": "biz_4d561d4db400",
+      "title": "CEO Interview: SatLeo Labs",
+      "url": "https://www.cbinsights.com/research/ceo-interview-satleo-labs/",
+      "source_id": "cbinsights",
+      "source_name": "CB Insights",
+      "published_at": "2026-10-06T17:07:08Z",
+      "captured_at": "2026-10-07T00:58:37.121561Z",
+      "lane": "startup_vc",
+      "entities": [
+        "CB Insights",
+        "CEO Interview",
+        "SatLeo Labs"
+      ],
+      "business_model_tags": [
+        "Founder Case"
+      ],
+      "yuanli_tags": [
+        "yuanli_startup",
+        "ftf_trust"
+      ],
+      "opc_fit_score": 0,
+      "case_concreteness_score": 15,
+      "total_score": 50,
+      "score_breakdown": {
+        "source_authority": 16,
+        "yuanli_relevance": 6,
+        "business_model_value": 5,
+        "case_concreteness": 15,
+        "opc_fit": 0,
+        "freshness": 8,
+        "counter_signal_value": 0
+      },
+      "summary": "Shravan Bhati, Chief Executive Officer (CEO) of SatLeo Labs, tells CB Insights how they view the market, customer needs, and their company. How do you define your market and where does your company fit into that space? S... Tags: Founder Case.",
+      "timestamp_basis": "feed_published",
+      "transport_mode": "feed"
+    },
+    {
+      "signal_id": "biz_f3cd1a203681",
+      "title": "CEO Interview: Eldaeon",
+      "url": "https://www.cbinsights.com/research/ceo-interview-eldaeon/",
+      "source_id": "cbinsights",
+      "source_name": "CB Insights",
+      "published_at": "2026-10-06T14:01:58Z",
+      "captured_at": "2026-10-07T00:58:37.121561Z",
+      "lane": "startup_vc",
+      "entities": [
+        "CB Insights",
+        "CEO Interview",
+        "Eldaeon"
+      ],
+      "business_model_tags": [
+        "Founder Case"
+      ],
+      "yuanli_tags": [
+        "yuanli_startup",
+        "ftf_trust"
+      ],
+      "opc_fit_score": 0,
+      "case_concreteness_score": 15,
+      "total_score": 49,
+      "score_breakdown": {
+        "source_authority": 16,
+        "yuanli_relevance": 6,
+        "business_model_value": 5,
+        "case_concreteness": 15,
+        "opc_fit": 0,
+        "freshness": 7,
+        "counter_signal_value": 0
+      },
       "summary": "David Dominguez Hooper, Chief Executive Officer (CEO) of Eldaeon, tells CB Insights how they view the market, customer needs, and their company. How do you define your market and where does your company fit into that spa... Tags: Founder Case.",
-      "timestamp_basis": "feed_published",
-      "transport_mode": "feed"
-    },
-    {
-      "signal_id": "biz_9e4d657d3e32",
-      "title": "CEO Interview: Logic Fruit Technologies",
-      "url": "https://www.cbinsights.com/research/ceo-interview-logic-fruit-technologies/",
-      "source_id": "cbinsights",
-      "source_name": "CB Insights",
-      "published_at": "2026-10-05T20:55:00Z",
-      "captured_at": "2026-10-06T16:20:18.364860Z",
-      "lane": "startup_vc",
-      "entities": [
-        "CB Insights",
-        "CEO Interview",
-        "Logic Fruit Technologies"
-      ],
-      "business_model_tags": [
-        "Founder Case"
-      ],
-      "yuanli_tags": [
-        "yuanli_startup",
-        "ftf_trust"
-      ],
-      "opc_fit_score": 0,
-      "case_concreteness_score": 15,
-      "total_score": 49,
-      "score_breakdown": {
-        "source_authority": 16,
-        "yuanli_relevance": 6,
-        "business_model_value": 5,
-        "case_concreteness": 15,
-        "opc_fit": 0,
-        "freshness": 7,
-        "counter_signal_value": 0
-      },
-      "summary": "Sourabh Varma, Chief Executive Officer (India) of Logic Fruit Technologies, tells CB Insights how they view the market, customer needs, and their company. How do you define your market and where does your company fit int... Tags: Founder Case.",
-      "timestamp_basis": "feed_published",
-      "transport_mode": "feed"
-    },
-    {
-      "signal_id": "biz_a7bbf7e70322",
-      "title": "Executive Interview: Swarm Defense",
-      "url": "https://www.cbinsights.com/research/executive-interview-swarm-defense/",
-      "source_id": "cbinsights",
-      "source_name": "CB Insights",
-      "published_at": "2026-10-05T20:41:28Z",
-      "captured_at": "2026-10-06T16:20:18.364860Z",
-      "lane": "startup_vc",
-      "entities": [
-        "CB Insights",
-        "Executive Interview",
-        "Swarm Defense"
-      ],
-      "business_model_tags": [
-        "Founder Case"
-      ],
-      "yuanli_tags": [
-        "yuanli_startup",
-        "ftf_trust"
-      ],
-      "opc_fit_score": 0,
-      "case_concreteness_score": 15,
-      "total_score": 49,
-      "score_breakdown": {
-        "source_authority": 16,
-        "yuanli_relevance": 6,
-        "business_model_value": 5,
-        "case_concreteness": 15,
-        "opc_fit": 0,
-        "freshness": 7,
-        "counter_signal_value": 0
-      },
-      "summary": "Hannan Fleiman, Chief Commercial Officer (CCO) of Swarm Defense, tells CB Insights how they view the market, customer needs, and their company. How do you define your market and where does your company fit into that spac... Tags: Founder Case.",
-      "timestamp_basis": "feed_published",
-      "transport_mode": "feed"
-    },
-    {
-      "signal_id": "biz_119fbdd226b2",
-      "title": "CEO Interview: Relu",
-      "url": "https://www.cbinsights.com/research/ceo-interview-relu/",
-      "source_id": "cbinsights",
-      "source_name": "CB Insights",
-      "published_at": "2026-10-05T20:32:49Z",
-      "captured_at": "2026-10-06T16:20:18.364860Z",
-      "lane": "startup_vc",
-      "entities": [
-        "CB Insights",
-        "CEO Interview",
-        "Relu"
-      ],
-      "business_model_tags": [
-        "Founder Case"
-      ],
-      "yuanli_tags": [
-        "yuanli_startup",
-        "ftf_trust"
-      ],
-      "opc_fit_score": 0,
-      "case_concreteness_score": 15,
-      "total_score": 49,
-      "score_breakdown": {
-        "source_authority": 16,
-        "yuanli_relevance": 6,
-        "business_model_value": 5,
-        "case_concreteness": 15,
-        "opc_fit": 0,
-        "freshness": 7,
-        "counter_signal_value": 0
-      },
-      "summary": "Holger Willems, Chief Executive Officer (CEO) of Relu, tells CB Insights how they view the market, customer needs, and their company. How do you define your market and where does your company fit into that space? We’re w... Tags: Founder Case.",
-      "timestamp_basis": "feed_published",
-      "transport_mode": "feed"
-    },
-    {
-      "signal_id": "biz_3aa78c8bd4b1",
-      "title": "Executive Interview: Crypto4A",
-      "url": "https://www.cbinsights.com/research/executive-interview-crypto4a-2/",
-      "source_id": "cbinsights",
-      "source_name": "CB Insights",
-      "published_at": "2026-10-05T20:24:27Z",
-      "captured_at": "2026-10-06T16:20:18.364860Z",
-      "lane": "startup_vc",
-      "entities": [
-        "CB Insights",
-        "Executive Interview",
-        "Crypto4A"
-      ],
-      "business_model_tags": [
-        "Founder Case"
-      ],
-      "yuanli_tags": [
-        "yuanli_startup",
-        "ftf_trust"
-      ],
-      "opc_fit_score": 0,
-      "case_concreteness_score": 15,
-      "total_score": 49,
-      "score_breakdown": {
-        "source_authority": 16,
-        "yuanli_relevance": 6,
-        "business_model_value": 5,
-        "case_concreteness": 15,
-        "opc_fit": 0,
-        "freshness": 7,
-        "counter_signal_value": 0
-      },
-      "summary": "Meaghan Green, Vice President, Marketing of Crypto4A, tells CB Insights how they view the market, customer needs, and their company. How do you define your market and where does your company fit into that space? At Crypt... Tags: Founder Case.",
-      "timestamp_basis": "feed_published",
-      "transport_mode": "feed"
-    },
-    {
-      "signal_id": "biz_6a1e43b60cfc",
-      "title": "CEO Interview: Multiplier",
-      "url": "https://www.cbinsights.com/research/ceo-interview-multiplier/",
-      "source_id": "cbinsights",
-      "source_name": "CB Insights",
-      "published_at": "2026-10-05T19:45:08Z",
-      "captured_at": "2026-10-06T16:20:18.364860Z",
-      "lane": "startup_vc",
-      "entities": [
-        "CB Insights",
-        "CEO Interview",
-        "Multiplier"
-      ],
-      "business_model_tags": [
-        "Founder Case"
-      ],
-      "yuanli_tags": [
-        "yuanli_startup",
-        "ftf_trust"
-      ],
-      "opc_fit_score": 0,
-      "case_concreteness_score": 15,
-      "total_score": 49,
-      "score_breakdown": {
-        "source_authority": 16,
-        "yuanli_relevance": 6,
-        "business_model_value": 5,
-        "case_concreteness": 15,
-        "opc_fit": 0,
-        "freshness": 7,
-        "counter_signal_value": 0
-      },
-      "summary": "Ian Malcolm Johnson McInnis, Chief Executive Officer (CEO) of Multiplier, tells CB Insights how they view the market, customer needs, and their company. How do you define your market and where does your company fit into... Tags: Founder Case.",
-      "timestamp_basis": "feed_published",
-      "transport_mode": "feed"
-    },
-    {
-      "signal_id": "biz_b5a12549ad6c",
-      "title": "CEO Interview: Shiplog",
-      "url": "https://www.cbinsights.com/research/ceo-interview-shiplog/",
-      "source_id": "cbinsights",
-      "source_name": "CB Insights",
-      "published_at": "2026-10-05T17:29:09Z",
-      "captured_at": "2026-10-06T16:20:18.364860Z",
-      "lane": "startup_vc",
-      "entities": [
-        "CB Insights",
-        "CEO Interview",
-        "Shiplog"
-      ],
-      "business_model_tags": [
-        "Founder Case"
-      ],
-      "yuanli_tags": [
-        "yuanli_startup",
-        "ftf_trust"
-      ],
-      "opc_fit_score": 0,
-      "case_concreteness_score": 15,
-      "total_score": 49,
-      "score_breakdown": {
-        "source_authority": 16,
-        "yuanli_relevance": 6,
-        "business_model_value": 5,
-        "case_concreteness": 15,
-        "opc_fit": 0,
-        "freshness": 7,
-        "counter_signal_value": 0
-      },
-      "summary": "Khushi Mehta, Chief Executive Officer of Shiplog, tells CB Insights how they view the market, customer needs, and their company. How do you define your market and where does your company fit into that space? We operate i... Tags: Founder Case.",
       "timestamp_basis": "feed_published",
       "transport_mode": "feed"
     },
@@ -383,7 +344,7 @@
       "source_id": "indie_hackers",
       "source_name": "Indie Hackers",
       "published_at": "2026-10-06T02:24:49.680000Z",
-      "captured_at": "2026-10-06T16:20:18.364860Z",
+      "captured_at": "2026-10-07T00:58:37.121561Z",
       "lane": "opc",
       "entities": [
         "Indie Hackers"
@@ -419,7 +380,7 @@
       "source_id": "mit_smr",
       "source_name": "MIT Sloan Management Review",
       "published_at": "2026-10-06T11:00:14Z",
-      "captured_at": "2026-10-06T16:20:18.364860Z",
+      "captured_at": "2026-10-07T00:58:37.121561Z",
       "lane": "authority",
       "entities": [
         "MIT Sloan Management Review",
@@ -437,19 +398,128 @@
       ],
       "opc_fit_score": 0,
       "case_concreteness_score": 0,
-      "total_score": 38,
+      "total_score": 37,
       "score_breakdown": {
         "source_authority": 20,
         "yuanli_relevance": 0,
         "business_model_value": 6,
         "case_concreteness": 0,
         "opc_fit": 0,
-        "freshness": 8,
+        "freshness": 7,
         "counter_signal_value": 4
       },
       "summary": "Danae Diaz/Ikon Images It’s a familiar scenario: An organization implements digital tools intended to improve a particular process but fails to obtain the desired result. Employees who are meant to use them complain that... Tags: Enterprise AI Workflow, Counter Signal, AI Business Model Innovation.",
       "timestamp_basis": "feed_published",
       "transport_mode": "feed"
+    },
+    {
+      "signal_id": "biz_b46a33856a00",
+      "title": "Building Git infrastructure for agent-scale development",
+      "url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/",
+      "source_id": "github_blog",
+      "source_name": "GitHub Blog",
+      "published_at": "2026-10-06T20:57:56Z",
+      "captured_at": "2026-10-07T00:58:37.121561Z",
+      "lane": "ai_commercialization",
+      "entities": [
+        "GitHub Blog",
+        "Building Git"
+      ],
+      "business_model_tags": [
+        "Enterprise AI Workflow"
+      ],
+      "yuanli_tags": [
+        "yuanli_os"
+      ],
+      "opc_fit_score": 0,
+      "case_concreteness_score": 0,
+      "total_score": 34,
+      "score_breakdown": {
+        "source_authority": 20,
+        "yuanli_relevance": 3,
+        "business_model_value": 3,
+        "case_concreteness": 0,
+        "opc_fit": 0,
+        "freshness": 8,
+        "counter_signal_value": 0
+      },
+      "summary": "We're rebuilding GitHub's Git infrastructure while GitHub keeps running, creating a foundation for agent-scale software development. The post Building Git infrastructure for agent-scale development appeared first on The... Tags: Enterprise AI Workflow.",
+      "timestamp_basis": "feed_published",
+      "transport_mode": "feed"
+    },
+    {
+      "signal_id": "biz_ded2afa0a495",
+      "title": "The AI Risk Your Company Is Overlooking",
+      "url": "https://hbr.org/2026/10/the-ai-risk-your-company-is-overlooking",
+      "source_id": "hbr",
+      "source_name": "Harvard Business Review",
+      "published_at": "2026-10-06T12:25:54Z",
+      "captured_at": "2026-10-07T00:58:37.121561Z",
+      "lane": "authority",
+      "entities": [
+        "Harvard Business Review",
+        "The AI Risk",
+        "Your Company Is",
+        "Overlooking"
+      ],
+      "business_model_tags": [
+        "Counter Signal",
+        "AI Business Model Innovation"
+      ],
+      "yuanli_tags": [
+        "yuanli_startup"
+      ],
+      "opc_fit_score": 0,
+      "case_concreteness_score": 0,
+      "total_score": 34,
+      "score_breakdown": {
+        "source_authority": 20,
+        "yuanli_relevance": 0,
+        "business_model_value": 3,
+        "case_concreteness": 0,
+        "opc_fit": 0,
+        "freshness": 7,
+        "counter_signal_value": 4
+      },
+      "summary": "The AI Risk Your Company Is Overlooking Tags: Counter Signal, AI Business Model Innovation.",
+      "timestamp_basis": "feed_published",
+      "transport_mode": "feed"
+    },
+    {
+      "signal_id": "biz_d47e90ab335e",
+      "title": "12 Gumroad products, 86 views, $0 in 30 days. Here's my own teardown, tell me what I'm missing",
+      "url": "https://www.indiehackers.com/post/12-gumroad-products-86-views-0-in-30-days-heres-my-own-teardown-tell-me-what-i-m-missing-c16dc6da40",
+      "source_id": "indie_hackers",
+      "source_name": "Indie Hackers",
+      "published_at": "2026-10-06T16:52:46.528000Z",
+      "captured_at": "2026-10-07T00:58:37.121561Z",
+      "lane": "opc",
+      "entities": [
+        "Indie Hackers",
+        "Gumroad",
+        "Here"
+      ],
+      "business_model_tags": [
+        "OPC"
+      ],
+      "yuanli_tags": [
+        "yuanli_startup"
+      ],
+      "opc_fit_score": 5,
+      "case_concreteness_score": 4,
+      "total_score": 33,
+      "score_breakdown": {
+        "source_authority": 16,
+        "yuanli_relevance": 0,
+        "business_model_value": 0,
+        "case_concreteness": 4,
+        "opc_fit": 5,
+        "freshness": 8,
+        "counter_signal_value": 0
+      },
+      "summary": "12 Gumroad products, 86 views, $0 in 30 days. Here's my own teardown, tell me what I'm missing Tags: OPC.",
+      "timestamp_basis": "page_structured_time",
+      "transport_mode": "page_detail"
     }
   ]
 }
