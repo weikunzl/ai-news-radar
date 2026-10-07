@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T00:58:37.121561Z",
+  "generated_at": "2026-10-07T06:59:23.018060Z",
   "clusters": [
     {
       "cluster_id": "biz_cluster_456d36fb941d",
@@ -17,7 +17,7 @@
         "biz_f3cd1a203681"
       ],
       "source_count": 1,
-      "importance_score": 53,
+      "importance_score": 52,
       "confidence": "watch",
       "yuanli_mapping": [
         "ftf_trust",
@@ -63,6 +63,35 @@
       ]
     },
     {
+      "cluster_id": "biz_cluster_b3d1faa95ce6",
+      "thesis": "AI leverage is making one-person and tiny-team companies a credible strategic archetype.",
+      "lane": "opc",
+      "signal_ids": [
+        "biz_3a2894d70cdb"
+      ],
+      "source_count": 1,
+      "importance_score": 48,
+      "confidence": "watch",
+      "yuanli_mapping": [
+        "yuanli_asset",
+        "yuanli_startup",
+        "profit_container"
+      ],
+      "why_it_matters": "1 English evidence items from 1 sources connect this pattern to Yuanli IP.",
+      "counter_evidence": "See counter_signal cluster for adoption, ROI, and trust risks.",
+      "recommended_action": "Turn the strongest case into a Yuanli OPC teaching module with leverage, distribution, and monetization explicitly mapped.",
+      "evidence_refs": [
+        "biz_3a2894d70cdb"
+      ],
+      "top_sources": [
+        {
+          "source": "Indie Hackers",
+          "title": "I launched a $9 one-time Mac image compressor today — here's why I refused to make it a subscription",
+          "url": "https://www.indiehackers.com/post/i-launched-a-9-one-time-mac-image-compressor-today-heres-why-i-refused-to-make-it-a-subscription-29f34a3109"
+        }
+      ]
+    },
+    {
       "cluster_id": "biz_cluster_452b81d4a7bc",
       "thesis": "AI adoption counter-signals reveal where Yuanli claims need sharper proof and risk language.",
       "lane": "counter_signal",
@@ -94,42 +123,6 @@
           "source": "Harvard Business Review",
           "title": "The AI Risk Your Company Is Overlooking",
           "url": "https://hbr.org/2026/10/the-ai-risk-your-company-is-overlooking"
-        }
-      ]
-    },
-    {
-      "cluster_id": "biz_cluster_4ef3326aaf08",
-      "thesis": "AI leverage is making one-person and tiny-team companies a credible strategic archetype.",
-      "lane": "opc",
-      "signal_ids": [
-        "biz_83fec51ac44e",
-        "biz_d47e90ab335e"
-      ],
-      "source_count": 1,
-      "importance_score": 38,
-      "confidence": "watch",
-      "yuanli_mapping": [
-        "yuanli_asset",
-        "yuanli_startup",
-        "profit_container"
-      ],
-      "why_it_matters": "2 English evidence items from 1 sources connect this pattern to Yuanli IP.",
-      "counter_evidence": "See counter_signal cluster for adoption, ROI, and trust risks.",
-      "recommended_action": "Turn the strongest case into a Yuanli OPC teaching module with leverage, distribution, and monetization explicitly mapped.",
-      "evidence_refs": [
-        "biz_83fec51ac44e",
-        "biz_d47e90ab335e"
-      ],
-      "top_sources": [
-        {
-          "source": "Indie Hackers",
-          "title": "3 products. $0 revenue. I think I finally understand the problem.",
-          "url": "https://www.indiehackers.com/post/3-products-0-revenue-i-think-i-finally-understand-the-problem-6509e1a76a"
-        },
-        {
-          "source": "Indie Hackers",
-          "title": "12 Gumroad products, 86 views, $0 in 30 days. Here's my own teardown, tell me what I'm missing",
-          "url": "https://www.indiehackers.com/post/12-gumroad-products-86-views-0-in-30-days-heres-my-own-teardown-tell-me-what-i-m-missing-c16dc6da40"
         }
       ]
     },
