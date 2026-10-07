@@ -1,45 +1,38 @@
 {
-  "generated_at": "2026-10-07T06:59:23.018060Z",
+  "generated_at": "2026-10-07T14:20:53.108202Z",
   "clusters": [
     {
-      "cluster_id": "biz_cluster_456d36fb941d",
+      "cluster_id": "biz_cluster_d996d85a7f33",
       "thesis": "Founder stories provide the most reusable proof layer for Yuanli IP trust-building.",
       "lane": "founder_case",
       "signal_ids": [
-        "biz_7551e794c003",
         "biz_76efdef40ab5",
         "biz_fad0ca5b94cc",
         "biz_68c00e9c8e15",
         "biz_4c2635173dce",
         "biz_7635ef28df2f",
         "biz_0329ad60dbfd",
-        "biz_4d561d4db400",
-        "biz_f3cd1a203681"
+        "biz_4d561d4db400"
       ],
       "source_count": 1,
-      "importance_score": 52,
+      "importance_score": 51,
       "confidence": "watch",
       "yuanli_mapping": [
         "ftf_trust",
         "yuanli_asset",
         "wealth_flywheel"
       ],
-      "why_it_matters": "9 English evidence items from 1 sources connect this pattern to Yuanli IP.",
+      "why_it_matters": "7 English evidence items from 1 sources connect this pattern to Yuanli IP.",
       "counter_evidence": "See counter_signal cluster for adoption, ROI, and trust risks.",
       "recommended_action": "Convert high-score founder cases into FTF credible story assets.",
       "evidence_refs": [
-        "biz_7551e794c003",
         "biz_76efdef40ab5",
         "biz_fad0ca5b94cc",
         "biz_68c00e9c8e15",
-        "biz_4c2635173dce"
+        "biz_4c2635173dce",
+        "biz_7635ef28df2f"
       ],
       "top_sources": [
-        {
-          "source": "CB Insights",
-          "title": "CEO Interview: Dawnguard",
-          "url": "https://www.cbinsights.com/research/ceo-interview-dawnguard/"
-        },
         {
           "source": "CB Insights",
           "title": "CEO Interview: Helena Bioinformatics",
@@ -59,18 +52,23 @@
           "source": "CB Insights",
           "title": "Executive Interview: Innovative Space Career",
           "url": "https://www.cbinsights.com/research/executive-interview-innovative-space-career/"
+        },
+        {
+          "source": "CB Insights",
+          "title": "CEO Interview: V2O",
+          "url": "https://www.cbinsights.com/research/ceo-interview-v2o/"
         }
       ]
     },
     {
-      "cluster_id": "biz_cluster_b3d1faa95ce6",
+      "cluster_id": "biz_cluster_3e1cadf587d5",
       "thesis": "AI leverage is making one-person and tiny-team companies a credible strategic archetype.",
       "lane": "opc",
       "signal_ids": [
-        "biz_3a2894d70cdb"
+        "biz_f916a430a68a"
       ],
       "source_count": 1,
-      "importance_score": 48,
+      "importance_score": 38,
       "confidence": "watch",
       "yuanli_mapping": [
         "yuanli_asset",
@@ -81,48 +79,13 @@
       "counter_evidence": "See counter_signal cluster for adoption, ROI, and trust risks.",
       "recommended_action": "Turn the strongest case into a Yuanli OPC teaching module with leverage, distribution, and monetization explicitly mapped.",
       "evidence_refs": [
-        "biz_3a2894d70cdb"
+        "biz_f916a430a68a"
       ],
       "top_sources": [
         {
-          "source": "Indie Hackers",
-          "title": "I launched a $9 one-time Mac image compressor today — here's why I refused to make it a subscription",
-          "url": "https://www.indiehackers.com/post/i-launched-a-9-one-time-mac-image-compressor-today-heres-why-i-refused-to-make-it-a-subscription-29f34a3109"
-        }
-      ]
-    },
-    {
-      "cluster_id": "biz_cluster_452b81d4a7bc",
-      "thesis": "AI adoption counter-signals reveal where Yuanli claims need sharper proof and risk language.",
-      "lane": "counter_signal",
-      "signal_ids": [
-        "biz_9c654d25f9b3",
-        "biz_ded2afa0a495"
-      ],
-      "source_count": 2,
-      "importance_score": 40,
-      "confidence": "medium",
-      "yuanli_mapping": [
-        "ftf_trust",
-        "yuanli_os"
-      ],
-      "why_it_matters": "2 English evidence items from 2 sources connect this pattern to Yuanli IP.",
-      "counter_evidence": "Counter-signals are the evidence, not a rejection of the thesis.",
-      "recommended_action": "Add these counter-signals to sales objections and content credibility checks.",
-      "evidence_refs": [
-        "biz_9c654d25f9b3",
-        "biz_ded2afa0a495"
-      ],
-      "top_sources": [
-        {
-          "source": "MIT Sloan Management Review",
-          "title": "The Real Reasons Why Digital Projects Fail",
-          "url": "https://sloanreview.mit.edu/article/the-real-reasons-why-digital-projects-fail/"
-        },
-        {
-          "source": "Harvard Business Review",
-          "title": "The AI Risk Your Company Is Overlooking",
-          "url": "https://hbr.org/2026/10/the-ai-risk-your-company-is-overlooking"
+          "source": "Latent Space",
+          "title": "Can a Cloud-Native Harness Make Agents Reliable Beyond the Desktop?",
+          "url": "https://www.latent.space/p/stacklok"
         }
       ]
     },
@@ -134,7 +97,7 @@
         "biz_b46a33856a00"
       ],
       "source_count": 1,
-      "importance_score": 36,
+      "importance_score": 35,
       "confidence": "watch",
       "yuanli_mapping": [
         "yuanli_os",
@@ -151,6 +114,35 @@
           "source": "GitHub Blog",
           "title": "Building Git infrastructure for agent-scale development",
           "url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/"
+        }
+      ]
+    },
+    {
+      "cluster_id": "biz_cluster_f59dfe79a520",
+      "thesis": "Business-school and consulting evidence strengthens the trust layer behind Yuanli IP claims.",
+      "lane": "authority_trust",
+      "signal_ids": [
+        "biz_7107f35892d1"
+      ],
+      "source_count": 1,
+      "importance_score": 34,
+      "confidence": "watch",
+      "yuanli_mapping": [
+        "ftf_trust",
+        "yuanli_asset",
+        "yuanli_startup"
+      ],
+      "why_it_matters": "1 English evidence items from 1 sources connect this pattern to Yuanli IP.",
+      "counter_evidence": "See counter_signal cluster for adoption, ROI, and trust risks.",
+      "recommended_action": "Use these authority-backed signals as FTF proof points before making public claims.",
+      "evidence_refs": [
+        "biz_7107f35892d1"
+      ],
+      "top_sources": [
+        {
+          "source": "MIT Sloan Management Review",
+          "title": "When Compliance Workarounds Backfire",
+          "url": "https://sloanreview.mit.edu/article/when-compliance-workarounds-backfire/"
         }
       ]
     }

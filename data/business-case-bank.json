@@ -1,48 +1,6 @@
 {
-  "generated_at": "2026-10-07T06:59:23.018060Z",
+  "generated_at": "2026-10-07T14:20:53.108202Z",
   "cases": [
-    {
-      "case_id": "opc_case_6a32d944783a",
-      "company": "Mac",
-      "founder": "",
-      "source_refs": [
-        "biz_3a2894d70cdb"
-      ],
-      "url": "https://www.indiehackers.com/post/i-launched-a-9-one-time-mac-image-compressor-today-heres-why-i-refused-to-make-it-a-subscription-29f34a3109",
-      "title": "I launched a $9 one-time Mac image compressor today — here's why I refused to make it a subscription",
-      "business_model": "Founder Case, OPC",
-      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
-      "monetization": "To be extracted from the linked source.",
-      "team_size_signal": "team size not explicit",
-      "distribution_channel": "Indie Hackers",
-      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
-      "yuanli_mapping": [
-        "profit_container"
-      ],
-      "score": 46
-    },
-    {
-      "case_id": "opc_case_621389b4d19b",
-      "company": "CEO Interview",
-      "founder": "",
-      "source_refs": [
-        "biz_7551e794c003"
-      ],
-      "url": "https://www.cbinsights.com/research/ceo-interview-dawnguard/",
-      "title": "CEO Interview: Dawnguard",
-      "business_model": "AI Business Model Innovation, Founder Case",
-      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
-      "monetization": "To be extracted from the linked source.",
-      "team_size_signal": "team size not explicit",
-      "distribution_channel": "CB Insights",
-      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
-      "yuanli_mapping": [
-        "yuanli_startup",
-        "yuanli_os",
-        "ftf_trust"
-      ],
-      "score": 54
-    },
     {
       "case_id": "opc_case_2d5ba5c1a0e1",
       "company": "CEO Interview",
@@ -191,25 +149,24 @@
       "score": 49
     },
     {
-      "case_id": "opc_case_57f2b650ba4f",
-      "company": "CEO Interview",
+      "case_id": "opc_case_d67ff24468d7",
+      "company": "Can",
       "founder": "",
       "source_refs": [
-        "biz_f3cd1a203681"
+        "biz_f916a430a68a"
       ],
-      "url": "https://www.cbinsights.com/research/ceo-interview-eldaeon/",
-      "title": "CEO Interview: Eldaeon",
-      "business_model": "Founder Case",
+      "url": "https://www.latent.space/p/stacklok",
+      "title": "Can a Cloud-Native Harness Make Agents Reliable Beyond the Desktop?",
+      "business_model": "OPC, Enterprise AI Workflow",
       "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
       "monetization": "To be extracted from the linked source.",
-      "team_size_signal": "team size not explicit",
-      "distribution_channel": "CB Insights",
+      "team_size_signal": "one-person/tiny-team fit",
+      "distribution_channel": "Latent Space",
       "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
       "yuanli_mapping": [
-        "yuanli_startup",
-        "ftf_trust"
+        "yuanli_os"
       ],
-      "score": 49
+      "score": 36
     }
   ]
 }
