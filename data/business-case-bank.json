@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-10-08T14:00:30.497071Z",
+  "generated_at": "2026-10-08T19:48:12.047854Z",
   "cases": [
+    {
+      "case_id": "opc_case_b3c5606d9aa0",
+      "company": "Executive Interview",
+      "founder": "",
+      "source_refs": [
+        "biz_34c0afba8697"
+      ],
+      "url": "https://www.cbinsights.com/research/executive-interview-anomaly-3/",
+      "title": "Executive Interview: Anomaly",
+      "business_model": "AI Business Model Innovation, Founder Case",
+      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
+      "monetization": "To be extracted from the linked source.",
+      "team_size_signal": "team size not explicit",
+      "distribution_channel": "CB Insights",
+      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
+      "yuanli_mapping": [
+        "yuanli_startup",
+        "ftf_trust",
+        "profit_container"
+      ],
+      "score": 57
+    },
     {
       "case_id": "opc_case_bce5d95087a9",
       "company": "Executive Interview",
@@ -45,48 +67,6 @@
       "score": 51
     },
     {
-      "case_id": "opc_case_973c91e74dc5",
-      "company": "CEO Interview",
-      "founder": "",
-      "source_refs": [
-        "biz_48c29a00e837"
-      ],
-      "url": "https://www.cbinsights.com/research/ceo-interview-withcoverage-2/",
-      "title": "CEO Interview: WithCoverage",
-      "business_model": "Founder Case",
-      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
-      "monetization": "To be extracted from the linked source.",
-      "team_size_signal": "team size not explicit",
-      "distribution_channel": "CB Insights",
-      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
-      "yuanli_mapping": [
-        "yuanli_startup",
-        "ftf_trust"
-      ],
-      "score": 49
-    },
-    {
-      "case_id": "opc_case_47c975be5cbc",
-      "company": "Executive Interview",
-      "founder": "",
-      "source_refs": [
-        "biz_ec5b01ad35cf"
-      ],
-      "url": "https://www.cbinsights.com/research/executive-interview-anomaly/",
-      "title": "Executive Interview: Anomaly",
-      "business_model": "Founder Case",
-      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
-      "monetization": "To be extracted from the linked source.",
-      "team_size_signal": "team size not explicit",
-      "distribution_channel": "CB Insights",
-      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
-      "yuanli_mapping": [
-        "yuanli_startup",
-        "ftf_trust"
-      ],
-      "score": 49
-    },
-    {
       "case_id": "opc_case_7a9c19b537a2",
       "company": "CEO Interview",
       "founder": "",
@@ -106,26 +86,6 @@
         "ftf_trust"
       ],
       "score": 49
-    },
-    {
-      "case_id": "opc_case_d67ff24468d7",
-      "company": "Can",
-      "founder": "",
-      "source_refs": [
-        "biz_f916a430a68a"
-      ],
-      "url": "https://www.latent.space/p/stacklok",
-      "title": "Can a Cloud-Native Harness Make Agents Reliable Beyond the Desktop?",
-      "business_model": "OPC, Enterprise AI Workflow",
-      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
-      "monetization": "To be extracted from the linked source.",
-      "team_size_signal": "one-person/tiny-team fit",
-      "distribution_channel": "Latent Space",
-      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
-      "yuanli_mapping": [
-        "yuanli_os"
-      ],
-      "score": 35
     }
   ]
 }
