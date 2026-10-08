@@ -1,6 +1,134 @@
 {
-  "generated_at": "2026-10-07T20:08:38.216193Z",
+  "generated_at": "2026-10-08T00:23:50.789933Z",
   "cases": [
+    {
+      "case_id": "opc_case_bce5d95087a9",
+      "company": "Executive Interview",
+      "founder": "",
+      "source_refs": [
+        "biz_d1cf4f894fef"
+      ],
+      "url": "https://www.cbinsights.com/research/executive-interview-paylead/",
+      "title": "Executive Interview: PayLead",
+      "business_model": "AI Business Model Innovation, Founder Case",
+      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
+      "monetization": "To be extracted from the linked source.",
+      "team_size_signal": "team size not explicit",
+      "distribution_channel": "CB Insights",
+      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
+      "yuanli_mapping": [
+        "yuanli_startup",
+        "ftf_trust",
+        "profit_container"
+      ],
+      "score": 57
+    },
+    {
+      "case_id": "opc_case_6dbfcc19476a",
+      "company": "CEO Interview",
+      "founder": "",
+      "source_refs": [
+        "biz_ffd0cc4c22d7"
+      ],
+      "url": "https://www.cbinsights.com/research/ceo-interview-doceree/",
+      "title": "CEO Interview: Doceree",
+      "business_model": "Founder Case",
+      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
+      "monetization": "To be extracted from the linked source.",
+      "team_size_signal": "team size not explicit",
+      "distribution_channel": "CB Insights",
+      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
+      "yuanli_mapping": [
+        "yuanli_startup",
+        "ftf_trust"
+      ],
+      "score": 52
+    },
+    {
+      "case_id": "opc_case_a8f2ec494cc5",
+      "company": "CEO Interview",
+      "founder": "",
+      "source_refs": [
+        "biz_222aa2cbaed7"
+      ],
+      "url": "https://www.cbinsights.com/research/ceo-interview-shepherd-space-systems/",
+      "title": "CEO Interview: Shepherd Space Systems",
+      "business_model": "Founder Case",
+      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
+      "monetization": "To be extracted from the linked source.",
+      "team_size_signal": "team size not explicit",
+      "distribution_channel": "CB Insights",
+      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
+      "yuanli_mapping": [
+        "yuanli_startup",
+        "yuanli_os",
+        "ftf_trust"
+      ],
+      "score": 52
+    },
+    {
+      "case_id": "opc_case_973c91e74dc5",
+      "company": "CEO Interview",
+      "founder": "",
+      "source_refs": [
+        "biz_48c29a00e837"
+      ],
+      "url": "https://www.cbinsights.com/research/ceo-interview-withcoverage-2/",
+      "title": "CEO Interview: WithCoverage",
+      "business_model": "Founder Case",
+      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
+      "monetization": "To be extracted from the linked source.",
+      "team_size_signal": "team size not explicit",
+      "distribution_channel": "CB Insights",
+      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
+      "yuanli_mapping": [
+        "yuanli_startup",
+        "ftf_trust"
+      ],
+      "score": 50
+    },
+    {
+      "case_id": "opc_case_47c975be5cbc",
+      "company": "Executive Interview",
+      "founder": "",
+      "source_refs": [
+        "biz_ec5b01ad35cf"
+      ],
+      "url": "https://www.cbinsights.com/research/executive-interview-anomaly/",
+      "title": "Executive Interview: Anomaly",
+      "business_model": "Founder Case",
+      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
+      "monetization": "To be extracted from the linked source.",
+      "team_size_signal": "team size not explicit",
+      "distribution_channel": "CB Insights",
+      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
+      "yuanli_mapping": [
+        "yuanli_startup",
+        "ftf_trust"
+      ],
+      "score": 50
+    },
+    {
+      "case_id": "opc_case_7a9c19b537a2",
+      "company": "CEO Interview",
+      "founder": "",
+      "source_refs": [
+        "biz_10ca1390902f"
+      ],
+      "url": "https://www.cbinsights.com/research/ceo-interview-doortana/",
+      "title": "CEO Interview: Doortana",
+      "business_model": "Founder Case",
+      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
+      "monetization": "To be extracted from the linked source.",
+      "team_size_signal": "team size not explicit",
+      "distribution_channel": "CB Insights",
+      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
+      "yuanli_mapping": [
+        "yuanli_startup",
+        "ftf_trust"
+      ],
+      "score": 50
+    },
     {
       "case_id": "opc_case_d67ff24468d7",
       "company": "Can",
@@ -20,6 +148,27 @@
         "yuanli_os"
       ],
       "score": 36
+    },
+    {
+      "case_id": "opc_case_f33614e1c78f",
+      "company": "Why Texas Is",
+      "founder": "",
+      "source_refs": [
+        "biz_714517d10882"
+      ],
+      "url": "https://a16z.com/why-texas-is-making-data-centers-wait/",
+      "title": "Why Texas Is Making Data Centers Wait | Andreessen Horowitz",
+      "business_model": "Founder Case",
+      "ai_leverage": "AI leverage inferred from source/title tags; verify in full article before using as a public claim.",
+      "monetization": "To be extracted from the linked source.",
+      "team_size_signal": "team size not explicit",
+      "distribution_channel": "a16z",
+      "reusable_lesson": "Use this as a Yuanli case atom: actor, leverage, distribution, monetization, and proof.",
+      "yuanli_mapping": [
+        "yuanli_asset",
+        "ftf_trust"
+      ],
+      "score": 34
     }
   ]
 }
